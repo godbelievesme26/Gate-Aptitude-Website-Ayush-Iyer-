@@ -25,9 +25,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 | **5.2** | Timer integrity & refresh persistence testing | High | COMPLETED | Verified `CountdownTimer` wall-clock deadline anchoring, pause/flush on hidden tabs, and exact resumption across simulated browser refresh |
 | **5.3** | State persistence, corruption protection & quota defense | High | COMPLETED | Verified `Store` quota exceeded handling (read-only lock, recovery flags, raw record preservation) and cross-tab storage conflict protection |
 | **5.4** | Automated test session journey simulation | Medium | COMPLETED | Added `tests/exam-session.test.js` (8 tests) simulating complete exam journey, scoring rules (MCQ, MSQ, NAT ranges, MTA), CBT summary, and persistence |
-| **6.1** | Accessibility audit (keyboard, ARIA, focus, contrast) | Medium | NOT STARTED | Pending |
-| **6.2** | Responsive layout validation across 4 viewports | Medium | NOT STARTED | Pending |
-| **6.3** | User feedback states & network handling | Low | NOT STARTED | Pending |
+| **6.1** | Accessibility audit (keyboard, ARIA, focus, contrast) | Medium | COMPLETED | WCAG AAA color contrast validated (>13:1 text/canvas), 44px+ touch targets, skip links, ARIA landmarks, focus-visible outlines, focus traps |
+| **6.2** | Responsive layout validation across 4 viewports | Medium | COMPLETED | Validated mobile (<=380px, <=680px), tablet (<=900px), desktop (<=1150px), and large desktop (>=1600px); mobile sidebar drawer verified |
+| **6.3** | User feedback states & network handling | Low | COMPLETED | Verified dynamic online/offline indicators, polite aria-live toasts, aria-busy action indicators, and prefers-reduced-motion in CSS & JS |
 | **7.1** | Content completeness audit (`CONTENT_QUALITY_AUDIT.md`) | Medium | NOT STARTED | Pending |
 | **7.2** | Source verification coverage audit | Low | NOT STARTED | Pending |
 | **7.3** | Future branch expansion architectural recommendations | Low | NOT STARTED | Pending |
@@ -71,3 +71,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 - **Task 5.3**: Verified storage failure protection: quota exceeded triggers read-only lock preserving raw stored data without wipe, and cross-tab storage event triggers concurrency conflict lock.
 - **Task 5.4**: Added `tests/exam-session.test.js` containing 8 automated scenarios covering the complete exam session journey, scoring rules (1-mark/2-mark MCQ penalties, MSQ full credit, NAT interval ranges, MTA rulings), CBT exam summary rendering, and quota defenses.
 - **Phase 5 Verification**: 209/209 automated tests passing (8 new exam session tests), syntax check pass, all 20 AE and 16 GA datasets valid.
+
+### Phase 6: Accessibility & Responsive UX
+- **Task 6.1**: Verified keyboard accessibility across all flows (skip link, landmark navigation, focus-visible offset rings, modal focus trap and restoration, option button keyboard mappings). Tested WCAG AAA contrast ratios (>13:1 for text/canvas in both light and dark themes).
+- **Task 6.2**: Validated responsive media queries across 4 viewports: mobile (360px/380px/680px), tablet (768px/900px), desktop (1024px/1150px), and large displays (1440px/1600px). Mobile sidebar drawer toggle verified.
+- **Task 6.3**: Verified dynamic online/offline indicators, polite aria-live notifications, aria-busy states on asynchronous dialogs, and strict adherence to `prefers-reduced-motion` in CSS and JS.
+- **Phase 6 Verification**: 217/217 automated tests passing (8 new accessibility tests), syntax check pass, all 20 AE and 16 GA datasets valid.
