@@ -54,7 +54,10 @@ const rootFiles = [
   'CONTENT_QUALITY_AUDIT.md',
   'MATH_NOTATION_INVENTORY.md',
   'REMAINING_ISSUES.md',
-  'MANUAL_REVIEW_CHECKLIST.md'
+  'MANUAL_REVIEW_CHECKLIST.md',
+  'FILE_CHANGES_MANIFEST.json',
+  'INDEPENDENT_VERIFICATION_INSTRUCTIONS.md',
+  'STAGE_B_TEST_RUN.log'
 ];
 
 for (const file of rootFiles) copyFileSafe(file);
@@ -77,7 +80,9 @@ const essentialScripts = [
   'scripts/serve-forensic.mjs',
   'scripts/check.mjs',
   'scripts/validate-data.mjs',
-  'scripts/validate-ae.mjs'
+  'scripts/validate-ae.mjs',
+  'scripts/package-stage-b.mjs',
+  'scripts/generate-manifest.mjs'
 ];
 for (const s of essentialScripts) copyFileSafe(s);
 

@@ -1,0 +1,217 @@
+{
+  "manifestVersion": "1.0.0",
+  "sprint": "Stage B Autonomous Stabilization Sprint",
+  "generatedAt": "2026-10-11T08:23:27.488Z",
+  "gitBranch": "stabilization/stage-b-sprint",
+  "totalFiles": 26,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "status": "CREATED",
+      "phase": "Phase 8",
+      "sizeBytes": 805,
+      "sha256": "47debfc0cc852e59dc9107a3cc9271d324943b50ac2a44bf46d457d72a64f83f",
+      "description": "GitHub Actions CI matrix workflow testing Node 18, 20, and 22 across check, test, and validate."
+    },
+    {
+      "path": "CONTENT_QUALITY_AUDIT.md",
+      "status": "CREATED",
+      "phase": "Phase 7",
+      "sizeBytes": 7760,
+      "sha256": "c24f84f495d47ef1f1c3e0ab5b9cc1435db39ce2e422e90e4ec9c74c29d4e4cc",
+      "description": "Comprehensive content quality audit of 1,475 questions across 20 AE papers and 16 GA sets."
+    },
+    {
+      "path": "MANUAL_REVIEW_CHECKLIST.md",
+      "status": "CREATED",
+      "phase": "Phase 9",
+      "sizeBytes": 4701,
+      "sha256": "9866c2ab02c7acad0ce463b1812bf212f4324aebed994d988f7c236936d7819f",
+      "description": "Systematic manual QA review checklist spanning 6 domains and 24 concrete audit items."
+    },
+    {
+      "path": "MATH_NOTATION_INVENTORY.md",
+      "status": "CREATED",
+      "phase": "Phase 4",
+      "sizeBytes": 5549,
+      "sha256": "29f24a3ad2de24765f18a9b8149191165d2592668f76774f5245e9862abbf89b",
+      "description": "Inventory of mathematical notations, symbols, Greek characters, and zero-CDN rendering."
+    },
+    {
+      "path": "REMAINING_ISSUES.md",
+      "status": "CREATED",
+      "phase": "Phase 9",
+      "sizeBytes": 4425,
+      "sha256": "c6464061c321c85084174e8c19107887fc1e328c304487990801b9033a306ceb",
+      "description": "Prioritized issue log categorized into P0 (0), P1 (2), P2 (4), and P3 (3) with risk analysis."
+    },
+    {
+      "path": "STABILIZATION_SPRINT_TRACKER.md",
+      "status": "CREATED",
+      "phase": "Phases 1-10",
+      "sizeBytes": 15308,
+      "sha256": "884e8f80308167244259d18660ded2dd88156c6dca9c76b35f1999b103752e7f",
+      "description": "Living progress tracker recording implementation status and verification across all 10 phases."
+    },
+    {
+      "path": "STAGE_B_STABILIZATION_REPORT.md",
+      "status": "CREATED",
+      "phase": "Phase 9",
+      "sizeBytes": 21247,
+      "sha256": "163847c26d42e170265ac0a00e2a9f95d66419cb04ea80680f5d215f756c84cf",
+      "description": "Comprehensive 15-section technical report detailing architectural, security, and quality upgrades."
+    },
+    {
+      "path": "INDEPENDENT_VERIFICATION_INSTRUCTIONS.md",
+      "status": "CREATED",
+      "phase": "Phase 10",
+      "sizeBytes": 3820,
+      "sha256": "b99970517124563ff1e64f6ea072689900fea11d27f98f8c19aeff9734bfae05",
+      "description": "Step-by-step external auditor guide for independent verification and test execution."
+    },
+    {
+      "path": "STAGE_B_TEST_RUN.log",
+      "status": "CREATED",
+      "phase": "Phase 10",
+      "sizeBytes": 23621,
+      "sha256": "65a72fdaa0a34bd0a0c86d61face29e7c3bdcf78f2b1b12a3da5f5de56edf4ae",
+      "description": "Complete automated test execution log validating all 217 tests across 10 test suites."
+    },
+    {
+      "path": "css/quiz.css",
+      "status": "MODIFIED",
+      "phase": "Phases 4, 6",
+      "sizeBytes": 18774,
+      "sha256": "32b76c539722bcc6870daa02c23b2b1211fcdce6c2a236a49ab7a92f82db0fe6",
+      "description": "Added math notation styling (roots, vectors, matrices) and WCAG AAA focus-visible indicators."
+    },
+    {
+      "path": "index.html",
+      "status": "MODIFIED",
+      "phase": "Phase 2",
+      "sizeBytes": 1140,
+      "sha256": "d9501587939c92ef60d358c108f287b8b875bfe5b81e67d459c186149809c883",
+      "description": "Removed conflicting inline Service Worker unregistration script to restore PWA offline reliability."
+    },
+    {
+      "path": "js/home.js",
+      "status": "MODIFIED",
+      "phase": "Phase 3",
+      "sizeBytes": 8678,
+      "sha256": "a89cce6d4f726a3a76c45de82cef14540fbc64fa731d6f8ca2b071b134499a8f",
+      "description": "Updated dynamic year range display and paper count calculation on the landing page."
+    },
+    {
+      "path": "js/question-content.js",
+      "status": "MODIFIED",
+      "phase": "Phase 4",
+      "sizeBytes": 11518,
+      "sha256": "8aad5f195679595b14fb02dbf96f6076c4357f7e2e14ca2a6c6f195ae4f1c961",
+      "description": "Implemented robust tokenizer for zero-CDN math notation rendering."
+    },
+    {
+      "path": "js/views.js",
+      "status": "MODIFIED",
+      "phase": "Phase 3",
+      "sizeBytes": 68096,
+      "sha256": "1f97d6439cdbfaad8fb899eebf3fd1b7b751d68b33f20d451e4788dfe7b565f7",
+      "description": "Replaced hardcoded [2026, 2025] year filter with dynamic extraction across all 20 historical AE years."
+    },
+    {
+      "path": "scripts/package-stage-b.mjs",
+      "status": "CREATED",
+      "phase": "Phase 10",
+      "sizeBytes": 4017,
+      "sha256": "78aa16ed169c4d51c451b1efed9313d994878d999b6dee3baf07e9b6351abf38",
+      "description": "Packaging script creating self-contained, offline-runnable verification archive."
+    },
+    {
+      "path": "scripts/generate-manifest.mjs",
+      "status": "CREATED",
+      "phase": "Phase 10",
+      "sizeBytes": 5814,
+      "sha256": "31ac006cb541be8ac132d7022883d4a628423309a487eeed81f39079a409b622",
+      "description": "Manifest generation script calculating cryptographic hashes and file metrics."
+    },
+    {
+      "path": "scripts/serve-forensic.mjs",
+      "status": "MODIFIED",
+      "phase": "Phase 1",
+      "sizeBytes": 9776,
+      "sha256": "5d8595ae92aac77eb0f5a1a971d3a5767009c16321fea3925c2145bb2f8fab71",
+      "description": "Isolated internal forensic review workstation server handling audit trail mutations."
+    },
+    {
+      "path": "scripts/serve.mjs",
+      "status": "MODIFIED",
+      "phase": "Phase 1",
+      "sizeBytes": 5241,
+      "sha256": "d4e59499f27821e218344d130e6d4bf3600d1428fc2ede86dd5056e0dd632253",
+      "description": "Secured public server with strict path traversal validation and read-only verification endpoints."
+    },
+    {
+      "path": "sw.js",
+      "status": "MODIFIED",
+      "phase": "Phase 2",
+      "sizeBytes": 2947,
+      "sha256": "0d3cd1cf2a4f7e3fcc41efc13838ad189f985e6afb7980e3934c0dc5f900de75",
+      "description": "Precached verification metadata and strengthened cache-first offline asset delivery."
+    },
+    {
+      "path": "tests/accessibility.test.js",
+      "status": "CREATED",
+      "phase": "Phase 6",
+      "sizeBytes": 9493,
+      "sha256": "2827c0f7c29201694b5e19c50b1b0d4b1b55ca8227362a3bf2ccbfe42c57c867",
+      "description": "Automated test suite verifying WCAG AAA color contrast, touch target dimensions, and ARIA landmarks."
+    },
+    {
+      "path": "tests/dynamic-years.test.js",
+      "status": "CREATED",
+      "phase": "Phase 3",
+      "sizeBytes": 2594,
+      "sha256": "a06f45aba695df7253aee87d6051e09429eb6f31dbedb347eddb99166f08cedf",
+      "description": "Automated test suite validating dynamic year extraction and rendering."
+    },
+    {
+      "path": "tests/exam-session.test.js",
+      "status": "CREATED",
+      "phase": "Phase 5",
+      "sizeBytes": 18653,
+      "sha256": "7f0118b2bacd2c680d3177a5b61dab93d754bed806ff496be5b7b2303fc7a460",
+      "description": "Automated test suite verifying exam session state lifecycle and timer persistence."
+    },
+    {
+      "path": "tests/notation.test.js",
+      "status": "CREATED",
+      "phase": "Phase 4",
+      "sizeBytes": 4019,
+      "sha256": "8c48e10307b0bb5daa1d3c9b666831a25b2066b5102b96eb2f226f48b208ffb4",
+      "description": "Automated test suite verifying zero-CDN math tokenization and typography."
+    },
+    {
+      "path": "tests/offline.test.js",
+      "status": "CREATED",
+      "phase": "Phase 2",
+      "sizeBytes": 4612,
+      "sha256": "ebbe3972106fbb9cf06646cf9fdf5102ed5b9787dcf6339ff58a7c71fbe4d036",
+      "description": "Automated test suite verifying Service Worker precache manifest and offline routing."
+    },
+    {
+      "path": "tests/stage-a-regression.test.js",
+      "status": "MODIFIED",
+      "phase": "Phase 1",
+      "sizeBytes": 21726,
+      "sha256": "3cf8cc7b006741530312eb2e57c5a9891345599dcd13a1e57063910694f699b0",
+      "description": "Updated regression tests for hardened path traversal validation and isolated API endpoints."
+    },
+    {
+      "path": "tests/verification.test.js",
+      "status": "MODIFIED",
+      "phase": "Phase 1",
+      "sizeBytes": 9954,
+      "sha256": "ce44ce7f66df2ffe56ea4bd94ed4f221a9a1ecca75f56aacb88c789ced7039df",
+      "description": "Updated verification test assertions for read-only public API enforcement."
+    }
+  ]
+}
