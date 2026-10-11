@@ -153,4 +153,11 @@ dialog:has(.source-reader){max-width:1040px}
 .math-fraction>span:last-child{padding:.1em .15em 0}
 .math-matrix{display:inline-grid;grid-template-columns:repeat(var(--matrix-columns),auto);gap:.15em .6em;border-inline:1px solid currentColor;padding:.15em .35em;vertical-align:middle;text-align:center}
 .content-math{display:block;margin-block:var(--space-4);line-height:1.8;overflow-wrap:anywhere}
+.math-sqrt{display:inline-flex;align-items:baseline;vertical-align:middle;margin-inline:.1em}
+.math-sqrt-radical{font-size:1.15em;line-height:1;margin-right:.04em}
+.math-sqrt-body{border-top:1px solid currentColor;padding:0 .12em;display:inline-block}
+.math-text{font-style:normal;font-family:inherit}
+.math-fn{font-style:normal;margin-right:.2em}
+.math-vec,.math-hat,.math-bar,.math-dot{display:inline-block;line-height:1}
 .question-group{margin-bottom:var(--space-5);padding-bottom:var(--space-4);border-bottom:1px solid var(--color-border)}
+

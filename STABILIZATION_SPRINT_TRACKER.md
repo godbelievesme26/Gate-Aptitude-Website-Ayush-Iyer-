@@ -18,9 +18,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 | **3.1** | Dynamic practice year selector for all 20 AE years in `views.js` | High | COMPLETED | Dynamically extracts all archive years (`a.questions`) in `bank()` and `practice()`; eliminates hardcoded `[2026, 2025]` |
 | **3.2** | Dynamic analytics year selection across historical papers | Medium | COMPLETED | Dynamically computes `Coverage by year` across all historical papers; updated home screen footer year span |
 | **3.3** | Regression tests for dynamic year selection | High | COMPLETED | Added `tests/dynamic-years.test.js` (4 tests) covering dynamic dropdowns, blueprint builder, historical coverage, and home span |
-| **4.1** | Mathematical syntax audit across datasets (`MATH_NOTATION_INVENTORY.md`) | High | NOT STARTED | Pending |
-| **4.2** | Mathematical rendering upgrade & hardening (zero CDN risk) | High | NOT STARTED | Pending |
-| **4.3** | Mathematical rendering tests across real exam expressions | High | NOT STARTED | Pending |
+| **4.1** | Mathematical syntax audit across datasets (`MATH_NOTATION_INVENTORY.md`) | High | COMPLETED | Complete audit of all 1,475 questions across 20 AE papers and 16 GA sets compiled in `MATH_NOTATION_INVENTORY.md` |
+| **4.2** | Mathematical rendering upgrade & hardening (zero CDN risk) | High | COMPLETED | Upgraded `notation()` with complete Greek alphabet, radicals (`\sqrt`), vectors (`\vec`, `\hat`), accents, operators, functions, and CSS in `css/quiz.css`; zero CDN risk |
+| **4.3** | Mathematical rendering tests across real exam expressions | High | COMPLETED | Added `tests/notation.test.js` (9 tests) covering fractions, square roots, Greek letters, vectors, degree symbols, XSS safety, and genuine GATE AE/GA expressions |
 | **5.1** | Full exam session lifecycle audit (start to finish trace) | High | NOT STARTED | Pending |
 | **5.2** | Timer integrity & refresh persistence testing | High | NOT STARTED | Pending |
 | **5.3** | State persistence, corruption protection & quota defense | High | NOT STARTED | Pending |
@@ -58,6 +58,13 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 - **Task 3.2**: Replaced static year loop in `analytics()` with dynamic historical coverage across all 20 years. Updated `js/home.js` footer to compute exact archive year span dynamically.
 - **Task 3.3**: Created `tests/dynamic-years.test.js` with 4 automated tests verifying dynamic population of bank filters, session builder options, analytics coverage rows, and home summary span.
 - **Phase 3 Verification**: 192/192 automated tests passing (4 new dynamic year tests), syntax check pass, all datasets valid.
+
+### Phase 4: Mathematical Notation Reliability
+- **Task 4.1**: Conducted full automated audit across all 1,475 questions (1,315 AE + 160 GA), cataloging 708 fractions, 637 text blocks, 140 square roots, 600+ Greek symbols, 232 vectors/hats, 165 functions, and 128 operators into `MATH_NOTATION_INVENTORY.md`.
+- **Task 4.2**: Upgraded `js/question-content.js`: `notation()` with zero-CDN client-side AST tokenizer and Unicode math mapping. Added CSS in `css/quiz.css` for `.math-sqrt`, `.math-fn`, `.math-text`, `.math-vec`.
+- **Task 4.3**: Created `tests/notation.test.js` with 9 automated tests asserting fractions, square roots, Greek letters, vectors, degree symbols, XSS safety, and genuine GATE AE expressions.
+- **Phase 4 Verification**: 201/201 automated tests passing (9 new notation tests), syntax check pass, all datasets valid.
+
 
 
 

@@ -3,29 +3,158 @@ import {assetPath} from './corpus.js';
 
 // A deliberately small notation grammar for source-reviewed exponents/subscripts.
 // Text is always escaped; this is not an HTML or general Markdown interpreter.
+const SYMBOLS = {
+  '\\alpha': 'α', '\\beta': 'β', '\\gamma': 'γ', '\\delta': 'δ',
+  '\\epsilon': 'ε', '\\varepsilon': 'ε', '\\zeta': 'ζ', '\\eta': 'η',
+  '\\theta': 'θ', '\\vartheta': 'θ', '\\iota': 'ι', '\\kappa': 'κ',
+  '\\lambda': 'λ', '\\mu': 'μ', '\\nu': 'ν', '\\xi': 'ξ',
+  '\\pi': 'π', '\\varpi': 'ϖ', '\\rho': 'ρ', '\\varrho': 'ϱ',
+  '\\sigma': 'σ', '\\varsigma': 'σ', '\\tau': 'τ', '\\upsilon': 'υ',
+  '\\phi': 'φ', '\\varphi': 'ϕ', '\\chi': 'χ', '\\psi': 'ψ', '\\omega': 'ω',
+  '\\Gamma': 'Γ', '\\Delta': 'Δ', '\\Theta': 'Θ', '\\Lambda': 'Λ',
+  '\\Xi': 'Ξ', '\\Pi': 'Π', '\\Sigma': 'Σ', '\\Upsilon': 'Υ',
+  '\\Phi': 'Φ', '\\Psi': 'Ψ', '\\Omega': 'Ω',
+  '\\times': '×', '\\cdot': '·', '\\pm': '±', '\\mp': '∓', '\\div': '÷',
+  '\\approx': '≈', '\\neq': '≠', '\\ne': '≠',
+  '\\leq': '≤', '\\le': '≤', '\\geq': '≥', '\\ge': '≥',
+  '\\ll': '≪', '\\gg': '≫', '\\propto': '∝',
+  '\\partial': '∂', '\\nabla': '∇',
+  '\\infty': '∞', '\\circ': '°',
+  '\\int': '∫', '\\iint': '∬', '\\oint': '∮', '\\sum': '∑', '\\prod': '∏',
+  '\\to': '→', '\\rightarrow': '→', '\\longrightarrow': '⟶',
+  '\\leftarrow': '←', '\\longleftarrow': '⟵', '\\leftrightarrow': '↔',
+  '\\dots': '…', '\\cdots': '…', '\\quad': '  ', '\\qquad': '    ',
+  '\\imath': 'i', '\\jmath': 'j',
+  '\\oplus': '⊕', '\\odot': '⊙',
+  '\\{': '{', '\\}': '}', '\\%': '%'
+};
+
+const MATH_FUNCTIONS = new Set([
+  'sin', 'cos', 'tan', 'ln', 'log', 'exp', 'det', 'lim', 'max', 'min',
+  'sinh', 'cosh', 'tanh', 'arcsin', 'arccos', 'arctan', 'sec', 'csc', 'cot'
+]);
+
 export function notation(value){
- const input=String(value??'');
+ let input=String(value??'').replace(/\$\$(.*?)\$\$/gs, '$1');
  function part(start,inside=false){
   let html='',plain='';
   const flush=()=>{html+=esc(plain);plain='';};
   for(let i=start;i<input.length;i++){
    if(inside&&input[i]==='}'){flush();return {html,end:i,closed:true};}
+
+   // Degrees symbol ^\circ
+   if(input.startsWith('^\\circ',i)){
+    flush();html+='°';i+=5;continue;
+   }
+
+   // Fraction \frac{num}{den}
    if(input.startsWith('\\frac{',i)){
     const numerator=part(i+6,true),denominator=input[numerator.end+1]==='{'?part(numerator.end+2,true):null;
     if(numerator.closed&&denominator?.closed){flush();html+=`<span class="math-fraction"><span>${numerator.html}</span><span>${denominator.html}</span></span>`;i=denominator.end;continue;}
    }
+
+   // Square root \sqrt{content}
+   if(input.startsWith('\\sqrt{',i)){
+    const child=part(i+6,true);
+    if(child.closed){flush();html+=`<span class="math-sqrt"><span class="math-sqrt-radical">√</span><span class="math-sqrt-body">${child.html}</span></span>`;i=child.end;continue;}
+   }
+
+   // Matrix \matrix{...}
    if(input.startsWith('\\matrix{',i)){
     const end=input.indexOf('}',i+8);
-    if(end!==-1){const rows=input.slice(i+8,end).split(';').map(row=>row.split('&'));if(rows.length&&rows.every(row=>row.length===rows[0].length)){flush();html+=`<span class="math-matrix" role="math" aria-label="${esc(rows.map(row=>row.join(', ')).join('; '))}" style="--matrix-columns:${rows[0].length}">${rows.flatMap(row=>row.map(cell=>`<span>${esc(cell.trim())}</span>`)).join('')}</span>`;i=end;continue;}}
+    if(end!==-1){const rows=input.slice(i+8,end).split(';').map(row=>row.split('&'));if(rows.length&&rows.every(row=>row.length===rows[0].length)){flush();html+=`<span class="math-matrix" role="math" aria-label="${esc(rows.map(row=>row.join(', ')).join('; '))}" style="--matrix-columns:${rows[0].length}">${rows.flatMap(row=>row.map(cell=>`<span>${notation(cell.trim())}</span>`)).join('')}</span>`;i=end;continue;}}
    }
+
+   // Overline \overline{...}
    if(input.startsWith('\\overline{',i)){
     const child=part(i+10,true);
     if(child.closed){flush();html+=`<span class="math-overline">${child.html}</span>`;i=child.end;continue;}
    }
+
+   // Text labels \text{...}
+   if(input.startsWith('\\text{',i)){
+    const child=part(i+6,true);
+    if(child.closed){flush();html+=`<span class="math-text">${child.html}</span>`;i=child.end;continue;}
+   }
+
+   // Bold text \textbf{...}
+   if(input.startsWith('\\textbf{',i)){
+    const child=part(i+8,true);
+    if(child.closed){flush();html+=`<strong>${child.html}</strong>`;i=child.end;continue;}
+   }
+
+   // Vectors \vec{...}
+   if(input.startsWith('\\vec{',i)){
+    const child=part(i+5,true);
+    if(child.closed){flush();html+=`<span class="math-vec">${child.html}⃗</span>`;i=child.end;continue;}
+   }
+
+   // Unit vectors / hats \hat{...}
+   if(input.startsWith('\\hat{',i)){
+    const child=part(i+5,true);
+    if(child.closed){
+     flush();
+     if(child.html==='i'||child.html==='\\imath')html+='î';
+     else if(child.html==='j'||child.html==='\\jmath')html+='ĵ';
+     else if(child.html==='k')html+='k̂';
+     else html+=`<span class="math-hat">${child.html}̂</span>`;
+     i=child.end;continue;
+    }
+   }
+
+   // Accents \bar{...} and \dot{...}
+   if(input.startsWith('\\bar{',i)){
+    const child=part(i+5,true);
+    if(child.closed){flush();html+=`<span class="math-bar">${child.html}̄</span>`;i=child.end;continue;}
+   }
+   if(input.startsWith('\\dot{',i)){
+    const child=part(i+5,true);
+    if(child.closed){flush();html+=`<span class="math-dot">${child.html}̇</span>`;i=child.end;continue;}
+   }
+
+   // Delimiter sizing commands \left and \right
+   if(input.startsWith('\\left',i)){
+    const after=input.slice(i+5);
+    if(after.startsWith('.')||after.startsWith('(')||after.startsWith('[')||after.startsWith('|')){
+     flush();if(after[0]!=='.')plain+=after[0];i+=5;continue;
+    }
+   }
+   if(input.startsWith('\\right',i)){
+    const after=input.slice(i+6);
+    if(after.startsWith('.')||after.startsWith(')')||after.startsWith(']')||after.startsWith('|')){
+     flush();if(after[0]!=='.')plain+=after[0];i+=6;continue;
+    }
+   }
+
+   // Braced Exponents and Subscripts ^{...} and _{...}
    if((input[i]==='^'||input[i]==='_')&&input[i+1]==='{'){
     const child=part(i+2,true);
     if(child.closed){flush();const tag=input[i]==='^'?'sup':'sub';html+=`<${tag}>${child.html}</${tag}>`;i=child.end;continue;}
    }
+
+   // Single-character Exponents and Subscripts
+   if(input[i]==='^'||input[i]==='_'){
+    const m=input.slice(i+1).match(/^([+-]?[0-9a-zA-Z])/);
+    if(m){
+     flush();const tag=input[i]==='^'?'sup':'sub';html+=`<${tag}>${esc(m[1])}</${tag}>`;i+=m[1].length;continue;
+    }
+   }
+
+   // TeX Symbols and functions
+   if(input[i]==='\\'){
+    if(input[i+1]===','||input[i+1]===';'||input[i+1]===':'){flush();plain+=' ';i+=1;continue;}
+    if(input[i+1]==='!'){i+=1;continue;}
+    const cmdMatch=input.slice(i).match(/^(\\[a-zA-Z]+|\\[}{%])/);
+    if(cmdMatch){
+     const cmd=cmdMatch[1],name=cmd.slice(1);
+     if(SYMBOLS[cmd]){flush();plain+=SYMBOLS[cmd];i+=cmd.length-1;continue;}
+     if(MATH_FUNCTIONS.has(name)){flush();html+=`<span class="math-fn">${esc(name)}</span>`;i+=cmd.length-1;continue;}
+    }
+   }
+
+   // Inline math dollar sign delimiter
+   if(input[i]==='$')continue;
+
    plain+=input[i];
   }
   flush();return {html,end:input.length,closed:false};
