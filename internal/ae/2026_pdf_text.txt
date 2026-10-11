@@ -1,0 +1,1218 @@
+Aerospace Engineering (AE) 
+General Aptitude (GA)
+Q.1 – Q.5 Carry ONE mark Each 
+Q.1 
+“He often _____ the numbers. False claims are not going to help. Honesty _____ 
+trust”, said the manager.  
+Choose the option with the correct order of words to fill the blanks. 
+ 
+ 
+(A) 
+exaggerates; engenders 
+(B) 
+excels; encourages 
+(C) 
+aggravates; alleviates 
+(D) 
+diminishes; eliminates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 1 of 39
+Aerospace Engineering (AE) 
+Q.2 
+In the sequence of tiles shown below, the missing tile indicated by the question 
+mark should be 
+ 
+ 
+ 
+(A) 
+  
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 2 of 39
+Aerospace Engineering (AE) 
+ 
+Q.3 
+A school has 100 students distributed among 1st to 10th standards.  
+Based on this, which one of the following statements is always correct? 
+ 
+ 
+(A) 
+There are at least 10 students who belong to the same standard. 
+(B) 
+There is at least one student in each standard. 
+(C) 
+There are at most 10 students in 10th standard. 
+(D) 
+The total number of students from 1st to 5th standards is at least 50. 
+ 
+ 
+Q.4 
+How many 3-digit numbers can be formed using three distinct single digit prime 
+numbers? 
+ 
+ 
+(A) 
+64 
+(B) 
+24 
+(C) 
+12 
+(D) 
+4 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 3 of 39
+Aerospace Engineering (AE) 
+Q.5 
+In a group of students, 10 students like Mathematics, 12 students like English,  
+4 students like both Mathematics and English, and 6 students like neither 
+Mathematics nor English. The number of students in the group is ____ 
+ 
+ 
+(A) 
+18 
+(B) 
+20 
+(C) 
+24 
+(D) 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 4 of 39
+Aerospace Engineering (AE) 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 
+Charity : P :: Retaliation : Q 
+Choose the appropriate pair of words P and Q that fit the analogy. 
+ 
+ 
+(A) 
+P = Parsimonious; Q = Vengeful 
+(B) 
+P = Altruistic; Q = Amicable 
+(C) 
+P = Resentful; Q = Spiteful 
+(D) 
+P = Magnanimous; Q = Vindictive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 5 of 39
+Aerospace Engineering (AE) 
+Q.7 
+A paper shown in Panel I is folded along the dashed lines (- - -) to construct a 
+cube. The shaded regions shown in Panel I appear on the outer surface of the cube. 
+Referring to cubes shown in Panel II, which one of the options is correct?  
+ 
+ 
+ 
+(A) 
+Only (i) can correspond to the unfolded cube in Panel I. 
+(B) 
+Only (ii) can correspond to the unfolded cube in Panel I. 
+(C) 
+Both (i) and (ii) can correspond to the unfolded cube in Panel I. 
+(D) 
+Neither (i) nor (ii) can correspond to the unfolded cube in Panel I. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 6 of 39
+Aerospace Engineering (AE) 
+Q.8 
+Consider the cube shown below with its 8 corners labelled a, b, c, d, e, f, g,  
+and h. The figure is representative. All corners are to be colored such that any two 
+corners that are connected by an edge must be of different colors. The minimum 
+number of colors required to achieve this is ________ 
+ 
+ 
+ 
+(A) 
+8 
+(B) 
+4 
+(C) 
+3 
+(D) 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 7 of 39
+Aerospace Engineering (AE) 
+Q.9 
+Four hills H1, H2, H3, and H4 are present in an area. The following observations 
+are made about them: 
+i. 
+Neither H2 nor H3 is the easternmost hill. 
+ii. 
+Neither H2 nor H3 is the westernmost hill. 
+iii. 
+Neither the easternmost hill nor the westernmost hill is the southernmost 
+hill. 
+iv. 
+Two hills are located to the west of H2. 
+v. 
+The southernmost hill has at least two hills to its east. 
+ 
+The southernmost hill is ________. 
+ 
+ 
+(A) 
+H1 
+(B) 
+H2 
+(C) 
+H3 
+(D) 
+H4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 8 of 39
+Aerospace Engineering (AE) 
+Q.10 
+As shown in the figure, circle 𝐶1 with center 𝑂1 and radius 𝑟1 touches the square 
+𝑉𝑊𝑋𝑌 at points 𝑃 and 𝑄 while circle 𝐶2 with center 𝑂2 and radius 𝑟2 touches the 
+square 𝑉𝑊𝑋𝑌 at points 𝑅 and 𝑆. The two circles touch each other at 𝑇.  
+Given 𝑟1 = 1 cm and 𝑉𝑌̅̅̅̅ = 𝑉𝑊̅̅̅̅̅ =  4 cm,  𝑟2 = _____ cm. 
+ 
+ 
+ 
+(A) 
+4 −3√2 
+(B) 
+1 + 2√2 
+(C) 
+7 −4√2 
+(D) 
+5 + 3√2  
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 9 of 39
+Aerospace Engineering (AE) 
+ 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 
+Consider the contour 𝐶 shown in the figure below. For the vector                       
+𝐹⃗= (𝑥+ 2𝑦)𝑒̂𝑥+ (2𝑥+ 4𝑦)𝑒̂𝑦, the integral ∮𝐹⃗⋅𝑑𝑙⃗
+𝐶
+=________. 
+Here 𝑑𝑙⃗ represents an infinitesimal length along the contour 𝐶. 
+ 
+ 
+ 
+(A) 
+0 
+(B) 
+2 
+(C) 
+4 
+(D) 
+6 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 10 of 39
+Aerospace Engineering (AE) 
+ 
+Q.12 
+The Fourier series representation of a square wave is shown in the figure below. 
+The fluctuations seen near x = ±1 are named after which one of the following 
+scientists? 
+ 
+ 
+ 
+(A) 
+Cauchy 
+(B) 
+Fourier 
+(C) 
+Gibbs 
+(D) 
+Laplace 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 11 of 39
+Aerospace Engineering (AE) 
+ 
+Q.13 
+The following equation with respect to 𝜑(𝑥, 𝑡), where 𝑎 is a non-zero constant, 
+represents ________. 
+𝜕𝜑
+𝜕𝑡+ 𝑎𝜕𝜑
+𝜕𝑥= 0 
+ 
+ 
+(A) 
+linear wave propagation 
+(B) 
+transient heat conduction 
+(C) 
+Newton’s law of cooling 
+(D) 
+radiative transfer 
+ 
+ 
+Q.14 
+Which one of the following makes an ideal air-standard Stirling cycle? 
+ 
+ 
+(A) 
+Two reversible isobars, and two reversible adiabatics 
+(B) 
+Two reversible isotherms, and two reversible isobars 
+(C) 
+Two reversible isotherms, and two reversible isochores 
+(D) 
+Isentropic compression, constant volume heat addition, isentropic expansion, and 
+constant volume heat rejection  
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 12 of 39
+Aerospace Engineering (AE) 
+ 
+Q.15 
+In fluid dynamics, d’Alembert’s paradox refers to which one of the following? 
+ 
+ 
+(A) 
+Deviation of drag from 𝐷∝𝑣2 at very low speeds 
+(B) 
+Deviation of drag from 𝐷∝𝑣2 at high subsonic speeds 
+(C) 
+Prediction of zero drag by potential flow theory 
+(D) 
+Presence of shocks in transonic flows 
+ 
+ 
+Q.16 
+The number of independent elastic constants that a fully anisotropic linear elastic 
+material can have is ______. 
+ 
+ 
+(A) 
+36 
+(B) 
+21 
+(C) 
+10 
+(D) 
+2 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 13 of 39
+Aerospace Engineering (AE) 
+ 
+Q.17 
+A cantilever beam with an unsymmetric cross-section is subjected to a transverse 
+shear force (P) at its free end. P acts at the shear center of the beam cross-section.  
+Which one of the following statements is TRUE about the deformation of this 
+beam? 
+ 
+ 
+(A) 
+The beam undergoes only torsion  
+(B) 
+The beam undergoes only bending 
+(C) 
+The beam undergoes both torsion and bending 
+(D) 
+The beam undergoes neither torsion nor bending 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 14 of 39
+Aerospace Engineering (AE) 
+ 
+Q.18 
+The figure below depicts two ideal gas turbine cycles, cycle 1-2-3-4-1 and cycle 
+1-2-3'-4'-1, on a T-s diagram. Which one the following statements is FALSE? 
+ 
+ 
+ 
+(A) 
+The thermal efficiency of the two cycles is the same 
+(B) 
+The specific work of the two cycles is the same 
+(C) 
+The processes 2-3 and 2-3' are isobaric 
+(D) 
+The amount of heat added in the combustion process is greater for the cycle  
+1-2-3'-4'-1 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 15 of 39
+Aerospace Engineering (AE) 
+ 
+Q.19 
+The velocity potential function (𝜑) given below represents which one of the 
+following? 
+𝜑= 5𝑥−12𝑦 
+ 
+ 
+(A) 
+Doublet 
+(B) 
+Irrotational vortex 
+(C) 
+Source 
+(D) 
+Uniform flow 
+ 
+ 
+Q.20 
+The fundamental purpose of the Kutta condition in the thin airfoil theory is 
+________. 
+ 
+ 
+(A) 
+to determine the total strength of the source distribution 
+(B) 
+to determine the speed of the uniform flow 
+(C) 
+to incorporate the essential effect of viscosity in the potential flow theory 
+(D) 
+to incorporate the concept of induced drag in the inviscid theory 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 16 of 39
+Aerospace Engineering (AE) 
+ 
+Q.21 
+In the figure shown below, the flow at the nozzle exit is ________. 
+ 
+ 
+ 
+(A) 
+overexpanded 
+(B) 
+underexpanded 
+(C) 
+ideally expanded 
+(D) 
+subsonic 
+ 
+ 
+Q.22 
+An 𝑛× 𝑛 square matrix 𝐴 satisfies 𝐴𝑇= 𝐴−1. The determinant of this matrix may 
+take which of the following value(s)? 
+ 
+ 
+(A) 
++1 
+(B) 
+−1 
+(C) 
+𝑛 
+(D) 
+0 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 17 of 39
+Aerospace Engineering (AE) 
+ 
+Q.23 
+Which of the following statements is/are TRUE about the stability of an aircraft? 
+ 
+ 
+(A) 
+Static stability of an aircraft is sufficient to guarantee its dynamic stability 
+(B) 
+Static stability of an aircraft is related only to its initial tendency to return towards 
+the equilibrium position from which it is disturbed 
+(C) 
+An aircraft may be dynamically unstable even if it is statically stable 
+(D) 
+Dynamic stability is related to the time history of aircraft motion after being 
+disturbed from its equilibrium position 
+ 
+ 
+Q.24 
+For a given air-standard power, the propulsive efficiency of a turbofan engine is 
+more than that of a turbojet engine. Which of the following is/are the reason(s) for 
+this? 
+ 
+ 
+(A) 
+The mass flow rate is more for a turbofan engine 
+(B) 
+The exit velocity is lower for a turbofan engine 
+(C) 
+A turbofan engine operates at a lower altitude 
+(D) 
+The fan of a turbofan engine consumes lesser power 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 18 of 39
+Aerospace Engineering (AE) 
+ 
+Q.25 
+Shown below are qualitative illustrations of the lift curve for an airfoil when two 
+different control surfaces are in their respective retracted and deployed 
+configurations. Which of the following is/are TRUE? 
+ 
+ 
+ 
+(A) 
+Figure P is for a flap 
+(B) 
+Figure P is for a slat 
+(C) 
+Figure Q is for a slat 
+(D) 
+Figure Q is for a flap 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 19 of 39
+Aerospace Engineering (AE) 
+ 
+Q.26 
+The state of stress at a point in a 2-D body, in the x-y Cartesian coordinate system, 
+is represented in matrix form as [σ]. The transformation matrix [Q] rotates the 
+coordinate system to a new x'-y' Cartesian coordinate system. Select the 
+CORRECT option(s) that represent(s) the state of stress in the new coordinate 
+system. 
+ 
+ 
+(A) 
+[Q] [σ] [Q]T 
+(B) 
+[Q] [σ] [Q]–1 
+(C) 
+([Q]–1)T [σ] [Q]T 
+(D) 
+[Q]–1 [σ] [Q] 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 20 of 39
+Aerospace Engineering (AE) 
+ 
+Q.27 
+The figure below shows the blading of the rotors of two different axial 
+turbomachines under their typical operating conditions, labelled as Configuration I 
+and Configuration II. Which of the following statements is/are TRUE? 
+ 
+ 
+ 
+(A) 
+Configuration I corresponds to the rotor of a compressor and Configuration II 
+corresponds to the rotor of a turbine 
+(B) 
+Configuration I corresponds to the rotor of a turbine and Configuration II 
+corresponds to the rotor of a compressor 
+(C) 
+The rotor blades of the turbomachine in Configuration I move along the +𝜃 
+direction  
+(D) 
+The rotor blades of the turbomachine in Configuration II move along the +𝜃 
+direction  
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 21 of 39
+Aerospace Engineering (AE) 
+ 
+Q.28 
+A multi-stage axial compressor can be operated at two points, A and B, both of 
+which lie on the same speed line, as shown in the figure below. If 𝜂 is the 
+isentropic efficiency of the compressor, select the statements that is/are TRUE. 
+ 
+ 
+ 
+(A) 
+𝜂𝐴> 𝜂𝐵 
+(B) 
+𝜂𝐵> 𝜂𝐴 
+(C) 
+In comparison to point B, point A is closer to the surge point 
+(D) 
+In comparison to point A, point B is closer to the choke point 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 22 of 39
+Aerospace Engineering (AE) 
+ 
+Q.29 
+Which of the following statements is/are TRUE regarding critical and drag 
+divergence Mach numbers of a wing? 
+ 
+ 
+(A) 
+Critical Mach number is the minimum freestream Mach number for which sonic 
+condition is attained somewhere over the wing 
+(B) 
+Drag divergence Mach number is always higher than the critical Mach number 
+(C) 
+Drag divergence Mach number is the local Mach number over the wing at which 
+the drag increases drastically 
+(D) 
+Critical Mach number is independent of the angle of attack 
+ 
+ 
+Q.30 
+A flow is steady, inviscid and one-dimensional, with no shaft work or body forces. 
+Which of the following is/are possible under the given conditions?  
+ 
+ 
+(A) 
+Oblique shocks 
+(B) 
+Sound propagation 
+(C) 
+Rayleigh flow 
+(D) 
+Fanno flow 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 23 of 39
+Aerospace Engineering (AE) 
+ 
+Q.31 
+An aircraft starts gliding in power-off condition at an altitude of 4 km. Given that 
+the maximum lift to drag ratio of the aircraft is 15, the maximum glide range that 
+the aircraft can cover, measured along the ground, is ________ km (rounded off to 
+the nearest integer). 
+Q.32 
+If a matrix can be written as 𝐴= 𝑢𝑣𝑇, where both 𝑢 and 𝑣 are 𝑛-dimensional real-
+valued non-zero column vectors, then the rank of the matrix 𝐴 is ________ 
+(answer in integer). 
+Q.33 
+The response 𝑥(𝑡) of a freely vibrating single degree of freedom underdamped 
+system is given below. In the equation, 𝐴 and 𝜙 are constants. The damping ratio 
+of the system is ________ (rounded off to 3 decimal places). 
+𝑥(𝑡) = 𝐴e−5𝑡sin(10𝑡 + 𝜙) 
+Q.34 
+The vortex shedding frequency behind a landing gear model is found to be 50 Hz 
+when tested in a wind tunnel operating at 5 m/s. If the actual landing gear size is 
+10 times that of the model, and it is designed to operate at 50 m/s, then the 
+expected vortex shedding frequency behind it is ________ Hz (rounded off to the 
+nearest integer). 
+Q.35 
+An elliptic wing has a span of 6 m and a planform area of 6 m2. When generating 
+a lift coefficient of 0.6, the induced drag it incurs is ________ × 10−3 (rounded 
+off to 1 decimal place). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 24 of 39
+Aerospace Engineering (AE) 
+ 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 
+An earth satellite has the instantaneous position vector 𝑟⃗ and velocity vector 𝑣⃗ as 
+given below. Here 𝑝̂ and 𝑞̂ denote the unit vectors along the 𝑥 and 𝑦 axes of the 
+perifocal frame, respectively. Assume that the value of gravitational parameter is 
+398600 km3/s2. Which one of the following trajectories does the satellite follow? 
+𝑟⃗= (8000𝑝̂ + 9000𝑞̂) km and 𝑣⃗ = (−6𝑝̂ + 6𝑞̂) km/s 
+ 
+ 
+(A) 
+Circle  
+(B) 
+Hyperbola 
+(C) 
+Parabola 
+(D) 
+Straight line 
+ 
+ 
+Q.37 
+For the matrix 𝐴= [𝑎
+𝑏
+𝑐
+𝑑], if the relation 𝑎+ 𝑏= 𝑐+ 𝑑 holds and 𝑎, 𝑏, 𝑐, 𝑑≠0, 
+then which one of the following statements about 𝐴 is FALSE? 
+ 
+ 
+(A) 
+ [1
+1] is an eigenvector  
+(B) 
+𝜆= 𝑎+ 𝑏 is an eigenvalue 
+(C) 
+𝜆= 𝑑−𝑏 is an eigenvalue 
+(D) 
+𝜆= 𝑑+ 𝑏 is an eigenvalue 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 25 of 39
+Aerospace Engineering (AE) 
+ 
+Q.38 
+In an ideal turbofan engine shown in the figure below, the compressor is driven by 
+the high pressure turbine, and the fan is driven by the low pressure turbine. The 
+stations 0, 2, 3, 4, 4.5, and 5 refer to free-stream, compressor inlet, compressor 
+outlet, combustor exit, high pressure turbine exit, and low pressure turbine exit, 
+respectively, and the subscript ‘t’ refers to the total condition. Also, 𝜏𝑟= 𝑇𝑡0 𝑇0
+⁄
+, 
+𝜏𝑐= 𝑇𝑡3 𝑇𝑡2
+⁄
+and 𝜏𝜆= 𝑇𝑡4 𝑇0.
+⁄
+ The total temperature ratio of the high pressure 
+turbine (𝑇𝑡4.5 𝑇𝑡4
+⁄
+) is given by ______. 
+ 
+ 
+ 
+(A) 
+1 − 𝜏𝑟
+𝜏𝜆
+(𝜏𝑐−1) 
+(B) 
+1 + 𝜏𝑟
+𝜏𝜆
+(𝜏𝑐+ 1) 
+(C) 
+1 − 𝜏𝑟
+𝜏𝜆
+(𝜏𝑐+ 1) 
+(D) 
+1 + 𝜏𝑟
+𝜏𝜆
+(𝜏𝑐−1) 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 26 of 39
+Aerospace Engineering (AE) 
+ 
+Q.39 
+An ideal rocket has characteristic exhaust velocity of 1200 m/s, mass flow rate of 
+75 kg/s, thrust coefficient of 1.5, and nozzle throat area of 0.025 m2. The chamber 
+pressure in kPa and the specific impulse due to gravity in seconds are ________, 
+respectively. Assume that the acceleration due to gravity is 9.8 m/s2. 
+ 
+ 
+ 
+(A) 
+3600 and 183.67 
+(B) 
+4600 and 190.51 
+(C) 
+3600 and 175.23 
+(D) 
+3500 and 183.67 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 27 of 39
+Aerospace Engineering (AE) 
+ 
+Q.40 
+Consider a unit square body as shown in the figure below. The body is subjected 
+to the deformation field u = –ay and v = ax, where ‘a’ is a constant. Due to the 
+application of this deformation field, the body undergoes _______ in the x-y plane.  
+ 
+ 
+ 
+(A) 
+biaxial deformation 
+(B) 
+pure shear 
+(C) 
+pure bending 
+(D) 
+rigid body rotation 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 28 of 39
+Aerospace Engineering (AE) 
+ 
+Q.41 
+Consider a launch vehicle of mass 10 tons being launched vertically. The vehicle 
+has 8 tons of propellant, which burns completely at a constant rate over 50 s. If the 
+engine specific impulse is 250 s, and the acceleration due to gravity at sea level is 
+𝑔0, the acceleration experienced by the vehicle at lift-off is ________. 
+ 
+ 
+(A) 
+𝑔0 
+(B) 
+2𝑔0 
+(C) 
+3𝑔0 
+(D) 
+4𝑔0 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 29 of 39
+Aerospace Engineering (AE) 
+ 
+Q.42 
+The figure below shows a compressor stage with station numbers 1, 2, and 3 as 
+indicated. If 𝑝0𝑖, 𝑇0𝑖, and 𝐶𝑖 refer to the average values of total pressure, total 
+temperature, and absolute flow speed, respectively, at the 𝑖th station, select the 
+CORRECT option considering losses. 
+ 
+ 
+ 
+(A) 
+𝑝01 < 𝑝02, 𝑝02 > 𝑝03 ;   𝑇01 < 𝑇02, 𝑇02 ≈𝑇03 ;   𝐶1 < 𝐶2, 𝐶2 > 𝐶3 
+(B) 
+𝑝01 < 𝑝02, 𝑝02 = 𝑝03 ;   𝑇01 < 𝑇02, 𝑇02 ≈𝑇03 ;   𝐶1 < 𝐶2, 𝐶2 = 𝐶3 
+(C) 
+𝑝01 < 𝑝02, 𝑝02 > 𝑝03 ;   𝑇01 < 𝑇02, 𝑇02 < 𝑇03 ;   𝐶1 > 𝐶2, 𝐶2 > 𝐶3 
+(D) 
+𝑝01 < 𝑝02, 𝑝02 < 𝑝03 ;   𝑇01 < 𝑇02, 𝑇02 < 𝑇03 ;   𝐶1 = 𝐶2 = 𝐶3 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 30 of 39
+Aerospace Engineering (AE) 
+ 
+Q.43 
+An experimental study is planned to map out the low-Reynolds number 
+incompressible steady two-dimensional aerodynamic characteristics of a 
+promising novel airfoil. The operational parameters of the problem are the speed, 
+density and viscosity of the freestream, the chord of the airfoil and its angle of 
+attack. If the objective is to achieve this with the minimum number of test runs 
+𝑁𝑚𝑖𝑛 while taking 10 equally-spaced test values of each independent parameter of 
+the problem in a suitable range, then 𝑁𝑚𝑖𝑛 is ________. 
+ 
+ 
+(A) 
+10 
+(B) 
+100 
+(C) 
+10,000 
+(D) 
+1,00,000 
+ 
+ 
+Q.44 
+Which of the following process(es) is/are involved in the compression of air in an 
+ideal ramjet engine? 
+ 
+ 
+(A) 
+oblique shock 
+(B) 
+mechanical compression 
+(C) 
+normal shock  
+(D) 
+subsonic diffusion 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 31 of 39
+Aerospace Engineering (AE) 
+ 
+Q.45 
+The deformation of an open-section bar subjected to pure torsion can be solved by 
+choosing an appropriate Prandtl stress function. Which of the following statements 
+is/are true about the Prandtl stress function? 
+ 
+ 
+(A) 
+It satisfies the equilibrium equation 
+(B) 
+It is zero on the lateral surfaces of the bar 
+(C) 
+It satisfies the compatibility equation 
+(D) 
+It does not satisfy the equilibrium equation 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 32 of 39
+Aerospace Engineering (AE) 
+ 
+Q.46 
+The figure below shows the velocity triangles at the inlet and outlet of the rotor of 
+a low hub-to-tip ratio axial compressor at the mid-span of the blade. The absolute 
+and relative velocities of the flow are denoted by C and W, respectively. The 
+subscripts 1 and 2 refer to the locations before and after the rotor, respectively. 
+The blade velocity is denoted by U. Select the CORRECT statement(s) for this 
+device. 
+ 
+ 
+ 
+(A) 
+The axial velocity is constant across the rotor 
+(B) 
+The flow coefficient is 0.6 
+(C) 
+The blade loading coefficient is 0.6 
+(D) 
+If the acoustic velocity at the rotor inlet is 350 m/s, then the inlet relative Mach 
+number is 0.333 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 33 of 39
+Aerospace Engineering (AE) 
+ 
+Q.47 
+Consider the flow over an oval modeled using the elementary potential flows as 
+shown below. 𝑈 represents uniform flow velocity and 𝛤 represents circulation 
+around an irrotational line vortex. 
+ 
+Which of the following statements is/are TRUE for this model? 
+ 
+ 
+(A) 
+Increasing 𝑈 enlarges the oval 
+(B) 
+Increasing 𝛤 enlarges the oval 
+(C) 
+Interchanging the sense of the two vortices does not alter the oval 
+(D) 
+Moving the vortices too far apart causes the oval to break up 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 34 of 39
+Aerospace Engineering (AE) 
+ 
+Q.48 
+What is/are the use(s) of the single horseshoe vortex model of finite wing 
+aerodynamic theory? 
+ 
+ 
+(A) 
+It can approximate the wing pitching moment coefficient 
+(B) 
+It can approximate the wing induced drag coefficient 
+(C) 
+It can approximate the effect of the wing on the induced drag coefficient of a 
+typical horizontal tail 
+(D) 
+It can approximate the aerodynamic benefit/penalty of formation flight compared 
+to isolated flight 
+ 
+ 
+Q.49 
+Consider the differential equation with the initial conditions given below. If 𝑦(𝑥) 
+is the solution of the equation, the value of the slope, 
+𝑑𝑦
+𝑑𝑥 , at 𝑥= ln(2) is 
+________ (rounded off to three decimal places). 
+𝑑2𝑦
+𝑑𝑥2 + 2 𝑑𝑦
+𝑑𝑥+ 𝑦= 0   with  𝑦|𝑥=0 = 0 and  𝑑𝑦
+𝑑𝑥|
+𝑥=0
+= 1 
+Q.50 
+An object of mass 1 kg is launched with an initial speed of 𝑣𝑜 into a large tank 
+filled with a viscous liquid. The liquid exerts a resistive force (drag) of the form 
+𝐷= 𝛼𝑣  on any object that is moving inside it, where 𝑣 is the instantaneous speed 
+of the object and 𝛼= 1 kg/s. If the effect of gravity is ignored, the time taken by 
+the object to slow down to the speed 𝑣𝑜/2 is ________ s (rounded off to 2 decimal 
+places). 
+Assume that the tank is sufficiently large for the above deceleration to happen 
+inside the tank. 
+Organizing Institute: IIT Guwahati
+Page 35 of 39
+Aerospace Engineering (AE) 
+ 
+Q.51 
+The minimum value of the function 𝑓(𝑥) = |𝑥| + |2𝑥+ 3| for real 𝑥 is ________ 
+(rounded off to 1 decimal place). 
+Q.52 
+Isobutane (C4H10) is burnt completely in pure oxygen as per the reaction given 
+below. Given that the standard heats of formation (in kcal/mole) of isobutane, 
+carbon dioxide, and water vapour are –31.489, –94.052, and –60.150, respectively, 
+the heat of reaction is ________ kcal (rounded off to 2 decimal places). 
+C4H10 + 6.5 O2 → 4 CO2 + 5 H2O 
+Q.53 
+A furnace of 250 MW rating is used to melt and raise the temperature of 
+aluminium from 25 oC to 900 oC. Aluminium has a solid-state specific heat, latent 
+heat, and liquid-state specific heat of 0.9 kJ/kg-K, 390 kJ/kg, and 1.108 kJ/kg-K, 
+respectively, and the furnace has 70% efficiency. The melting point of aluminium 
+is 660 oC. The amount of aluminium that can be processed per hour is      
+________ kg (rounded off to 1 decimal place).  
+Q.54 
+For an airfoil section the pitching moment coefficient is determined about a 
+reference point that is 0.3 times the chord behind the leading edge. It varies with 
+the lift coefficient as shown in the table below. The distance of the aerodynamic 
+center from the leading edge of the airfoil as a fraction of the chord is ________ 
+(rounded off to one decimal place). 
+𝑐𝑙 
+0.2 
+0.4 
+0.6 
+0.8 
+𝑐𝑚 
+– 0.02 
+0 
+0.02 
+0.04 
+ 
+Q.55 
+An earth satellite moves in an elliptical orbit with a perigee altitude of 300 km and 
+an apogee altitude of 3000 km. Assume that the radius of the earth is 6378 km. 
+The eccentricity of the orbit is __________ (rounded off to three decimal places). 
+Q.56 
+Consider a finite wing of aspect ratio 10 with span effectiveness factor 0.95. Its 
+airfoil section has a lift slope of 0.106 per degree and a zero-lift angle of attack of 
+–1.5°. The lift coefficient of the wing at an angle of attack of 3.5° is ________ 
+(rounded off to 2 decimal places). 
+ 
+Organizing Institute: IIT Guwahati
+Page 36 of 39
+Aerospace Engineering (AE) 
+ 
+Q.57 
+𝑊𝐴 and 𝑊𝐵 are the respective maximum take-off weights of an aircraft for two 
+ambient air conditions given below. 
+Condition A: 𝑝= 1 bar, 𝑇= 50 oC; Condition B: 𝑝= 0.66 bar, 𝑇= −30 oC  
+If all other parameters relevant for take-off are kept the same in these two 
+conditions, the ratio 𝑊𝐵/𝑊𝐴 is ________ (rounded off to 3 decimal places). 
+Q.58 
+A thin-walled circular tube is made of a material whose magnitude of the ultimate 
+strength, both in tension and compression, is 200 MPa. The mean radius of the 
+tube is 0.2 m and the wall thickness is 0.004 m. Based on the maximum stress 
+criteria, the maximum torque that the tube can sustain is ________ kN-m (round 
+off to the nearest integer). 
+Q.59 
+A system comprising a bar, spring and mass is shown in the figure below. The bar, 
+having negligible mass, is made of a material having Young’s modulus                 
+E = 200 GPa, cross-sectional area A = 100 mm2, and length L = 100 mm. The 
+spring stiffness k = 200 kN/mm and the mass M = 100 kg. The natural frequency 
+of free vibration of the system is ________ rad/s (rounded off to the nearest 
+integer). 
+ 
+Organizing Institute: IIT Guwahati
+Page 37 of 39
+Aerospace Engineering (AE) 
+ 
+Q.60 
+A stepped cantilever beam, made of a material having Young’s modulus               
+E = 200 GPa, is shown in the figure below. The length and the moment of inertia 
+of the beam from point A to B are L1 = 100 mm and I1 = 100 mm4, respectively.  
+The length and the moment of inertia of the beam from point B to C are L2 = 100 
+mm and I2 = 700 mm4, respectively. A shear force P = 30 N is applied at point A 
+of the beam. The magnitude of the deflection of the beam at point A is      
+________ mm (rounded off to 1 decimal place). 
+ 
+Q.61 
+A centrifugal compressor has a constant-width radial diffuser. The diameters at the 
+diffuser inlet and outlet are 0.2 m and 0.3 m, respectively. The flow at the diffuser 
+inlet and outlet is assumed to be steady and uniform. The average velocity at the 
+diffuser inlet and outlet are (60 𝐞̂𝐫+ 75 𝐞̂𝛉) m/s and (𝑢 𝐞̂𝐫+ 50 𝐞̂𝛉) m/s, 
+respectively.  If the flow through the diffuser is treated as steady and 
+incompressible, the value of 𝑢 is ________ (rounded off to the nearest integer). 
+Q.62 
+A gas mixture at a pressure of 800 kPa and a density of 5 kg/m3 enters a turbine 
+stage. The temperature of the gas at the nozzle exit and the stage exit are 790 K 
+and 750 K, respectively. Assume the specific heats are constant for the gas mixture 
+in the range of temperatures considered. The specific heat at constant pressure is       
+0.72 kJ/kg-K and the ratio of specific heats is 1.33. The value of the degree of 
+reaction of the turbine stage is ________ (rounded off to 2 decimal places). 
+Q.63 
+Thin airfoil theory predicts the zero-lift angle of attack 𝛼𝐿=0 of NACA 2412 airfoil 
+as −2.1°. The corresponding prediction of 𝛼𝐿=0 for NACA 5410 airfoil is 
+________ degrees (rounded off to 1 decimal place). 
+Organizing Institute: IIT Guwahati
+Page 38 of 39
+Aerospace Engineering (AE) 
+ 
+Q.64 
+Consider a centered Prandtl-Meyer expansion fan at a 𝜃= 4° corner in a Mach 
+1.78 air flow, as shown in the figure below. The angle ψ (see figure) made by the 
+ending wave of the fan with respect to the incoming stream is                   
+________ degrees (rounded off to 1 decimal place). 
+An excerpt from the table of Prandtl-Meyer function for air is provided below. 
+ 
+ 
+M 
+ν [deg] 
+ 
+M 
+ν [deg] 
+ 
+M 
+ν [deg] 
+1.72 
+18.40 
+ 
+1.82 
+21.30 
+ 
+1.92 
+24.15 
+1.74 
+18.98 
+ 
+1.84 
+21.88 
+ 
+1.94 
+24.71 
+1.76 
+19.56 
+ 
+1.86 
+22.45 
+ 
+1.96 
+25.27 
+1.78 
+20.15 
+ 
+1.88 
+23.02 
+ 
+1.98 
+25.83 
+1.80 
+20.73 
+ 
+1.90 
+23.59 
+ 
+2.00 
+26.38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.65 
+A Mach 1.5 air flow enters a round duct of length 20 cm and diameter 3 cm. If the 
+flow exits with Mach number 1.1, the average Fanning friction factor 𝑓 of the duct 
+is ________ × 10−3 (rounded off to 1 decimal place). 
+An excerpt from the Fanno flow table for air is given below. 
+ 
+M 
+1.1 
+1.2 
+1.3 
+1.4 
+1.5 
+1.6 
+𝟒𝒇𝑳∗
+𝑫
+× 𝟏𝟎𝟒 
+99.35 
+336.4 
+648.3 
+997.4 
+1361 
+1724 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 39 of 39

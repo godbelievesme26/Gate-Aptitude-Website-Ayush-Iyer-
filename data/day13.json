@@ -1,0 +1,806 @@
+{
+  "schemaVersion": 1,
+  "day": 13,
+  "year": 2025,
+  "paper": "CS2",
+  "title": "GATE 2025 · CS2 · General Aptitude",
+  "source": "Aptitude Sets/2025/CS2.pdf",
+  "answerKeyStatus": "official GATE 2025 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2025-cs2-ga-01",
+      "number": 1,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Despite his initial hesitation, Rehman’s _________ to contribute to the success of the project never wavered. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "ambivalence"
+        },
+        {
+          "label": "B",
+          "text": "satisfaction"
+        },
+        {
+          "label": "C",
+          "text": "resolve"
+        },
+        {
+          "label": "D",
+          "text": "revolve"
+        }
+      ],
+      "sourceImage": "figures/day13-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              147.53,
+              565.32,
+              415.61
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "“Resolve” means firm determination, which can remain unwavering despite initial hesitation. “Ambivalence” means mixed feelings, “satisfaction” does not express commitment, and “revolve” is a verb. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-02",
+      "number": 2,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Bird : Nest :: Bee : _______ Select the correct option to complete the analogy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kennel"
+        },
+        {
+          "label": "B",
+          "text": "Hammock"
+        },
+        {
+          "label": "C",
+          "text": "Hive"
+        },
+        {
+          "label": "D",
+          "text": "Lair"
+        }
+      ],
+      "sourceImage": "figures/day13-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              353.57
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The relation is an animal and its dwelling: a bird lives in a nest and a bee in a hive. Kennel and lair belong to other animals; a hammock is not a bee’s dwelling. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-03",
+      "number": 3,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "If Pe^{x} = Qe^{−x} for all real values of x, which one of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P = Q = 0"
+        },
+        {
+          "label": "B",
+          "text": "P = Q = 1"
+        },
+        {
+          "label": "C",
+          "text": "P = 1; Q = −1"
+        },
+        {
+          "label": "D",
+          "text": "P/Q = 0"
+        }
+      ],
+      "sourceImage": "figures/day13-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              358.01
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Set x=0 to obtain P=Q. Set x=1, giving Pe=Pe^{−1}; because e≠e^{−1}, P must be 0 and hence Q=0. These values satisfy the equality for every real x. P/Q is then undefined, not zero. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-04",
+      "number": 4,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The paper as shown in the figure is folded to make a cube where each square corresponds to a particular face of the cube. Which one of the following options correctly represents the cube? Note: The figures shown are representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-cs2-ga-04-option-A.png",
+            "alt": "Hollow triangle front, solid circle top, blank right.",
+            "source": {
+              "file": "Aptitude Sets/2025/CS2.pdf",
+              "page": 4,
+              "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+              "pdfCrop": [
+                118,
+                303,
+                182,
+                359
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-cs2-ga-04-option-B.png",
+            "alt": "Hollow triangle front, blank top, solid triangle right.",
+            "source": {
+              "file": "Aptitude Sets/2025/CS2.pdf",
+              "page": 4,
+              "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+              "pdfCrop": [
+                118,
+                363,
+                182,
+                417
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-cs2-ga-04-option-C.png",
+            "alt": "Hollow triangle front, blank top and right.",
+            "source": {
+              "file": "Aptitude Sets/2025/CS2.pdf",
+              "page": 4,
+              "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+              "pdfCrop": [
+                116,
+                421,
+                179,
+                473
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-cs2-ga-04-option-D.png",
+            "alt": "Hollow triangle front, solid triangle top, solid circle right.",
+            "source": {
+              "file": "Aptitude Sets/2025/CS2.pdf",
+              "page": 4,
+              "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+              "pdfCrop": [
+                116,
+                478,
+                179,
+                532
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day13-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              535.27
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "In the net, the filled and hollow circles fold onto opposite faces. The filled and hollow triangles are another opposite pair, and the two blank faces form the third pair. A shows one face from each pair meeting at a corner. B and D put opposite triangles together; C puts both opposite blank faces together. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-cs2-ga-04-figure-1.png",
+          "alt": "Cube net: hollow triangle in the center, solid circle above, hollow circle below, blank faces to left and right, solid triangle on the far right.",
+          "source": {
+            "file": "Aptitude Sets/2025/CS2.pdf",
+            "page": 4,
+            "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+            "pdfCrop": [
+              226,
+              189,
+              369,
+              295
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-cs2-ga-05",
+      "number": 5,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Let p_{1} and p_{2} denote two arbitrary prime numbers. Which one of the following statements is correct for all values of p_{1} and p_{2}?",
+      "options": [
+        {
+          "label": "A",
+          "text": "p_{1} + p_{2} is not a prime number."
+        },
+        {
+          "label": "B",
+          "text": "p_{1}p_{2} is not a prime number."
+        },
+        {
+          "label": "C",
+          "text": "p_{1} + p_{2} + 1 is a prime number."
+        },
+        {
+          "label": "D",
+          "text": "p_{1}p_{2} + 1 is a prime number."
+        }
+      ],
+      "sourceImage": "figures/day13-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              343.25
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The product p₁p₂ has the prime factor p₁ and exceeds it because p₂≥2, so it is always composite, including p₁=p₂. The sum can be prime (2+3=5), the sum-plus-one can be composite (2+3+1=6), and the product-plus-one can be composite (3×5+1=16). Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-06",
+      "number": 6,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Based only on the conversation below, identify the logically correct inference: “Even if I had known that you were in the hospital, I would not have gone there to see you”, Ramya told Josephine.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ramya knew that Josephine was in the hospital."
+        },
+        {
+          "label": "B",
+          "text": "Ramya did not know that Josephine was in the hospital."
+        },
+        {
+          "label": "C",
+          "text": "Ramya and Josephine were once close friends; but now, they are not."
+        },
+        {
+          "label": "D",
+          "text": "Josephine was in the hospital due to an injury to her leg."
+        }
+      ],
+      "sourceImage": "figures/day13-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              122.09,
+              565.32,
+              390.29
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The counterfactual past form “Even if I had known” presents knowing as contrary to what happened: Ramya did not know that Josephine was in hospital. It does not establish their earlier friendship or the reason for hospitalization. The intended inference is B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-07",
+      "number": 7,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "If IMAGE and FIELD are coded as FHBNJ and EMFJG respectively then, which one among the given options is the most appropriate code for BEACH ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CEADP"
+        },
+        {
+          "label": "B",
+          "text": "IDBFC"
+        },
+        {
+          "label": "C",
+          "text": "JGIBC"
+        },
+        {
+          "label": "D",
+          "text": "IBCEC"
+        }
+      ],
+      "sourceImage": "figures/day13-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              341.57
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Reverse the word, then advance each letter by one: IMAGE→EGAMI→FHBNJ and FIELD→DLEIF→EMFJG. Therefore BEACH→HCAEB→IDBFC. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-08",
+      "number": 8,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Which one of the following options is correct for the given data in the table?",
+      "options": [
+        {
+          "label": "A",
+          "text": "X(i) = X(i −1)+I(i); Y(i) = Y(i −1)I(i); i > 0"
+        },
+        {
+          "label": "B",
+          "text": "X(i) = X(i −1)I(i); Y(i) = Y(i −1)+I(i); i > 0"
+        },
+        {
+          "label": "C",
+          "text": "X(i) = X(i −1)I(i); Y(i) = Y(i −1)I(i); i > 0"
+        },
+        {
+          "label": "D",
+          "text": "X(i) = X(i −1)+I(i); Y(i) = Y(i −1)I(i−1); i > 0"
+        }
+      ],
+      "sourceImage": "figures/day13-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              478.99
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "headers": [
+          "Iteration (i)",
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "rows": [
+          [
+            "Input (I)",
+            "20",
+            "−4",
+            "10",
+            "15"
+          ],
+          [
+            "Output (X)",
+            "20",
+            "16",
+            "26",
+            "41"
+          ],
+          [
+            "Output (Y)",
+            "20",
+            "−80",
+            "−800",
+            "−12000"
+          ]
+        ]
+      },
+      "solution": "X is a running sum: 20+(−4)=16, 16+10=26, 26+15=41. Y is a running product: 20×(−4)=−80, −80×10=−800, −800×15=−12000. Hence X(i)=X(i−1)+I(i) and Y(i)=Y(i−1)I(i), for i>0. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-cs2-ga-09",
+      "number": 9,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In the given figure, PQRS is a square of side 2 cm and PLMN is a rectangle. The corner L of the rectangle is on the side QR. Side MN of the rectangle passes through the corner S of the square. What is the area (in cm2) of the rectangle PLMN? Note: The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2√2"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "sourceImage": "figures/day13-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              512.47
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Triangle PLS has base PS=2 cm and perpendicular height 2 cm because L lies on QR. Its area is therefore 2 cm². In rectangle PLMN, S lies on the side MN parallel to PL, so triangle PLS has the rectangle’s full base PL and full height, and occupies half its area. Rectangle area=2×2=4 cm². Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-cs2-ga-09-figure-1.png",
+          "alt": "Overlapping square PQRS and rectangle PLMN; L lies on QR and S lies on NM.",
+          "source": {
+            "file": "Aptitude Sets/2025/CS2.pdf",
+            "page": 9,
+            "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+            "pdfCrop": [
+              225,
+              220,
+              345,
+              337
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-cs2-ga-10",
+      "number": 10,
+      "year": 2025,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The diagram below shows a river system consisting of 7 segments, marked P, Q, R, S, T, U, and V. It splits the land into 5 zones, marked Z1, Z2, Z3, Z4, and Z5. We need to connect these zones using the least number of bridges. Out of the following options, which one is correct? Note: The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bridges on P, Q, and T"
+        },
+        {
+          "label": "B",
+          "text": "Bridges on P, Q, S, and T"
+        },
+        {
+          "label": "C",
+          "text": "Bridges on Q, R, T, and V"
+        },
+        {
+          "label": "D",
+          "text": "Bridges on P, Q, S, U, and V"
+        }
+      ],
+      "sourceImage": "figures/day13-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CS2.pdf",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              532.15
+            ]
+          }
+        ],
+        "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Connecting five zones requires at least four bridges. Q joins Z1–Z3, R joins Z2–Z3, T joins Z3–Z5, and V joins Z3–Z4. These four bridges connect all five zones, meeting the lower bound. A has only three bridges; B leaves Z4 disconnected; D uses five. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 2,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-cs2-ga-10-figure-1.png",
+          "alt": "Five zones Z1 to Z5 divided by rivers with seven bridges P, Q, R, S, T, U, V.",
+          "source": {
+            "file": "Aptitude Sets/2025/CS2.pdf",
+            "page": 10,
+            "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+            "pdfCrop": [
+              163,
+              205,
+              426,
+              365
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

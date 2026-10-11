@@ -1,0 +1,27 @@
+
+> gate-study-workspace@1.0.0 validate
+> node scripts/validate-data.mjs
+
+PASS: AE2007: 85 questions / 150 marks; 85 MCQ, 0 MSQ, 0 NAT; 9 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2008: 85 questions / 150 marks; 85 MCQ, 0 MSQ, 0 NAT; 9 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2009: 60 questions / 100 marks; 60 MCQ, 0 MSQ, 0 NAT; 11 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2010: 65 questions / 100 marks; 65 MCQ, 0 MSQ, 0 NAT; 10 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2011: 65 questions / 100 marks; 60 MCQ, 0 MSQ, 5 NAT; 8 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2012: 65 questions / 100 marks; 60 MCQ, 0 MSQ, 5 NAT; 0 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2013: 65 questions / 100 marks; 54 MCQ, 0 MSQ, 11 NAT; 8 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2014: 65 questions / 100 marks; 51 MCQ, 0 MSQ, 14 NAT; 17 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2015: 65 questions / 100 marks; 36 MCQ, 0 MSQ, 29 NAT; 5 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2016: 65 questions / 100 marks; 41 MCQ, 0 MSQ, 24 NAT; 6 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2017: 65 questions / 100 marks; 36 MCQ, 0 MSQ, 29 NAT; 13 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2018: 65 questions / 100 marks; 39 MCQ, 0 MSQ, 26 NAT; 3 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2019: 65 questions / 100 marks; 28 MCQ, 0 MSQ, 37 NAT; 23 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2020: 65 questions / 100 marks; 38 MCQ, 0 MSQ, 27 NAT; 22 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2021: 65 questions / 100 marks; 28 MCQ, 9 MSQ, 28 NAT; 23 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2022: 65 questions / 100 marks; 30 MCQ, 12 MSQ, 23 NAT; 32 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2023: 65 questions / 100 marks; 30 MCQ, 11 MSQ, 24 NAT; 24 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2024: 65 questions / 100 marks; 33 MCQ, 10 MSQ, 22 NAT; 22 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2025: 65 questions / 100 marks; 35 MCQ, 2 MSQ, 28 NAT; 18 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: AE2026: 65 questions / 100 marks; 29 MCQ, 14 MSQ, 22 NAT; 25 figure assets. Official key/rulings, source lineage, sections and scope valid.
+PASS: 16 datasets, 160 unique questions, source and image paths valid.
+160 questions have official keys and 160 editorial solutions; 0 remain ungraded. 153 source figure assets verified. The user-supplied one-third negative-mark rule is unchanged.
+All questions contain four extracted option labels.

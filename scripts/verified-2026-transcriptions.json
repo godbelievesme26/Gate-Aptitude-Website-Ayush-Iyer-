@@ -1,0 +1,513 @@
+{
+  "1": {
+    "1": {
+      "solution": "‘Exaggerates’ means overstates, which fits the false numerical claims. ‘Engenders’ means creates or brings about: honesty creates trust. The correct pair is ‘exaggerates; engenders’ (A)."
+    },
+    "2": {
+      "solution": "Count the dots: 2, 3, ?, 7, 11. These are consecutive prime numbers, so the missing count is 5. Option B has five dots.",
+      "figureAlts": [
+        "Tile sequence with 2 dots, 3 dots, a missing tile, 7 dots and 11 dots."
+      ],
+      "optionAlts": [
+        "Tile with four dots.",
+        "Tile with five dots.",
+        "Tile with six dots.",
+        "Tile with eight dots."
+      ]
+    },
+    "3": {
+      "solution": "There are 10 standards and 100 students. If every standard had at most 9 students, the school would have at most 10 × 9 = 90 students. Therefore at least one standard has at least 10 students (A). Nothing guarantees that every standard is occupied."
+    },
+    "4": {
+      "solution": "The single-digit primes are 2, 3, 5 and 7. Choose the hundreds digit in 4 ways, the tens digit in 3 remaining ways and the units digit in 2 remaining ways. The count is 4 × 3 × 2 = 24 (B)."
+    },
+    "5": {
+      "solution": "Students liking at least one subject = 10 + 12 − 4 = 18; subtract the overlap because it was counted twice. Including the 6 who like neither gives 18 + 6 = 24 students (C)."
+    },
+    "6": {
+      "solution": "Charity reflects a magnanimous, or generous, attitude. Retaliation reflects a vindictive, or revenge-seeking, attitude. Both relationships match in D. ‘Parsimonious’ means unwilling to spend and ‘amicable’ means friendly, so those alternatives break the analogy."
+    },
+    "7": {
+      "solution": "Follow the shared edges when folding; the markings cannot be rotated independently of their faces. For cube (i), the diamond face can be at the front, the half-face triangle at the top and the small square on the right. Their positions agree with the net. In cube (ii), fixing the small corner triangle at the front also fixes the orientation of the adjacent half-shaded face on the right. Its shading should occupy the lower half, not the vertical half shown. Thus only (i) is possible (A).",
+      "figureAlts": [
+        "Panel I: cube net with four squares in a vertical strip. From top: lower-left small shaded triangle, upper-right shaded quarter-square, centered shaded diamond, and lower shaded triangle. An extra square to the right of the top face has its lower half shaded; an extra square to the left of the bottom face is shaded on one side of a diagonal.",
+        "Panel II, cube (i): diamond on front, half-face triangle on top, small square at the lower corner of the right face.",
+        "Panel II, cube (ii): small lower-left triangle on front, small triangle on top, vertical half of right face shaded."
+      ]
+    },
+    "8": {
+      "solution": "At least two colors are necessary because adjacent vertices cannot share a color. Two are sufficient: color {a, d, f, h} with one color and {b, c, e, g} with the other. Every edge joins the two groups, so the minimum is 2 (D).",
+      "figureAlts": [
+        "Cube with vertices a, b, c, d, e, f, g, h. Edges: ab, ac, ae, bd, bh, cd, cf, dg, ef, eh, fg and gh."
+      ]
+    },
+    "9": {
+      "solution": "From west to east, H2 is third because exactly two hills are west of it. H2 and H3 cannot be at either end, so H3 is second; H1 and H4 occupy the ends. The southernmost hill cannot be an end and must have at least two hills to its east. H3 is the only possibility (C)."
+    },
+    "10": {
+      "question": "As shown in the figure, circle C₁ with center O₁ and radius r₁ touches the square VWXY at points P and Q while circle C₂ with center O₂ and radius r₂ touches the square VWXY at points R and S. The two circles touch each other at T.\nGiven r₁ = 1 cm and \\overline{VY} = \\overline{VW} = 4 cm, r₂ = _____ cm.",
+      "solution": "Take W as (0, 0) and the sides of the square as coordinate axes. Then O₁ = (1, 1) and O₂ = (4 − r₂, 4 − r₂). External tangency gives O₁O₂ = 1 + r₂.\nThus √2(3 − r₂) = 1 + r₂, so r₂ = (3√2 − 1)/(√2 + 1) = 7 − 4√2 cm ≈ 1.343 cm (C). This radius fits inside the square.",
+      "figureAlts": [
+        "Square VWXY: V top-left, W bottom-left, X bottom-right, Y top-right. Circle C1 of radius 1 cm touches the left and bottom sides; C2 touches the top and right sides. The circles touch at T. Each square side is 4 cm."
+      ]
+    }
+  },
+  "3": {
+    "1": {
+      "solution": "‘Sells’ is the verb. Ask ‘sells what?’: lemons. ‘Lemons’ receives the action and is the direct object (A); ‘the shopkeeper’ is the subject."
+    },
+    "2": {
+      "solution": "Extend the visible boundaries into the missing rectangle. The oval must curve around on the right, while the straight segments must close the upper and lower triangles without crossing the oval. Figure P connects all these boundaries with the correct orientations; Q, R and S change a required boundary. Hence A.",
+      "figureAlts": [
+        "Incomplete oval and two triangles, with a rectangular central portion missing. The original boundary positions are shown."
+      ],
+      "optionAlts": [
+        "Candidate P: oval arc at upper-left, triangle portions at upper-right and lower-right.",
+        "Candidate Q: oval arc at upper-left, triangle portions at upper-right and lower-left.",
+        "Candidate R: oval arc at upper-left, differently oriented upper-right triangle and a lower-right triangle.",
+        "Candidate S: vertically curved oval portion at left and triangle portions at upper-right and lower-right."
+      ]
+    },
+    "3": {
+      "question": "At how many points will the curves y = x² and y = −x² − 2x − 1 intersect in the real (x, y) plane?",
+      "solution": "At an intersection, x² = −x² − 2x − 1, giving 2x² + 2x + 1 = 0. Its discriminant is 2² − 4(2)(1) = −4, which is negative. There is no real x, so there are 0 intersections (A)."
+    },
+    "4": {
+      "solution": "Anish would have become the youngest captain in the team’s history. In particular, he would have been younger than the current captain. Therefore the current captain is older than Anish (C). The passage does not say that Anish is the youngest player."
+    },
+    "5": {
+      "solution": "Turn the whole figure 45° clockwise, keeping the relative arrangement of its branches fixed. The upward branch now points diagonally up-right and each remaining branch moves through the same angle. The resulting arrangement is Q (B); rotating individual branches or reflecting the figure would change the pattern.",
+      "figureAlts": [
+        "Figure I: a square pattern of connected horizontal and vertical black strokes, to be rotated 45 degrees clockwise."
+      ],
+      "optionAlts": [
+        "Candidate P: first rotated black-stroke pattern.",
+        "Candidate Q: second rotated black-stroke pattern.",
+        "Candidate R: third rotated black-stroke pattern.",
+        "Candidate S: fourth rotated black-stroke pattern."
+      ]
+    },
+    "6": {
+      "question": "Match the words in Column I with their synonyms in Column II.",
+      "table": {
+        "headers": [
+          "Column I",
+          "Column II"
+        ],
+        "rows": [
+          [
+            "(i) Lonely",
+            "(p) Verbatim"
+          ],
+          [
+            "(ii) Literal",
+            "(q) Solitary"
+          ],
+          [
+            "(iii) Lousy",
+            "(r) Deadly"
+          ],
+          [
+            "(iv) Lethal",
+            "(s) Terrible"
+          ]
+        ]
+      },
+      "solution": "Lonely pairs with solitary (i–q); literal with verbatim (ii–p); lousy with terrible (iii–s); lethal with deadly (iv–r). This is option A."
+    },
+    "7": {
+      "question": "In the given figure, \\overline{PQ} is the diameter of a circle with center O. Two points R and S are chosen on the circle such that ∠ROS = 80°. When \\overline{PR} and \\overline{QS} are extended, they meet at T. The value of ∠RTS is _________________",
+      "solution": "For two secants meeting outside a circle, the angle at their intersection is half the difference of their intercepted arcs. The far arc PQ is a semicircle, 180°, and the near arc RS is 80°. Thus ∠RTS = (180° − 80°)/2 = 50° (B).",
+      "figureAlts": [
+        "Circle with diameter PQ and center O. R and S are on the upper semicircle with angle ROS equal to 80 degrees. Lines PR and QS extended meet at T above the circle."
+      ]
+    },
+    "8": {
+      "solution": "The number is the factorial of the number of sides: triangle 3! = 6, quadrilateral 4! = 24 and pentagon 5! = 120. The hexagon therefore contains 6! = 720 (A).",
+      "figureAlts": [
+        "Triangle containing 6, quadrilateral containing 24, pentagon containing 120, and hexagon containing X."
+      ]
+    },
+    "9": {
+      "solution": "Apply every update simultaneously using the previous step, not the partially updated row. Write 1 for ON and 0 for OFF. Starting from 0001000, the successive states are:\n1: 0011100; 2: 0110110; 3: 1110111; 4: 1010101; 5: 1010101.\nIn 1010101 each OFF bulb has two ON neighbors and each ON bulb has no ON neighbor, so no further rule applies. Step 8 still has four ON bulbs (B).",
+      "figureAlts": [
+        "Seven bulbs: initially only bulb 4 is ON. Step 1: bulbs 3, 4 and 5 ON. Step 2: bulbs 2, 3, 5 and 6 ON. White means ON; black means OFF."
+      ]
+    },
+    "10": {
+      "question": "P and Q are two positive integers such that P² = Q² + 13.\nThe product of the numbers P and Q is _________",
+      "solution": "Factor P² − Q² = (P − Q)(P + Q) = 13. Since 13 is prime and P, Q are positive, P − Q = 1 and P + Q = 13. Adding gives P = 7, then Q = 6. Their product is 42 (D)."
+    }
+  },
+  "4": {
+    "1": {
+      "solution": "The sentence needs the finite past-tense verb ‘scored’. ‘Despite’ introduces the contrasting circumstance of rain and is followed directly by a noun. Thus ‘scored; despite’ (C) completes the sentence correctly."
+    },
+    "2": {
+      "question": "If a positive real x satisfies the following equation\nlog₂ x + log_{√2} x = 48,\nthen the value of x is _________________",
+      "options": [
+        "2¹⁶",
+        "4¹⁶",
+        "2¹⁴",
+        "4¹⁴"
+      ],
+      "solution": "Let a = log₂ x. Since √2 = 2^{1/2}, changing the base gives log_{√2} x = 2 log₂ x = 2a. Hence a + 2a = 48, so a = 16 and x = 2¹⁶ (A)."
+    },
+    "3": {
+      "solution": "The triangle moves down one row at each step in the rightmost column: rows 1, 2, 3, then 4. The circle also moves down, wrapping from row 4 to row 1 in the leftmost column, so its next row is 2. Option A has the triangle at bottom-right and the circle in row 2 at the left.",
+      "figureAlts": [
+        "Three grids with four rows and three columns. Triangle positions: row 1 column 3, row 2 column 3, row 3 column 3. Circle positions: row 3 column 1, row 4 column 1, row 1 column 1."
+      ],
+      "optionAlts": [
+        "Triangle row 4 column 3; circle row 2 column 1.",
+        "Triangle row 2 column 1; circle row 4 column 3.",
+        "Triangle row 1 column 3; circle row 3 column 2.",
+        "Triangle row 1 column 3; circle row 4 column 1."
+      ]
+    },
+    "4": {
+      "solution": "The negation of ‘all mangoes are good’ is ‘at least one mango is not good’ (D). It does not require all mangoes to be bad or require a mixture of good and bad mangoes."
+    },
+    "5": {
+      "solution": "S1 gives a total of 4 × 25 = 100. Under S3, any three numbers have sum at least 60, leaving at most 40 for the fourth. So S1 and S3 imply S2 (C). For comparison, 10, 30, 30, 30 satisfy S1 and S2 but not S3."
+    },
+    "6": {
+      "solution": "Use ‘a pit’ and ‘an elephant’, according to the following consonant/vowel sound. ‘Bewildered and miserable’ joins two adjectives. The phrase is ‘look up at a crowd’. The sequence is a; an; and; at (B)."
+    },
+    "7": {
+      "question": "The table lists the unit selling price of five products P, Q, R, S, and T. On a particular day, 250 items were sold with the average selling price of Rs. 60.\nThe following observations were made:\n(i) The quantity of S sold was twice that of T.\n(ii) The quantity of R sold was thrice that of T.\n(iii) The quantity of Q sold was four times that of T.",
+      "table": {
+        "headers": [
+          "Product",
+          "P",
+          "Q",
+          "R",
+          "S",
+          "T"
+        ],
+        "rows": [
+          [
+            "Unit selling price (Rs.)",
+            "100",
+            "50",
+            "40",
+            "60",
+            "60"
+          ]
+        ]
+      },
+      "afterTable": "What is the quantity of product P sold on that day?",
+      "solution": "Let t be the quantity of T and p the quantity of P. The quantities of Q, R and S are 4t, 3t and 2t. Total quantity: p + 10t = 250. Total revenue: 100p + (50×4 + 40×3 + 60×2 + 60)t = 250×60, so 100p + 500t = 15000. Subtract 50(p + 10t) = 12500 to get 50p = 2500. Thus p = 50 items (B)."
+    },
+    "8": {
+      "options": [
+        "π",
+        "(π − 1)/(2π)",
+        "π/[2(π − 1)]",
+        "π/(π − 1)"
+      ],
+      "solution": "Initially P has length l and K has semicircular arc length πl/2. After both lose x, K has length πl/2 − x and becomes a full circle with diameter l − x. Therefore πl/2 − x = π(l − x). Rearranging, (π − 1)x = πl/2, so x/l = π/[2(π − 1)] (C).",
+      "figureAlts": [
+        "Figure i: string P is a diameter of length l; string K forms the semicircular arc. Figure ii: after shortening both strings, K forms a full circle and P is its diameter."
+      ]
+    },
+    "9": {
+      "solution": "The daughter and brother occupy one column, leaving Meritorius and his son in the other. The person diagonally across the son is therefore either the daughter or the brother. If it is the daughter, her sibling (the son) is worst; the person sharing the son’s row is the brother, who must be best. If it is the brother, his sibling Meritorius is worst; again the brother shares the worst orator’s row and must be best. Both possibilities give Meritorius’ brother (B).",
+      "figureAlts": [
+        "Seating arrangement: a two-by-two grid labelled Row 1, Row 2 and Column 1, Column 2."
+      ]
+    },
+    "10": {
+      "solution": "Split the long pattern into three equal square tiles. Each tile has the same arrangement of the horizontal and vertical strokes. Figure Q reproduces this tile; placing three copies side by side aligns the boundaries and reconstructs the given pattern. Thus B.",
+      "figureAlts": [
+        "A wide rectangular black-and-white pattern of horizontal and vertical strokes; the candidate square tiles are below."
+      ],
+      "optionAlts": [
+        "Candidate P: first square stroke pattern.",
+        "Candidate Q: second square stroke pattern.",
+        "Candidate R: third square stroke pattern.",
+        "Candidate S: fourth square stroke pattern."
+      ]
+    }
+  },
+  "5": {
+    "1": {
+      "solution": "A protagonist is the principal character; an antagonist is the opposing character or force. ‘Antagonist’ is the intended antonym (B). The other words describe belief, arson or opposition to government."
+    },
+    "2": {
+      "solution": "Each permitted piece covers exactly 4 tiles, so any constructed pattern must contain a multiple of 4 tiles. The options contain 8, 12, 15 and 20 tiles respectively. The 15-tile rectangle in C is impossible. A, B and D can each be tiled using straight four-tile bars, so the area test is sufficient here.",
+      "figureAlts": [
+        "Four unit tiles in a two-by-two square.",
+        "Four unit tiles in a straight column."
+      ],
+      "optionAlts": [
+        "Rectangle with four rows and two columns of tiles.",
+        "Rectangle with four rows and three columns of tiles.",
+        "Rectangle with three rows and five columns of tiles.",
+        "Rectangle with four rows and five columns of tiles."
+      ]
+    },
+    "3": {
+      "solution": "Each game eliminates exactly one player. To leave one undefeated player from 64, exactly 63 players must be eliminated. Thus 63 games are required (C), regardless of how the knock-out rounds are arranged."
+    },
+    "4": {
+      "solution": "To maximize elective credits, use the maximum total of 70 and the minimum required specialization credits of 10. Electives = 70 − 15 (core) − 20 (project) − 10 (specialization) = 25 credits (D). This also satisfies the 60-credit minimum."
+    },
+    "5": {
+      "solution": "The given implication is: teacher present ⇒ every student standing silently. Its contrapositive, A, is valid; B and D follow directly. The converse need not hold: students could stand even when the teacher is absent. Therefore C is not necessarily true."
+    },
+    "6": {
+      "solution": "The passage says combinatorics is ‘sometimes’ used in physical modeling; it does not support P’s universal claim ‘always’. Q restates the described use of probabilities to compute averages. The intended classification is P False and Q True (B)."
+    },
+    "7": {
+      "solution": "Compare both projections, using the arrows to fix the viewing directions. The front outline has heights 3, 2 and 2 units from left to right. The top view has an L-shaped footprint with the front-right square absent and the indicated internal step boundaries. Structure (iv) matches both. Structure (i) fills the missing corner, (ii) has a different internal step arrangement, and (iii) has a taller middle portion. Hence D.",
+      "figureAlts": [
+        "Panel I: front and top orthographic views of a stepped solid. Front column heights are 3, 2, 2. The top footprint is a three-by-three square missing its front-right cell; internal step boundaries are shown."
+      ],
+      "optionAlts": [
+        "Structure i, with front and top viewing arrows.",
+        "Structure ii, with front and top viewing arrows.",
+        "Structure iii, with front and top viewing arrows.",
+        "Structure iv, with front and top viewing arrows."
+      ]
+    },
+    "8": {
+      "question": "For positive real numbers S and K, the function H_{K}(S) is defined as:\nH_{K}(S) = max(S − K, 0). The max function is defined as:\nmax(a, b) = a, when a > b;\n                  b, when a ≤ b.\nThe graph below shows the plot of a function N(S) versus S.\nN(S) can be expressed as _____.",
+      "options": [
+        "H₁₀(S) − H₂₀(S)",
+        "H₁₀(S) − 2H₂₀(S)",
+        "−H₁₀(S) + H₂₀(S)",
+        "H₁₅(S) − H₂₀(S)"
+      ],
+      "solution": "The graph is 0 up to S = 10, rises with slope 1 from 10 to 20, and stays at 10 beyond 20. H₁₀(S) starts the rising segment at 10; subtracting H₂₀(S) cancels its slope after 20. Thus N(S) = H₁₀(S) − H₂₀(S) (A): the three interval values are 0, S − 10 and 10.",
+      "figureAlts": [
+        "Graph N(S): zero from S=0 to 10, a straight rise to N=10 at S=20, then horizontal at N=10 to S=30."
+      ]
+    },
+    "9": {
+      "solution": "Vesely’s medal-winning best was not in rounds 1 or 2. He did not improve after round 4, excluding rounds 5 and 6. His best cannot be in round 4 either: Vadlejch had the best throw of that round, yet Vesely was ahead of him after four rounds. Therefore Vesely’s best occurred in round 3 (A)."
+    },
+    "10": {
+      "options": [
+        "1/6",
+        "5/18",
+        "7/18",
+        "5/6"
+      ],
+      "solution": "The 36 ordered outcomes are equally likely. For first rolls 1, 2, 3, 4, 5 and 6, the numbers of permissible second rolls are respectively 6, 3, 2, 1, 1 and 1. Total favorable outcomes = 14, so the probability is 14/36 = 7/18 (C)."
+    }
+  },
+  "6": {
+    "1": {
+      "solution": "Expedite, hasten and hurry all mean to make something happen faster. ‘Accelerate’ has the same meaning (A). ‘Retard’ means to slow down."
+    },
+    "2": {
+      "solution": "Trace the unfilled part inside square PQRS, including the opening on its right edge. Its stepped boundary matches shape (iii) in the orientation shown. The other candidates have an extra or missing block along the lower branch and cannot fill the square without overlap or a gap. Thus C.",
+      "figureAlts": [
+        "Panel I: square PQRS, P bottom-left, Q bottom-right, R top-right, S top-left. A stepped part is missing from the black square, opening at its right edge."
+      ],
+      "optionAlts": [
+        "Shape i: first stepped black candidate.",
+        "Shape ii: second stepped black candidate.",
+        "Shape iii: third stepped black candidate.",
+        "Shape iv: fourth stepped black candidate."
+      ]
+    },
+    "3": {
+      "solution": "Choose the sunny day in 4 ways. Any specified sequence of three cloudy days and one sunny day has probability (1/2)⁴ = 1/16 by independence. Total probability = 4/16 = 1/4 (A)."
+    },
+    "4": {
+      "solution": "Rs. 100 buys 2 units of A at Rs. 50, and Rs. 80 buys 1 unit of B. The next-day proceeds are 2×55 + 70 = Rs. 180, equal to the original Rs. 180 investment. Profit = Rs. 0 (A)."
+    },
+    "5": {
+      "solution": "The statement is rain ⇒ dancing. Its logically equivalent contrapositive is not dancing ⇒ no rain (C). The converse and inverse are not guaranteed; peacocks might dance for another reason."
+    },
+    "6": {
+      "solution": "Water satisfies thirst, just as food satisfies hunger. Keeping the same relationship on both sides gives P = Thirst and Q = Hunger (A)."
+    },
+    "7": {
+      "solution": "Count filled dots in each tile. The grid is 8, 1, 6 / 3, 5, ? / 4, 9, ?. The completed row and columns each sum to 15. The missing middle-right value is 15 − 3 − 5 = 7; the bottom-right is 15 − 4 − 9 = 2. Option (i) has seven filled dots above two, so A.",
+      "figureAlts": [
+        "Panel I: three-by-three grid of dot tiles. Filled-dot counts by row: 8, 1, 6; 3, 5, missing; 4, 9, missing."
+      ],
+      "optionAlts": [
+        "Tile i: seven filled dots above two filled dots.",
+        "Tile ii: six filled dots above two filled dots.",
+        "Tile iii: seven filled dots above three filled dots.",
+        "Tile iv: six filled dots above three filled dots."
+      ]
+    },
+    "8": {
+      "solution": "This asks for a cycle that visits every vertex exactly once. In (i), the 4×4 grid admits one: reserve the leftmost column for the return and snake through the other three columns, joining back across the top and bottom. In (ii), the graph is bipartite with groups of sizes 2 and 3. Any cycle must alternate groups and therefore contain equally many vertices from each. It cannot include all five cities. Only (i) allows the trip (A).",
+      "figureAlts": [
+        "Graph i: four-by-four rectangular grid of cities with horizontal and vertical highways between immediate neighbors. Graph ii: two cities each connected to the same three intermediate cities; no other highways."
+      ]
+    },
+    "9": {
+      "solution": "The required row counts, top to bottom, are 3, 1, 2, 2, and every column must contain 2 shaded cells. In (ii), the shaded columns by row are {1, 3, 4}, {2}, {3, 4}, {1, 2}. These satisfy all eight totals. The other options fail a row total. Hence B.",
+      "figureAlts": [
+        "Panel I: four-by-four grid. Required row totals, top to bottom: 3, 1, 2, 2. Required column totals, left to right: 2, 2, 2, 2."
+      ],
+      "optionAlts": [
+        "Grid i: shaded columns by row are 1,3,4 / 2,4 / 3 / 1,2.",
+        "Grid ii: shaded columns by row are 1,3,4 / 2 / 3,4 / 1,2.",
+        "Grid iii: shaded columns by row are 1,3,4 / 2,3 / 3 / 1,2.",
+        "Grid iv: shaded columns by row are 1,3,4 / 2 / 3 / 1,2,4."
+      ]
+    },
+    "10": {
+      "options": [
+        "3/36",
+        "13/36",
+        "15/36",
+        "19/36"
+      ],
+      "solution": "Possible prime sums are 2, 3, 5, 7 and 11. They occur in 1, 2, 4, 6 and 2 ordered outcomes respectively. There are 15 favorable outcomes out of 36 equally likely ones. Probability = 15/36 (C)."
+    }
+  },
+  "7": {
+    "1": {
+      "solution": "Verbosity (wordiness) and brevity (conciseness) are opposites. Insolence means disrespectful behavior, so its opposite is respect (B)."
+    },
+    "2": {
+      "solution": "Factor 70 = 2 × 5 × 7. A single digit cannot combine 2 with 5 or 7, and neither 5 nor 7 can combine into a single digit with another non-unit factor. The three digits must be 2, 5 and 7, in any order. Their sum is 14 (B)."
+    },
+    "3": {
+      "solution": "Superimpose the four pieces in their shown orientations: one supplies the left edge of the square, one the top, one the right and one the bottom. They meet without overlap and leave a white silhouette with a rounded head, a right-pointing beak and an angled diamond-shaped lower body. This is P (A). Q lacks the beak, R changes the lower body, and S changes the head.",
+      "figureAlts": [
+        "Puzzle piece supplying the left boundary, with a curved and stepped inner edge.",
+        "Puzzle piece supplying the top boundary, with a curved inner edge.",
+        "Puzzle piece supplying the right boundary, with a pointed opening and stepped inner edge.",
+        "Puzzle piece supplying the bottom boundary, with two upward triangular projections."
+      ],
+      "optionAlts": [
+        "P: white silhouette with rounded head, right-pointing beak and angled diamond-shaped lower body.",
+        "Q: white silhouette with rounded head, no long beak and angled lower body.",
+        "R: white silhouette with rounded head, right-pointing beak and flattened lower edge.",
+        "S: white silhouette with an angular notch in its head, right-pointing beak and angled lower body."
+      ]
+    },
+    "4": {
+      "question": "Consider two distinct positive real numbers m, n, with m > n.\nLet x = n^{log₁₀(m)} and y = m^{log₁₀(n)}. The relation between x and y is _______.",
+      "options": [
+        "x > y",
+        "x < y",
+        "x = y",
+        "x = log₁₀(y)"
+      ],
+      "solution": "Take base-10 logarithms: log₁₀ x = log₁₀(m) × log₁₀(n), and log₁₀ y = log₁₀(n) × log₁₀(m). These are equal. Since the logarithm is one-to-one for positive values, x = y (C), even though m and n are distinct."
+    },
+    "5": {
+      "solution": "The construction ‘if … had been … would have …’ describes an unreal past condition. It conveys that the latest movie was not commercially successful (D). It does not establish whether the actor can finance the next movie through some other source."
+    },
+    "6": {
+      "solution": "The location is ‘at the door’; the door belongs to the cabin, so ‘of the cabin’; the rental duration is ‘for the night’. The correct sequence is at; of; for (A)."
+    },
+    "7": {
+      "solution": "Write the sorted integers as a ≤ b ≤ 18 ≤ c ≤ d. For 20 to be the unique mode, both c and d must be 20. The total is 5×12 = 60, so a + b = 60 − 18 − 40 = 2. The possibilities are (0, 2) and (1, 1). The latter makes 1 and 20 tied modes and is invalid. Only {0, 2, 18, 20, 20} works: one way (B)."
+    },
+    "8": {
+      "solution": "Class 5 must win two games and Class 4 one. The first game cannot be between the Class 4 students: eliminating one would leave only one Class 4 student, and obtaining two later Class 5 wins would require another same-class match. Thus the first game is Rishi versus Swathi. Its winner must also win the second game against a Class 4 student, before losing the final cross-class game. Since boys win twice, that first winner is Rishi. The final winner must be the Class 4 girl, Tanvi (D)."
+    },
+    "9": {
+      "question": "P, Q, R, S, X, and Y are distinct single-digit whole numbers taking values from 0 to 9.\nPQ is a two-digit number with Q being in the units place and P in the tens place. Similarly, RS is a two-digit number.\nIt is known that PQ and RS are consecutive numbers and\n(PQ)² + (RS)² = XYP, with XYP being a three-digit number.\nThe value of Y is __________",
+      "solution": "The distinct tens digits P and R mean the consecutive numbers must cross a decade boundary. Their squared sum is three digits, so the only possible pair is 19 and 20: 29² + 30² already exceeds 999. Now 19² + 20² = 361 + 400 = 761. The final digit is P = 1, fixing PQ = 19 and RS = 20. The six digits 1, 9, 2, 0, 7, 6 are distinct. Hence Y = 6 (C)."
+    },
+    "10": {
+      "question": "In the given figure, P, Q, and R are three points on a circle of radius 10 cm with O as its center, \\overline{PQ} = \\overline{RQ}, and ∠PQR = 45°. The figure is representative.\nThe area of the shaded region PQRO is ______________ cm².",
+      "solution": "The minor central angle ∠POR is twice the inscribed angle ∠PQR, hence 90°. If M is the midpoint of PR, then PM = OM = 10/√2 = 5√2 cm and PR = 10√2 cm. Symmetry gives QM = QO + OM = 10 + 5√2 cm.\nArea(PQR) = ½(10√2)(10 + 5√2) = 50√2 + 50 cm². Area(POR) = ½×10×10 = 50 cm². The shaded area is their difference, 50√2 cm² (C).",
+      "figureAlts": [
+        "Circle of radius 10 cm with Q at the top and P, R below. PQ equals RQ; angle PQR is 45 degrees. O is the center. Shading fills triangle PQR except for triangle POR."
+      ]
+    }
+  },
+  "8": {
+    "1": {
+      "solution": "Nocturnal means active at night; diurnal means active during the day. Thus ‘diurnal’ is the antonym (B)."
+    },
+    "2": {
+      "solution": "With highest score 100 and fourth-highest score 76, the four highest scores all lie in [76, 100]. Their greatest difference is 24, which is within 25. Therefore S1 and S2 imply S3 (A)."
+    },
+    "3": {
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "solution": "Continue each of the three straight segments through the missing rectangle without changing its direction. Their entry points, exit points and intersections must align with the visible pieces outside WXYZ. Only S continues all three straight lines correctly, so D.",
+      "figureAlts": [
+        "Three intersecting straight segments with central rectangle WXYZ missing. W and X mark its upper corners; Z and Y its lower corners. Visible segments extend through different edges of the rectangle."
+      ],
+      "optionAlts": [
+        "Candidate P: three segments with two descending slopes and one ascending slope.",
+        "Candidate Q: three segments, all ascending left to right.",
+        "Candidate R: three segments intersecting near the right side.",
+        "Candidate S: three segments forming three distinct interior intersections."
+      ]
+    },
+    "4": {
+      "question": "Real numbers y, p, and n (all greater than 1) satisfy\n(log_{p^{1/n}} y)(log_{y^{1/n}} p) = 16,\nwhere the logarithms are taken to the bases p^{1/n} and y^{1/n}.\nThe value of n is ________",
+      "solution": "By change of base, log_{p^{1/n}} y = n(ln y)/(ln p) and log_{y^{1/n}} p = n(ln p)/(ln y). Multiplying cancels the logarithms and gives n² = 16. Since n > 1, n = 4 (B)."
+    },
+    "5": {
+      "solution": "Negate the quantifiers in order: ‘for every student, there exists another within 10 marks’ becomes ‘there exists a student for whom every other student is more than 10 marks away’. This is B. ‘At most 10’ includes equality, so its negation is strictly more than 10."
+    },
+    "6": {
+      "solution": "The keywords are IDENTIFY, NOVEL, COUPLE and HALF. Their first letters are I, N, C and H, which can be rearranged into CHIN (A)."
+    },
+    "7": {
+      "question": "Three children P, Q, R and two grown-ups X, Y play a badminton doubles tournament. X and Y are parents to two of the children playing. The child of X is not the same as the child of Y. Exactly one of the children does not have a parent playing in the tournament. The following rules are followed:\n(i) A parent and his/her child cannot be on the same team.\n(ii) A match can feature at most one parent and his/her child, that is, a maximum of one parent-child pair can play in a match.\nThe following matches were played:",
+      "table": {
+        "headers": [
+          "",
+          "TEAM 1",
+          "TEAM 2"
+        ],
+        "rows": [
+          [
+            "MATCH 1",
+            "P and X",
+            "Q and R"
+          ],
+          [
+            "MATCH 2",
+            "P and R",
+            "X and Y"
+          ],
+          [
+            "MATCH 3",
+            "R and X",
+            "Q and Y"
+          ]
+        ]
+      },
+      "afterTable": "Which one of the following options is correct?",
+      "solution": "X cannot be P’s parent (same team in match 1) or R’s parent (same team in match 3), so X is Q’s parent. Y cannot be Q’s parent. If Y were R’s parent, match 3 would contain both parent-child pairs, violating rule (ii). Thus Y is P’s parent, leaving R without a parent playing (C)."
+    },
+    "8": {
+      "question": "Let P_{k} represent the perimeter of a square with sides of length k. The value of the expression P₁ + P₂ + P₃ + ⋯ + P₁₀ is __________",
+      "solution": "A square of side k has perimeter P_{k} = 4k. Therefore P₁ + ⋯ + P₁₀ = 4(1 + ⋯ + 10) = 4×10×11/2 = 220 (C)."
+    },
+    "9": {
+      "solution": "The successive radii are 2.5, 3.5, 5.5, 7.5, 10.5 and 13.5 stades. Land area = π[2.5² + (5.5² − 3.5²) + (10.5² − 7.5²)] = 78.25π square stades. Water area = π[(3.5² − 2.5²) + (7.5² − 5.5²) + (13.5² − 10.5²)] = 104π square stades. Ratio = 78.25/104 ≈ 0.7524, which rounds to 0.75 (C).",
+      "figureAlts": [
+        "Alternating concentric land and water regions. The center island is land. Points A through F mark successive boundaries along the radius, with water AB, land BC, water CD, land DE, water EF."
+      ]
+    },
+    "10": {
+      "question": "If\nThen",
+      "solution": "The example reflects the entire figure about a horizontal axis: top and bottom exchange places, while left and right remain fixed. Apply that same reflection to the second figure, including the orientation of the letters and digits. The result is R (C), not a 180° rotation or a left-right reflection.",
+      "figureAlts": [
+        "Transformation example: the two-line inscription Ref Fig / 12 34 is transformed to the inverted lettering shown after the arrow.",
+        "Apply the illustrated transformation to the two-line inscription GATE - 2026 / Aptitude Test."
+      ],
+      "optionAlts": [
+        "P: inverted Test Aptitude above inverted GATE - 2026.",
+        "Q: inverted Aptitude Test above inverted 2026 - GATE.",
+        "R: inverted Aptitude Test above inverted GATE - 2026.",
+        "S: inverted Test Aptitude above inverted 2026 - GATE."
+      ]
+    }
+  }
+}

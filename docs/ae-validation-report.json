@@ -1,0 +1,324 @@
+[
+  {
+    "paper": "gate-2007-ae",
+    "year": 2007,
+    "questions": 85,
+    "marks": 150,
+    "typeCounts": {
+      "MCQ": 85
+    },
+    "assets": 9,
+    "newAssets": 9,
+    "officialAnswers": 85,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2008-ae",
+    "year": 2008,
+    "questions": 85,
+    "marks": 150,
+    "typeCounts": {
+      "MCQ": 85
+    },
+    "assets": 9,
+    "newAssets": 9,
+    "officialAnswers": 85,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2009-ae",
+    "year": 2009,
+    "questions": 60,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 60
+    },
+    "assets": 11,
+    "newAssets": 11,
+    "officialAnswers": 60,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2010-ae",
+    "year": 2010,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 65
+    },
+    "assets": 10,
+    "newAssets": 10,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2011-ae",
+    "year": 2011,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 60,
+      "NAT": 5
+    },
+    "assets": 8,
+    "newAssets": 8,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2012-ae",
+    "year": 2012,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 60,
+      "NAT": 5
+    },
+    "assets": 0,
+    "newAssets": 0,
+    "officialAnswers": 60,
+    "marksToAll": 5,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2013-ae",
+    "year": 2013,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 54,
+      "NAT": 11
+    },
+    "assets": 8,
+    "newAssets": 8,
+    "officialAnswers": 62,
+    "marksToAll": 3,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2014-ae",
+    "year": 2014,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 51,
+      "NAT": 14
+    },
+    "assets": 17,
+    "newAssets": 17,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2015-ae",
+    "year": 2015,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 36,
+      "NAT": 29
+    },
+    "assets": 5,
+    "newAssets": 5,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2016-ae",
+    "year": 2016,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 41,
+      "NAT": 24
+    },
+    "assets": 6,
+    "newAssets": 6,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2017-ae",
+    "year": 2017,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 36,
+      "NAT": 29
+    },
+    "assets": 13,
+    "newAssets": 13,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2018-ae",
+    "year": 2018,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 39,
+      "NAT": 26
+    },
+    "assets": 3,
+    "newAssets": 3,
+    "officialAnswers": 64,
+    "marksToAll": 1,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2019-ae",
+    "year": 2019,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 28,
+      "NAT": 37
+    },
+    "assets": 23,
+    "newAssets": 23,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2020-ae",
+    "year": 2020,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 38,
+      "NAT": 27
+    },
+    "assets": 22,
+    "newAssets": 22,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2021-ae",
+    "year": 2021,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 28,
+      "MSQ": 9,
+      "NAT": 28
+    },
+    "assets": 23,
+    "newAssets": 23,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2022-ae",
+    "year": 2022,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 30,
+      "MSQ": 12,
+      "NAT": 23
+    },
+    "assets": 32,
+    "newAssets": 32,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2023-ae",
+    "year": 2023,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 30,
+      "MSQ": 11,
+      "NAT": 24
+    },
+    "assets": 24,
+    "newAssets": 24,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2024-ae",
+    "year": 2024,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 33,
+      "MSQ": 10,
+      "NAT": 22
+    },
+    "assets": 22,
+    "newAssets": 22,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2025-ae",
+    "year": 2025,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 35,
+      "NAT": 28,
+      "MSQ": 2
+    },
+    "assets": 18,
+    "newAssets": 15,
+    "officialAnswers": 65,
+    "marksToAll": 0,
+    "technicalSolutions": "not provided",
+    "verified": true
+  },
+  {
+    "paper": "gate-2026-ae",
+    "year": 2026,
+    "questions": 65,
+    "marks": 100,
+    "typeCounts": {
+      "MCQ": 29,
+      "MSQ": 14,
+      "NAT": 22
+    },
+    "assets": 25,
+    "newAssets": 15,
+    "officialAnswers": 63,
+    "marksToAll": 2,
+    "technicalSolutions": "not provided",
+    "verified": true
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 5,
+  "stateKind": "gate-user-progress",
+  "revision": 7,
+  "profile": {
+    "name": "Latest Learner"
+  },
+  "settings": {
+    "theme": "dark",
+    "sound": true,
+    "checkpointSound": true,
+    "volume": 0.04,
+    "checkpoint": true,
+    "shortcuts": true,
+    "goal": 12,
+    "focus": false,
+    "preferredMode": "practice"
+  },
+  "drafts": {},
+  "sessions": [],
+  "attempts": [],
+  "bookmarks": {
+    "question-1": "Important"
+  },
+  "notes": {
+    "question-1": "Latest note"
+  },
+  "notebooks": [],
+  "flashcards": [],
+  "planner": {
+    "exam": "GATE",
+    "date": "",
+    "minutes": 45
+  },
+  "blueprints": [],
+  "reports": [],
+  "xpEvents": {}
+}

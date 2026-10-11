@@ -1,0 +1,5771 @@
+[
+  {
+    "path": "figures/day01-q01.png",
+    "exists": true,
+    "sizeBytes": 100656,
+    "sha256": "105083605c8f03e509830f7ba5b5746848aa6e8f8c1551095169005f7f72eff0",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day01-q02.png",
+    "exists": true,
+    "sizeBytes": 111173,
+    "sha256": "b34c3bff74cf6f6be11d8dbfe1f0f3d58d9731202f0564d4ae00543c02c3d89f",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day01-q03.png",
+    "exists": true,
+    "sizeBytes": 108754,
+    "sha256": "8b3d754f9a2c301f1814805a6e565be3e3f3a1d95a1688a20366c7309926dc7c",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day01-q04.png",
+    "exists": true,
+    "sizeBytes": 60433,
+    "sha256": "f7df6ba73293b5ef5c4839bb340aec6b35a96f0cb0d87eca4f55805be930a94c",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day01-q05.png",
+    "exists": true,
+    "sizeBytes": 73793,
+    "sha256": "d9261d7c1849f2cbc5821b42e85fb87b4b2f0e2cd81454820796de893f375716",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day01-q06.png",
+    "exists": true,
+    "sizeBytes": 87324,
+    "sha256": "77605bbf7bd96bc1dc6f5e9bfa649ccf4d9afc1a21558de5f9e616b6ab005bb7",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day01-q07.png",
+    "exists": true,
+    "sizeBytes": 171184,
+    "sha256": "77aabbafa13081cafadf03929a1f036539c0c56ff5deaaae3275676be9951cad",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day01-q08.png",
+    "exists": true,
+    "sizeBytes": 117980,
+    "sha256": "29b3047f3661c2b6819942bb5d8bed32ded8550fa1cd75544753f4f613430f5e",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day01-q09.png",
+    "exists": true,
+    "sizeBytes": 129808,
+    "sha256": "2588938dcd90873e98754250b57c55ea193c8d00bde02f257e35a23f155ec50d",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day01-q10.png",
+    "exists": true,
+    "sizeBytes": 161017,
+    "sha256": "fdb492b1462599c1fab25462d2fc31f5036a4f2ccfed85fbf579519f4d6c4e98",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day02-q01.png",
+    "exists": true,
+    "sizeBytes": 59594,
+    "sha256": "3dbda80935b3b2b1a5d6df39d350aeecff9db567ce3e4463a56b0bddcb09da6c",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day02-q02.png",
+    "exists": true,
+    "sizeBytes": 99431,
+    "sha256": "89602c931106a3bb4805d399b41ad6aec96071d3907242e0359b795f1e07d445",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day02-q03.png",
+    "exists": true,
+    "sizeBytes": 80022,
+    "sha256": "0d5a8b228b21df4ed3104804e19956391c10ebc852abb53e4c77ad2247f1a523",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day02-q04.png",
+    "exists": true,
+    "sizeBytes": 153033,
+    "sha256": "7686ea2a1797ae92fb3b99521af7873ae7477d146218c61fe3f52274b8fd6e8d",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day02-q05.png",
+    "exists": true,
+    "sizeBytes": 69226,
+    "sha256": "340ef9158a80f18d0eba4a355bcd39618e22bdf9781f14d856b8645686044790",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day02-q06.png",
+    "exists": true,
+    "sizeBytes": 193949,
+    "sha256": "e0ee5afb055fa7686378d12c5967017520de6088bf42be283b100e4242a949a0",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day02-q07.png",
+    "exists": true,
+    "sizeBytes": 109432,
+    "sha256": "0ab6e9e1ae52cb325ef257c2b6c6fd9620c1bd0f9b964ead1b7f5f8f0f8707c5",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day02-q08.png",
+    "exists": true,
+    "sizeBytes": 194189,
+    "sha256": "f4503a07caec160412683408be7c871017b7fb4c5367d33eee053378ca87833a",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day02-q09.png",
+    "exists": true,
+    "sizeBytes": 42107,
+    "sha256": "fcc934dbd76994c08d1185817cffa0408c9cd8cba5ef7869a00a65ecf2c52f0c",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day02-q10.png",
+    "exists": true,
+    "sizeBytes": 120172,
+    "sha256": "f655ff449508d1828136739302777c3e5f8115be1fd8da2535b6274391191b06",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day03-q01.png",
+    "exists": true,
+    "sizeBytes": 71463,
+    "sha256": "07eeff2e40b9b03069c54208cab7586e9498b8296fad5c62155eda17d5d3ef87",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day03-q02.png",
+    "exists": true,
+    "sizeBytes": 140273,
+    "sha256": "cfe1f9ba81fe13917741cfe92c4bb40f4ccb164a51bf474a0f58ef73cb7d0ad2",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day03-q03.png",
+    "exists": true,
+    "sizeBytes": 56832,
+    "sha256": "2eac9d0bb6d81e4ee407892b42177b12f74160e6a696801c72244364cff6af69",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day03-q04.png",
+    "exists": true,
+    "sizeBytes": 135786,
+    "sha256": "61963cef97a41d4a6195f17eef92021cef6bfefbe41773b13b2fe0c3d900e8ec",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day03-q05.png",
+    "exists": true,
+    "sizeBytes": 177127,
+    "sha256": "2768fe34ea816ca1144f4e98ef795ba3d3027bb0edbe07625f40f1fb970f0615",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day03-q06.png",
+    "exists": true,
+    "sizeBytes": 128306,
+    "sha256": "76eb0fb472ca08294a3e9dfc7f5083a26f63158f2be41df3ba9f981f2a23753f",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day03-q07.png",
+    "exists": true,
+    "sizeBytes": 157192,
+    "sha256": "5b66252f1caee3750146980165177fa54c46800b490c42342feee5d8bc8db323",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day03-q08.png",
+    "exists": true,
+    "sizeBytes": 104940,
+    "sha256": "f54e62454b62265a51c141266b32496ad259aea5463442ce52db4cbccfa152c3",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day03-q09.png",
+    "exists": true,
+    "sizeBytes": 206533,
+    "sha256": "4165f63f0085042821ffc0105cfb1dcef2e72eb41a18dfc72337972838b8fcc6",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day03-q10.png",
+    "exists": true,
+    "sizeBytes": 62318,
+    "sha256": "d55e15203f7a126c6d32985bb8f222a06b08bf6ef869671a529a9b230f7d620d",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day04-q01.png",
+    "exists": true,
+    "sizeBytes": 101416,
+    "sha256": "7c26c157cfbc9b0f5e039b82b3998568e64c73d40d0cd826616d1136950ddc6d",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day04-q02.png",
+    "exists": true,
+    "sizeBytes": 67955,
+    "sha256": "0db8f6e04a99b8cb2df0315085397e4bf656389be0ed8ea02c8470fa299ad88a",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day04-q03.png",
+    "exists": true,
+    "sizeBytes": 120106,
+    "sha256": "7dc868b083666b6c71dbc545c77d991e4272bd8917c6a60ca28fc36fb85e9163",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day04-q04.png",
+    "exists": true,
+    "sizeBytes": 104178,
+    "sha256": "be60f3c14d6bdc9b3acdb5ec55983cb75290c67b6983e13f7b5c027381372ffe",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day04-q05.png",
+    "exists": true,
+    "sizeBytes": 126489,
+    "sha256": "c722d11a657a2a66dd79e4e2f2d6a171079abf88476c8b56e760ebd1542e38db",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day04-q06.png",
+    "exists": true,
+    "sizeBytes": 112573,
+    "sha256": "24f8469c6829f557cae93535d44edbfaa034e8d1d5d94ae2ed9a519d5a70bba8",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day04-q07.png",
+    "exists": true,
+    "sizeBytes": 157450,
+    "sha256": "cc4a277a06ecb97d5cde50802f96099859d4931ee1a05f85240b4d3cb5caeeeb",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day04-q08.png",
+    "exists": true,
+    "sizeBytes": 185911,
+    "sha256": "20039ad24ad10761424b24541fe7b6a51ba936d077a002b7e91302b85b1a045a",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day04-q09.png",
+    "exists": true,
+    "sizeBytes": 182693,
+    "sha256": "e17bc2710f60dc18af96554441e0e59237d5ac99d58409ab4cde87683cda2df2",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day04-q10.png",
+    "exists": true,
+    "sizeBytes": 116281,
+    "sha256": "6f032766daed72bb310596e8587f8bc22a01653715cd259266b7f2ee4d821be9",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day05-q01.png",
+    "exists": true,
+    "sizeBytes": 61705,
+    "sha256": "7bbc2beaa4edd16fb3a3c0fcb411e84bdd5799a1c824fc8fce5d0b49d9f1c821",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day05-q02.png",
+    "exists": true,
+    "sizeBytes": 138894,
+    "sha256": "ffb46de0e24b68ab46e327a2afebcdeb842c175a1d9baa49c058812b2155642e",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day05-q03.png",
+    "exists": true,
+    "sizeBytes": 112067,
+    "sha256": "c75f279332da222977d25088766f70a2ebadbb525a70bb35c3736bfaa6e67d3a",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day05-q04.png",
+    "exists": true,
+    "sizeBytes": 124847,
+    "sha256": "06e98123cdfbc1908aa0607865cfe227e859438bdc2a01418d2090746a28790c",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day05-q05.png",
+    "exists": true,
+    "sizeBytes": 99080,
+    "sha256": "42294d56ef578c7b2c44933a057d5e8175b2166c6dc0730337980d1308cba412",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day05-q06.png",
+    "exists": true,
+    "sizeBytes": 230847,
+    "sha256": "ca75682157acd0ddda6ec6891e81fe82eb6e2a23680dfce8a03f42cdc3162f54",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day05-q07.png",
+    "exists": true,
+    "sizeBytes": 153585,
+    "sha256": "12db09a2d4bacd1257e2f3fa52f0e3a037974d26e2254c94d4ad87e02dbbe8f2",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day05-q08.png",
+    "exists": true,
+    "sizeBytes": 162023,
+    "sha256": "f663db9e5fa1312d00e46af9c72b339664568ba42bfd95b3e727ac4fad674fd2",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day05-q09.png",
+    "exists": true,
+    "sizeBytes": 255476,
+    "sha256": "15878ea24e6d97b4676892059eddaa4e4b500034a79a97791afffe02c8de9b08",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day05-q10.png",
+    "exists": true,
+    "sizeBytes": 98425,
+    "sha256": "9c23b1ee3cb8de3eebe3a2c69574eb0f40118c39d32fddf5f48d741bbc9b8f61",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day06-q01.png",
+    "exists": true,
+    "sizeBytes": 83740,
+    "sha256": "f864a4a3d609cf7f516de9fd783ef6056184c2a19bf9d5267254f3541a852738",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day06-q02.png",
+    "exists": true,
+    "sizeBytes": 123137,
+    "sha256": "e5557108b708b81160ebd59ea4bf45175d4827dd493de4d21f6f4f46f636fc2c",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day06-q03.png",
+    "exists": true,
+    "sizeBytes": 81054,
+    "sha256": "37ea7882e37d677c5567f818dd284adccc6ddcf2a8bc834ff29dd70945eb2e8f",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day06-q04.png",
+    "exists": true,
+    "sizeBytes": 89326,
+    "sha256": "2e28652dae871233193805d5bf32e1df5175c50135781a0b9cdd6b8c8720af5b",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day06-q05.png",
+    "exists": true,
+    "sizeBytes": 98183,
+    "sha256": "78bc334599e2f1eb33d20a43f39dcfff12f16b62243c1a74eae3daae6ff51b28",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day06-q06.png",
+    "exists": true,
+    "sizeBytes": 85852,
+    "sha256": "9b9725cdb1b3aafa6579295422f5455313109f2395856d8f1541c476b2f1263f",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day06-q07.png",
+    "exists": true,
+    "sizeBytes": 178001,
+    "sha256": "be67166dd4ec193cbece47b105aa4b2d53433f40d1c850d60afa6af6df2e1eb7",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day06-q08.png",
+    "exists": true,
+    "sizeBytes": 165993,
+    "sha256": "27340b357b73d2e58fe99f24356348284f4587a1a3087598a3e233c90b11b56f",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day06-q09.png",
+    "exists": true,
+    "sizeBytes": 132060,
+    "sha256": "6107f80f106e143625581a6e5bf071a515afe2c34d4e8bcef0065ced5b0a83f0",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day06-q10.png",
+    "exists": true,
+    "sizeBytes": 113823,
+    "sha256": "4b52315a42a5d50dd3f88e90232d3042dd97e62bac3140e2df495c65059f2546",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day07-q01.png",
+    "exists": true,
+    "sizeBytes": 74047,
+    "sha256": "454994d1116603a299db96cf93b0721fcb08d31ae928d51d7d76100c2e299fcd",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day07-q02.png",
+    "exists": true,
+    "sizeBytes": 60647,
+    "sha256": "e351d6f6df41c5ffdcac1614e11ad17a4f062bb412e2af40f012b6b73541a929",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day07-q03.png",
+    "exists": true,
+    "sizeBytes": 133923,
+    "sha256": "75e7badd6461a12ea63ab1dc05cfb04c688a50cb7cae1f86a279c8659f5055ab",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day07-q04.png",
+    "exists": true,
+    "sizeBytes": 67975,
+    "sha256": "6dc83229c5a87f35997f8541cc9e11703125eb88cc1350a82ed7d388c050a4c2",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day07-q05.png",
+    "exists": true,
+    "sizeBytes": 113055,
+    "sha256": "d4bd5197b560536962c8cce6f987c01dc4c25e3d12c3ac6572f84ded83bdb46e",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day07-q06.png",
+    "exists": true,
+    "sizeBytes": 81145,
+    "sha256": "98f0765a485ef8577580b1e78b72c210fce89dde0bb3411dd9afd7ecd31331c1",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day07-q07.png",
+    "exists": true,
+    "sizeBytes": 77686,
+    "sha256": "600b40a2a814149c0bb4f71b663c72f09d1f1a6641e25d1e889615e1c153c9f8",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day07-q08.png",
+    "exists": true,
+    "sizeBytes": 165918,
+    "sha256": "2b0d93ebefe8f582a4860f0ac984be7b3594896583e2cff5e1b82c48c7a0729d",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day07-q09.png",
+    "exists": true,
+    "sizeBytes": 123261,
+    "sha256": "e2f778706b17899520ee017db546c2fff0aa1f842ee515d659379340c60eb9be",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day07-q10.png",
+    "exists": true,
+    "sizeBytes": 220097,
+    "sha256": "b6b4d2d6a5efb132584ca373835b9e734a5ceb97c95bfd5caa82dfd5b6b16c28",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day08-q01.png",
+    "exists": true,
+    "sizeBytes": 65086,
+    "sha256": "2c9ee1e1ef4e4297b2e609bf5ad21eb4798b356389f70cb7ae3b978ecb78fc26",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day08-q02.png",
+    "exists": true,
+    "sizeBytes": 145410,
+    "sha256": "dc52d63b29b48d79a257d669a1f0eb450fe5035f54f6f4b691917bcb17b5b75a",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day08-q03.png",
+    "exists": true,
+    "sizeBytes": 162823,
+    "sha256": "394b38c8d12539520b20a5f8c70b0473484242011e4421d975ce8e8810a14553",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day08-q04.png",
+    "exists": true,
+    "sizeBytes": 90691,
+    "sha256": "8354798d71b6f198ef7c6dae16a77b0929bc0a456595bf45f2955e0f43123dcd",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day08-q05.png",
+    "exists": true,
+    "sizeBytes": 171633,
+    "sha256": "85533dce80d2fde0f4019b3e017da13dee959b365f4653240fba2861b9cd1174",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day08-q06.png",
+    "exists": true,
+    "sizeBytes": 157939,
+    "sha256": "f0935c8c3f33792f14b0aa0849354ec78cf32845b80e28e8ae767f711ab4921f",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day08-q07.png",
+    "exists": true,
+    "sizeBytes": 236959,
+    "sha256": "728e1cc5152575c2fe80c3d4c33123b241f73f5c246f820aa80e0d1d11a78fa7",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day08-q08.png",
+    "exists": true,
+    "sizeBytes": 61828,
+    "sha256": "20973c7bd0b21e4e2702335c74a01adc8a8efdb7c674f9c0cb5d4fbe1dd7612a",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day08-q09.png",
+    "exists": true,
+    "sizeBytes": 239419,
+    "sha256": "37e96c8d8cfb0c6ee3e885f0f78eab36a4116d3eaeeb4cd8a6ea384962117b3c",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day08-q10.png",
+    "exists": true,
+    "sizeBytes": 160032,
+    "sha256": "1a7e813acb5c6d6e96e127edbed57acc0bfcc87078094402e327b52d0e5fb28a",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day09-q01.png",
+    "exists": true,
+    "sizeBytes": 106268,
+    "sha256": "13b36de910745c276d914c15a5bee10bfa88bb1a4e204f78e5d5cf29b927206a",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day09-q02.png",
+    "exists": true,
+    "sizeBytes": 108647,
+    "sha256": "2de6efedfc86c976d22e187211ab710bea319aa48623da8036371c941b516c67",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day09-q03.png",
+    "exists": true,
+    "sizeBytes": 115145,
+    "sha256": "30a9c81a8ea2d421aa0d4324dae504f372f2fdb2ae50c62390e535d6808d88b5",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day09-q04.png",
+    "exists": true,
+    "sizeBytes": 63160,
+    "sha256": "751f329f9c6330d88bfa78c904e28e315ea0df305066a029e769cb8db4372788",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day09-q05.png",
+    "exists": true,
+    "sizeBytes": 161625,
+    "sha256": "6cfdac4a9558043857fdddb140e4f6ef5cb942555cd6c607d3506e442092dd6c",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day09-q06.png",
+    "exists": true,
+    "sizeBytes": 81960,
+    "sha256": "e262a0c140eba1fb5cf58ec141d30385bf193d06d324f542259d85984530104a",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day09-q07.png",
+    "exists": true,
+    "sizeBytes": 163107,
+    "sha256": "12dd61c8992301dbde2af7e4585c1a17f1ce580f8e049bdbc9538ec30c7ce5bb",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day09-q08.png",
+    "exists": true,
+    "sizeBytes": 145976,
+    "sha256": "745ce8110e19d007d6292cfb36bd2cac88f29fc6f36d63815a567087dc7bcccc",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day09-q09.png",
+    "exists": true,
+    "sizeBytes": 98881,
+    "sha256": "9287577759192f64c85354291c95fb25fc6d7d46137cc136a750cb1f286a6fbf",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day09-q10.png",
+    "exists": true,
+    "sizeBytes": 182742,
+    "sha256": "466b42c4a80334b92f62e537f216904de20b5bf5140aa8bb2e2678086010e21e",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day10-q01.png",
+    "exists": true,
+    "sizeBytes": 58286,
+    "sha256": "e701ca0426e454076cc21fd28ad8cc6a0133b54fa6a1c3506942b825a66a22ad",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day10-q02.png",
+    "exists": true,
+    "sizeBytes": 110563,
+    "sha256": "e41bdd4b09792121584146cd0b56cd6aefd12a88bbe9e37ca03faab1b08f44d5",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day10-q03.png",
+    "exists": true,
+    "sizeBytes": 46384,
+    "sha256": "d21de56caba5384e33ab9a2a8c2f3816d1abef789948b0ee98815a94e9cacaff",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day10-q04.png",
+    "exists": true,
+    "sizeBytes": 97012,
+    "sha256": "298d09b8dc744885879bd38ff8c8a6dd3a1a53481f120c4ee7aa81e76f6f359b",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day10-q05.png",
+    "exists": true,
+    "sizeBytes": 192330,
+    "sha256": "dac11c730dab52d34206e40eaf3f8f8640c244165721c405d4c259fdf88ebda0",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day10-q06.png",
+    "exists": true,
+    "sizeBytes": 183749,
+    "sha256": "5b9044ba7efc21618a0e05d044441fe61396d487a1cb7e8379f238696cbe0106",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day10-q07.png",
+    "exists": true,
+    "sizeBytes": 90223,
+    "sha256": "491cb4abbfc380cd56642cb68f13fe1465ff3be260490763edad9e2d69f13e44",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day10-q08.png",
+    "exists": true,
+    "sizeBytes": 285369,
+    "sha256": "2088d7205c9cdff4eb0ac2029fc76ee0f2e05cafa62e4bf971246b36df4615ba",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day10-q09.png",
+    "exists": true,
+    "sizeBytes": 64607,
+    "sha256": "9bc3a839e94c38afee52963413a068fe7c4c74f513317a21ed144c23bbee8da4",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day10-q10.png",
+    "exists": true,
+    "sizeBytes": 153134,
+    "sha256": "98fb3526d1016f1be99c0fa8b37a740630046b67d33d289b187fa5c18437a7e2",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day11-q01.png",
+    "exists": true,
+    "sizeBytes": 75051,
+    "sha256": "acc6962a6bc6969b73f5ed803076f9659b902012f1b85548c18eaeffb22ec7a3",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day11-q02.png",
+    "exists": true,
+    "sizeBytes": 95736,
+    "sha256": "0a65529df77218207131352595a0e6b3d1d2ad7ddcfa6134d7b2a041c33d88e8",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day11-q03.png",
+    "exists": true,
+    "sizeBytes": 91306,
+    "sha256": "c4dd90ba1dded307b7a1ef64abb07edbfacc36b9ec8ab7a4f33b2065b887f883",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day11-q04.png",
+    "exists": true,
+    "sizeBytes": 103418,
+    "sha256": "1ab82fab2607d8b2e1a449dfca39974336473601c36c22d08acde1012a6461f7",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day11-q05.png",
+    "exists": true,
+    "sizeBytes": 294146,
+    "sha256": "17d0cd1e0ea47f6850a56c4dc7712248c8e2e28d1b0d8b3ee83e6ab1507ce051",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day11-q06.png",
+    "exists": true,
+    "sizeBytes": 180121,
+    "sha256": "7b5d87abb2516c0a6c0751559050e4debc8dcbb98a4e4eb6c09bd4d0473131da",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day11-q07.png",
+    "exists": true,
+    "sizeBytes": 131222,
+    "sha256": "891bad4a59ec1349f9898e3fdf25b5d008ff6a0bc18f62a859ccc67125634823",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day11-q08.png",
+    "exists": true,
+    "sizeBytes": 85116,
+    "sha256": "42fb5f6cbcb54864fdc37dbbc3d5a863800c353ff1755c07135d5e1d6b1d53b4",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day11-q09.png",
+    "exists": true,
+    "sizeBytes": 114808,
+    "sha256": "5f7b024dbd8593fbe3b3b4d39f7523ff4460b296ee39054e617ddedc097fd76c",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day11-q10.png",
+    "exists": true,
+    "sizeBytes": 131716,
+    "sha256": "54ae3bb2adfbcf5d0d84f60011f7822086d5946d69cce9425e14da53dfa45fda",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day12-q01.png",
+    "exists": true,
+    "sizeBytes": 79000,
+    "sha256": "3bd355c8e55ec73239eab3dfd7071809251ba85debc3819208c3464d9460657c",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day12-q02.png",
+    "exists": true,
+    "sizeBytes": 89412,
+    "sha256": "1cb29d1403f6837f6d8a4dc2c960c2f01305a9a464551501bea3a7ec53e060c0",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day12-q03.png",
+    "exists": true,
+    "sizeBytes": 86117,
+    "sha256": "fd03d3bd10ada41fbafc7ba8e359b1b53b8ccb672ca6cab0eeb2fa58e6a283c5",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day12-q04.png",
+    "exists": true,
+    "sizeBytes": 167680,
+    "sha256": "cd80320db9be67a9268b05ec6810c29c3283c09a35ade6de334f34c8a6240972",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day12-q05.png",
+    "exists": true,
+    "sizeBytes": 184314,
+    "sha256": "4b8d8cfcf139ffea1fd9b5fd4498f5dff252a15e3fd3881902c91860be3334e0",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day12-q06.png",
+    "exists": true,
+    "sizeBytes": 206140,
+    "sha256": "75ec08f3c270d16f7d85d7369cbfd8a18403fe56d822c4ec4f6e92ee473c6fee",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day12-q07.png",
+    "exists": true,
+    "sizeBytes": 126339,
+    "sha256": "687f104174d8aa3d0b0550a870df5f6914b96ae1fdd17ccb1a5c83fb90bf33ae",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day12-q08.png",
+    "exists": true,
+    "sizeBytes": 72880,
+    "sha256": "e1614a1c51d0187ccd34da8c06364ba766ed235a0ea5ae124afffb6ff2288617",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day12-q09.png",
+    "exists": true,
+    "sizeBytes": 166152,
+    "sha256": "f8c9bc8046dc0fdbd6949b399d8c7309d436193b53f09d91fb65e57cea32820f",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day12-q10.png",
+    "exists": true,
+    "sizeBytes": 80313,
+    "sha256": "14128c6e48bddbf79732606aabb1687023c54fd96d2123829c9043ef9a6dacca",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day13-q01.png",
+    "exists": true,
+    "sizeBytes": 79614,
+    "sha256": "303c91ed635ec008bc7130cc5a478d71065db6332d5be22a4706179e532a7b41",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day13-q02.png",
+    "exists": true,
+    "sizeBytes": 54747,
+    "sha256": "6103449d8ca07f137cb24b349acfc94ddce9ead12f2aafa143cbe13c7f4a1d6a",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day13-q03.png",
+    "exists": true,
+    "sizeBytes": 58928,
+    "sha256": "72aa9049a81f37a0a0db07647df22f624cc8957c1717488e45991ae98953befd",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day13-q04.png",
+    "exists": true,
+    "sizeBytes": 115538,
+    "sha256": "cf50ab2be322ccf1dcc6900c545163ef8aab020be0226679f015c899c2ca76ee",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day13-q05.png",
+    "exists": true,
+    "sizeBytes": 74234,
+    "sha256": "20302b2337c3d3282543fdc593a948fe04cc9d60c94ec7122a661a800d669edd",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day13-q06.png",
+    "exists": true,
+    "sizeBytes": 112278,
+    "sha256": "82bc18041de99048642891cf01e37844a4938ce26bc12791c1949f426d10d652",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day13-q07.png",
+    "exists": true,
+    "sizeBytes": 63787,
+    "sha256": "df89928507ce93e0892b551bdb480c792cd5444deec040acaae12fdf2afe9a21",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day13-q08.png",
+    "exists": true,
+    "sizeBytes": 128985,
+    "sha256": "2994dbf3174a1a80ac181cc7c78c822332e63d5c50b0a5a9d8bd64890f9e6c38",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day13-q09.png",
+    "exists": true,
+    "sizeBytes": 121937,
+    "sha256": "c06ba9c8bd60cf21ce8aa76b06ebbf42ca93f0b4db72f6a77097bcfef3f3e140",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day13-q10.png",
+    "exists": true,
+    "sizeBytes": 143912,
+    "sha256": "09fffa4c1c382c69cd71091c635cf4adc7e9818edb95dac219425a43b64ab33f",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day14-q01.png",
+    "exists": true,
+    "sizeBytes": 85190,
+    "sha256": "3ba0f0b7697cf3dff903d03961936ac836c3f27549781908d42f8c2e9141194a",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day14-q02.png",
+    "exists": true,
+    "sizeBytes": 92036,
+    "sha256": "2854a22a877e03ed39db00afa982dcbd04a17cd912987870165ada7a0e785a90",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day14-q03.png",
+    "exists": true,
+    "sizeBytes": 77508,
+    "sha256": "d19d7181277c7b5258965f232c79af9462bdb43590adf480d67635f45f658426",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day14-q04.png",
+    "exists": true,
+    "sizeBytes": 170847,
+    "sha256": "10ba6780bc27efe6e3381ebd2153e9d9781a1b17471ffce9c4502d33ea5808a8",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day14-q05.png",
+    "exists": true,
+    "sizeBytes": 162281,
+    "sha256": "4aff7a7cce6d2df67d0537e7c17f2bc3d491080c75dc2bf675fab95653306d2c",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day14-q06.png",
+    "exists": true,
+    "sizeBytes": 171250,
+    "sha256": "dfa6ef8cbae20ec4b71f92a56e5bc56e37de4977dcbdf8381a308becb9eddfbc",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day14-q07.png",
+    "exists": true,
+    "sizeBytes": 103673,
+    "sha256": "290e839a95aa163da1279d033adf0702d3c277a594b30c07c4a38cc0e8a16662",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day14-q08.png",
+    "exists": true,
+    "sizeBytes": 199218,
+    "sha256": "a1a6f4b90e9ddd706b1c63e43a10f88b34a4cb8232cdba823444989ed9381ac2",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day14-q09.png",
+    "exists": true,
+    "sizeBytes": 197860,
+    "sha256": "b862574399f2404a038b4aea9c4c95165ff1efe8e358bd78ef06dd320155e67d",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day14-q10.png",
+    "exists": true,
+    "sizeBytes": 142421,
+    "sha256": "9614ad7df96bbc2b9b9dc87e54dcd0c60bc49f714cbd8884c7c810dfe35442f4",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day15-q01.png",
+    "exists": true,
+    "sizeBytes": 71019,
+    "sha256": "f1881da08a11360a928d4507e6bb7cf8ca018c5534b58a166335da51212be5fc",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day15-q02.png",
+    "exists": true,
+    "sizeBytes": 53100,
+    "sha256": "b3d5590a0c92a7b37c64cd0b34aaeaa33f6350f6ac39a380bf636f57812a1cec",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day15-q03.png",
+    "exists": true,
+    "sizeBytes": 111995,
+    "sha256": "8eb98002b65e0dda30a28b5f4569632bbd93e3c6da30daf7d3d73d9cd21a081d",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day15-q04.png",
+    "exists": true,
+    "sizeBytes": 237676,
+    "sha256": "fac00cd78398bb245c6de02f34b0b20a4d781da9d25cd4a08ddc27b4d855dfa7",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day15-q05.png",
+    "exists": true,
+    "sizeBytes": 52142,
+    "sha256": "9387da2a85a51f3f03484b9dc08a485d5f3a7fbf43f123f473119aeda451a1af",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day15-q06.png",
+    "exists": true,
+    "sizeBytes": 149900,
+    "sha256": "d54a4aa2a3026a2404e519d2d6f1de73942a0f2948e69ed22aa8ceae8b8b9f41",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day15-q07.png",
+    "exists": true,
+    "sizeBytes": 138288,
+    "sha256": "7fecc4a675eaf39c2aae3be266d103cd9613ddc7e55d34b17a23f0687ec03d45",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day15-q08.png",
+    "exists": true,
+    "sizeBytes": 142917,
+    "sha256": "86ada69fd6e072dd48885391eaf9918193d82dbcfa776ea8d4fd115a7a7b84df",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day15-q09.png",
+    "exists": true,
+    "sizeBytes": 92572,
+    "sha256": "002e503f821eb7a82395413e6654388461ee7eaf5e99b000e5da42d77114d5c4",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day15-q10.png",
+    "exists": true,
+    "sizeBytes": 236429,
+    "sha256": "7132db05a73db914d64536f6e16d368ebb337d5a0ee0bfe83d2914b25de3980c",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-10"
+    ]
+  },
+  {
+    "path": "figures/day16-q01.png",
+    "exists": true,
+    "sizeBytes": 63878,
+    "sha256": "7a75ae7aed5157506dc275f2be3fed8fc12959b8612e678a2806f5376a3071f9",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-01"
+    ]
+  },
+  {
+    "path": "figures/day16-q02.png",
+    "exists": true,
+    "sizeBytes": 67290,
+    "sha256": "9961e19cf4320164ff9495df3ffa0bc1a582c2d91fa37868264c2abfe7927fa9",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-02"
+    ]
+  },
+  {
+    "path": "figures/day16-q03.png",
+    "exists": true,
+    "sizeBytes": 94629,
+    "sha256": "e4ed256a5c276f8479a3a2e3f0b371a9f82698701f23c72cbde352e5c679ae54",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-03"
+    ]
+  },
+  {
+    "path": "figures/day16-q04.png",
+    "exists": true,
+    "sizeBytes": 98410,
+    "sha256": "d3b30d7ca8e27767988123cd482c322c3a38f73402d5b2add4de9b675b56bcee",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-04"
+    ]
+  },
+  {
+    "path": "figures/day16-q05.png",
+    "exists": true,
+    "sizeBytes": 97077,
+    "sha256": "9ed477a6ea10eb0972019476e350495c58b3c6426c0a908bdf34d0a11dbfe134",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-05"
+    ]
+  },
+  {
+    "path": "figures/day16-q06.png",
+    "exists": true,
+    "sizeBytes": 212971,
+    "sha256": "9e80f8e5a24dd71e10dc7d51d2702d958dec5996187064ca65b5534d69958a98",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-06"
+    ]
+  },
+  {
+    "path": "figures/day16-q07.png",
+    "exists": true,
+    "sizeBytes": 58219,
+    "sha256": "ed820521f63f5d81cffeef0eb7b95a01ba596ace088aa1fea6c249481c972e7f",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-07"
+    ]
+  },
+  {
+    "path": "figures/day16-q08.png",
+    "exists": true,
+    "sizeBytes": 186512,
+    "sha256": "398860de9fd4ccbb1b3025187dec31cec6f07561d67719d1f78f93e531b40fc1",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-08"
+    ]
+  },
+  {
+    "path": "figures/day16-q09.png",
+    "exists": true,
+    "sizeBytes": 90082,
+    "sha256": "f7400403595655a4271876f143d5464f9352adf11085ad528aa1c961b04154bf",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-09"
+    ]
+  },
+  {
+    "path": "figures/day16-q10.png",
+    "exists": true,
+    "sizeBytes": 138992,
+    "sha256": "935a9b82c91bc20fe730a3f0723caf6087d5d47848ebedb0d410fc731aa94596",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-25-figure-1.png",
+    "exists": true,
+    "sizeBytes": 147892,
+    "sha256": "bc8e98824a37ded9ed1c0fc76a4bc80a103c083ef95b330edd2c34a8888a7e95",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-25"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 171290,
+    "sha256": "cf10f3e0106f623aea2fe23f3d75b1679dced0ed32cb4db788b2098332b518c1",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-54-figure-1.png",
+    "exists": true,
+    "sizeBytes": 71671,
+    "sha256": "20fec478b5dfd4542e6fa4d08f73c5f022842ad14e5b25b7a8e20dacb7c2d642",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-54"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-57-figure-1.png",
+    "exists": true,
+    "sizeBytes": 170648,
+    "sha256": "46b5562c0855a5cef2e1dcebb47c8450d042832fa328313557933edbbd32074c",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-57"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-60-figure-1.png",
+    "exists": true,
+    "sizeBytes": 49370,
+    "sha256": "efb740e87bdae9e252095c31c66656672163eeb69b6cd8b60a4c247b4d9d3a47",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-60"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-67-figure-1.png",
+    "exists": true,
+    "sizeBytes": 98965,
+    "sha256": "d768fe4f0684b905bcc9bab6a79269b7da72648e31ad345c9e2bc10ca80b427d",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-67"
+    ]
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-68-figure-1.png",
+    "exists": true,
+    "sizeBytes": 177385,
+    "sha256": "8e4d50fa844f04dbb70d3fb90bf45b6cb8adbb2832bdc55654eac539f72b2742",
+    "referencedByQuestionIds": [
+      "gate-2007-ae-ae-68"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-32-figure-1.png",
+    "exists": true,
+    "sizeBytes": 81828,
+    "sha256": "e017c4a3232b98c66bedb5503047b4ca6df9326df83a2b6e4eaca034af6de133",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-32"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-51-figure-1.png",
+    "exists": true,
+    "sizeBytes": 129526,
+    "sha256": "7dd8877f7866070b59c8159825c8613303334b3e7ee7cbba21ccde01ddc62c92",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-51"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-63-figure-1.png",
+    "exists": true,
+    "sizeBytes": 86260,
+    "sha256": "e8b84d057aa7cc9a7a7738b25dc9cfd14236e11c893685ace3901dcaf5a3b25d",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-65-figure-1.png",
+    "exists": true,
+    "sizeBytes": 32508,
+    "sha256": "6e4166480a929bb85c6f9842616a6cef61662b7c295587237a743012c90e81ee",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-65"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-66-figure-1.png",
+    "exists": true,
+    "sizeBytes": 68366,
+    "sha256": "d2ab8d01cfe00928346f20c372d2c80706f278b9a6d1bef262645153d9163434",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-66"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-66-figure-2.png",
+    "exists": true,
+    "sizeBytes": 182691,
+    "sha256": "d94cb728833f544aac4cded76d02243e501e659d7f0fa67ef530767de616b373",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-66"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-67-figure-1.png",
+    "exists": true,
+    "sizeBytes": 106637,
+    "sha256": "33de9327f1e1b1b529fd873f5b2e87065c73e79669ed5c63b61456853003b4d3",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-67"
+    ]
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-69-figure-1.png",
+    "exists": true,
+    "sizeBytes": 68648,
+    "sha256": "4dc64cbe93af10795d6d2699072bfa1487b41c57371b46b8fd57075680ee7c91",
+    "referencedByQuestionIds": [
+      "gate-2008-ae-ae-69"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-19-figure-1.png",
+    "exists": true,
+    "sizeBytes": 42328,
+    "sha256": "75129dd909f5b718c35c2e5a712d6ce6db0ee34a5365c61fffe2c34b1da28c88",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-20-figure-1.png",
+    "exists": true,
+    "sizeBytes": 82119,
+    "sha256": "b0b896df123151c9f9df712a8ca414af3b4c93f35050949833f6c38671896d21",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-36-figure-1.png",
+    "exists": true,
+    "sizeBytes": 32929,
+    "sha256": "f5196ffdde85a061317d551c23630516838717d1bdacca158f17a418907b3219",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-36"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 38319,
+    "sha256": "467dbd161138d690ea44e65883056cf1d81ecb2a3f9a3797c42d593754ac2952",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-39-figure-1.png",
+    "exists": true,
+    "sizeBytes": 48710,
+    "sha256": "e31a94e00424948e6afa59b09d95f289b88100afc70a1f143bb27b523bbad2a6",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-39"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-39-figure-2.png",
+    "exists": true,
+    "sizeBytes": 191960,
+    "sha256": "65ec26240f5d54a47f70e0439007044f34a761943fd028c8c7cef421d8a55e75",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-39"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-40-figure-1.png",
+    "exists": true,
+    "sizeBytes": 49734,
+    "sha256": "9b62aeb42c33717703e714e8513794821b4859d431abd94ff598e44634ff1d35",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-42-figure-1.png",
+    "exists": true,
+    "sizeBytes": 63924,
+    "sha256": "3766d8624ba2de4e17acc332f75597cf18d87269dd40642699b465ef6e388e7c",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-42"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-43-figure-1.png",
+    "exists": true,
+    "sizeBytes": 43146,
+    "sha256": "c93accf4d522983147d6dd4bd795ac8a4baf60bc994150aece4b9235854c2816",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-43"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 42740,
+    "sha256": "85090462b05f801aee6b1497b5871c33d94ed2bb4062898808617755dc74ce43",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2009-ae-ae-59-figure-1.png",
+    "exists": true,
+    "sizeBytes": 23972,
+    "sha256": "d6c1e2de7d7b98528a28ff5688b335d4a819e45666ebbf2074508226a2838fd4",
+    "referencedByQuestionIds": [
+      "gate-2009-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-13-figure-1.png",
+    "exists": true,
+    "sizeBytes": 7490,
+    "sha256": "0e5fb32d096db9e1ecc054ac6a1c532d96f131fbe7d3ceaec0adcba78762a72d",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-13"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-14-figure-1.png",
+    "exists": true,
+    "sizeBytes": 4574,
+    "sha256": "bbf65fcb46d87782468041c005703f17c0ec1976e610c9d9b84401b93d3744c5",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-14"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-17-figure-1.png",
+    "exists": true,
+    "sizeBytes": 3142,
+    "sha256": "21f76e00efc3ce85aa6b4afd62d189cf15f94679767f5b1e05ee2a5ad64c7158",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-17"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-28-figure-1.png",
+    "exists": true,
+    "sizeBytes": 3031,
+    "sha256": "5fdeb1afec3bdbd07a01120dc809ea7380a8631d648bc1e779628afc3bdda1aa",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-29-figure-1.png",
+    "exists": true,
+    "sizeBytes": 6618,
+    "sha256": "af258c677632e63754024bf50014e3ea293c08be428316f091b5043e8fe0bf6d",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-29"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-31-figure-1.png",
+    "exists": true,
+    "sizeBytes": 6097,
+    "sha256": "b580a5ed96a9d484ce9e7ecec3a192106e64b76ee5787a27a52746316ede10d6",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-31"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-46-figure-1.png",
+    "exists": true,
+    "sizeBytes": 14658,
+    "sha256": "286b57526ae7b45cc407a63711cea4e8cee0ee004ea8082d2b8b1f9e33e1ee69",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-46"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-48-figure-1.png",
+    "exists": true,
+    "sizeBytes": 5985,
+    "sha256": "bcc0a9f57adde059f9e26d1dedc456c9c0142720231dca48d1806b07063b92fd",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-49"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-48-figure-2.png",
+    "exists": true,
+    "sizeBytes": 26967,
+    "sha256": "b385b6da1f9800a2dccadc51117069169a149807b619178809f192fbfa2956b4",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-48"
+    ]
+  },
+  {
+    "path": "figures/gate-2010-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 5025,
+    "sha256": "3122c649dac6d1b3ef7377c0b1f6d1cb43e8732fcc1f9ba3668366e859e2bfe9",
+    "referencedByQuestionIds": [
+      "gate-2010-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-11-figure-1.png",
+    "exists": true,
+    "sizeBytes": 17825,
+    "sha256": "a58d68d3e42b10456566b66200dda31aa4e2846188c1deaf51d5452c277cbc5f",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-11"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-26-figure-1.png",
+    "exists": true,
+    "sizeBytes": 12058,
+    "sha256": "a0db452e06fe4f30982f8a401bf610425ab4da1d317508fc418d7a00e4c213aa",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-26"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 24749,
+    "sha256": "34ed284bd2e3966a02c003f715f0cac5ff805ed6cda06517882b29055fbbe6e9",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 19978,
+    "sha256": "2a08b0db6bf852b9b34176106be681491d128a049e59155cac86986102aa4ec2",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-45-figure-1.png",
+    "exists": true,
+    "sizeBytes": 26045,
+    "sha256": "e5b8b6b0f924e66fb611c5dcf6d1e98620e644f174b411f2331d50831f7a1a20",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-45"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-49-figure-1.png",
+    "exists": true,
+    "sizeBytes": 11984,
+    "sha256": "adad581acbeab780dc1e52bee062c625d7caadf92a9baec5996c74aa4c325f0f",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-49"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 22781,
+    "sha256": "292460e0eb3cd3bcb92e964c4c4b4a913d8d37bab5d013809839e4b878994285",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2011-ae-ga-64-figure-1.png",
+    "exists": true,
+    "sizeBytes": 78484,
+    "sha256": "b14eab6daa11befa7564521454ba1289eb101dca8d7f05ba60aa2438ec4cdf06",
+    "referencedByQuestionIds": [
+      "gate-2011-ae-ga-64"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-16-figure-1.png",
+    "exists": true,
+    "sizeBytes": 33825,
+    "sha256": "8e8cbbd149b10c1e53f28d794da75944fda2abcc1b314bc8b5ef6fdf209501cd",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-16"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-17-figure-1.png",
+    "exists": true,
+    "sizeBytes": 11930,
+    "sha256": "3396fc20f2d719bab7d6d4984c877166c9b49d90d0d337d7215107cd3fadc0d8",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-17"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-18-figure-1.png",
+    "exists": true,
+    "sizeBytes": 15613,
+    "sha256": "ceee87d6eec5a1e2f61fe8415bea840c5cb8e418d315ee6789a747e5b8a1d199",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-36-figure-1.png",
+    "exists": true,
+    "sizeBytes": 61055,
+    "sha256": "b116dbb5a5de42d11d546a600963b7e2ec2dc776fc2879ead38d146cb827f7ca",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-36"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 31186,
+    "sha256": "4807dca7eb49c6da8d250d96e63962e37ae61ab817c73675c3b3f3e42acd20f9",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-38-figure-1.png",
+    "exists": true,
+    "sizeBytes": 15946,
+    "sha256": "1c107a44c9e6a6b054a498416aece4c6d0d59166b37c306e5571df2c678cc91e",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-38"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-41-figure-1.png",
+    "exists": true,
+    "sizeBytes": 16226,
+    "sha256": "aba908d21527173146fd24b6f749a7da582edf70fc9758f46d6ff679c6d66fcc",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-41"
+    ]
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 19499,
+    "sha256": "cdb574edf1699d1779cae6ac8bf88f8beb83704e4674f68523f5de1c82057ecb",
+    "referencedByQuestionIds": [
+      "gate-2013-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-17-figure-1.png",
+    "exists": true,
+    "sizeBytes": 82789,
+    "sha256": "a4f8d5645e5ec3051526c467a12bb4a3c189582edbe97af1fc8d0288ad295314",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-17"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-18-figure-1.png",
+    "exists": true,
+    "sizeBytes": 8967,
+    "sha256": "cc04eff18d3886415501bd2dca9307f8acef4b3ac81829a915f12af97b6c1b46",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-19-figure-1.png",
+    "exists": true,
+    "sizeBytes": 107998,
+    "sha256": "d673b61435139fa657348a25061a22532ab422d02d9b2cc288cf0a4622630742",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-20-figure-1.png",
+    "exists": true,
+    "sizeBytes": 36193,
+    "sha256": "0050708b798634ce071c1a4b217a14240843990902ea0665c8c8003b2af9c4ae",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-23-option-A.png",
+    "exists": true,
+    "sizeBytes": 12567,
+    "sha256": "ed696ea3b018565f5780de1361de76c6467acda364d4421d2851830a7c946414",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-23-option-B.png",
+    "exists": true,
+    "sizeBytes": 45339,
+    "sha256": "b5c112f6606a177bf6539f21eb912df5eb843305053169a190827cf004befcb1",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-23-option-C.png",
+    "exists": true,
+    "sizeBytes": 49310,
+    "sha256": "4ff91a597a9483e0f8df10d0f4b35d95afb343342c5ad101eca8c99710d045e6",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-23-option-D.png",
+    "exists": true,
+    "sizeBytes": 21231,
+    "sha256": "a2172e907bd7e12a7f8258e9aa789bc160598ecea046f120e79a09e79a6c2ced",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-42-figure-1.png",
+    "exists": true,
+    "sizeBytes": 166285,
+    "sha256": "226c7d844eb66317489f45156f4a26978025361f69f298aa44ced8bd865ed9b9",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-42"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-43-figure-1.png",
+    "exists": true,
+    "sizeBytes": 13740,
+    "sha256": "772ec3289c09c80f3eb35a8e319e564fbdf8fc41b58d897924a33c0444e301f2",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-43"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 8357,
+    "sha256": "173e4ee58bdd918320f4c53ea004bb560e2034eeea7d90132197108da58488ba",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-47-figure-1.png",
+    "exists": true,
+    "sizeBytes": 10158,
+    "sha256": "acc358b5b0710355d6aa8a58eafce321e67dc9f1db41abedaea20a7a29125704",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-47"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-48-figure-1.png",
+    "exists": true,
+    "sizeBytes": 65380,
+    "sha256": "07388821a68d1dd678103cffbb9bfddb4d9047a2953494d6883150247feff404",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-48"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-49-figure-1.png",
+    "exists": true,
+    "sizeBytes": 124657,
+    "sha256": "26d3f5a325b1fac668cae29f253278c153ae922ca916353ffa0c38b6fee9ca0d",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-49"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 29997,
+    "sha256": "e040f586cf452aac462b2eb741694fd95fb11c488616e1d07ea67ed1c0a47aa1",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ae-53-figure-1.png",
+    "exists": true,
+    "sizeBytes": 34952,
+    "sha256": "0635474a1639e80695f238415f256842d6e9910eaf1f5dc41f5a7017e87863df",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ae-53"
+    ]
+  },
+  {
+    "path": "figures/gate-2014-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 69824,
+    "sha256": "55063a0bd2e4e5993a93406e4951cd5e3aea5987ad6b85374d08a3538e3cffe7",
+    "referencedByQuestionIds": [
+      "gate-2014-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2015-ae-ae-26-figure-1.png",
+    "exists": true,
+    "sizeBytes": 209440,
+    "sha256": "cd3bbb21f1106883a0ace71400b533b0168766abd68c868b555fb428bbeda1da",
+    "referencedByQuestionIds": [
+      "gate-2015-ae-ae-26"
+    ]
+  },
+  {
+    "path": "figures/gate-2015-ae-ae-41-figure-1.png",
+    "exists": true,
+    "sizeBytes": 62898,
+    "sha256": "c73397a75ef850d8c174749de5d096516685b54379bd7e201471a0372843d14b",
+    "referencedByQuestionIds": [
+      "gate-2015-ae-ae-41"
+    ]
+  },
+  {
+    "path": "figures/gate-2015-ae-ae-56-figure-1.png",
+    "exists": true,
+    "sizeBytes": 82161,
+    "sha256": "208c3ec5e985586275b869e146cf460e3660802ee151f0a431f1b14e414c1622",
+    "referencedByQuestionIds": [
+      "gate-2015-ae-ae-56"
+    ]
+  },
+  {
+    "path": "figures/gate-2015-ae-ae-58-figure-1.png",
+    "exists": true,
+    "sizeBytes": 119044,
+    "sha256": "e7c776d366ac96c0457a66510e1f316685dc328031926c836714c4fdd8eedfa1",
+    "referencedByQuestionIds": [
+      "gate-2015-ae-ae-58"
+    ]
+  },
+  {
+    "path": "figures/gate-2015-ae-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 36150,
+    "sha256": "0f2713cba2d135ff41c2a95638056d35954cd8f66950d1929273ab9772cc281d",
+    "referencedByQuestionIds": [
+      "gate-2015-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2016-ae-ae-23-figure-1.png",
+    "exists": true,
+    "sizeBytes": 18875,
+    "sha256": "daa90476d3c9118081d731cb7ef92d493d728934587777bc44f697bfef740831",
+    "referencedByQuestionIds": [
+      "gate-2016-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2016-ae-ae-24-figure-1.png",
+    "exists": true,
+    "sizeBytes": 96367,
+    "sha256": "2a67ff151041a6c745b3cada07549941f0bb77964cdfb32c89151640414d8135",
+    "referencedByQuestionIds": [
+      "gate-2016-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2016-ae-ae-40-figure-1.png",
+    "exists": true,
+    "sizeBytes": 11864,
+    "sha256": "20e71826c2088d63768842e2bad1681c63a176d7217d3411cbacdbf3381b7861",
+    "referencedByQuestionIds": [
+      "gate-2016-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2016-ae-ae-48-figure-1.png",
+    "exists": true,
+    "sizeBytes": 20846,
+    "sha256": "a23e2861500cf4bfa0c68ba4fb578f10ef64fcc8a6acb82c08c3505730344f80",
+    "referencedByQuestionIds": [
+      "gate-2016-ae-ae-48"
+    ]
+  },
+  {
+    "path": "figures/gate-2016-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 8862,
+    "sha256": "5b7433272e92776405e4e834fa2a90a3d842ab2b23572229d54a2c13092b0ee2",
+    "referencedByQuestionIds": [
+      "gate-2016-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2016-ae-ga-06-figure-1.png",
+    "exists": true,
+    "sizeBytes": 83911,
+    "sha256": "19aabf2766cae5f886a28efb0c36b1e2ccb064f15f76b18c12e421731d1aa21a",
+    "referencedByQuestionIds": [
+      "gate-2016-ae-ga-06"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-19-figure-1.png",
+    "exists": true,
+    "sizeBytes": 43033,
+    "sha256": "91a923dd4ac7b8ef86637c5f817e48e9214094ad33ff2ff3cddcc0baa9898843",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-31-figure-1.png",
+    "exists": true,
+    "sizeBytes": 38378,
+    "sha256": "a06dfac1a1e2c57358fba7dfa60ce96eb21d5e55d61053999444b289f7aeab66",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-31"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 59424,
+    "sha256": "66a35da3904a372ebfaad3aa39170debd0039f32d7ac8188d27aed1b30d322da",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-45-figure-1.png",
+    "exists": true,
+    "sizeBytes": 24973,
+    "sha256": "e7fdfd5a23c2fe014b4067738f071c701854c12749cadff401241c402543f053",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-45"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-46-figure-1.png",
+    "exists": true,
+    "sizeBytes": 33354,
+    "sha256": "12304aac95a881b8642ede0f22edfe32397b140e51f411cab78d33153a096e1b",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-46"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-48-figure-1.png",
+    "exists": true,
+    "sizeBytes": 34091,
+    "sha256": "d8e42eaf84986e49a0e0dd17f7040a619e972e5f40a3337111c462172f9ea7e5",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-48"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-56-figure-1.png",
+    "exists": true,
+    "sizeBytes": 69950,
+    "sha256": "6247f2483907f01d32293db9c442903143740a916e9b58c55ed00ae0a88fc78b",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-56"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-61-figure-1.png",
+    "exists": true,
+    "sizeBytes": 55030,
+    "sha256": "3db7ab3f1af1f822fe7476f2227bd11c4e8b5988c0f9f3b309bbd4a7f1f0a899",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-61"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-62-figure-1.png",
+    "exists": true,
+    "sizeBytes": 28459,
+    "sha256": "1a2da53b57002c4db1a398a842d4a8325688cb7c338ca690698e6011cf7a9a53",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-62"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-63-figure-1.png",
+    "exists": true,
+    "sizeBytes": 32539,
+    "sha256": "5d3f76b857e4630a4b7b660c980311011029f0732b69844888ff4613117ac314",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-64-figure-1.png",
+    "exists": true,
+    "sizeBytes": 66607,
+    "sha256": "d1ef6e11cb9649ea7f73e32cfb20f2fdc6be0d0a2e9b21e4c241590cf2ddac5b",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-64"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ae-65-figure-1.png",
+    "exists": true,
+    "sizeBytes": 29873,
+    "sha256": "c1cadf530ac780497f63d3f3c7216f9865bf7a31457c0b39dff5e880c61b0867",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ae-65"
+    ]
+  },
+  {
+    "path": "figures/gate-2017-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 117612,
+    "sha256": "4ba158d64975b662881d315a4927d065d36d65abc69ce1a76caa2d6d5d713d0d",
+    "referencedByQuestionIds": [
+      "gate-2017-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2018-ae-ae-18-figure-1.png",
+    "exists": true,
+    "sizeBytes": 43002,
+    "sha256": "0f6020df6cb6c302a5c863b5c65ffbb0f41017f8ecd44ca61d86084c2399b83a",
+    "referencedByQuestionIds": [
+      "gate-2018-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2018-ae-ae-33-figure-1.png",
+    "exists": true,
+    "sizeBytes": 55791,
+    "sha256": "c42fdd59efe6ef4aaf2ab8e14e31aa91ac86e2f4f698ea9e9de0c9d19b894116",
+    "referencedByQuestionIds": [
+      "gate-2018-ae-ae-33"
+    ]
+  },
+  {
+    "path": "figures/gate-2018-ae-ae-40-figure-1.png",
+    "exists": true,
+    "sizeBytes": 58932,
+    "sha256": "f01eb0c31db2cf734255c936f35e52465aad307458987990b7594bda2258426d",
+    "referencedByQuestionIds": [
+      "gate-2018-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-19-option-A.png",
+    "exists": true,
+    "sizeBytes": 14910,
+    "sha256": "906985d7e5efe370f92c77e4f3397b78995ea7b7642034a9ecc0dd08d3098df3",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-19-option-B.png",
+    "exists": true,
+    "sizeBytes": 22679,
+    "sha256": "ed7fc19686d3b16c228aeef153e2474bbb52e5f0b8ebfeb489fa6d18163ca5c6",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-19-option-C.png",
+    "exists": true,
+    "sizeBytes": 25550,
+    "sha256": "8ae59d7669804d9cc6145f2808bcc25910db17b92fe3a1b20ad6021806690c22",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-19-option-D.png",
+    "exists": true,
+    "sizeBytes": 26595,
+    "sha256": "447b3eba627d45f64514afd2526e2368571a2283fb1ff9d50203a85c8af22ec7",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-33-figure-1.png",
+    "exists": true,
+    "sizeBytes": 60794,
+    "sha256": "b8c12fd12608a7627b7f852b48bfdf36c40e8064b5c0b1aced7bfdfc4b8ad5f3",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-33"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-34-figure-1.png",
+    "exists": true,
+    "sizeBytes": 57345,
+    "sha256": "327c65cb603e2b102c3f4db07f207ad2dd48ded089c3fd84a26fcee8e710f889",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-34"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-35-figure-1.png",
+    "exists": true,
+    "sizeBytes": 45133,
+    "sha256": "b4706d8db145dbbcd5bb285b50fc617e8904e6bdf8ed74ea4e932c0af2605390",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-35"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 88630,
+    "sha256": "660e54688398149b14fe00f1678037984873dd9b7e93179d1420d67ff9cd5416",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-40-figure-1.png",
+    "exists": true,
+    "sizeBytes": 44323,
+    "sha256": "b9909984f82885b55149dbf143756c46df9462f78f8a9e34c834208f0ac6a5ab",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-40-option-A.png",
+    "exists": true,
+    "sizeBytes": 23616,
+    "sha256": "8ff50a91b96579f58b1bc43d24356eceaa0095ae43ffb4908876e62c76282e22",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-40-option-B.png",
+    "exists": true,
+    "sizeBytes": 25216,
+    "sha256": "576e1c1f956f9e758685abb9d054e4e3944a222abcafb592a314331d03ffa696",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-40-option-C.png",
+    "exists": true,
+    "sizeBytes": 17574,
+    "sha256": "2754b8860f836704db1dbccb8a4be759ada88c7d60bb0c41ba43b2aca778cad5",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-40-option-D.png",
+    "exists": true,
+    "sizeBytes": 30637,
+    "sha256": "3e9c10005db1c7cd85ea7a67234acda8bd9feecaaa0b6b109e48ce09a21e75a2",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 46004,
+    "sha256": "2e22fd33ac5147e5eaaafffab882f42707447c6051a1bcd841f16739d0f59128",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-45-figure-1.png",
+    "exists": true,
+    "sizeBytes": 39893,
+    "sha256": "17804c0a381443d770eb9731f85b239c0f882fb4265081fa10eec1e2bf416d54",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-45"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 51102,
+    "sha256": "203d95cdbb260edea3ffbc7939e8238f6e54ab3725ec33cbee06cceb5f2e0c6e",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-58-figure-1.png",
+    "exists": true,
+    "sizeBytes": 77126,
+    "sha256": "fd8a544a4114101a9557e99692000b1eb87abce534a3d3e016864fa17b26ee33",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-58"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-59-figure-1.png",
+    "exists": true,
+    "sizeBytes": 35996,
+    "sha256": "7d26957d6505f65f0aab5d12fb3145115af6bde1b242699ba5b5af998e475982",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-60-figure-1.png",
+    "exists": true,
+    "sizeBytes": 76467,
+    "sha256": "37929018fdbc2331fb03a6955e585381370ebe29263644d5e7b56d49d082fa16",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-60"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-61-figure-1.png",
+    "exists": true,
+    "sizeBytes": 50074,
+    "sha256": "af471dfbc9aead47ad73edd9a379dcff22791002d71831567d70e7192dd52c60",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-61"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-62-figure-1.png",
+    "exists": true,
+    "sizeBytes": 38784,
+    "sha256": "54d24f29c6de05bf943fa00380cf9e99f4c6fe8c4877308faf51380cefa8adc0",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-62"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-63-figure-1.png",
+    "exists": true,
+    "sizeBytes": 46416,
+    "sha256": "fc4beb3e8ad2a47150c7d055daddbfc4defc552770ce824447d4aa2c7a23b037",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2019-ae-ae-65-figure-1.png",
+    "exists": true,
+    "sizeBytes": 51290,
+    "sha256": "951b598ba99aac64dfb58cbcdc0ea38c60c6d9ec408e32621b0c891bcd1cf877",
+    "referencedByQuestionIds": [
+      "gate-2019-ae-ae-65"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-06-figure-1.png",
+    "exists": true,
+    "sizeBytes": 48218,
+    "sha256": "e51932a4de5ff468813e0169766e677de0c1d1430c1ec05d40185f89c7c85d8b",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-16"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 208360,
+    "sha256": "e1f4ab6b7351a79620c4b0e344f21d7ab6cd339066a5117d460f69c896889b6d",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-17"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-17-figure-1.png",
+    "exists": true,
+    "sizeBytes": 96231,
+    "sha256": "99b45f9476f035f7698a1930d4b7dcd7ca3ee61ecca83793987f3235a80a5d02",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-27"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-24-figure-1.png",
+    "exists": true,
+    "sizeBytes": 42962,
+    "sha256": "069c676eea09223abfe9611cdc6a663334d9956a98e177d60b27e147ec2b6acf",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-34"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-25-figure-1.png",
+    "exists": true,
+    "sizeBytes": 33137,
+    "sha256": "ad7918d47a60368c206e8a06f4741ff5cd724aa65f008b87f008416646f2db99",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-35"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-27-figure-1.png",
+    "exists": true,
+    "sizeBytes": 85860,
+    "sha256": "7b5de5b56d2a9af3d9e431c7b034e4ff394cc23b6ee63184d077780e939ce2aa",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-27-option-A.png",
+    "exists": true,
+    "sizeBytes": 63968,
+    "sha256": "1d6cde0e5ef2478dcd68ec8bf23fd6b243877b98e862bdafa72e96c9b67e85e5",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-27-option-B.png",
+    "exists": true,
+    "sizeBytes": 63950,
+    "sha256": "d5e53843a21192a517ab72da0561129036f7b8c51ddc9907d22548577284c1aa",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-27-option-C.png",
+    "exists": true,
+    "sizeBytes": 65120,
+    "sha256": "0739b767b60abdec49effcb1610b8c5d53b32004713f7ebfd8995e6f8eb8e3c0",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-27-option-D.png",
+    "exists": true,
+    "sizeBytes": 68099,
+    "sha256": "cc424053c1c1621032487bacd7f211957a6d5b3d1a221339a347ccb37da95f72",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-29-figure-1.png",
+    "exists": true,
+    "sizeBytes": 74825,
+    "sha256": "d3c08d86c56c26d03002e39cc13d12bc6b6a3dacc6c40cb5e8bfcf3c7a5b9fbe",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-39"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-34-figure-1.png",
+    "exists": true,
+    "sizeBytes": 66652,
+    "sha256": "5260e19392a166e9ee90dd68da056f7f7866b8b2484b9a775751f3c5700d7972",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-34-option-A.png",
+    "exists": true,
+    "sizeBytes": 83365,
+    "sha256": "5c1693f161861f241a95071e3ade32198eb0040d72d10d4be21bcc68e2134bee",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-34-option-B.png",
+    "exists": true,
+    "sizeBytes": 82193,
+    "sha256": "ea242571da0ccea831f9c0be79cc2688f527910171462a2aeb1795be82f88b16",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-34-option-C.png",
+    "exists": true,
+    "sizeBytes": 90611,
+    "sha256": "e4e08342680871d5c48101dfe4536cb34cda5c5f7f6c8db516ee0d2344968e45",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-34-option-D.png",
+    "exists": true,
+    "sizeBytes": 87304,
+    "sha256": "729a12c1596ad80f480f4f2c5ee3578e6b4e352c4df6882643c731cbed8b737b",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-38-figure-1.png",
+    "exists": true,
+    "sizeBytes": 130145,
+    "sha256": "869b5873855efa80ce0fa9d146fe41809c933a596354d2dd5ebec51d73e3859b",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-48"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-49-figure-1.png",
+    "exists": true,
+    "sizeBytes": 125943,
+    "sha256": "bff9425ef57d300dc3fd560ffae4d712ecb03acb1b44baad923bd86e4bd5dd3b",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-52-figure-1.png",
+    "exists": true,
+    "sizeBytes": 180281,
+    "sha256": "827211861e7f9fc5431653732b9c272066953bf0bb2b76221865dd201756e48c",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-62"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ae-53-figure-1.png",
+    "exists": true,
+    "sizeBytes": 88533,
+    "sha256": "de1af3f5c2a0e4abcabdba15b20fe498cf5212e4c4075aec2d87e6548316ac83",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 51235,
+    "sha256": "fd35d0e97b53b3c3021175e55df2e65f95a24fd7dc3166a7f9210858b332c021",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2020-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 135413,
+    "sha256": "62b2c2e19ab2664fcdd4c09a400635060f36ce146118f66fe877f3f5fb5d5b63",
+    "referencedByQuestionIds": [
+      "gate-2020-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-14-figure-1.png",
+    "exists": true,
+    "sizeBytes": 375218,
+    "sha256": "9bd416f5288ff0cf38fc3e59c9323613f8f7356c1b1e22ca0935dcb1cbdce84c",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-14"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-20-figure-1.png",
+    "exists": true,
+    "sizeBytes": 149141,
+    "sha256": "2f76eaae68355a9bbee51bda2cc30c34cfb3e1bd32c308e286a4bdab8f260603",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-21-figure-1.png",
+    "exists": true,
+    "sizeBytes": 161511,
+    "sha256": "21e9acfc1c20c19aa45918a47d53371226ae325ac88d93945e534a32b204bde8",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-21"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-23-figure-1.png",
+    "exists": true,
+    "sizeBytes": 118573,
+    "sha256": "9d357d30f12c3427394b2dc1d47a9deb148194cfb72d61465dac44941a36ad7a",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-24-figure-1.png",
+    "exists": true,
+    "sizeBytes": 477158,
+    "sha256": "34eecd46e4220506fd06f96b964c88660a81f72a834b91c09895e0f3f0c7ec63",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-31-figure-1.png",
+    "exists": true,
+    "sizeBytes": 179001,
+    "sha256": "275544cbc87352243379a337564b4aae4c41cf84994f0a5cceb8dd90c6e10903",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-31"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-36-figure-1.png",
+    "exists": true,
+    "sizeBytes": 172770,
+    "sha256": "ed4c7382250a6a8bc9ddbf59ea15ccaeaef0d3a0eed86b6cf870ca80778d9bb0",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-36"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 294963,
+    "sha256": "90f9c48bdeadef9605979d4fcfcb4f35c0ab0e238b610d09c9b335619248269f",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-39-figure-1.png",
+    "exists": true,
+    "sizeBytes": 310125,
+    "sha256": "0dd7dcbc7e03a0b045adc465fbba9e32fab9b352aa556883685acec5cbb8bda7",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-39"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-43-figure-1.png",
+    "exists": true,
+    "sizeBytes": 362834,
+    "sha256": "2817932d2942d7611483b6e81f99c683da897f1e36495bf32fba0091892c2494",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-43"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 392626,
+    "sha256": "9ed2fe117938f6be83749ef9550729f53d4540d7f6f6d4adbf997fa307a5a60d",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-56-figure-1.png",
+    "exists": true,
+    "sizeBytes": 189164,
+    "sha256": "c19af54e495a1e2404ab6d8ecbe0658c94d6a957019e524d76aac5780a0e1b45",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-56"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-59-figure-1.png",
+    "exists": true,
+    "sizeBytes": 366820,
+    "sha256": "cc05e7fb333b3e7313efde05f88f9649efeed6d93e1a80129ff9a3b9b342bdac",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-60-figure-1.png",
+    "exists": true,
+    "sizeBytes": 224218,
+    "sha256": "5736bc72fde42bf448a5cd80fe08baf3215e7c258120875e188ff5bd1272b497",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-60"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-61-figure-1.png",
+    "exists": true,
+    "sizeBytes": 218929,
+    "sha256": "318026d868ef71f09c1eef03593ff873e4a13f45e85962b7bc346b5a071714b4",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-61"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-62-figure-1.png",
+    "exists": true,
+    "sizeBytes": 356007,
+    "sha256": "4b83df889e22240814e6f13dd01cacff6cdd3ce444b9afbdf93232f8abb4d639",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-62"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ae-63-figure-1.png",
+    "exists": true,
+    "sizeBytes": 133896,
+    "sha256": "6ba380756e7236da8b90c173f75212ba36ec57fd001f2c5229497545866a13da",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ga-02-figure-1.png",
+    "exists": true,
+    "sizeBytes": 109128,
+    "sha256": "1a390fb69437123b873f4094dae9e4bf4f1be8a72deb22a4a81b70e606bbec83",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 64615,
+    "sha256": "4c66d7dc0aa0c5f70ed2cdbbb4f35d11a3737a4bade898d594f3f07401d7c0de",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 62940,
+    "sha256": "04241d41077656720f25ac83955da5702090339e9b6007ac55f7210da6a5ef4d",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 49641,
+    "sha256": "475d7115a0d7bf94b5c795b32ad1c93e3a376c8f331271689b0538be107c8708",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 68317,
+    "sha256": "6812124373e1e234f9fced4c622b08f566e612a5b4a94d0a424c3169c1dad131",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2021-ae-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 221590,
+    "sha256": "6018068576ee3bea23670c459a93a15efbb4983c1cb6b72e11d48ab011da7942",
+    "referencedByQuestionIds": [
+      "gate-2021-ae-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-16-figure-1.png",
+    "exists": true,
+    "sizeBytes": 33828,
+    "sha256": "88db9c77bfd3cfdc3fc5d7dc47c73b82e6a5d1744f40750e93abf262dc7d5d51",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-16"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-17-figure-1.png",
+    "exists": true,
+    "sizeBytes": 13720,
+    "sha256": "f80ac8c6185b7b689e13e0319460f8966e737fe2c0809c4860f52a954406d1dc",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-17"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-20-figure-1.png",
+    "exists": true,
+    "sizeBytes": 84756,
+    "sha256": "1def718d30fc4bd1ac1793e50f18879084b4812c6c67f8cbcb99c06591e01305",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-21-figure-1.png",
+    "exists": true,
+    "sizeBytes": 89473,
+    "sha256": "a4afef2bb22d7173a0af405ba41e7db1a6e772195669f971eff71e277124391f",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-21"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-22-figure-1.png",
+    "exists": true,
+    "sizeBytes": 80707,
+    "sha256": "d398b8d189626a63bfc0a12d4ef75336b4e9e85c723016d1af254a3f97b656e6",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-22"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-28-option-A.png",
+    "exists": true,
+    "sizeBytes": 7229,
+    "sha256": "d0f8190ad19112d9049e8185ccedaeaff732f6cf76aa86287949bc1f6be11d2a",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-28-option-B.png",
+    "exists": true,
+    "sizeBytes": 31788,
+    "sha256": "4dfdbe80cb4e16dd6a8ff5764ca7094abe8e65e157716a5296fa903bb2b2805e",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-28-option-C.png",
+    "exists": true,
+    "sizeBytes": 6903,
+    "sha256": "85a475cfde2e7bc984bb7107d42fe3146c0958ae6df4d5030bb8c61bfba4fcb3",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-28-option-D.png",
+    "exists": true,
+    "sizeBytes": 7993,
+    "sha256": "83b688a6ac7c33e055a087b717951249dc400f4ae427ca40756e9a665c6eca3a",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-33-figure-1.png",
+    "exists": true,
+    "sizeBytes": 41723,
+    "sha256": "a12013828e332e14011b6745f60930b7981f47436a2682ff730c4c2d735eda88",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-33"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-35-figure-1.png",
+    "exists": true,
+    "sizeBytes": 299158,
+    "sha256": "c5dbc511fb3bfe44cef6b3006631271a1ac07a7e142d7afab06fd24ff905bf01",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-35"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-41-figure-1.png",
+    "exists": true,
+    "sizeBytes": 83659,
+    "sha256": "3b7c1e6c786cff5f41702b786c1623b262bb543e5aff887740e26d09d948aa6a",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-41"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 55508,
+    "sha256": "da3bad222e825b59fe61b6fc0439d3251da1149fa3f7211e707e6a64097699d7",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-52-figure-1.png",
+    "exists": true,
+    "sizeBytes": 24241,
+    "sha256": "8d7dc1765ccf296f4020c8645b496734971a9552e896121d048625da2f89e54b",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-52"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-55-figure-1.png",
+    "exists": true,
+    "sizeBytes": 72039,
+    "sha256": "ca3ec4e0331fe9b53dcd56fbfb273bed2d6108227c59d3bc85b74966d53c8ede",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-55"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-57-figure-1.png",
+    "exists": true,
+    "sizeBytes": 182968,
+    "sha256": "c4a092a05439f1ec60b23f09234d7bedfca3d88230753fefab8332a6d028898b",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-57"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-59-figure-1.png",
+    "exists": true,
+    "sizeBytes": 135264,
+    "sha256": "6e603b129a554eb9acf7c6a46b1cd4ae2ecb3283358abb0889912981f6f05191",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-60-figure-1.png",
+    "exists": true,
+    "sizeBytes": 173660,
+    "sha256": "98cdf050c3c86ee532b21ecdb975d457f26274d7d72dc94bc07fb5326db0b482",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-60"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-61-figure-1.png",
+    "exists": true,
+    "sizeBytes": 7858,
+    "sha256": "5f32cf5308cb60d79d4439bbe18300b34e6526bd26095d6ea069e50cf89f2cf2",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-61"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-62-figure-1.png",
+    "exists": true,
+    "sizeBytes": 71147,
+    "sha256": "39bb0ff1b5a6be7b5befb614c5dd5982e2f3f5551fdf4288dce2b2f8a77883a5",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-62"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-63-figure-1.png",
+    "exists": true,
+    "sizeBytes": 18400,
+    "sha256": "b7a18fda2905e2202c7dfbf54cc15d9e7e57253a935556efedb936c77bcc5554",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 17632,
+    "sha256": "15a51f6666f091d124a1d92c7f00b4568c9dd4775bc7242703bd04abbee6e6d6",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 18102,
+    "sha256": "523334c8fb68edc54b9b3cf6bd7a183113f83e5be2a90a16f5b13a5f2c4566db",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 20200,
+    "sha256": "cdf4a4d5840ab889194e880cdafc5ee15c0ef99f4673e15f2241e7a3e75b1d94",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 22336,
+    "sha256": "29284d36c5c692b47dedc0b98ad29c5d4cf656cb1749f974d804bb939dcc1452",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-05-figure-1.png",
+    "exists": true,
+    "sizeBytes": 24282,
+    "sha256": "e001cdc9e297822ad626726bc4b14543867b127168b94fbb3cfa983f45aea101",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-05-option-A.png",
+    "exists": true,
+    "sizeBytes": 29006,
+    "sha256": "65e2eeade5ab98c2095c215a8f981921b81fdc16331f6af5f6434cb56bd7caf1",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-05-option-B.png",
+    "exists": true,
+    "sizeBytes": 33596,
+    "sha256": "28753f9a35308e5ae45c54c08f310db017756ef009136c9f785b5f1e5920876b",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-05-option-C.png",
+    "exists": true,
+    "sizeBytes": 6291,
+    "sha256": "b2297740d1e247490b95598862d4b374002ff12d8bfb469cad96bf512cfedec5",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-05-option-D.png",
+    "exists": true,
+    "sizeBytes": 34159,
+    "sha256": "49dcdf261dcdbf59e6b46bd17216560e76ecdc706de182c103836bae0d751855",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 189697,
+    "sha256": "fb608dff56b4cca19d4a4a7a8cf75a91a573dc5c1b794512621c75c5f481f9a6",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2022-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 186213,
+    "sha256": "928e94332a2ce8d84c1f652a4b95ce7c927f5dc7f26711ab7017ff786a2de4e1",
+    "referencedByQuestionIds": [
+      "gate-2022-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-14-figure-1.png",
+    "exists": true,
+    "sizeBytes": 46087,
+    "sha256": "5169fdcff4d7dcfff58f1f011e6c18d740a64211a83ce530f94be07fb9ce9bbf",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-14"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-18-option-A.png",
+    "exists": true,
+    "sizeBytes": 33693,
+    "sha256": "5c362f08413847eaaace4eb3dcbd387625aebd7927f7cc42da77fdbf0edf87ec",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-18-option-B.png",
+    "exists": true,
+    "sizeBytes": 28102,
+    "sha256": "411831cd6b2215b73817bea06a262c167bbbfef98eb92679983417c80a1a7d9a",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-18-option-C.png",
+    "exists": true,
+    "sizeBytes": 20955,
+    "sha256": "2013c29b45db5c42ab0534eff659fef10e53f84b891ed97400942b64626fcbfe",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-18-option-D.png",
+    "exists": true,
+    "sizeBytes": 13686,
+    "sha256": "5c44ab1e7e6c78be5630a828c6aa86366d057e06c32a816e390e3337f6309d21",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-19-option-A.png",
+    "exists": true,
+    "sizeBytes": 23591,
+    "sha256": "6f645070d4a91bbf064543118f540031e1133f7207c4a308bc33b0cd72b17546",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-19-option-B.png",
+    "exists": true,
+    "sizeBytes": 22986,
+    "sha256": "ee5cf9ac1a2244ed3e77e90e42efb6f5cbb6b650e2d4b0b60064efda453d7f42",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-19-option-C.png",
+    "exists": true,
+    "sizeBytes": 23612,
+    "sha256": "216ea301c157aee1ec6441f69b3be612eadbbcaf2ec738e21c45bf307d984374",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-19-option-D.png",
+    "exists": true,
+    "sizeBytes": 23594,
+    "sha256": "a207860849ae0ad5f81cf1e65daf3b0bae9052c47badb07afc8680d15634cb30",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-23-figure-1.png",
+    "exists": true,
+    "sizeBytes": 57848,
+    "sha256": "6a0001383060074fef0bdb8cb5843958e0e65847128d9c268dbc701f2634dc89",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-24-option-A.png",
+    "exists": true,
+    "sizeBytes": 28480,
+    "sha256": "7929ee4a1b7a876e2d974a221a6b6bb81542d091a1821434423f05d8fb268290",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-24-option-B.png",
+    "exists": true,
+    "sizeBytes": 21904,
+    "sha256": "6fc4134ae31245822600ad3b35b0457f90f4de7a1b640ec4be011115f0d7f116",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-24-option-C.png",
+    "exists": true,
+    "sizeBytes": 23255,
+    "sha256": "1bde6c8f7084ba85a845b3a6d8f35f1d315494d25e4bf75b61e779ba4c35b2d5",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-24-option-D.png",
+    "exists": true,
+    "sizeBytes": 36292,
+    "sha256": "73ef58c4b63413d4cf2aad9925cb7c03fc81abb2f153ef97f65aa5e45254a185",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-30-figure-1.png",
+    "exists": true,
+    "sizeBytes": 54155,
+    "sha256": "c5728694bf8838c67622398d87207da5174e3e03158c1bd1ccb57eeaaa0b3873",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-30"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-32-figure-1.png",
+    "exists": true,
+    "sizeBytes": 89604,
+    "sha256": "046e42e1019b0f4df2587a05c78c1f50c4054bccb08dd148007af4a89a1ad9c1",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-32"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 80630,
+    "sha256": "62f6974b17c84468027c8766595bd85ba0a582c9062e3fb81c4a3e32319e1fe6",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-41-figure-1.png",
+    "exists": true,
+    "sizeBytes": 66268,
+    "sha256": "9a17ca649a31d5088ceaf7e72224471ce9cd8ca08cde8169e7939cc5aea8b7c8",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-41"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 39213,
+    "sha256": "5ef38541a659dd5cb36b0989a69c2c64549417516fa66acf35472f258b92f04a",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-49-figure-1.png",
+    "exists": true,
+    "sizeBytes": 81679,
+    "sha256": "bf608d855c6f3ea7b660a315bbad7366972742c128d04d5b37f61e482013729a",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-49"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-50-figure-1.png",
+    "exists": true,
+    "sizeBytes": 23296,
+    "sha256": "86b2f45a7d25f7e7d92f483985ecca1c192ede4357d031d3245371a80794f227",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-50"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ae-52-figure-1.png",
+    "exists": true,
+    "sizeBytes": 59224,
+    "sha256": "ce017954e529d474447eae29f7fadaa4fe9d52d8ebf0e841a3c3c8b76201bc1f",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ae-52"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ga-03-figure-1.png",
+    "exists": true,
+    "sizeBytes": 26588,
+    "sha256": "1d05468e06ed666805c1179c75571785d3195b055696a50d5911275a1485d0ac",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2023-ae-ga-05-figure-1.png",
+    "exists": true,
+    "sizeBytes": 30180,
+    "sha256": "c720b1bd42109c41ee633218960188a2ad31e4a0f08abb2e7984d5e012cebd6b",
+    "referencedByQuestionIds": [
+      "gate-2023-ae-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-14-figure-1.png",
+    "exists": true,
+    "sizeBytes": 179422,
+    "sha256": "0afcfeda67eff6592b28c7c1c7fd4fac851654a8773130f57a9f4103da20b46f",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-14"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-18-figure-1.png",
+    "exists": true,
+    "sizeBytes": 49978,
+    "sha256": "723afc8277385aed48717ea6488a838c1ab75b4cc703548289217f015e6b7102",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-20-option-A.png",
+    "exists": true,
+    "sizeBytes": 23584,
+    "sha256": "57690f478870e558821bd394817b877c0d2e367625499114ce464fa3dd9179b6",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-20-option-B.png",
+    "exists": true,
+    "sizeBytes": 23440,
+    "sha256": "6bea4af3eeaaa389f3deb8daf4c3a19f471fa55dc77dde63347a2212c438765d",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-20-option-C.png",
+    "exists": true,
+    "sizeBytes": 32968,
+    "sha256": "b220376c6da980aa658ee8239d24f4591a4897fc852d6bdfaa9c15be849a32b0",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-20-option-D.png",
+    "exists": true,
+    "sizeBytes": 25147,
+    "sha256": "dca45d96bae0ad9fa35c5849b65c4398eb8c58d2cc60d090fb24f9dcb942fb1a",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-23-figure-1.png",
+    "exists": true,
+    "sizeBytes": 13825,
+    "sha256": "e60f2c1c519efa0db00629dc136ff9cbaa6a1cedc5d4b37462d59d97b3995f49",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-23"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-24-figure-1.png",
+    "exists": true,
+    "sizeBytes": 172785,
+    "sha256": "5cbc04ae2f471c99085b603c13c37d43751a6410cca86eac4ed2e79880a1d137",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-24"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-25-figure-1.png",
+    "exists": true,
+    "sizeBytes": 24756,
+    "sha256": "187435e16b8e7d6de547cda937c7c6676227b58dfecdd8a78642391d68ccead4",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-25"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-25-figure-2.png",
+    "exists": true,
+    "sizeBytes": 23298,
+    "sha256": "d141aa9860d1546ad6c61850162b228dc031ebbd153fc0b1c6caa18377618baa",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-25"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-28-figure-1.png",
+    "exists": true,
+    "sizeBytes": 53843,
+    "sha256": "71f1f7b78a7319b1a7698e4e3cf796b7fca602faf97bd670da774f38bed6eb8a",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-37-figure-1.png",
+    "exists": true,
+    "sizeBytes": 73567,
+    "sha256": "d2e4338c167d2e8582680ce8b888f933fed63ecbd7cc47cd2c6bcf859f87a5b0",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-37"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-43-figure-1.png",
+    "exists": true,
+    "sizeBytes": 69719,
+    "sha256": "53ae1652b7bd51564e0757c0817afabc962687b5f4488baf49ae4cc93707f2e2",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-43"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-44-figure-1.png",
+    "exists": true,
+    "sizeBytes": 139571,
+    "sha256": "77b0705c1e087906fd1d60df74015a59d22a7d6ecff4d992f5233c4f2c46b9cc",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-44"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-46-figure-1.png",
+    "exists": true,
+    "sizeBytes": 80738,
+    "sha256": "29b278bfe0755e12f9cab8655cfd5ef4c93f3aebc05f086c4f1dba1baa01dd6f",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-46"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-48-figure-1.png",
+    "exists": true,
+    "sizeBytes": 23381,
+    "sha256": "6829eebd51791a21a51093be32583196272ef96df164826c041b67e9d6af47f2",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-48"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-52-figure-1.png",
+    "exists": true,
+    "sizeBytes": 159107,
+    "sha256": "eadf3890ae440cf1a4424a515bc5719663e4e8e6514000711ef553d7626aae80",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-52"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-53-figure-1.png",
+    "exists": true,
+    "sizeBytes": 68806,
+    "sha256": "25218293ee1fd454abfb2862359e4e39653cda7eb6eed183663f73f500531715",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-53"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-54-figure-1.png",
+    "exists": true,
+    "sizeBytes": 24158,
+    "sha256": "4700aa29ffeb3e5cdeacd8dbc58bc047b5cca0fc29b037e707d699ac52c30c99",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-54"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ae-63-figure-1.png",
+    "exists": true,
+    "sizeBytes": 259770,
+    "sha256": "55ece871d34f9a7522e359ffbf2a670af06c4c033fbc5c181a69981aa1b222ab",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ae-63"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 108450,
+    "sha256": "bc45f0de49571ca0c476d6cc5e061b219c217a714d36a1da5132aa7752effad9",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2024-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 8281,
+    "sha256": "c610dbe1184535b1121ccaf93a278cf2bedc81ee6f1739412cda828f6a3b3e7e",
+    "referencedByQuestionIds": [
+      "gate-2024-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-19-option-A.png",
+    "exists": true,
+    "sizeBytes": 16902,
+    "sha256": "8cb69922cf0c57b5f5b9cbb1b0971d0ec59737c083493a0d8d12078a09279cc8",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-19-option-B.png",
+    "exists": true,
+    "sizeBytes": 16755,
+    "sha256": "b551fb26eee4342f2f90617ab605d94d495c398f2c6f92d2bb970cb931e8f927",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-19-option-C.png",
+    "exists": true,
+    "sizeBytes": 12029,
+    "sha256": "527f1d2b837470152891591e327641e991e0f2a1ac108f557c3f97273bf87ce1",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-19-option-D.png",
+    "exists": true,
+    "sizeBytes": 12168,
+    "sha256": "8db458d04a7e59d91259ccd89ad2ca2a8336c448a890d9933229747473dd4e90",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-19"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-20-figure-1.png",
+    "exists": true,
+    "sizeBytes": 48023,
+    "sha256": "8a78f953516c85e11c083d55ce78c530ff06bd8f8f1751d2043ec635b3d4222d",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-20"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-27-figure-1.png",
+    "exists": true,
+    "sizeBytes": 26515,
+    "sha256": "48c9d3cb239dc6452c9e0331579f3d931c5f65eb4e9b3dbbb2c5829289564b07",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-27"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-29-figure-1.png",
+    "exists": true,
+    "sizeBytes": 17802,
+    "sha256": "b00fa7b607985e594d5c014708a2bb4dae1acc634a225c10422ce1037ed38f7c",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-29"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-30-figure-1.png",
+    "exists": true,
+    "sizeBytes": 78522,
+    "sha256": "65c86ef161de571c50eda14a1da4e40e885bd904664c5f00a6a4b9a1aff433f8",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-30"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-49-figure-1.png",
+    "exists": true,
+    "sizeBytes": 37923,
+    "sha256": "c218769db688b0c8dcfd4270c10395a3a9c5540d3864c808c00065f0fcd6c357",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-49"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-53-figure-1.png",
+    "exists": true,
+    "sizeBytes": 47698,
+    "sha256": "2307ff3586897d34733ae297ddb2fbdf98f538799473a350f836798805ccaa79",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-53"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-56-figure-1.png",
+    "exists": true,
+    "sizeBytes": 45864,
+    "sha256": "490607c8730565e8b9f259e355f4909f4a117cb916a8e02683f605987f7cd47f",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-56"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-57-figure-1.png",
+    "exists": true,
+    "sizeBytes": 29255,
+    "sha256": "637d54a8cd0dc7189796a799fa6c15cc5b47cd9a23bd5b44c0ba5e92e64d3fd2",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-57"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-58-figure-1.png",
+    "exists": true,
+    "sizeBytes": 23798,
+    "sha256": "c2738cc4a7e909b37b714ec242d0f73d62f327b8674dc156a49b5000a187f86c",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-58"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-59-figure-1.png",
+    "exists": true,
+    "sizeBytes": 29123,
+    "sha256": "33aba00b8950c0854adb0bbba1f8fce6a2968ea001517b49dfc002c2aa395ec4",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ae-60-figure-1.png",
+    "exists": true,
+    "sizeBytes": 69962,
+    "sha256": "e15ff3cbd144c1335437e7523838bf5804f79c541d58db9fbbd5708e1c95ed5e",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ae-60"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ga-04-figure-1.png",
+    "exists": true,
+    "sizeBytes": 43000,
+    "sha256": "70d9c11fea4655b5483fe62696d506773bb7f2e02c23ca89a51e131852d80710",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 80156,
+    "sha256": "07163746b542696f94d82d30b0d0e98fdcf236e1ab8f14d63c86ae851a93635d",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 39178,
+    "sha256": "453a5fe480c2e7e47d6b33069c207f7e213446c172325d58b7299501c5471ec2",
+    "referencedByQuestionIds": [
+      "gate-2025-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-05-figure-1.png",
+    "exists": true,
+    "sizeBytes": 41438,
+    "sha256": "2b1d7159b7d3183c24754b980931ce9017937cf3dff9dc5f7ea66d4d0267ce82",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-05-option-A.png",
+    "exists": true,
+    "sizeBytes": 11771,
+    "sha256": "06846a43fe1ef24c961e448465189690984f23522dc9cfc466ac4c5aeda8a9fc",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-05-option-B.png",
+    "exists": true,
+    "sizeBytes": 14571,
+    "sha256": "0fc8ea14a2a20e6e7b05fcd93536b7a5194d7a34b2362c48154e1d7904884263",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-05-option-C.png",
+    "exists": true,
+    "sizeBytes": 13955,
+    "sha256": "5eec9c935d314e0c4d7b6c3f574c32e16fac8f55e5bdd988d3a02050bc4728d1",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-05-option-D.png",
+    "exists": true,
+    "sizeBytes": 14873,
+    "sha256": "729574ccfac2e536cebb2aa324d48cfde11bada1d9fafc99ee21b1fd4acae236",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 87038,
+    "sha256": "8c3a93111decdf4c5599467c6f8cfe2b9caab24b204a34527c70d99686d38942",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-08-option-A.png",
+    "exists": true,
+    "sizeBytes": 39703,
+    "sha256": "d85a8207e949149a4da957098d31fec8feb90caea87f692a21ff91fba24c311e",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-08-option-B.png",
+    "exists": true,
+    "sizeBytes": 39841,
+    "sha256": "5feeaebbbe68894533f7ad8fbde37d3257b04e868231a8a37423d7bc7cabfc8a",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-08-option-C.png",
+    "exists": true,
+    "sizeBytes": 39846,
+    "sha256": "b187ddd91e7865b6d60cf315de1aadfd3b26bc7a535d19d24d083b93626b0a77",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-08-option-D.png",
+    "exists": true,
+    "sizeBytes": 39957,
+    "sha256": "04a068cd13e87f6e97789376836962c53004f1f721642e7ab5f08687ea0da5b6",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-10-option-A.png",
+    "exists": true,
+    "sizeBytes": 2436,
+    "sha256": "be17800632eee92bc5ec65f4f6357df1da4bfa77856ee4601d07e67c129531bf",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-10-option-B.png",
+    "exists": true,
+    "sizeBytes": 2353,
+    "sha256": "8e06cbcce82770b2b8eb3f5b5963a038a4bf9141fddf6224ae0ef1f815aefa94",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-10-option-C.png",
+    "exists": true,
+    "sizeBytes": 2314,
+    "sha256": "848c386a6eef5bd1c281e12691bbfe590f52cb3f0bc4b5c0f2c831a91d9f7fe3",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce1-ga-10-option-D.png",
+    "exists": true,
+    "sizeBytes": 2335,
+    "sha256": "9e6325b50a30932ac33c6dc412ffc681666370b7dbd3b8abc2eb2bc15a147f03",
+    "referencedByQuestionIds": [
+      "gate-2025-ce1-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce2-ga-05-option-A.png",
+    "exists": true,
+    "sizeBytes": 34783,
+    "sha256": "860777d2a25cbe274bd2becb092bdbdfcab0bd4b9b34d6b12eff33540d77269d",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce2-ga-05-option-B.png",
+    "exists": true,
+    "sizeBytes": 33499,
+    "sha256": "e6d03a45cd87dcdc78ddf7c5603d2add92d4e16cdc65549fb6892b9815fb9bf7",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce2-ga-05-option-C.png",
+    "exists": true,
+    "sizeBytes": 33170,
+    "sha256": "0edf8542b64a398f5fa9deb714d1aeec6962fcd34add8bb16863fd598ee72f64",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce2-ga-05-option-D.png",
+    "exists": true,
+    "sizeBytes": 33593,
+    "sha256": "afbecb8a0ed2d878f6173b38399cc96cf960e183d4fc8bed0421c581cd8e42d6",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce2-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 43800,
+    "sha256": "19f3ef2a74a38605bee041e825247164394cdbca7931aac343b62bc2b769ceca",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ce2-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 18467,
+    "sha256": "b2006b313af629cf53c7a03ea33c43941f941eb8738f8451e851cd2a7d278c92",
+    "referencedByQuestionIds": [
+      "gate-2025-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-05-figure-1.png",
+    "exists": true,
+    "sizeBytes": 46197,
+    "sha256": "b4d5e062081bf34dbaa5512d4906172395960ad6576511064d3c9cf0adbcf362",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 12882,
+    "sha256": "d2c27fc523423a627f7bd56f7cc33b7c8a1d01dca9daa6bea530ce41fc9b8dc7",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 14823,
+    "sha256": "f73e2e34c0802f1e97886164d0f7ce39edc5ef363d8b10465e8e612195cc9fcd",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-09-option-A.png",
+    "exists": true,
+    "sizeBytes": 2479,
+    "sha256": "0aabcdc23655447c915b2774ca85cccba24afb34f5eaa62ce4c593d61f9f7521",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-09-option-B.png",
+    "exists": true,
+    "sizeBytes": 3838,
+    "sha256": "8efff6bf87c4941ed6ff09fa338f99863bdc43269609bd907c52b9533c3ff3ad",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-09-option-C.png",
+    "exists": true,
+    "sizeBytes": 2423,
+    "sha256": "c490b515b676a9231ececcf7f96afc79266f612f136f031949f7e0681ba4e361",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs1-ga-09-option-D.png",
+    "exists": true,
+    "sizeBytes": 2400,
+    "sha256": "a3e4db6e543ba2694403bc1fea02dad34921cb83649a70154fc1a5cb95f9dde2",
+    "referencedByQuestionIds": [
+      "gate-2025-cs1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-04-figure-1.png",
+    "exists": true,
+    "sizeBytes": 4090,
+    "sha256": "989857cd3e548e89f162ce7d7f540359124775450f360abacb372c8398441e52",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-04-option-A.png",
+    "exists": true,
+    "sizeBytes": 3510,
+    "sha256": "5d7bd1855ef7243535cab50dae36f1777bb05d2f220a5ef8dc8706c3b80b3879",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-04-option-B.png",
+    "exists": true,
+    "sizeBytes": 3392,
+    "sha256": "3acf5e6bd41cb32cc552ad2f13f6b6582c6718ebbd28ab95c945c9b528268b6c",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-04-option-C.png",
+    "exists": true,
+    "sizeBytes": 2831,
+    "sha256": "a1b29bc7526610f5e7cf9f80e8d4fd01a60b9bb6d04d48bb0c6ad2614900d374",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-04-option-D.png",
+    "exists": true,
+    "sizeBytes": 3908,
+    "sha256": "cb281f7f4d039e6b6485c69b1e258542721c91aa975bb0a6b7343e464302cc81",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 15739,
+    "sha256": "4bb49a531e5c29344700983cb898ad4073e5343744c867693c06cd655846b1bd",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-cs2-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 36969,
+    "sha256": "c3543bad7f53c1690b6c78e397902e5e58c2a89910538daa138f0892f926e4cc",
+    "referencedByQuestionIds": [
+      "gate-2025-cs2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-04-figure-1.png",
+    "exists": true,
+    "sizeBytes": 524,
+    "sha256": "e7749a209ea7c4b02eab4bd999c84d9d273fc4365db37ed0fb39c4aadc431af3",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-04-figure-2.png",
+    "exists": true,
+    "sizeBytes": 2298,
+    "sha256": "f71050794f6ecd582c69329e812615aff734f47da07da24168cc39897c59bdf0",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-04-figure-3.png",
+    "exists": true,
+    "sizeBytes": 3605,
+    "sha256": "94bd0df072abcf44c1f2949e89acde52cb6591b78e6207199fc128677d51453c",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-05-option-A.png",
+    "exists": true,
+    "sizeBytes": 10139,
+    "sha256": "6166ed5f9b183e12f577b2a5e95873db886aa179eeb8c29da5fd93ac8c194730",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-05-option-B.png",
+    "exists": true,
+    "sizeBytes": 10153,
+    "sha256": "e9286ec41a2709fe2e899975c72fe3f6f55ca575d84033e36960433f7fa19432",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-05-option-C.png",
+    "exists": true,
+    "sizeBytes": 10334,
+    "sha256": "9d9ce30dfed41f06a07e8b5a7ab3056aad5821831adee6f55511bcd0b72edd9e",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-05-option-D.png",
+    "exists": true,
+    "sizeBytes": 13130,
+    "sha256": "93e2ac6e83890535a0df61e6a4c549a12c01af367b0db42a08cfb11bc5ddbdd1",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 1620,
+    "sha256": "90ecbcdbec9de34338b311d93b07434c358924897f9848544f03b9d906741ab8",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ec-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 22742,
+    "sha256": "c2a9f6a0d2d500004536e71b88ee770fe7e974d327f7f73623c7010542bc8375",
+    "referencedByQuestionIds": [
+      "gate-2025-ec-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-03-figure-1.png",
+    "exists": true,
+    "sizeBytes": 26823,
+    "sha256": "7a0c57f6cbcb005d34b1908bf81a5faf7aca4dd1590cb9255b91b8521a7b6923",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-04-figure-1.png",
+    "exists": true,
+    "sizeBytes": 6164,
+    "sha256": "4540c4bd179179434418a73833c54583f56428b825d804b408648cce54407f88",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-04-figure-2.png",
+    "exists": true,
+    "sizeBytes": 6422,
+    "sha256": "6744898ad97a51177df1624a3897797700bf3a6df9797c90cf0153ee1c02192e",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-04-figure-3.png",
+    "exists": true,
+    "sizeBytes": 6228,
+    "sha256": "500e25dc3939398e3b23df4e485606c01f0e5526454799807b6d0188cd92c8af",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-04-figure-4.png",
+    "exists": true,
+    "sizeBytes": 7488,
+    "sha256": "8e66057d38a68b3d4108a452b8b97852d3d472130ae3b117d0f60eea9fa868b7",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-04"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 49242,
+    "sha256": "f4d882725c128b06e9b30d24e5cd8e2fce10c3ed783600fbf6d798a5eb98098f",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-ee-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 56895,
+    "sha256": "0e4a0e04cf95916b58dd632a8f3707548e3d813bfbcb10a7b517fe7b90475d0f",
+    "referencedByQuestionIds": [
+      "gate-2025-ee-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-me-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 14258,
+    "sha256": "307505832c7887e8ea7ed7b7445f2912743a5900eacf3784db86faaa28902ada",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-me-ga-08-option-A.png",
+    "exists": true,
+    "sizeBytes": 9417,
+    "sha256": "afab9e31f46f8fd232952978a94f3d890eddb9fe01fd09b7be63529ebcf14688",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-me-ga-08-option-B.png",
+    "exists": true,
+    "sizeBytes": 9383,
+    "sha256": "50df359986857e973aa94f00b2fc6215423692662716e8c53822e3e94ef7a12a",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-me-ga-08-option-C.png",
+    "exists": true,
+    "sizeBytes": 9379,
+    "sha256": "4581f713dc8858985b110faf183b2f041466c429c31d0b31f486eb33ec48dfc8",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2025-me-ga-08-option-D.png",
+    "exists": true,
+    "sizeBytes": 9306,
+    "sha256": "fe9f0ffffc475bc9620f612665d4c624bac0bb1b1aec95099973e602d2c04d56",
+    "referencedByQuestionIds": [
+      "gate-2025-me-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-11-figure-1.png",
+    "exists": true,
+    "sizeBytes": 29031,
+    "sha256": "a97d090f08c299dc16b627cf8455db6a467a7688818a464853d858f4a570fddb",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-11"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-12-figure-1.png",
+    "exists": true,
+    "sizeBytes": 50348,
+    "sha256": "602ef181c68ac41edd36329aa3e7c7470ca1516328b63529de8ed843be3df9e5",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-12"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-18-figure-1.png",
+    "exists": true,
+    "sizeBytes": 76797,
+    "sha256": "3321b035fd99811bd00cbd572d809b6649d7f595e35b71beb00f33585681c74b",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-18"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-21-figure-1.png",
+    "exists": true,
+    "sizeBytes": 51655,
+    "sha256": "38a1e5d4b9599af10d2bf9efe4084bd97745240cdce198a13b783dba41df5028",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-21"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-25-figure-1.png",
+    "exists": true,
+    "sizeBytes": 50513,
+    "sha256": "dd322a8df3f2cdea752995bd51a4d25d86287e86cd5428f78c361cdb25363dc2",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-25"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-27-figure-1.png",
+    "exists": true,
+    "sizeBytes": 120827,
+    "sha256": "ab2fa0bcbba3e483e31b141495d3f08eaeee9b24098d67b85f0fcc55a794b5e2",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-27"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-28-figure-1.png",
+    "exists": true,
+    "sizeBytes": 66988,
+    "sha256": "b856e8121b40a1fc98e2720f030934fcc3ee1d6d2a408371df112058222f735d",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-28"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-38-figure-1.png",
+    "exists": true,
+    "sizeBytes": 103458,
+    "sha256": "d36ef47d1cc46e83f8dcffc74ba99fbcf091f2b53715a7005309185300deea20",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-38"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-40-figure-1.png",
+    "exists": true,
+    "sizeBytes": 60367,
+    "sha256": "2906f226e90cde77d6a999ddb2543e85913c7efc446dd544b8672f619176c50f",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-40"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-42-figure-1.png",
+    "exists": true,
+    "sizeBytes": 73400,
+    "sha256": "67305d168a6b8851df6ef6f9319d83a8b4c8d029315519f1bdd43d3af021863b",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-42"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-46-figure-1.png",
+    "exists": true,
+    "sizeBytes": 75572,
+    "sha256": "ab3314477c4bfa08421f750795935f832b4a4cfd677dfd0e31f9d4f4eafb2bd8",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-46"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-47-figure-1.png",
+    "exists": true,
+    "sizeBytes": 46508,
+    "sha256": "9ee7bfe46c2ab9d9a743105332377bfb8791afd249a972d02083372f08819eff",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-47"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-59-figure-1.png",
+    "exists": true,
+    "sizeBytes": 31658,
+    "sha256": "1a270dcda371bac3061285610e951657c82467384cacf0c880b6d0dab7857c73",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-59"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-60-figure-1.png",
+    "exists": true,
+    "sizeBytes": 49179,
+    "sha256": "606f86dba71c033fa4104c920fcc3d47d6b8c7565daef25ab3b361129dd84acf",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-60"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ae-64-figure-1.png",
+    "exists": true,
+    "sizeBytes": 45825,
+    "sha256": "6f9bedcdad0ee3621e71402ad32c964db335733cfac9eecd5c0fbf10df8866e9",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ae-64"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-02-figure-1.png",
+    "exists": true,
+    "sizeBytes": 5173,
+    "sha256": "508c10dba6924eb1797d00642d01f372138afb6acca0c24af3c978b397aa1ef4",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 1544,
+    "sha256": "6ae44d02b9715e5ef86c685d44cbba87a6b125a2ffe6000348da2dcc8ac5fee0",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 973,
+    "sha256": "08d8e60d7de9c8818e286b90a8802f0b866706e035b734dc5df82373bfce02e5",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 2077,
+    "sha256": "b1ee71aa63b1392204f0c5fefe3c00966a2036073f7fdcf9ba2f072f7b7ef700",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 2420,
+    "sha256": "8657f04823c38b76993d078e53b26e2bbf4682f7dfb0609cfef9e8c8cf4a3814",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 9986,
+    "sha256": "c666cc67efe44993af0565f72b5f830f7bd93bcc41af89f5dacbf5dab7ddaeaa",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-07-figure-2.png",
+    "exists": true,
+    "sizeBytes": 6296,
+    "sha256": "1f6890a492ca60951585d04265b78007c49c00272d72521cd0f1bcb631685310",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-07-figure-3.png",
+    "exists": true,
+    "sizeBytes": 4548,
+    "sha256": "120ffb55d547406bbf2813b79e6d0baa4fb3563c691f2b004b71217b94b44a4a",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 9049,
+    "sha256": "c2afa24f86b51942b537ef1bb55dc7899de0454a153ceaf2bfbf8db4f8254ad6",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ae-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 47227,
+    "sha256": "caa0d6c748b0972ff06ec6f61407798a278dd69b3b635a0c3eebe24c17cc8726",
+    "referencedByQuestionIds": [
+      "gate-2026-ae-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-02-figure-1.png",
+    "exists": true,
+    "sizeBytes": 8618,
+    "sha256": "4c47d36912e4f13b83fd4efb838feb891927cd510fc17dc86e6286dfab1a8f23",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 3607,
+    "sha256": "2a40db1bdcbbab71ff9dfd5ae10930ea13039e2b922312d6c07c3b942fa7be8a",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 3162,
+    "sha256": "4ae1f9b8c2242e559b020761c438c7b58803d2879c78749c617e7e0902d33191",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 3949,
+    "sha256": "f094569dec3bfa8f840307ee2d3f25d6d797939171bde9be88e22160d786e196",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 4352,
+    "sha256": "6758e274e8811e96e1cdedd9906c30e26afbb9ae4d62e0e907b1263fd4cb82e1",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-05-figure-1.png",
+    "exists": true,
+    "sizeBytes": 1579,
+    "sha256": "8d663b3a074a42075d509573cb459589ef10b72b15f89977ac906a5a943f8f81",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-05-option-A.png",
+    "exists": true,
+    "sizeBytes": 9505,
+    "sha256": "2bb5552883341a5b645489deb6bfdab8bfeab7d43e21e4a594c617eae8b8acb7",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-05-option-B.png",
+    "exists": true,
+    "sizeBytes": 10333,
+    "sha256": "791715bd587eeed15bb83efc7badcc00f2dc06338fc3262afd5c7e6403ccf1e8",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-05-option-C.png",
+    "exists": true,
+    "sizeBytes": 9505,
+    "sha256": "8cbd8aa09a986b4ab973298b5f7ff80791adac715ab3988ef2c07b0093bb3ff7",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-05-option-D.png",
+    "exists": true,
+    "sizeBytes": 10150,
+    "sha256": "17424f0ea9f42afd2d516b6409abd88fdc5101876dfa44a07cc886a5f42d84e2",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 46329,
+    "sha256": "b13452175ca07cee19a0cccc820bdff108ac812aed008e847d0d7bfc872302fa",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 16901,
+    "sha256": "5c0a50223eaaf5f74969bf763b9b1f4868a180bbf509a38a87f5ab0188486d82",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce1-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 21375,
+    "sha256": "76d53a1dafd397c298a52e5e40c83508632709f9ff221a390ab9fee0cfb821a3",
+    "referencedByQuestionIds": [
+      "gate-2026-ce1-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-03-figure-1.png",
+    "exists": true,
+    "sizeBytes": 11246,
+    "sha256": "256d3b3cd6bc9b58c54267132bd81fa38dc77545ba49098cc3a1adc57f609d72",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-03-option-A.png",
+    "exists": true,
+    "sizeBytes": 2619,
+    "sha256": "18b1a5cb1078950c835f89ee9129c8e41d823cf35601886fe126ec9d11e73f42",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-03-option-B.png",
+    "exists": true,
+    "sizeBytes": 2681,
+    "sha256": "a2fc2eb753821bc5050ec0215b1f16811d66663408d9c1ea61b07177bf9ed849",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-03-option-C.png",
+    "exists": true,
+    "sizeBytes": 2516,
+    "sha256": "8dc2cf7f1d31189153d8f528aadc56cd1cf5bd8adeaa88b3edcc2cbac197045a",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-03-option-D.png",
+    "exists": true,
+    "sizeBytes": 2594,
+    "sha256": "0d0391c564fa7c3c0ddd45b0ecc6f573e8ffaa1ea56f31ed47100550b933ec3e",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 83595,
+    "sha256": "ba6632c8b16bc60342fecf854ea9a43dab5d0bde9c81edbda23a0ed33e9879a5",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 22999,
+    "sha256": "b2309e9bb5cf229433fbe2fed5a5ed548261165ff91ffde5919ebc44bc17a8ce",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 5383,
+    "sha256": "50fdd9a342bb682601b49921ac27e88e6491076c681513fb735fb5b18c2997f7",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-10-option-A.png",
+    "exists": true,
+    "sizeBytes": 1874,
+    "sha256": "e0378a4c1bf0413e47396925871dee32dae649d29b961daf0931e8fbd997873a",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-10-option-B.png",
+    "exists": true,
+    "sizeBytes": 1956,
+    "sha256": "24fc034fa47548316790a13acae17f977c3df4f003fafcd80b9da5ee419c6205",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-10-option-C.png",
+    "exists": true,
+    "sizeBytes": 1777,
+    "sha256": "fad3512988bcf3820b39444d5a6a6192e8fe1c8c9b2097f7e4ced577fe0aae52",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ce2-ga-10-option-D.png",
+    "exists": true,
+    "sizeBytes": 1840,
+    "sha256": "e34889d5c236ea4cd83abf1120ac3cd12ee82543a7924245cbf4fcefd7c20f77",
+    "referencedByQuestionIds": [
+      "gate-2026-ce2-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-02-figure-1.png",
+    "exists": true,
+    "sizeBytes": 501,
+    "sha256": "4c1870bd113b8fe52d2cec3014cd7ed1c2bf1e6e2d2060a08ab3b8d985afeb9b",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-02-figure-2.png",
+    "exists": true,
+    "sizeBytes": 562,
+    "sha256": "c6642047c094f331f05795f1034a40612cdf74625da0380bf02a673350b3cffc",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 742,
+    "sha256": "64b0f6fc1304949448992c517443b245c713e4acb2dd3a67416b70bda3378c34",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 835,
+    "sha256": "c4bdd0242893c10002a4e14d1c6b81c673a7667679b0346ecec0bb6a49451c24",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 780,
+    "sha256": "5966a4f52dbbb5c9a57073652c2aff68933fe971643906ff54ed1348740aa18e",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 942,
+    "sha256": "9d0d9b1e3a67ee8763eb1968585f753a09dd947e6be4e6997a240d88416833c8",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 7625,
+    "sha256": "9d631de231a54d921617297ee9bf05a7e45c7af74f22ee83e9054d4732987935",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-07-option-A.png",
+    "exists": true,
+    "sizeBytes": 10396,
+    "sha256": "194692e6de93bf385ac265e0bb36b28e10e012eb00e2f5800a4db8b0e275a260",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-07-option-B.png",
+    "exists": true,
+    "sizeBytes": 10579,
+    "sha256": "3916205703dc7ddba1354a009559efeb49209dca693c9aaef36b2645b467fae0",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-07-option-C.png",
+    "exists": true,
+    "sizeBytes": 10837,
+    "sha256": "9bc4560cbe9560dc1cb241ca6669e4535211137f8ab0d5e5530bc1d9db3b73a7",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-07-option-D.png",
+    "exists": true,
+    "sizeBytes": 10778,
+    "sha256": "92334e857e9f9bdaeb8c4e0f565624619e7404f46974e4b8eb0a95832a0ad967",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs1-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 11822,
+    "sha256": "767f162326dead138829be62d50c800c20002dc09ed9d1fd793241f1efd33abe",
+    "referencedByQuestionIds": [
+      "gate-2026-cs1-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-02-figure-1.png",
+    "exists": true,
+    "sizeBytes": 3771,
+    "sha256": "b4477d3681ee73b9eed21634ae8cc44a38ac954a0e2b34e65dd37eb76766c990",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 710,
+    "sha256": "65e7e0fa31b3e14b1a44f19db1f6881180f0b714a76a2ee20f78b9b67f3bdd5d",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 711,
+    "sha256": "a4f553022b744b44c799cfa44407bc4152e613dbece79e0874026dfa763be8be",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 693,
+    "sha256": "67924a00bb38aa533f0a47aa77912524f1df40d717ce68b3d98f1c837ac7c061",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 706,
+    "sha256": "871c22f2aafcd8af606192686c12444578cef4eaa167e525f8f6661f6e9ca17f",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 6198,
+    "sha256": "cef62f4aba96c133f110df32bb2714204e3160d3d1b21428ce29053d8ea12153",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-07-option-A.png",
+    "exists": true,
+    "sizeBytes": 1448,
+    "sha256": "1e97f9a64630e260a6c0ad180c589f092c3935f9e4c7af216cd63fe1a881f361",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-07-option-B.png",
+    "exists": true,
+    "sizeBytes": 1464,
+    "sha256": "f9e1a80914c97578cd43ff2e728d05ecbed24b42141dd1950db8984803606b3d",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-07-option-C.png",
+    "exists": true,
+    "sizeBytes": 2821,
+    "sha256": "e8c760291dc0b4ef3f3de8d056ab007a0c2788cd214c16fbd626da15255f5892",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-07-option-D.png",
+    "exists": true,
+    "sizeBytes": 2154,
+    "sha256": "ef10d2c912c40b39de22d03904b5bcf58cb1ddf6f10d477a2eae1eeacd30bef9",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-08-figure-1.png",
+    "exists": true,
+    "sizeBytes": 26698,
+    "sha256": "9cd4f81dc62b3792a6e21f4deeb59eed46959d3edd0f70ffd88b27a637a5e08f",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-08"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 5377,
+    "sha256": "f39265722e833a1f5d76d42df598b434f6d281f1a9703275392886a555fb270f",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-09-option-A.png",
+    "exists": true,
+    "sizeBytes": 1676,
+    "sha256": "01fd6775ed2a6d250515616935bf2fb3e4eaeb8f4b4c0407d101c54108d6fe0c",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-09-option-B.png",
+    "exists": true,
+    "sizeBytes": 1654,
+    "sha256": "b31ea6b62723c542331cb897ce4698fbe80c7be170d9ffd3fde7a99a9710cab9",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-09-option-C.png",
+    "exists": true,
+    "sizeBytes": 1701,
+    "sha256": "2cc6cee842b4d7ba7845473bda45873415971f5615b9705d2a7975623da6bff0",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-cs2-ga-09-option-D.png",
+    "exists": true,
+    "sizeBytes": 1611,
+    "sha256": "3f5e0deb15e78f7284ae7b69e8b83eec4a4706993732deefd3c94a5159562f6e",
+    "referencedByQuestionIds": [
+      "gate-2026-cs2-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-figure-1.png",
+    "exists": true,
+    "sizeBytes": 3469,
+    "sha256": "be820ff1b177cc2c90bff9330c5d1a3f5737d97f7723c9b4369992d451d879dd",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-figure-2.png",
+    "exists": true,
+    "sizeBytes": 2828,
+    "sha256": "332c51641c57ef1ebc57a1cbdb181c40b1faad800cc5804d800743133f8ff751",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-figure-3.png",
+    "exists": true,
+    "sizeBytes": 3847,
+    "sha256": "285b727ea5d91dc72ef42c09611957ef616734edc25b7d84cb934db7ed45dc49",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-figure-4.png",
+    "exists": true,
+    "sizeBytes": 3099,
+    "sha256": "291437c89f309c0aee69781e5aa2cd91197b464c86008c9049690cf616724ca7",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-option-A.png",
+    "exists": true,
+    "sizeBytes": 4476,
+    "sha256": "08be92b36adbb7d1d97f036c2a0d4cf6792bbc5339333df64c6fd336e7c87b36",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-option-B.png",
+    "exists": true,
+    "sizeBytes": 3930,
+    "sha256": "ab8fa752710f822a43abd12b818b6c61045dc13a1ae3827b24ddc309e8cff4f6",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-option-C.png",
+    "exists": true,
+    "sizeBytes": 3441,
+    "sha256": "68ec0f7e7d05a2520a5869d1da44a09eab460c54d4e6f012631211033edb021e",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-03-option-D.png",
+    "exists": true,
+    "sizeBytes": 4472,
+    "sha256": "e3b143b0b65a25c1ab02e1950089ed28ad07646c56ce03931d97b5d212021bc4",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-da-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 32243,
+    "sha256": "720955f290175e8313df170f1306da693ec28a8a28c77195f7314e0ed17ca1af",
+    "referencedByQuestionIds": [
+      "gate-2026-da-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-03-figure-1.png",
+    "exists": true,
+    "sizeBytes": 11066,
+    "sha256": "b2ea689fd47f3282faea9ec8779e9020fe53a96fe2eebc69676133534c46edc1",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-03-option-A.png",
+    "exists": true,
+    "sizeBytes": 10905,
+    "sha256": "9200bb3e04748c39bb683dc28f2c38de239548950a5524d49ecbe9c7bd14d171",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-03-option-B.png",
+    "exists": true,
+    "sizeBytes": 9261,
+    "sha256": "85a8c592d572dcd8d84478853de0ded86c9089046f51eeea3265ecdf1817daec",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-03-option-C.png",
+    "exists": true,
+    "sizeBytes": 10564,
+    "sha256": "0b05d244df20a2f697dc5e1673003e7034506379c5dcb7bb26059b8aca6e43c9",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-03-option-D.png",
+    "exists": true,
+    "sizeBytes": 10825,
+    "sha256": "1e403687aa9268500a580b6cd8302d8430654ae1c297cafb04f1c716eb7119d1",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-09-figure-1.png",
+    "exists": true,
+    "sizeBytes": 74780,
+    "sha256": "21d20879cd32c63d17755d9581e191bfeab67c6a8a3008feb978e3ad906453db",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-09"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 8696,
+    "sha256": "7409a56f2f336990a574879e25e81cdcec050395510540c05d0e6a80d23f61f7",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-10-figure-2.png",
+    "exists": true,
+    "sizeBytes": 9588,
+    "sha256": "084b06564fb73a7f06e638074a2ac09c29167b10b58142f5d9cdb4ebe58699ff",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-10-option-A.png",
+    "exists": true,
+    "sizeBytes": 12367,
+    "sha256": "309417617229d9b43bf3dd3939f8ceded99952db1f83ff245964f8ed68f046d8",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-10-option-B.png",
+    "exists": true,
+    "sizeBytes": 12241,
+    "sha256": "086bf3200cacfce685fb2468aa624d80505968ca52808b919b190feef937c506",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-10-option-C.png",
+    "exists": true,
+    "sizeBytes": 12221,
+    "sha256": "3ac4efcf03efa5bdee8de1b9de286f8ae9526b179580f33337d631840b6ecc78",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-ec-ga-10-option-D.png",
+    "exists": true,
+    "sizeBytes": 12239,
+    "sha256": "3b98f3ed6ccae47ffbe94d17910375bb14c30f7a07258e59a5fb4a2c679eea70",
+    "referencedByQuestionIds": [
+      "gate-2026-ec-ga-10"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-02-figure-1.png",
+    "exists": true,
+    "sizeBytes": 4381,
+    "sha256": "1f48a57c1ec08e42a9f9ebb565ffa217a3a0c23700798f07ae1a0df2ac94154f",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-02-option-A.png",
+    "exists": true,
+    "sizeBytes": 1544,
+    "sha256": "6ae44d02b9715e5ef86c685d44cbba87a6b125a2ffe6000348da2dcc8ac5fee0",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-02-option-B.png",
+    "exists": true,
+    "sizeBytes": 2077,
+    "sha256": "b1ee71aa63b1392204f0c5fefe3c00966a2036073f7fdcf9ba2f072f7b7ef700",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-02-option-C.png",
+    "exists": true,
+    "sizeBytes": 2420,
+    "sha256": "8657f04823c38b76993d078e53b26e2bbf4682f7dfb0609cfef9e8c8cf4a3814",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-02-option-D.png",
+    "exists": true,
+    "sizeBytes": 2655,
+    "sha256": "8d1f3c8c16ea6a55409424bb0d0a12308ec2c07c3a4b4c4d22bfde9270d0f4fc",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-02"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-03-figure-1.png",
+    "exists": true,
+    "sizeBytes": 7619,
+    "sha256": "86428ece3cc38a79fff21bb6acbb7563d6c0f55d09b7a8a0f8190ddee7e2d992",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-03"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-05-figure-1.png",
+    "exists": true,
+    "sizeBytes": 12593,
+    "sha256": "d19bbcb6dc952e604421627cacb75b2dfec20667498fd21d37da4fe2b4e5bb86",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-05"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-07-figure-1.png",
+    "exists": true,
+    "sizeBytes": 5976,
+    "sha256": "5dabda70046e211b1a246792872c870aa60e63ad1bcfc490e9e240a99006e49a",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-07-figure-2.png",
+    "exists": true,
+    "sizeBytes": 3535,
+    "sha256": "d8eb87b5f5d87c78a60129f9022dd9f1ccc9a947bb5b01ce7e9e131ea87b1ee1",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-07-figure-3.png",
+    "exists": true,
+    "sizeBytes": 3903,
+    "sha256": "ad1f5c8f0f29ec276dd9c63391b7d4da8327ea4a9f4c439802261ac13a67a4ca",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-07"
+    ]
+  },
+  {
+    "path": "figures/gate-2026-xe-ga-10-figure-1.png",
+    "exists": true,
+    "sizeBytes": 29586,
+    "sha256": "3826a49cc744478220d7e13837b23ca79472603edfa351bd63224bc7b3a8b8f7",
+    "referencedByQuestionIds": [
+      "gate-2026-xe-ga-10"
+    ]
+  },
+  {
+    "path": "figures/ae/2021/ae_q10.png",
+    "exists": true,
+    "sizeBytes": 60585,
+    "sha256": "9fb15a1c8cca46d160b4a0a7c981fa6568ddc3f0952055afc92c681b19184b83",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q11.png",
+    "exists": true,
+    "sizeBytes": 59500,
+    "sha256": "68ead0e1165052dbe01b3b18f9b414cfed06acd462aa344b6e92b760ef118626",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q13.png",
+    "exists": true,
+    "sizeBytes": 47269,
+    "sha256": "6abc87051365adf2ab6e3fcaf7d4ac68aef199e05e97d782e1516b4deaa47a21",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q14.png",
+    "exists": true,
+    "sizeBytes": 178951,
+    "sha256": "34b99dd9af92567524cc4b0633d4a5b37467936bdd0323547f4d21b79024d02a",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q21.png",
+    "exists": true,
+    "sizeBytes": 55405,
+    "sha256": "de4d3e37c23f07c36afad431344b94d9fc5116cfa6baec642f68b1998d9a3746",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q26.png",
+    "exists": true,
+    "sizeBytes": 70364,
+    "sha256": "91e1c4485e219ac6dee2621996a28665e8c0bbb51b31937a66318c253272fe5f",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q27.png",
+    "exists": true,
+    "sizeBytes": 107788,
+    "sha256": "33262a095c33867e5c9d08f048da095704c17a6cf1c50eb2a45848af2a528852",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q29.png",
+    "exists": true,
+    "sizeBytes": 94753,
+    "sha256": "bb90410931384a1a767178ca41b9cdbee62b0007c79b11b765260c3283574da5",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q33.png",
+    "exists": true,
+    "sizeBytes": 124647,
+    "sha256": "1bd0f86527c52fb7c0e2b346be4a00daa7849da1d51bb72dbe521f7083f79dc7",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q4.png",
+    "exists": true,
+    "sizeBytes": 127164,
+    "sha256": "15079e7f59dda128941d8ad71f3e6fb7806f5da772a7a1202ab19ccf8ea3a2cc",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q40.png",
+    "exists": true,
+    "sizeBytes": 131665,
+    "sha256": "f9bb883ff5d6c8c3c6b9304a4e19fb3d845b7d60e4f7a2ca4fc534ebb4543a21",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q46.png",
+    "exists": true,
+    "sizeBytes": 67559,
+    "sha256": "62e7431d16b43f2240ff106f8234e259cfc12ac15d2d38fe85d7db2d1ce09ddb",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q49.png",
+    "exists": true,
+    "sizeBytes": 134263,
+    "sha256": "f2d3fe7ee461738ff040437f980dbe9c4a0aa981a3afe1d96fb363ef1c77b610",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q50.png",
+    "exists": true,
+    "sizeBytes": 76162,
+    "sha256": "d16e23d83e00ad7d3bd45ee719d7aadc6a73f7079759815e767587914dd8c274",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q51.png",
+    "exists": true,
+    "sizeBytes": 74220,
+    "sha256": "4e2be3a94d4c8d6f6a05c5a348b92f6cffd619f86e9462edcf397b5948756156",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q52.png",
+    "exists": true,
+    "sizeBytes": 132463,
+    "sha256": "6ad58338cd26c57a6f97763d77c2606706d9ad81e37899e9443924e99bde6502",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ae_q53.png",
+    "exists": true,
+    "sizeBytes": 40601,
+    "sha256": "e32ee4f0ba305f367fbe1e5cc5c27026aa4605299b3fc726d8afca06e89a4c6f",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ga_q2_main.png",
+    "exists": true,
+    "sizeBytes": 44095,
+    "sha256": "14f37445fad152ed3d19ab6eb43719b148112ee31ba3db7619a4dfd450e06ba5",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ga_q2_opt_a.png",
+    "exists": true,
+    "sizeBytes": 22489,
+    "sha256": "46b1a1bef715063a2e38bc7300c1df6bf2fc0ba61be51c40708478b16385f00e",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ga_q2_opt_b.png",
+    "exists": true,
+    "sizeBytes": 23064,
+    "sha256": "4e0311cffdfca79b84fead6a2abbe5f3570c34a40d51cd40ab6a633bab81a7a0",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ga_q2_opt_c.png",
+    "exists": true,
+    "sizeBytes": 18099,
+    "sha256": "14d7d0575199e669ab2bc16c70661f559cd0b7a500bc7df1631b7bfb36f26479",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ga_q2_opt_d.png",
+    "exists": true,
+    "sizeBytes": 24782,
+    "sha256": "e4926f8b6958400e6cc9b69866af9dfc69be39ca9103cd0b9194b53abf62c6f0",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae/2021/ga_q9.png",
+    "exists": true,
+    "sizeBytes": 79575,
+    "sha256": "d4f4ab7b6695a46808f3db399bee8127327ab7e2359aa270fc8efdd09b602fe5",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q19_a.png",
+    "exists": true,
+    "sizeBytes": 14910,
+    "sha256": "906985d7e5efe370f92c77e4f3397b78995ea7b7642034a9ecc0dd08d3098df3",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q19_b.png",
+    "exists": true,
+    "sizeBytes": 22679,
+    "sha256": "ed7fc19686d3b16c228aeef153e2474bbb52e5f0b8ebfeb489fa6d18163ca5c6",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q19_c.png",
+    "exists": true,
+    "sizeBytes": 25550,
+    "sha256": "8ae59d7669804d9cc6145f2808bcc25910db17b92fe3a1b20ad6021806690c22",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q19_d.png",
+    "exists": true,
+    "sizeBytes": 26595,
+    "sha256": "447b3eba627d45f64514afd2526e2368571a2283fb1ff9d50203a85c8af22ec7",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q33.png",
+    "exists": true,
+    "sizeBytes": 60794,
+    "sha256": "b8c12fd12608a7627b7f852b48bfdf36c40e8064b5c0b1aced7bfdfc4b8ad5f3",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q34.png",
+    "exists": true,
+    "sizeBytes": 57345,
+    "sha256": "327c65cb603e2b102c3f4db07f207ad2dd48ded089c3fd84a26fcee8e710f889",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q35.png",
+    "exists": true,
+    "sizeBytes": 45133,
+    "sha256": "b4706d8db145dbbcd5bb285b50fc617e8904e6bdf8ed74ea4e932c0af2605390",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q37.png",
+    "exists": true,
+    "sizeBytes": 89509,
+    "sha256": "ab9698c3d423ee1f62beae6567ff48d51297c465e80e17ecdd11331822f432bf",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q40.png",
+    "exists": true,
+    "sizeBytes": 44309,
+    "sha256": "c7e6adbef6598854b945db0b5bff30ec8a60c31ffc1a437c1c8d112d579a2ae7",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q40_a.png",
+    "exists": true,
+    "sizeBytes": 22130,
+    "sha256": "d5e8c7184aafe8e8963a7505b55cfe3d8e386ab88b864b81c672ae5307e8e408",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q40_b.png",
+    "exists": true,
+    "sizeBytes": 23583,
+    "sha256": "8e70862f5811e78a14d54d5057bc217c2aca09bc8759e6387013117893df3865",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q40_c.png",
+    "exists": true,
+    "sizeBytes": 14624,
+    "sha256": "4e6d0e4fe20e0780833b6609a8340b850a795d901f2b71899bef5a7541b6fd00",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q40_d.png",
+    "exists": true,
+    "sizeBytes": 26053,
+    "sha256": "d8a6f98ebe2863666209ea2162b5e28b846eb322d2c74b5b4130ae1348483356",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q44.png",
+    "exists": true,
+    "sizeBytes": 45159,
+    "sha256": "5d50f7f96015852bcec9bb971be3e6228412592604c8703bfbe3b292b0205a04",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q45.png",
+    "exists": true,
+    "sizeBytes": 34613,
+    "sha256": "62655f1a53d6af85619eee7a76f7b5b130440de2272d3ad40be078707f56a5f8",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q50.png",
+    "exists": true,
+    "sizeBytes": 50350,
+    "sha256": "39ccb7671c129a77e1be46ffba40a7009e1ce7621aef503cebdaa376b4e9bab8",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q58.png",
+    "exists": true,
+    "sizeBytes": 75290,
+    "sha256": "979208b03e7d06de4bf8484502c8faf2d1219ad8c8190f4e0438bf1fbfdbb8d9",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q59.png",
+    "exists": true,
+    "sizeBytes": 35820,
+    "sha256": "9bae041fc363a1d171f6d6d087a98adcd260670914f43cd9085304ea0c5c9abc",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q60.png",
+    "exists": true,
+    "sizeBytes": 65519,
+    "sha256": "6afe895d90341da21b36846cfe5edc5d7d1cfe08e21091c086373bc0a5ec8f77",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q61.png",
+    "exists": true,
+    "sizeBytes": 48871,
+    "sha256": "902a33097ebaa8f6cc5b531a8341ffe247614b2ead6e390cbaa86a1d9bd78ff1",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q62.png",
+    "exists": true,
+    "sizeBytes": 37220,
+    "sha256": "eeb8f175559190a87d657f2c11e96bffed2c1de6d58e0f6d82deaa8d7b475d5c",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q63.png",
+    "exists": true,
+    "sizeBytes": 33044,
+    "sha256": "ea604ff0cb19bdfd7d7928c77dcc34f5e47099c28d07bcac33c8f53a49462129",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/ae2019_q65.png",
+    "exists": true,
+    "sizeBytes": 51014,
+    "sha256": "e4efbf00435a69228dda666de670178b8b391ab342c81e8a475346558a55fe01",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day01-q02-diagram.png",
+    "exists": true,
+    "sizeBytes": 26637,
+    "sha256": "e5ddccdda74e94153d01479a2477311e7f663699ee3e3232f36f4c5ed8bf482b",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day01-q07-diagram.png",
+    "exists": true,
+    "sizeBytes": 76270,
+    "sha256": "a2b6475a9f2c35c144e956910e212f28e9d192bbab7b8ba4e841b21fe388aeaf",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day01-q08-diagram.png",
+    "exists": true,
+    "sizeBytes": 52428,
+    "sha256": "7f3dd9fad97a3f70fe5b6e60b76179999372ccf74d880e7ae978bb1ce3061601",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day01-q10-diagram.png",
+    "exists": true,
+    "sizeBytes": 86215,
+    "sha256": "bf5de415853dd7b6e61fc24fe741b82bdbff5460198b155feaa0bbda61aaf631",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day02-q03-diagram.png",
+    "exists": true,
+    "sizeBytes": 21512,
+    "sha256": "8cc5256cbdf0bf920f65e362eaaf8f906e522400da57e1bf310d68ed3bcc470e",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day02-q04-diagram.png",
+    "exists": true,
+    "sizeBytes": 68811,
+    "sha256": "a8c8c4f89bd36300c61f29558412f104ae1ce5055a8f1239c8c6cfd8b178568a",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day02-q08-diagram.png",
+    "exists": true,
+    "sizeBytes": 81524,
+    "sha256": "60ceccea98a798759d29e1802309c6f6adfe190d196fbe9b90f7acdc96179498",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/day02-q10-diagram.png",
+    "exists": true,
+    "sizeBytes": 31458,
+    "sha256": "d26f8f4e83a09ba17d11e0677704c08cba32a12ae99c3c4b1cfe36fa5f0230c7",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-74-figure-1.png",
+    "exists": true,
+    "sizeBytes": 86660,
+    "sha256": "50cdaf09a5e475b37d14b7f4d6a4765287105ae9cc7c52f9c2b9dc90a6f0fbee",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2007-ae-ae-76-figure-1.png",
+    "exists": true,
+    "sizeBytes": 168849,
+    "sha256": "28d63cd5d1e75639078577d6affa2a252cf5f52cbfecefe99ee696e6c6dca470",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2008-ae-ae-84-figure-1.png",
+    "exists": true,
+    "sizeBytes": 92272,
+    "sha256": "6603bdecc0e3ce5295c1da1d3dbafa568d00738a413e322c392748f658d26029",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-11.png",
+    "exists": true,
+    "sizeBytes": 49192,
+    "sha256": "07d7ab341a55c0da3cea34c340952690b731603066bd44a02e0e04a3a2fdcb81",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-26.png",
+    "exists": true,
+    "sizeBytes": 36371,
+    "sha256": "b15e294a499480e84d160063a22bb504a823ec03b5a2b55c0212c64acbb340e2",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-37.png",
+    "exists": true,
+    "sizeBytes": 47995,
+    "sha256": "5fd83f3f7e85d107c65b613272de1d738560528dcd17883b3a8ed1d108ba67c8",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-44.png",
+    "exists": true,
+    "sizeBytes": 70535,
+    "sha256": "69484b7e6440e9f434799422c1cc5d17307ca551d6daab69ea7b015fe748c302",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-45.png",
+    "exists": true,
+    "sizeBytes": 58924,
+    "sha256": "f4cc5b4af63db83cbeb3c76b68fe0268b7dfbd86721d465f1ea9dc1b17ad5e3a",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-49.png",
+    "exists": true,
+    "sizeBytes": 39256,
+    "sha256": "c4b75cf0888cee1323c4c8c277050b3c1dd10df7d365b897538152548dd56a29",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ae-50.png",
+    "exists": true,
+    "sizeBytes": 44728,
+    "sha256": "180d5921bdef8566a941e0e6f2feee5b0779c7e24fd2b61b892c0a1cd34dd344",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2011-ae-ga-64.png",
+    "exists": true,
+    "sizeBytes": 78484,
+    "sha256": "b14eab6daa11befa7564521454ba1289eb101dca8d7f05ba60aa2438ec4cdf06",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2013-ae-ae-54-figure-1.png",
+    "exists": true,
+    "sizeBytes": 58581,
+    "sha256": "88b45cbb1cfe02b41d3a6560a2eeaddab867aad9e50e717cf81d27377dbe737f",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2015-ae-ga-q08.png",
+    "exists": true,
+    "sizeBytes": 36150,
+    "sha256": "0f2713cba2d135ff41c2a95638056d35954cd8f66950d1929273ab9772cc281d",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2015-ae-q26.png",
+    "exists": true,
+    "sizeBytes": 209440,
+    "sha256": "cd3bbb21f1106883a0ace71400b533b0168766abd68c868b555fb428bbeda1da",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2015-ae-q41.png",
+    "exists": true,
+    "sizeBytes": 62898,
+    "sha256": "c73397a75ef850d8c174749de5d096516685b54379bd7e201471a0372843d14b",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2015-ae-q56.png",
+    "exists": true,
+    "sizeBytes": 82161,
+    "sha256": "208c3ec5e985586275b869e146cf460e3660802ee151f0a431f1b14e414c1622",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2015-ae-q58.png",
+    "exists": true,
+    "sizeBytes": 119044,
+    "sha256": "e7c776d366ac96c0457a66510e1f316685dc328031926c836714c4fdd8eedfa1",
+    "referencedByQuestionIds": []
+  },
+  {
+    "path": "figures/gate-2022-ae-ae-23-figure-1.png",
+    "exists": true,
+    "sizeBytes": 76198,
+    "sha256": "d4d809e25650bb07a059648ed731dd4aad665725a8cbe5fd452fda0acdef1905",
+    "referencedByQuestionIds": []
+  }
+]

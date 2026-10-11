@@ -1,0 +1,7 @@
+{
+  "questionId": "gate-2016-ae-ae-63",
+  "at": "2026-10-11T04:07:52.778Z",
+  "productionHTML": "<div class=\"question-content\"><p class=\"question-stem\">A glider weighing 3300 N is flying at 1000 m above sea level. The wing area is $14.1\\text{ m}^2$ and the air density is $1.23\\text{ kg/m}^3$. Under zero wind conditions, the velocity for maximum range is __________ m/s.\n\n| $\\alpha$ (deg) | $C_L$ | $C_D$ | $C_L/C_D$ |\n| :---: | :---: | :---: | :---: |\n| 11 | 1.46 | 0.0865 | 16.9 |\n| 9 | 1.36 | 0.0675 | 20.1 |\n| 7 | 1.23 | 0.0535 | 22.9 |\n| 5 | 1.08 | 0.0440 | 24.5 |\n| 3 | 0.90 | 0.0350 | 25.7 |\n| 1 | 0.70 | 0.0275 | 25.4 |\n| -1 | 0.49 | 0.0220 | 22.2 |\n| -3 | 0.25 | 0.0180 | 13.8 |</p></div>",
+  "status": "FAIL",
+  "method": "Production renderer output inspection, not browser screenshot"
+}

@@ -1,0 +1,110 @@
+{
+  "source": "internal/ae/AE2009.pdf",
+  "sha256": "c35b7674b3b7463616bc63aec8c1f12e479b6afe4ce9df4c1fc5aaa50c3d7889",
+  "pages": [
+    {
+      "page": 1,
+      "width": 609.47998,
+      "height": 780.839966,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 2,
+      "width": 586.440002,
+      "height": 770.76001,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 3,
+      "width": 597.960022,
+      "height": 760.679993,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 4,
+      "width": 595.080017,
+      "height": 782.280029,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 5,
+      "width": 610.919983,
+      "height": 775.080017,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 6,
+      "width": 589.320007,
+      "height": 779.400024,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 7,
+      "width": 590.76001,
+      "height": 760.679993,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 8,
+      "width": 599.400024,
+      "height": 746.280029,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 9,
+      "width": 569.160034,
+      "height": 760.679993,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 10,
+      "width": 596.52002,
+      "height": 756.359985,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 11,
+      "width": 570.599976,
+      "height": 752.039978,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 12,
+      "width": 592.200012,
+      "height": 776.52002,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    },
+    {
+      "page": 13,
+      "width": 579.23999,
+      "height": 760.679993,
+      "textCharacters": 0,
+      "questionNumberCandidates": [],
+      "text": ""
+    }
+  ]
+}

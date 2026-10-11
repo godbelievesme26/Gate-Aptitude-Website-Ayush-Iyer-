@@ -1,0 +1,848 @@
+{
+  "schemaVersion": 1,
+  "day": 14,
+  "year": 2025,
+  "paper": "EC",
+  "title": "GATE 2025 · EC · General Aptitude",
+  "source": "Aptitude Sets/2025/EC.pdf",
+  "answerKeyStatus": "official GATE 2025 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2025-ec-ga-01",
+      "number": 1,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Here are two analogous groups, Group-I and Group-II, that list words in their decreasing order of intensity. Identify the missing word in Group-II. Group-I: Abuse → Insult → Ridicule Group-II: ________ → Praise → Appreciate",
+      "options": [
+        {
+          "label": "A",
+          "text": "Extol"
+        },
+        {
+          "label": "B",
+          "text": "Prize"
+        },
+        {
+          "label": "C",
+          "text": "Appropriate"
+        },
+        {
+          "label": "D",
+          "text": "Espouse"
+        }
+      ],
+      "sourceImage": "figures/day14-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              124.49,
+              565.32,
+              380.21
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "“Extol” means praise enthusiastically or highly, stronger than ordinary praise; appreciate is milder. Thus Extol→Praise→Appreciate mirrors the descending intensity in Abuse→Insult→Ridicule. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ec-ga-02",
+      "number": 2,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Had I learnt acting as a child, I ________ a famous film star. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "will be"
+        },
+        {
+          "label": "B",
+          "text": "can be"
+        },
+        {
+          "label": "C",
+          "text": "am going to be"
+        },
+        {
+          "label": "D",
+          "text": "could have been"
+        }
+      ],
+      "sourceImage": "figures/day14-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              442.78,
+              565.32,
+              658.78
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "“Had I learnt” is an inverted past counterfactual condition (“If I had learnt”). Its hypothetical past result takes “could have been”. The other options refer to present or future possibility. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ec-ga-03",
+      "number": 3,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The 12 musical notes are given as C, C#, D, D#, E, F, F#, G, G#, A, A#, and B. Frequency of each note is 2^{1/12} times the frequency of the previous note. If the frequency of the note C is 130.8 Hz, then the ratio of frequencies of notes F# and C is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2^{1/6}"
+        },
+        {
+          "label": "B",
+          "text": "√2"
+        },
+        {
+          "label": "C",
+          "text": "2^{1/4}"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        }
+      ],
+      "sourceImage": "figures/day14-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              344.57
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "F# is six semitone steps above C: C#,D,D#,E,F,F#. Each step multiplies the frequency by 2^{1/12}, so f(F#)/f(C)=(2^{1/12})⁶=2^{1/2}=√2. The starting value 130.8 Hz cancels. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ec-ga-04",
+      "number": 4,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The following figures show three curves generated using an iterative algorithm. The total length of the curve generated after ‘Iteration n’ is: Note: The figures shown are representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(5/3)^{n/2}"
+        },
+        {
+          "label": "B",
+          "text": "(5/3)^{n}"
+        },
+        {
+          "label": "C",
+          "text": "(5/3)^{2n}"
+        },
+        {
+          "label": "D",
+          "text": "(5/3)^{n(2n−1)}"
+        }
+      ],
+      "sourceImage": "figures/day14-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              646.42
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Each segment is replaced by five segments each one-third as long. Therefore total length is multiplied by 5/3 each iteration. Starting from length 1 at iteration 0 gives Lₙ=(5/3)ⁿ. This is B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ec-ga-04-figure-1.png",
+          "alt": "Iteration 0: one straight segment of length 1.",
+          "source": {
+            "file": "Aptitude Sets/2025/EC.pdf",
+            "page": 3,
+            "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+            "pdfCrop": [
+              190,
+              174,
+              371,
+              201
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Iteration 0"
+        },
+        {
+          "src": "figures/gate-2025-ec-ga-04-figure-2.png",
+          "alt": "Iteration 1: five segments form a square bump; each has length one-third.",
+          "source": {
+            "file": "Aptitude Sets/2025/EC.pdf",
+            "page": 3,
+            "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+            "pdfCrop": [
+              190,
+              225,
+              371,
+              299
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Iteration 1 · Length of each segment: 1/3"
+        },
+        {
+          "src": "figures/gate-2025-ec-ga-04-figure-3.png",
+          "alt": "Iteration 2: the bump rule repeated on each segment; segment length one-ninth.",
+          "source": {
+            "file": "Aptitude Sets/2025/EC.pdf",
+            "page": 3,
+            "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+            "pdfCrop": [
+              190,
+              320,
+              371,
+              407
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Iteration 2 · Length of each segment: 1/9"
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ec-ga-05",
+      "number": 5,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Which one of the following plots represents f(x) = −|x|/x, where x is a non-zero real number?\nNote: The figures shown are representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ec-ga-05-option-A.png",
+            "alt": "Graph: f(x)=1 left of zero and -1 right of zero.",
+            "source": {
+              "file": "Aptitude Sets/2025/EC.pdf",
+              "page": 4,
+              "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+              "pdfCrop": [
+                118,
+                168,
+                251,
+                288
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ec-ga-05-option-B.png",
+            "alt": "Graph: f(x)=-1 left of zero and 1 right of zero.",
+            "source": {
+              "file": "Aptitude Sets/2025/EC.pdf",
+              "page": 4,
+              "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+              "pdfCrop": [
+                118,
+                294,
+                248,
+                416
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ec-ga-05-option-C.png",
+            "alt": "Vertical lines at x=-1 above the axis and x=1 below the axis.",
+            "source": {
+              "file": "Aptitude Sets/2025/EC.pdf",
+              "page": 4,
+              "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+              "pdfCrop": [
+                118,
+                425,
+                248,
+                541
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ec-ga-05-option-D.png",
+            "alt": "Two curved branches, positive at negative x and negative at positive x.",
+            "source": {
+              "file": "Aptitude Sets/2025/EC.pdf",
+              "page": 4,
+              "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+              "pdfCrop": [
+                118,
+                547,
+                244,
+                662
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day14-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              666.46
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "For x>0, |x|=x and −|x|/x=−1. For x<0, |x|=−x and −|x|/x=+1. Thus the graph is horizontal at +1 on the negative-x side and at −1 on the positive-x side; x=0 is excluded. Option A shows this.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ec-ga-06",
+      "number": 6,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\nP. Over time, such adaptations lead to significant evolutionary changes with the potential to shape the development of new species.\nQ. In natural world, organisms constantly adapt to their environments in response to challenges and opportunities.\nR. This process of adaptation is driven by the principle of natural selection, where favorable traits increase an organism’s chances of survival and reproduction.\nS. As environments change, organisms that can adapt their behavior, structure and physiology to such changes are more likely to survive.",
+      "options": [
+        {
+          "label": "A",
+          "text": "P → Q → R → S"
+        },
+        {
+          "label": "B",
+          "text": "Q → S → R → P"
+        },
+        {
+          "label": "C",
+          "text": "R → S → Q → P"
+        },
+        {
+          "label": "D",
+          "text": "S → P → R → Q"
+        }
+      ],
+      "sourceImage": "figures/day14-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              480.79
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Q introduces adaptation in the natural world. S explains why adaptation helps survival as environments change. R identifies natural selection as the mechanism, and P describes its long-term evolutionary consequence. Hence Q→S→R→P, option B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ec-ga-07",
+      "number": 7,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A stick of length one meter is broken at two locations at distances of b_{1} and b_{2} from the origin (0), as shown in the figure. Note that 0 < b_{1} < b_{2} < 1. Which one of the following is NOT a necessary condition for forming a triangle using the three pieces?\nNote: All lengths are in meter. The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "b_{1} < 0.5"
+        },
+        {
+          "label": "B",
+          "text": "b_{2} > 0.5"
+        },
+        {
+          "label": "C",
+          "text": "b_{2} < b_{1} + 0.5"
+        },
+        {
+          "label": "D",
+          "text": "b_{1} + b_{2} < 1"
+        }
+      ],
+      "sourceImage": "figures/day14-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              395.81
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The pieces have lengths b₁, b₂−b₁ and 1−b₂ and total length 1. A nondegenerate triangle requires each piece to be less than 1/2, giving b₁<0.5, b₂<b₁+0.5 and b₂>0.5. The sum b₁+b₂<1 is not necessary: b₁=0.4,b₂=0.7 yields sides 0.4,0.3,0.3. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ec-ga-07-figure-1.png",
+          "alt": "A unit stick cut at b1 and b2, ordered from 0 through b1 and b2 to 1.",
+          "source": {
+            "file": "Aptitude Sets/2025/EC.pdf",
+            "page": 6,
+            "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+            "image": "Image84.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ec-ga-08",
+      "number": 8,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Eight students (P, Q, R, S, T, U, V, and W) are playing musical chairs. The figure indicates their order of position at the start of the game. They play the game by moving forward in a circle in the clockwise direction. After the 1st round, 4th student behind P leaves the game. After 2nd round, 5th student behind Q leaves the game. After 3rd round, 3rd student behind V leaves the game. After 4th round, 4th student behind U leaves the game. Who all are left in the game after the 4th round? Note: The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "P; T; Q; S"
+        },
+        {
+          "label": "B",
+          "text": "V; P; T; Q"
+        },
+        {
+          "label": "C",
+          "text": "W; R; Q; V"
+        },
+        {
+          "label": "D",
+          "text": "Q; T; V; W"
+        }
+      ],
+      "sourceImage": "figures/day14-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              606.07
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The final official key awards marks to all for this question; no A–D option is designated correct. The diagram’s clockwise order is P,R,T,Q,S,V,U,W. Counting behind opposite the direction of motion removes S in round 1 and U in round 2. Yet round 4 asks for a position behind U, who has already left. This makes the stated procedure ill-defined. Preserve the official MTA ruling: award 2 marks regardless of response, without treating an option as a verified answer.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "MTA",
+      "gradingRule": "marks-to-all",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ec-ga-08-figure-1.png",
+          "alt": "Eight chairs clockwise: P, R, T, Q, S, V, U, W around a circular table.",
+          "source": {
+            "file": "Aptitude Sets/2025/EC.pdf",
+            "page": 7,
+            "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+            "pdfCrop": [
+              215,
+              242,
+              385,
+              414
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ec-ga-09",
+      "number": 9,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The table lists the top 5 nations according to the number of gold medals won in a tournament; also included are the number of silver and the bronze medals won by them. Based only on the data provided in the table, which one of the following statements is INCORRECT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "France will occupy the third place if the list were made on the basis of the total number of medals won."
+        },
+        {
+          "label": "B",
+          "text": "The order of the top two nations will not change even if the list is made on the basis of the total number of medals won."
+        },
+        {
+          "label": "C",
+          "text": "USA and Canada together have less than 50% of the medals awarded to the nations in the above table."
+        },
+        {
+          "label": "D",
+          "text": "Canada has won twice as many total medals as Japan."
+        }
+      ],
+      "sourceImage": "figures/day14-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              520.51
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "headers": [
+          "Nation",
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "rows": [
+          [
+            "USA",
+            40,
+            44,
+            41
+          ],
+          [
+            "Canada",
+            39,
+            27,
+            24
+          ],
+          [
+            "Japan",
+            20,
+            12,
+            13
+          ],
+          [
+            "Australia",
+            17,
+            19,
+            16
+          ],
+          [
+            "France",
+            16,
+            26,
+            22
+          ]
+        ]
+      },
+      "solution": "Total medals are USA=125, Canada=90, Japan=45, Australia=52 and France=64; the total is 376. USA and Canada together have 215/376≈57.18%, which is more than 50%, so C is incorrect. France is third by total, the top two stay unchanged, and 90=2×45.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ec-ga-10",
+      "number": 10,
+      "year": 2025,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "An organization allows its employees to work independently on consultancy projects but charges an overhead on the consulting fee. The overhead is 20% of the consulting fee, if the fee is up to ₹ 5,00,000. For higher fees, the overhead is ₹ 1,00,000 plus 10% of the amount by which the fee exceeds ₹ 5,00,000. The government charges a Goods and Services Tax of 18% on the total amount (the consulting fee plus the overhead). An employee of the organization charges this entire amount, i.e., the consulting fee, overhead, and tax, to the client. If the client cannot pay more than ₹ 10,00,000, what is the maximum consulting fee that the employee can charge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "₹ 7,01,438"
+        },
+        {
+          "label": "B",
+          "text": "₹ 7,24,961"
+        },
+        {
+          "label": "C",
+          "text": "₹ 7,51,232"
+        },
+        {
+          "label": "D",
+          "text": "₹ 7,75,784"
+        }
+      ],
+      "sourceImage": "figures/day14-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EC.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              76.25,
+              565.32,
+              376.97
+            ]
+          }
+        ],
+        "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "For fee F>₹5,00,000, overhead=1,00,000+0.1(F−5,00,000)=0.1F+50,000. Including GST, the bill is 1.18(1.1F+50,000). Setting it to ₹10,00,000 gives F=(10,00,000/1.18−50,000)/1.1≈₹7,24,961.48. Thus the largest listed whole-rupee fee within the budget is ₹7,24,961 (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 6,
+        "verifiedOn": "2026-10-05",
+        "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    }
+  ]
+}

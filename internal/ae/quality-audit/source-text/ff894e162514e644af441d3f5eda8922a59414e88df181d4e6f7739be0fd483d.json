@@ -1,0 +1,390 @@
+{
+  "source": "internal/ae/AE2023.pdf",
+  "sha256": "ff894e162514e644af441d3f5eda8922a59414e88df181d4e6f7739be0fd483d",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 404,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 1 of 35 \nOrganizing Institute: IIT Kanpur \nGeneral Aptitude (GA) \nQ.1 – Q.5 Carry ONE mark Each \nQ.1 “You are delaying the completion of the task. Send  _______ contributions at the \nearliest.” \n  \n(A) you are \n(B) your \n(C) you’re \n(D) yore \n  \n \n \nQ.2 References : ______ : : Guidelines : Implement  \n(By word meaning) \n  \n(A) Sight \n(B) Site \n(C) Cite \n(D) Plagiarise \n  \n "
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 328,
+      "questionNumberCandidates": [
+        3
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 2 of 35 \nOrganizing Institute: IIT Kanpur \nQ.3 In the given figure, PQRS is a parallelogram with PS = 7 cm, PT = 4 cm and  \nPV = 5 cm. What is the length of RS in cm? (The diagram is representative.)  \n  \n \n \n \n(A) 20\n7  \n(B) 28\n5  \n(C) 9\n2 \n(D) 35\n4  \n  \n  \nP \nQ \n R \nS \nT \nV \n7 \n4 \n5 90° \n90° "
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 695,
+      "questionNumberCandidates": [
+        4
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 3 of 35 \nOrganizing Institute: IIT Kanpur \nQ.4 In 2022, June Huh was awarded the Fields medal, which is the highest prize in \nMathematics.  \nWhen he was younger, he was also a poet. He did not win any medals in the \nInternational Mathematics Olympiads. He dropped out of college. \nBased only on the above information, which one of the following statements can be \nlogically inferred with certainty? \n  \n(A) Every Fields medalist has won a medal in an International Mathematics Olympiad. \n(B) Everyone who has dropped out of college has won the Fields medal. \n(C) All Fields medalists are part-time poets.  \n(D) Some Fields medalists have dropped out of college. \n  \n \n  "
+    },
+    {
+      "page": 4,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 582,
+      "questionNumberCandidates": [
+        5
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 4 of 35 \nOrganizing Institute: IIT Kanpur \nQ.5 A line of symmetry is defined as a line that divides a figure into two parts in a way \nsuch that each part is a mirror image of the other part about that line.  \nThe given figure consists of 16 unit squares arranged as shown. In addition to the \nthree black squares, what is the minimum number of squares that must be coloured \nblack, such that both PQ and MN form lines of symmetry? (The figure is \nrepresentative) \n \n \n  \n    \n    \n    \n    \n \n(A) 3 \n(B) 4 \n(C) 5 \n(D) 6  \n  \n \n \n \n \n \n \n \nM \nN P \nQ "
+    },
+    {
+      "page": 5,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1028,
+      "questionNumberCandidates": [
+        6,
+        6,
+        7
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 5 of 35 \nOrganizing Institute: IIT Kanpur \nQ.6 – Q.10 Carry TWO marks Each \nQ.6 Human beings are one among many creatures that inhabit an imagined world. In \nthis imagined world, some creatures are cruel. If in this imagined world, it is given \nthat the statement “ Some human beings are not cruel creatures”  is FALSE, then \nwhich of the following set of statement(s) can be logically inferred with certainty? \n(i) All human beings are cruel creatures. \n(ii) Some human beings are cruel creatures. \n(iii) Some creatures that are cruel are human beings. \n(iv) No human beings are cruel creatures. \n  \n(A) only (i) \n(B) only (iii) and (iv)  \n(C) only (i) and (ii) \n(D) (i), (ii) and (iii) \n  \n \nQ.7 To construct a wall, sand and cement are mixed in the ratio of 3:1. The cost of sand \nand that of cement are in the ratio of 1:2.  \nIf the total cost of sand and cement to construct the wall is 1000 rupees, then what \nis the cost (in rupees) of cement used? \n  \n(A) 400 \n(B) 600 \n(C) 800 \n(D) 200 "
+    },
+    {
+      "page": 6,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1512,
+      "questionNumberCandidates": [
+        8,
+        9
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 6 of 35 \nOrganizing Institute: IIT Kanpur \nQ.8 \nThe World Bank has declared that it does not plan to offer new financing to Sri \nLanka, which is battling its worst economic crisis in decades, until the country has \nan adequate macroeconomic policy framework in place. In a statement, the World \nBank said Sr i Lanka needed to adopt structural reforms that focus on economic \nstabilisation and tackle the root causes of its crisis. The latter has starved it of \nforeign exchange and led to shortages of food, fuel, and medicines. The bank is \nrepurposing resources under existing loans to help alleviate shortages of essential \nitems such as medicine, cooking gas, fertiliser, meals for children, and cash for \nvulnerable households. \n \nBased only on the above passage, which one of the following statements can be \ninferred with certainty? \n \n  \n(A) According to the World Bank, the root cause of Sri Lanka’s economic crisis is that \nit does not have enough foreign exchange. \n(B) The World Bank has stated that it will advise the Sri Lankan government about how \nto tackle the root causes of its economic crisis. \n(C) According to the World Bank, Sri Lanka does not yet have an adequate \nmacroeconomic policy framework. \n(D) The World Bank has stated that it will provide Sri Lanka with additional funds for \nessentials such as food, fuel, and medicines. \n \nQ.9 The coefficient of 𝑥4 in the polynomial (𝑥 − 1)3(𝑥 − 2)3 is equal to _______. \n  \n(A) 33 \n(B)  ̶  3 \n(C) 30 \n(D) 21 "
+    },
+    {
+      "page": 7,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 429,
+      "questionNumberCandidates": [
+        10
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 7 of 35 \nOrganizing Institute: IIT Kanpur \nQ.10 Which one of the following shapes can be used to tile (completely cover by \nrepeating) a flat plane, extending to infinity in all directions, without leaving any \nempty spaces in between them? The copies of the shape used to tile are identical \nand are not allowed to overlap. \n  \n(A) circle \n(B) regular octagon \n(C) regular pentagon \n(D) rhombus \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 8,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 574,
+      "questionNumberCandidates": [
+        11,
+        11,
+        12
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 8 of 35 \nOrganizing Institute: IIT Kanpur \nQ.11 – Q.35 Carry ONE mark Each \nQ.11 The direction in which a scalar field \n( , , )x y z  has the largest rate of change at \nany point with position vector \nˆˆˆr xi yj zk= + +\n  is the same as that of the vector \n  \n(A) \n  \n(B) \n() r\n  \n(C) \nr\n  \n(D) (𝛻𝜙 • 𝑑𝑟⃗)𝑟⃗ \n  \nQ.12 If a monotonic and continuous function \n()y f x=  has only one root in the \ninterval \n12x x x , then \n  \n(A) \n12( ) ( ) 0f x f x   \n(B) \n12( ) ( ) 0f x f x =  \n(C) \n12( ) ( ) 0f x f x   \n(D) \n12( ) ( ) 0f x f x−=  \n  "
+    },
+    {
+      "page": 9,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 786,
+      "questionNumberCandidates": [
+        13,
+        14
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 9 of 35 \nOrganizing Institute: IIT Kanpur \nQ.13 Consider the one-dimensional wave equation\n0uu\ntx\n +=  for \nx−    , \n0t  . \nFor an initial condition \n2\n( ,0) xu x e −= , the solution at \n1t =  is \n  \n(A) \n2( 1)( ,1) xu x e −−=\n \n(B) \n1( ,1)u x e −=\n \n(C) \n2\n( ,1) xu x e −=\n \n(D) \n2( 1)( ,1) xu x e −+=\n \n  \nQ.14 A two-dimensional potential flow solution for flow past an airfoil has a streamline \npattern as shown in the figure. Which of the following conditions is additionally \nrequired to satisfy the Kutta condition? \n \n \n(A) Addition of a source of strength \n0Q   \n(B) Addition of a source of strength \n0Q   \n(C) Addition of a circulation of strength \n0 (counter-clockwise) \n(D) Addition of a circulation of strength \n0 (clockwise) \n"
+    },
+    {
+      "page": 10,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 646,
+      "questionNumberCandidates": [
+        15,
+        16
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 10 of 35 \nOrganizing Institute: IIT Kanpur \nQ.15 Consider the Blasius solution for the incompressible laminar flat plate boundary \nlayer. Among the following options, select the correct relation for the \ndevelopment of the momentum thickness \n  with distance \nx from the leading \nedge along the length of the plate.  \n  \n(A) \n23x   \n(B) \n12x   \n(C) \n17x   \n(D) \n23x −  \n  \nQ.16 In a two-dimensional potential flow, the doublet is a limit of the superposition of  \n  \n(A) a uniform stream and a source \n(B) a source and a sink of equal strength \n(C) a uniform stream and a sink \n(D) a source and a vortex \n  "
+    },
+    {
+      "page": 11,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 350,
+      "questionNumberCandidates": [
+        17
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 11 of 35 \nOrganizing Institute: IIT Kanpur \nQ.17 An ideal glider has drag characteristics given by \n0D D D i\nC C C=+ , where \n2\nDLi\nC KC=\nis the induced drag coefficient, \nLC is the lift coefficient, and K is a \nconstant. For maximum range of the glider, the ratio \n0DD i\nCC  is \n  \n(A) 1 \n(B) \n1\n3  \n(C) 3 \n(D) \n3\n2  \n  \n \n \n \n \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 12,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 338,
+      "questionNumberCandidates": [
+        18
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 12 of 35 \nOrganizing Institute: IIT Kanpur \nQ.18 The figures shown in the options are schematics of airfoil shapes (not to scale). \nFor a civilian transport aircraft designed for a cruise Mach number of 0.8, which \namong them is aerodynamically best suited as a wing section? \n  \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \n \n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+      "page": 13,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 367,
+      "questionNumberCandidates": [
+        19
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 13 of 35 \nOrganizing Institute: IIT Kanpur \nQ.19 For a longitudinally statically stable aircraft, which one of the following \nrepresents the relationship between the coefficient of pitching moment about the \ncenter of gravity \nmcgC and absolute angle of attack \na ?  \n(Note: nose-up moment is positive.) \n  \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n"
+    },
+    {
+      "page": 14,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 879,
+      "questionNumberCandidates": [
+        20,
+        21
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 14 of 35 \nOrganizing Institute: IIT Kanpur \nQ.20 In a single-spool aviation turbojet engine, which of the following is the correct \nrelationship between the total work output WT of a 2-stage axial turbine and the \ntotal work required WC by a 6-stage axial compressor, neglecting losses? \n  \n(A) \n2TCWW=  \n(B) \n6TCWW=  \n(C) \nTCWW=  \n(D) \n3TCWW=  \n  \nQ.21 For a stage of a 50% reaction ideal axial flow compressor (symmetrical blading), \nselect the correct statement from the options given.  \n  \n(A) The stagnation enthalpy rise across the rotor is 50% of the rise across the stage. \n(B) The static enthalpy rise across the rotor is 50% of the rise across the stage. \n(C) Axial velocity component of the flow at the rotor exit is 50% of that at the rotor \nentry. \n(D) The static pressure rise across the rotor is 50% of the rise across the stator. \n  \n "
+    },
+    {
+      "page": 15,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 980,
+      "questionNumberCandidates": [
+        22,
+        23
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 15 of 35 \nOrganizing Institute: IIT Kanpur \nQ.22 An aircraft is cruising with a forward speed \naV  and the jet exhaust speed relative \nto the engine at the exit is \njV . If \n2,ajVV =  what is the propulsive efficiency? \n  \n(A) 0.50 \n(B) 1.00 \n(C) 0.33 \n(D) 0.67 \n  \nQ.23 Consider the four basic symmetrical flight loading conditions corresponding to the \ncorners of a typical V-n diagram. For one of these flight loading conditions, it is \nobserved that (i) the compressive bending stresses have a maximum value in the \nbottom aft region (see figure) of the wing cross-section; and (ii) the tensile \nbending stresses are maximum in the upper forward region (see figure) of the \nwing cross-section. For the preceding observations, select the corresponding flight \nloading condition from the options given. \n \n \n(A) Positive high angle of attack \n(B) Positive low angle of attack \n(C) Negative high angle of attack \n(D) Negative low angle of attack \n"
+    },
+    {
+      "page": 16,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 347,
+      "questionNumberCandidates": [
+        24
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 16 of 35 \nOrganizing Institute: IIT Kanpur \nQ.24 Which one of the following figures represents the qualitative variation of absolute \ndeceleration \ndV\ndt with altitude h (measured from the mean sea level) for a space \nvehicle undergoing a ballistic entry into the Earth’s atmosphere?  \n  \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n"
+    },
+    {
+      "page": 17,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1231,
+      "questionNumberCandidates": [
+        25,
+        26
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 17 of 35 \nOrganizing Institute: IIT Kanpur \nQ.25 Which of the following statement(s) is/are true about harmonically excited forced \nvibration of a single degree-of-freedom linear spring-mass-damper system? \n  \n(A) The total response of the mass is a combination of free vibration transient and \nsteady-state response. \n(B) The free vibration transient dies out with time for each of the three possible \nconditions of damping (under-damped, critically damped, and over-damped). \n(C) The steady-state periodic response is dependent on the initial conditions at the \ntime of application of external forcing. \n(D) The rate of decay of free vibration transient response depends on the mass, spring \nstiffness and damping constant. \n  \nQ.26 Which of the following statement(s) is/are true about the state of stress in a plane? \n  \n(A) Maximum or major principal stress is algebraically the largest direct stress at a \npoint.  \n(B) The magnitude of minor principal stress cannot be greater than the magnitude of \nmajor principal stress. \n(C) The planes of maximum shear stress are inclined at 90 degrees to the principal \naxes. \n(D) The normal stresses along the planes of maximum shear stress are equal.  \n  "
+    },
+    {
+      "page": 18,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 917,
+      "questionNumberCandidates": [
+        27,
+        28
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 18 of 35 \nOrganizing Institute: IIT Kanpur \nQ.27 Which of the following statement(s) is/are true about the ribs of an airplane wing \nwith semi-monocoque construction? \n  \n(A) For a rectangular planform wing, the dimensions of the ribs DO NOT depend on \ntheir spanwise position in the wing. \n(B) Ribs increase the column buckling stress of longitudinal stiffeners connected to \nthem. \n(C) Ribs increase plate buckling stress of the skin panels.  \n(D) Ribs help in maintaining aerodynamic shape of the wing. \n  \nQ.28 From the options given, select all that are true for turbofan engines with \nafterburners.  \n  \n(A) Turning afterburner ON increases specific fuel consumption. \n(B) Turbofan engines with afterburners have variable area nozzles. \n(C) Turning afterburner ON decreases specific fuel consumption. \n(D) Turning afterburner ON increases stagnation pressure across the engine. \n  \n \n \n "
+    },
+    {
+      "page": 19,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1036,
+      "questionNumberCandidates": [
+        29,
+        30
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 19 of 35 \nOrganizing Institute: IIT Kanpur \nQ.29 Which of the following statement(s) is/are true with respect to eigenvalues and \neigenvectors of a matrix? \n  \n(A) The sum of the eigenvalues of a matrix equals the sum of the elements of the \nprincipal diagonal. \n(B) If \n is an eigenvalue of a matrix A, then \n1\n  is always an eigenvalue of its \ntranspose (AT). \n(C) If \n is an eigenvalue of an orthogonal matrix A, then \n1\n  is also an eigenvalue of \nA. \n(D) If a matrix has n distinct eigenvalues, it also has n independent eigenvectors.  \n  \n \nQ.30 For studying wing vibrations, a wing of mass M and finite dimensions has been \nidealized by assuming it to be supported using a linear spring of equivalent \nstiffness k and a torsional spring of equivalent stiffness \nk   as shown in the figure. \nThe centre of gravity (CG) of the wing idealized as an airfoil is marked  \nin the figure. The number of degree(s) of freedom for this idealized wing vibration \nmodel is _________. (Answer in integer) \n \n \n  \n"
+    },
+    {
+      "page": 20,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1324,
+      "questionNumberCandidates": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 20 of 35 \nOrganizing Institute: IIT Kanpur \nQ.31 The system of equations  \n20\n2 4 0\n0\nx y z\nx y z\nx y z\n− + =\n+ − =\n− + =\n \nhas a non-trivial solution for \n = ______. (Answer in integer) \n  \nQ.32 An airplane weighing 40 kN is landing on a horizontal runway during which it is \nretarded by an arresting cable mechanism. The tension in the arresting cable at a \ngiven instant, as shown in the figure, is 100 kN. Assuming that the thrust from the \nengine continues to balance airplane drag, the magnitude of horizontal load factor \nis ________. (round off to one decimal place) \n \n \n  \nQ.33 The ratio of the speed of sound in H2 (molecular weight 2 kg/kmol) to that  \nin N2 (molecular weight 28 kg/kmol) at temperature 300 K and pressure 2 bar  \nis ____. (round off to two decimal places)  \n  \nQ.34 Airplane A and Airplane B are cruising at altitudes of 2 km and 4 km, \nrespectively. The free stream density and static pressure at altitude 2 km are  \n1.01 kg/m3 and 79.50 kPa, respectively, and at altitude 4 km, they are 0.82 kg/m3 \nand 61.70 kPa, respectively. The differential pressure reading from the pitot-static \ntubes is 3 kPa for both the airplanes. Assuming incompressible flow, the ratio of \ncruise speeds of Airplane A to Airplane B is ______.  \n(round off to two decimal places) \n  \n"
+    },
+    {
+      "page": 21,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 582,
+      "questionNumberCandidates": [
+        35
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 21 of 35 \nOrganizing Institute: IIT Kanpur \nQ.35 A supersonic vehicle powered by a ramjet engine is cruising at a speed of  \n1000 m/s. The ramjet engine burns hydrogen in a subsonic combustor to produce \nthrust. The heat of combustion for hydrogen is 120 MJ/kg. The overall efficiency \nof the engine \no , defined as the ratio of propulsive power to the total heat release \nin the combustor, is 40%. Taking acceleration due to gravity \n0 10g = m/s2, the \nspecific impulse of the engine is _____________ seconds. \n(round off to the nearest integer). \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 22,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 290,
+      "questionNumberCandidates": [
+        36,
+        36
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 22 of 35 \nOrganizing Institute: IIT Kanpur \nQ.36 – Q.65 Carry TWO marks Each \nQ.36 Given the function\n( ) ( 3)( 2)y x x x= + − , for \n44 x−   . What is the value of x at \nwhich the function has a minimum? \n  \n(A) \n3\n2−  \n(B) \n1\n2−  \n(C)  \n1\n2  \n(D)  \n3\n2  \n  \n \n \n \n \n \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 23,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 784,
+      "questionNumberCandidates": [
+        37
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 23 of 35 \nOrganizing Institute: IIT Kanpur \nQ.37 A supersonic aircraft has an air intake ramp that can be rotated about the leading \nedge O such that the shock from the leading edge meets the cowl lip as shown in \nthe figure.  Select all the correct statement(s) as per oblique shock theory when the \nflight Mach number M is increased. \n \n \n(A) It is always possible to find a ramp setting \nRAMP  such that the shock still meets \nthe cowl lip (\nSHOCK remains the same). \n(B) If \nRAMP  is held fixed, the shock angle \nSHOCK will increase. \n(C) If M exceeds a critical value, it would NOT be possible to find a ramp setting \nRAMP\nsuch that the shock still meets the cowl lip (\nSHOCK remains the same). \n(D) \nShock angle \n1 1sinSHOCK\nM −    \n  \n \n \n \n \n \n \n \n \n"
+    },
+    {
+      "page": 24,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 648,
+      "questionNumberCandidates": [
+        38
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 24 of 35 \nOrganizing Institute: IIT Kanpur \nQ.38 Two missiles A and B powered by solid rocket motors have identical specific \nimpulse, liftoff mass of 5600 kg each, and burn durations of \n30At = s  \nand \n70Bt = s, respectively. The propellant mass flow rates, \nAm\n  and \nBm\n , for \nmissiles A and B, respectively, are given by \n120 kg/s,       0 30\n70 kg/s,       0 70\nA\nB\nt\nt\nm\nm\n=  \n=  \n \nNeglecting gravity and aerodynamic forces, the relationship between the final \nvelocities \nAV  and \nBV of missiles A and B, respectively, is given by \n  \n(A) \n4.1 BAVV =  \n(B) \nBAVV =  \n(C) \n0.5 BAVV =  \n(D) \n0.7 BAVV =  \n  \n \n \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 25,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1025,
+      "questionNumberCandidates": [
+        39,
+        40
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 25 of 35 \nOrganizing Institute: IIT Kanpur \nQ.39 A perfect gas stored in a large reservoir exhausts into the atmosphere through a \nconvergent duct. The reservoir pressure is P0 and temperature is T0.  The jet emerges \nfrom the nozzle at choked conditions with average velocity u, Mach number M, \npressure p, temperature T, and density\n .  If the reservoir pressure is increased, \nthen  \n  \n(A) u, M, p, T, and\n  increase \n(B) u, p, T, and\n  increase, but M remains the same \n(C) u, M, and T  remain the same, but p and\n  increase \n(D) u, M, T and\n  remain the same, but p increases \n  \nQ.40 Consider a general aviation airplane with weight 10 kN and a wing planform area \nof 15 m 2. The drag coefficient of the airplane is given as \n0\n2\nD D LC C KC=+  with \n0\n0.025DC =\nand \n0.05K = . For level flight at an altitude where the density is  \n0.60 kg/m3 and thrust 1 kN, the maximum cruise speed is  \n(rounded off to the nearest integer) \n  \n(A) 87 m/s \n(B) 30 m/s \n(C) 36 m/s \n(D) 101 m/s \n  "
+    },
+    {
+      "page": 26,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 683,
+      "questionNumberCandidates": [
+        41
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 26 of 35 \nOrganizing Institute: IIT Kanpur \nQ.41 A scramjet engine features an intake, isolator, combustor, and a nozzle, as shown \nin the schematic. Station 3 indicates the combustor entry point. Assume stagnation \nenthalpy to be constant between Stations 1 and 3, and air to be a calorically perfect \ngas with specific heat ratio γ. Select the correct expression for Mach number M3 at \nthe inlet to the combustor from the options given.  \n \n \n(A) \n3\n3\n2 1 1\nTMM T\n\n\n=−  − \n \n(B) \n2\n3\n3\n21 1112\nTMM T\n\n\n\n\n  −  = + −  −   \n \n(C) \n3\n3\nTMM T\n\n=  \n(D) \n \n2\n3\n3\n1 112\nTMM T\n \n\n+= − −    \n  \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 27,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 725,
+      "questionNumberCandidates": [
+        42,
+        43
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 27 of 35 \nOrganizing Institute: IIT Kanpur \nQ.42 Consider the equation \nsindy ay xdx += , where a and ω are constants. Given \n1 at 0yx==\n, select all correct statement(s) from the following as \nx → . \n  \n(A) \n0 if 0ya→  \n(B) \n1 if 0ya→=  \n(C) \n( ) exp  if 0y A a x a→ ; \nA is a constant \n(D) \n( ) sin  if 0y B x C a → +  ; \nB and \nC are constants \n  \nQ.43 Given the vectors \nˆˆˆ9 5 2\nˆˆˆ11 4\nˆˆˆ7 14 3\nA i j k\nB i j k\nC i j k\n= − +\n= + +\n= − + −\n \nwhich of the following statement(s) is/are TRUE? \n  \n(A) Vectors \nA\n , \nB\n  and \nC\n are coplanar \n(B) The scalar triple product of the vectors \nA\n , \nB\n  and \nC\n  is zero \n(C) \nA\n  and \nB\n  are perpendicular \n(D) \nC\n  is parallel to \nAB\n  "
+    },
+    {
+      "page": 28,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 384,
+      "questionNumberCandidates": [
+        44
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 28 of 35 \nOrganizing Institute: IIT Kanpur \nQ.44 Consider a one-dimensional inviscid supersonic flow in a diverging duct with heat \naddition (Qin) as shown. Which of the following statement(s) is/are always TRUE?  \n \n \n(A) Mach number, \n21MM  \n(B) Stagnation pressure, \n12\nooPP  \n(C) Static pressure, \n21PP  \n(D) Stagnation temperature, \n12\nooTT   \n  \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+      "page": 29,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 624,
+      "questionNumberCandidates": [
+        45,
+        46
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 29 of 35 \nOrganizing Institute: IIT Kanpur \nQ.45 Consider the International Standard Atmosphere (ISA) with h being the \ngeopotential altitude (in km) and \ndT\ndh being the temperature gradient (in K/m). \nWhich of the following combination(s) of \n, dTh dh\n\n  is/are as per ISA? \n  \n(A) \n( )\n37,  6.5 10 −−  \n(B) \n( )\n39,  4 10 −  \n(C) \n( )15,  0  \n(D) \n( )\n335,  3 10 −  \n  \nQ.46 For an airfoil, which of the relations given about the critical Mach number \ncrM  \nand drag divergence Mach number \nddM  is/are correct? \n  \n(A) \ncr ddMM   \n(B) \n1.0crM   \n(C) \n1.0ddM   \n(D) \n1.0crM   \n  "
+    },
+    {
+      "page": 30,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 958,
+      "questionNumberCandidates": [
+        47,
+        48
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 30 of 35 \nOrganizing Institute: IIT Kanpur \nQ.47 Which of the following statement(s) about the elastic flexural buckling load of \ncolumns is/are correct? \n  \n(A) The buckling load increases with increase in flexural rigidity of the column. \n(B) The buckling load increases with increase in the length of the column. \n(C) The boundary conditions of the column affect the buckling load. \n(D) The buckling load is NOT directly dependent on the density of the material used \nfor the column. \n  \n \n \nQ.48 The thickness of a uniform hollow circular shaft is equal to the difference between \nthe outer radius and the inner radius. The ratio of the inner diameter to outer \ndiameter of the shaft is 0.5 . For the shaft reacting to an  applied torque, the ratio of \nthe maximum shear stress  \n  to the maximum shear stress \nthin wall − obtained using \nthe thin-wall approximation is               . (round off to one decimal place) \n  \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 31,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1063,
+      "questionNumberCandidates": [
+        49,
+        50,
+        51
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 31 of 35 \nOrganizing Institute: IIT Kanpur \nQ.49 A rigid bar AB is subjected to a uniformly distributed load of 100 N/m as shown in \nthe figure. The bar is supported by rod CD, with A, C, and D as pin joints. The rod \nCD has axial stiffness of 40 N/mm. The vertical deflection at point D  \nis __________ mm. (round off to nearest integer) \n \n \n  \nQ.50 A cantilever beam of length 2a is loaded at the tip with force F as shown in the \nfigure. The beam is supported in the middle by a roller with a pin. The magnitude \nof moment reaction at the built -in end of the beam  is \n Fa, where \n is ______ . \n(round off to one decimal place) \n \n \n  \nQ.51 A single degree-of-freedom spring-mass-damper system has viscous damping ratio \nof 0.1. The mass is given an initial displacement of 10 cm without imparting any \nvelocity. After exactly two complete cycles of oscillation (i.e., after time 2\ndT , where \ndT\n is the period of the damped vibration) , the amplitud e of the displacement  is \n______ cm. (round off to two decimal place) \n  \n \n \n"
+    },
+    {
+      "page": 32,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1165,
+      "questionNumberCandidates": [
+        52,
+        53,
+        54
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 32 of 35 \nOrganizing Institute: IIT Kanpur \nQ.52 The shear flow distribution in a single cell, thin-walled beam under the action of \nan arbitrary shear load \nys  applied at the shear centre S is shown in the figure. The \ncell has horizontal symmetry with booms marked by 1 to 4 that carry direct \nstresses. The shear modulus G is the same for all the walls, and the area of the cell \nis 135000 mm2. With respect to the point O marked in the figure, the distance to \nthe shear centre S is ______ mm. (round off to the nearest integer) \n \n \n  \nQ.53 Consider a thin-walled cylindrical pressure vessel made of an alloy with yield \nstrength of 300 MPa. The vessel has end caps to contain the pressure. The ratio  \nof radius of the vessel to its wall thickness is 100. As per the von Mises yield \ncriterion, the internal pressure that would cause the failure of the vessel  \nis _____ MPa. (round off to two decimal places) \n  \nQ.54 Consider the differential equation \n2\n2\n2 4 2 0d y dyx x ydx dx+ + =\n for \n1x   \nwith initial conditions \n0y = , \n1dy\ndx =  at \n1x = . The value of y at \n2x =  is ____ . \n(round off to two decimal places) \n  \n  \n"
+    },
+    {
+      "page": 33,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1503,
+      "questionNumberCandidates": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 33 of 35 \nOrganizing Institute: IIT Kanpur \nQ.55 The operating characteristics of a pump were measured to be \n2 PCa = , where \npower coefficient \n35P\nPC D= , \n  is the flow coefficient, \na  is a constant, \nD  is a \nlength scale, \n  is the rotation rate, \n  is fluid density, and \nP is the power \nrequired.  The flow coefficient is a dimensionless volume flow rate scaled with \n  \nand \nD . Assuming that the flow rate remains the same, if the rotation rate is \nincreased to \n1.25 , the power changes to \nP . The value of \n is ________ . \n(round off to two decimal places) \n  \nQ.56 A thin cambered airfoil has lift coefficient \n0lc =  at an angle of attack \no1.1 =− .  \nAssuming that stall occurs at much larger \n , the \nlc  at \no4 =  is _______.  \n(round off to two decimal places) \n  \nQ.57 In a potential flow, a uniform stream of strength \nU  directed along the x-axis and \nfour line sources (2-dimensional) of strengths  \n, , ,2 3 4 5\n   −−  are placed along \nthe x-axis at \nx = 0, 1, 2 and 3, respectively. The strength of an additional line \nsource to be placed at \n4x =  such that a closed streamline encircles all five sources \nis _____. (round off to two decimal places). \n  \nQ.58 Enstrophy is defined as the square of the magnitude of vorticity.  \nFor the three-dimensional velocity field \n( ) ˆˆˆ(4 1.5 2.5 ) (1.5 1.5 ) 0.7V x y z i x y j xy k= − + + − +\n, \nthe enstrophy at location (1, 1, 1) is ________ .  \n(round off to two decimal places) \n  \n \n "
+    },
+    {
+      "page": 34,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1588,
+      "questionNumberCandidates": [
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 34 of 35 \nOrganizing Institute: IIT Kanpur \nQ.59 An airplane with wing planform area of 20 m2 and weight 8 kN is flying straight \nand level with a speed of 100 m/s. The total drag coefficient is 0.026 and the air \ndensity is 0.7 kg/m3. The total thrust required to introduce a steady climb angle of \n0.1 radians is ____ N. (round off to the nearest integer) \n  \nQ.60 The maximum permissible load factor and the maximum lift force coefficient for \nan airplane is 7 and 2, respectively. For a wing loading of 6500 N/m2 and air \ndensity 1.23 kg/m3, the speed yielding the highest possible turn rate in the vertical \nplane is ___________ m/s. (round off to the nearest integer) \n  \nQ.61 A gas turbine combustor is burning methane and air at an equivalence ratio \n0.5 =\n, where \n  stoich\nFA\nFA = and \n[] stoichFA  is the ratio of mass flow rate of fuel \nto the mass flow rate of air at stoichiometry. If the air flow rate is \n20airm =\n kg/s \nthen the mass flow rate of methane is ______ kg/s.  \n(round off to two decimal places) \n  \nQ.62 The universal gravitational constant is \n116.67 10 −  Nm2/kg2. For a planet of mass \n236.4169 10\nkg and radius 3390 km, the escape velocity is _____ km/s.  \n(round off to one decimal place).  \n  \nQ. 63 A satellite is in a circular orbit around Earth with a time period of 90 minutes. The \nradius of Earth is 6370 km, mass of Earth is \n245.98 10 kg and the universal \ngravitational constant is \n116.67 10 − Nm2/kg2. The altitude of the satellite above \nmean sea level is ____ km. (round off to the nearest integer) \n  \n \n "
+    },
+    {
+      "page": 35,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1056,
+      "questionNumberCandidates": [
+        64,
+        65
+      ],
+      "text": "                 Aerospace Engineering (AE)  \nPage 35 of 35 \nOrganizing Institute: IIT Kanpur \nQ.64 A centrifugal air compressor has inlet root diameter of 0.25 m and the outlet \ndiameter of the impeller is 0.6 m. The pressure ratio is 5.0. The air at the inlet of \nthe rotor is at 1 atm and 25oC. The polytropic efficiency is 0.8 and slip factor is \n0.92. Use \n1.004pC = kJ/kg-K and \n1.4 = . The impeller speed in revolutions per \nminute (RPM) is _________. (round off to the nearest integer) \n  \nQ.65 Consider a cryogenic liquid rocket engine using an expander cycle with liquid \nhydrogen and liquid oxygen as the two propellants. The mass flow rate of \nhydrogen \n2Hm\n into the combustion chamber is \n32 kg/s , and the mass flow rate of \noxygen \n2Om\n into the chamber is such that \n22\n8HOmm =\n . The combustion of \nhydrogen and oxygen is at stoichiometry. Assuming that the rate of the forward \nreaction is much larger than that of the reverse reaction, the rate of formation of \nH2O is ________ kmol/s. (round off to the nearest integer) \n  \n \n \n \nEND OF QUESTION PAPER "
+    }
+  ]
+}

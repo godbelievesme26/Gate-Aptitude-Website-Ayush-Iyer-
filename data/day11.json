@@ -1,0 +1,782 @@
+{
+  "schemaVersion": 1,
+  "day": 11,
+  "year": 2025,
+  "paper": "CE2",
+  "title": "GATE 2025 · CE2 · General Aptitude",
+  "source": "Aptitude Sets/2025/CE2.pdf",
+  "answerKeyStatus": "official GATE 2025 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2025-ce2-ga-01",
+      "number": 1,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Even though I had planned to go skiing with my friends, I had to __________ at the last moment because of an injury. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "back up"
+        },
+        {
+          "label": "B",
+          "text": "back of"
+        },
+        {
+          "label": "C",
+          "text": "back on"
+        },
+        {
+          "label": "D",
+          "text": "back out"
+        }
+      ],
+      "sourceImage": "figures/day11-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              147.53,
+              565.32,
+              377.33
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "“Back out” means withdraw from an arrangement or plan. The injury makes the speaker withdraw from the skiing plan. The other phrasal forms do not convey that meaning here. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-02",
+      "number": 2,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The President, along with the Council of Ministers, ___________ to visit India next week. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "wish"
+        },
+        {
+          "label": "B",
+          "text": "wishes"
+        },
+        {
+          "label": "C",
+          "text": "will wish"
+        },
+        {
+          "label": "D",
+          "text": "is wishing"
+        }
+      ],
+      "sourceImage": "figures/day11-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              455.26,
+              565.32,
+              685.06
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The subject is the singular “President”. The phrase “along with the Council of Ministers” does not make that subject plural. The present-tense singular verb is “wishes”. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-03",
+      "number": 3,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "An electricity utility company charges ₹ 7 per kWh (kilo watt-hour). If a 40-watt desk light is left on for 10 hours each night for 180 days, what would be the cost of energy consumption? If the desk light is on for 2 more hours each night for the 180 days, what would be the percentage-increase in the cost of energy consumption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "₹ 604.8; 10%"
+        },
+        {
+          "label": "B",
+          "text": "₹ 504; 20%"
+        },
+        {
+          "label": "C",
+          "text": "₹ 604.8; 12%"
+        },
+        {
+          "label": "D",
+          "text": "₹ 720; 15%"
+        }
+      ],
+      "sourceImage": "figures/day11-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              330.89
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Power=40 W=0.04 kW. Energy over 180 nights=0.04×10×180=72 kWh. Cost=72×₹7=₹504. Increasing nightly hours from 10 to 12 raises the cost by (12−10)/10×100=20%. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-04",
+      "number": 4,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "In the context of the given figure, which one of the following options correctly represents the entries in the blocks labelled (i), (ii), (iii), and (iv), respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Q, M, 12, and 8"
+        },
+        {
+          "label": "B",
+          "text": "K, L, 10 and 14"
+        },
+        {
+          "label": "C",
+          "text": "I, J, 10, and 8"
+        },
+        {
+          "label": "D",
+          "text": "L, K, 12 and 8"
+        }
+      ],
+      "sourceImage": "figures/day11-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              505.87
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "label": "Four blocks of letters and numbers",
+        "grouped": true,
+        "rows": [
+          [
+            "N",
+            "U",
+            "F",
+            "(i)"
+          ],
+          [
+            "21",
+            "14",
+            "9",
+            "6"
+          ],
+          [
+            "H",
+            "L",
+            "(ii)",
+            "O"
+          ],
+          [
+            "12",
+            "(iv)",
+            "15",
+            "(iii)"
+          ]
+        ]
+      },
+      "solution": "Within each 2×2 block, the number below each letter is the alphabetical position of the other letter in that block. N=14 and U=21 explain the first block. Thus (i)=I (9), (ii)=J (10), (iii)=10, and (iv)=H’s position 8. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-05",
+      "number": 5,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A bag contains Violet (V), Yellow (Y), Red (R), and Green (G) balls. On counting them, the following results are obtained:\n(i) The sum of Yellow balls and twice the number of Violet balls is 50.\n(ii) The sum of Violet and Green balls is 50.\n(iii) The sum of Yellow and Red balls is 50.\n(iv) The sum of Violet and twice the number of Red balls is 50. Which one of the following Pie charts correctly represents the balls in the bag?",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce2-ga-05-option-A.png",
+            "alt": "Pie chart: V 10%, R 20%, Y 30%, G 40%.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE2.pdf",
+              "page": 4,
+              "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+              "pdfCrop": [
+                233,
+                257,
+                396,
+                420
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce2-ga-05-option-B.png",
+            "alt": "Pie chart: V 40%, R 10%, Y 20%, G 30%.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE2.pdf",
+              "page": 4,
+              "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+              "pdfCrop": [
+                220,
+                452,
+                386,
+                618
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce2-ga-05-option-C.png",
+            "alt": "Pie chart: V 30%, R 40%, Y 10%, G 20%.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE2.pdf",
+              "page": 5,
+              "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+              "pdfCrop": [
+                219,
+                113,
+                381,
+                272
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce2-ga-05-option-D.png",
+            "alt": "Pie chart: V 20%, R 30%, Y 40%, G 10%.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE2.pdf",
+              "page": 5,
+              "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+              "pdfCrop": [
+                219,
+                307,
+                381,
+                466
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day11-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              775.92
+            ]
+          },
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              100,
+              565.32,
+              475.05
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Let V,Y,R,G be the counts. From Y+2V=50 and Y+R=50, R=2V. Substituting into V+2R=50 gives 5V=50, so V=10, R=20, Y=30, G=40. The total is 100, so the percentages are 10%,20%,30%,40% respectively. Only chart A matches.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-06",
+      "number": 6,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "“His life was divided between the books, his friends, and long walks. A solitary man, he worked at all hours without much method, and probably courted his fatal illness in this way. To his own name there is not much to show; but such was his liberality that he was continually helping others, and fruits of his erudition are widely scattered, and have gone to increase many a comparative stranger’s reputation.” (From E.V. Lucas’s “A Funeral”) Based only on the information provided in the above passage, which one of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The solitary man described in the passage is dead."
+        },
+        {
+          "label": "B",
+          "text": "Strangers helped create a grand reputation for the solitary man described in the passage."
+        },
+        {
+          "label": "C",
+          "text": "The solitary man described in the passage found joy in scattering fruits."
+        },
+        {
+          "label": "D",
+          "text": "The solitary man worked in a court where he fell ill."
+        }
+      ],
+      "sourceImage": "figures/day11-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              122.09,
+              565.32,
+              460.63
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The passage refers to the man’s “fatal illness”; fatal means causing death. The title “A Funeral” is consistent with this. The claim supported by the passage is that he is dead (A). His learning helped others’ reputations, not the reverse.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-07",
+      "number": 7,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "For the clock shown in the figure, if\nO^{*} = O Q S Z P R T, and\nX^{*} = X Z P W Y O Q,\nthen which one among the given options is most appropriate for P^{*}?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P U W R T V X"
+        },
+        {
+          "label": "B",
+          "text": "P R T O Q S U"
+        },
+        {
+          "label": "C",
+          "text": "P T V Q S U W"
+        },
+        {
+          "label": "D",
+          "text": "P S U P R T V"
+        }
+      ],
+      "sourceImage": "figures/day11-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              543.19
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Use the displayed 12-letter clock, O through Z. Each code follows offsets 0,+2,+4,−1,+1,+3,+5 from its initial letter, wrapping around the clock. For P these give P,R,T,O,Q,S,U. This matches B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ce2-ga-07-figure-1.png",
+          "alt": "Clock face labelled clockwise O, P, Q, R, S, T, U, V, W, X, Y, Z.",
+          "source": {
+            "file": "Aptitude Sets/2025/CE2.pdf",
+            "page": 7,
+            "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+            "image": "Image44.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ce2-ga-08",
+      "number": 8,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Consider a five-digit number PQRST that has distinct digits P,Q,R,S,and T, and satisfies the following conditions: P < Q S > P > T R < T If integers 1 through 5 are used to construct such a number, the value of P is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "sourceImage": "figures/day11-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              408.65
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The inequalities imply R<T<P, while both Q and S exceed P. Among the digits 1–5, exactly two are below P and two above it, so P is the middle digit 3. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-09",
+      "number": 9,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A business person buys potatoes of two different varieties P and Q, mixes them in a certain ratio and sells them at ₹ 192 per kg. The cost of the variety P is ₹ 800 for 5 kg. The cost of the variety Q is ₹ 800 for 4 kg. If the person gets 8% profit, what is the P:Q ratio (by weight)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5:4"
+        },
+        {
+          "label": "B",
+          "text": "3:4"
+        },
+        {
+          "label": "C",
+          "text": "3:2"
+        },
+        {
+          "label": "D",
+          "text": "1:1"
+        }
+      ],
+      "sourceImage": "figures/day11-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              486.46,
+              565.32,
+              767.98
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "P costs ₹800/5=₹160 per kg and Q costs ₹800/4=₹200 per kg. An 8% profit at selling price ₹192 requires cost 192/1.08=₹1600/9 per kg. If weights are p and q, (160p+200q)/(p+q)=1600/9, hence 160p=200q and p:q=5:4. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce2-ga-10",
+      "number": 10,
+      "year": 2025,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Three villages P, Q, and R are located in such a way that the distance PQ = 13 km, QR = 14 km, and RP = 15 km, as shown in the figure. A straight road joins Q and\nR. It is proposed to connect P to this road QR by constructing another road. What is the minimum possible length (in km) of this connecting road? Note: The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "10.5"
+        },
+        {
+          "label": "B",
+          "text": "11.0"
+        },
+        {
+          "label": "C",
+          "text": "12.0"
+        },
+        {
+          "label": "D",
+          "text": "12.5"
+        }
+      ],
+      "sourceImage": "figures/day11-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE2.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              99.17,
+              565.32,
+              517.99
+            ]
+          }
+        ],
+        "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The shortest connection is the perpendicular from P to QR. The triangle’s semiperimeter is (13+14+15)/2=21. By Heron’s formula its area is √(21×8×7×6)=84 km². Thus height=2×84/14=12 km; its foot lies on QR. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 8,
+        "verifiedOn": "2026-10-05",
+        "sha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ce2-ga-10-figure-1.png",
+          "alt": "Triangle PQR with PQ 13 km, PR 15 km and QR 14 km.",
+          "source": {
+            "file": "Aptitude Sets/2025/CE2.pdf",
+            "page": 9,
+            "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+            "pdfCrop": [
+              125,
+              209,
+              345,
+              351
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

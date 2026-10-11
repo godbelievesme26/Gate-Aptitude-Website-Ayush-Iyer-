@@ -1,0 +1,1279 @@
+[
+  {
+    "questionId": "gate-2025-ae-ga-04",
+    "src": "figures/gate-2025-ae-ga-04-figure-1.png",
+    "alt": "Overlapping rectangle, triangle and ellipse: P is common to all three, Q to triangle and ellipse, R to triangle and rectangle; regions 1 to 4 label the other areas.",
+    "source": {
+      "file": "Aptitude Sets/2025/AE (2).pdf",
+      "page": 3,
+      "sha256": "1b7612d39af768c3d1a950b7e59a80927e7879a80a8ec302cea28debcd4b5533",
+      "pdfCrop": [
+        140,
+        160,
+        460,
+        385
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ae-ga-08",
+    "src": "figures/gate-2025-ae-ga-08-figure-1.png",
+    "alt": "A circle partitioned into twelve numbered triangles, including three small triangles outside the circle.",
+    "source": {
+      "file": "Aptitude Sets/2025/AE (2).pdf",
+      "page": 7,
+      "sha256": "1b7612d39af768c3d1a950b7e59a80927e7879a80a8ec302cea28debcd4b5533",
+      "image": "Image49.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ae-ga-10",
+    "src": "figures/gate-2025-ae-ga-10-figure-1.png",
+    "alt": "Bar chart of patients per shift: 5 patients for 20 shifts, 6 for 40 shifts, 7 for 30 shifts and 8 for 10 shifts.",
+    "source": {
+      "file": "Aptitude Sets/2025/AE (2).pdf",
+      "page": 9,
+      "sha256": "1b7612d39af768c3d1a950b7e59a80927e7879a80a8ec302cea28debcd4b5533",
+      "pdfCrop": [
+        125,
+        178,
+        486,
+        391
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-02",
+    "src": "figures/gate-2026-xe-ga-02-figure-1.png",
+    "alt": "Sequence of squares containing 0, 1, 1, 2, 3 and 5 dots, followed by an unknown square.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 2,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-02",
+    "src": "figures/gate-2026-xe-ga-02-option-A.png",
+    "alt": "Four dots at the corners.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 2,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im2.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-02",
+    "src": "figures/gate-2026-xe-ga-02-option-B.png",
+    "alt": "Six dots in two columns of three.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 2,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im3.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-02",
+    "src": "figures/gate-2026-xe-ga-02-option-C.png",
+    "alt": "Eight dots around the perimeter of a square.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 2,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im4.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-02",
+    "src": "figures/gate-2026-xe-ga-02-option-D.png",
+    "alt": "Nine dots in a three-by-three grid.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 2,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im5.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-03",
+    "src": "figures/gate-2026-xe-ga-03-figure-1.png",
+    "alt": "Five junctions connected in a closed cycle of five walkways.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 3,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-05",
+    "src": "figures/gate-2026-xe-ga-05-figure-1.png",
+    "alt": "Starting arrangement H H H T T T; final arrangement T T T H H H.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 5,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png"
+    }
+  },
+  {
+    "questionId": "gate-2026-xe-ga-07",
+    "src": "figures/gate-2026-xe-ga-07-figure-1.png",
+    "alt": "Cube net with a central vertical stripe, upper triangular patch, left L-shaped patch, right square patch, lower horizontal stripe and bottom half-shaded face.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 7,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png",
+      "pixelCrop": [
+        0,
+        55,
+        394,
+        580
+      ]
+    },
+    "caption": "Panel I"
+  },
+  {
+    "questionId": "gate-2026-xe-ga-07",
+    "src": "figures/gate-2026-xe-ga-07-figure-2.png",
+    "alt": "Cube (i): L-shaped front, narrow striped top, and half-shaded right face.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 7,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png",
+      "pixelCrop": [
+        500,
+        207,
+        688,
+        392
+      ]
+    },
+    "caption": "Panel II · (i)"
+  },
+  {
+    "questionId": "gate-2026-xe-ga-07",
+    "src": "figures/gate-2026-xe-ga-07-figure-3.png",
+    "alt": "Cube (ii): triangular patch on front, half-shaded top, and square patch on right.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 7,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png",
+      "pixelCrop": [
+        734,
+        207,
+        920,
+        392
+      ]
+    },
+    "caption": "Panel II · (ii)"
+  },
+  {
+    "questionId": "gate-2026-xe-ga-10",
+    "src": "figures/gate-2026-xe-ga-10-figure-1.png",
+    "alt": "Three externally tangent circles with center O3 forming a right angle between the segments to centers O1 and O2.",
+    "source": {
+      "file": "Aptitude Sets/2026/XE (1).pdf",
+      "page": 10,
+      "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+      "image": "Im1.png"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-05",
+    "src": "figures/gate-2025-ce1-ga-05-figure-1.png",
+    "alt": "Sequence of circular shaded sectors I, II, III, followed by the missing fourth sector.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 3,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        118,
+        151,
+        500,
+        279
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-05",
+    "src": "figures/gate-2025-ce1-ga-05-option-A.png",
+    "alt": "Option A: shaded sector pattern, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 3,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        127,
+        290,
+        232,
+        394
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-05",
+    "src": "figures/gate-2025-ce1-ga-05-option-B.png",
+    "alt": "Option B: shaded sector pattern, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 3,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        125,
+        403,
+        231,
+        509
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-05",
+    "src": "figures/gate-2025-ce1-ga-05-option-C.png",
+    "alt": "Option C: shaded sector pattern, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 3,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        125,
+        516,
+        231,
+        623
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-05",
+    "src": "figures/gate-2025-ce1-ga-05-option-D.png",
+    "alt": "Option D: shaded sector pattern, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 3,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        125,
+        633,
+        231,
+        740
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-08",
+    "src": "figures/gate-2025-ce1-ga-08-figure-1.png",
+    "alt": "Subtractive color overlaps: yellow, magenta and cyan; pairwise overlaps red, green and blue; central overlap black.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 6,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "image": "Image67.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-08",
+    "src": "figures/gate-2025-ce1-ga-08-option-A.png",
+    "alt": "Option A: overlapping color-labelled regions, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 6,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "image": "Image71.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-08",
+    "src": "figures/gate-2025-ce1-ga-08-option-B.png",
+    "alt": "Option B: overlapping color-labelled regions, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 6,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "image": "Image68.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-08",
+    "src": "figures/gate-2025-ce1-ga-08-option-C.png",
+    "alt": "Option C: overlapping color-labelled regions, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 6,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "image": "Image69.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-08",
+    "src": "figures/gate-2025-ce1-ga-08-option-D.png",
+    "alt": "Option D: overlapping color-labelled regions, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 6,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "image": "Image70.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-10",
+    "src": "figures/gate-2025-ce1-ga-10-option-A.png",
+    "alt": "Option A: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 8,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        118,
+        227,
+        211,
+        323
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-10",
+    "src": "figures/gate-2025-ce1-ga-10-option-B.png",
+    "alt": "Option B: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 8,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        118,
+        329,
+        211,
+        423
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-10",
+    "src": "figures/gate-2025-ce1-ga-10-option-C.png",
+    "alt": "Option C: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 8,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        118,
+        429,
+        211,
+        523
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce1-ga-10",
+    "src": "figures/gate-2025-ce1-ga-10-option-D.png",
+    "alt": "Option D: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE1.pdf",
+      "page": 8,
+      "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+      "pdfCrop": [
+        118,
+        529,
+        211,
+        622
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce2-ga-05",
+    "src": "figures/gate-2025-ce2-ga-05-option-A.png",
+    "alt": "Pie chart: V 10%, R 20%, Y 30%, G 40%.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE2.pdf",
+      "page": 4,
+      "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+      "pdfCrop": [
+        233,
+        257,
+        396,
+        420
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce2-ga-05",
+    "src": "figures/gate-2025-ce2-ga-05-option-B.png",
+    "alt": "Pie chart: V 40%, R 10%, Y 20%, G 30%.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE2.pdf",
+      "page": 4,
+      "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+      "pdfCrop": [
+        220,
+        452,
+        386,
+        618
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce2-ga-05",
+    "src": "figures/gate-2025-ce2-ga-05-option-C.png",
+    "alt": "Pie chart: V 30%, R 40%, Y 10%, G 20%.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE2.pdf",
+      "page": 5,
+      "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+      "pdfCrop": [
+        219,
+        113,
+        381,
+        272
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce2-ga-05",
+    "src": "figures/gate-2025-ce2-ga-05-option-D.png",
+    "alt": "Pie chart: V 20%, R 30%, Y 40%, G 10%.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE2.pdf",
+      "page": 5,
+      "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+      "pdfCrop": [
+        219,
+        307,
+        381,
+        466
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ce2-ga-07",
+    "src": "figures/gate-2025-ce2-ga-07-figure-1.png",
+    "alt": "Clock face labelled clockwise O, P, Q, R, S, T, U, V, W, X, Y, Z.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE2.pdf",
+      "page": 7,
+      "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+      "image": "Image44.jpg"
+    }
+  },
+  {
+    "questionId": "gate-2025-ce2-ga-10",
+    "src": "figures/gate-2025-ce2-ga-10-figure-1.png",
+    "alt": "Triangle PQR with PQ 13 km, PR 15 km and QR 14 km.",
+    "source": {
+      "file": "Aptitude Sets/2025/CE2.pdf",
+      "page": 9,
+      "sha256": "cfe1d62865e0526c8f0510a411e8578d2c6784a7fff8aecfa0b3f8f6aa4ab816",
+      "pdfCrop": [
+        125,
+        209,
+        345,
+        351
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-05",
+    "src": "figures/gate-2025-cs1-ga-05-figure-1.png",
+    "alt": "Campus map: library and physics lab northwest of the crossroads, canteen and hospital northeast, hostels and classrooms southwest, chemistry lab southeast; north points upward.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 5,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        155,
+        190,
+        440,
+        445
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-07",
+    "src": "figures/gate-2025-cs1-ga-07-figure-1.png",
+    "alt": "Triangle PQR with S on PQ and T on PR; ST parallel to QR.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 7,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        214,
+        203,
+        350,
+        333
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-09",
+    "src": "figures/gate-2025-cs1-ga-09-figure-1.png",
+    "alt": "Square folding stages I to IV, with two diagonal folds and three cut shapes shown on the final triangle.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 9,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        120,
+        190,
+        474,
+        285
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-09",
+    "src": "figures/gate-2025-cs1-ga-09-option-A.png",
+    "alt": "Option A: unfolded paper with geometric cutouts, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 9,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        120,
+        298,
+        214,
+        388
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-09",
+    "src": "figures/gate-2025-cs1-ga-09-option-B.png",
+    "alt": "Option B: unfolded paper with geometric cutouts, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 9,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        120,
+        392,
+        214,
+        480
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-09",
+    "src": "figures/gate-2025-cs1-ga-09-option-C.png",
+    "alt": "Option C: unfolded paper with geometric cutouts, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 9,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        120,
+        484,
+        214,
+        571
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs1-ga-09",
+    "src": "figures/gate-2025-cs1-ga-09-option-D.png",
+    "alt": "Option D: unfolded paper with geometric cutouts, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS1.pdf",
+      "page": 9,
+      "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+      "pdfCrop": [
+        120,
+        575,
+        214,
+        663
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-04",
+    "src": "figures/gate-2025-cs2-ga-04-figure-1.png",
+    "alt": "Cube net: hollow triangle in the center, solid circle above, hollow circle below, blank faces to left and right, solid triangle on the far right.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 4,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        226,
+        189,
+        369,
+        295
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-04",
+    "src": "figures/gate-2025-cs2-ga-04-option-A.png",
+    "alt": "Hollow triangle front, solid circle top, blank right.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 4,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        118,
+        303,
+        182,
+        359
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-04",
+    "src": "figures/gate-2025-cs2-ga-04-option-B.png",
+    "alt": "Hollow triangle front, blank top, solid triangle right.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 4,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        118,
+        363,
+        182,
+        417
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-04",
+    "src": "figures/gate-2025-cs2-ga-04-option-C.png",
+    "alt": "Hollow triangle front, blank top and right.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 4,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        116,
+        421,
+        179,
+        473
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-04",
+    "src": "figures/gate-2025-cs2-ga-04-option-D.png",
+    "alt": "Hollow triangle front, solid triangle top, solid circle right.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 4,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        116,
+        478,
+        179,
+        532
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-09",
+    "src": "figures/gate-2025-cs2-ga-09-figure-1.png",
+    "alt": "Overlapping square PQRS and rectangle PLMN; L lies on QR and S lies on NM.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 9,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        225,
+        220,
+        345,
+        337
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-cs2-ga-10",
+    "src": "figures/gate-2025-cs2-ga-10-figure-1.png",
+    "alt": "Five zones Z1 to Z5 divided by rivers with seven bridges P, Q, R, S, T, U, V.",
+    "source": {
+      "file": "Aptitude Sets/2025/CS2.pdf",
+      "page": 10,
+      "sha256": "6ed18668acb46b636ca0badf132d904756e4377a9972e8484a05eaebe9f17ddd",
+      "pdfCrop": [
+        163,
+        205,
+        426,
+        365
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ec-ga-04",
+    "src": "figures/gate-2025-ec-ga-04-figure-1.png",
+    "alt": "Iteration 0: one straight segment of length 1.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 3,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        190,
+        174,
+        371,
+        201
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Iteration 0"
+  },
+  {
+    "questionId": "gate-2025-ec-ga-04",
+    "src": "figures/gate-2025-ec-ga-04-figure-2.png",
+    "alt": "Iteration 1: five segments form a square bump; each has length one-third.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 3,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        190,
+        225,
+        371,
+        299
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Iteration 1 · Length of each segment: 1/3"
+  },
+  {
+    "questionId": "gate-2025-ec-ga-04",
+    "src": "figures/gate-2025-ec-ga-04-figure-3.png",
+    "alt": "Iteration 2: the bump rule repeated on each segment; segment length one-ninth.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 3,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        190,
+        320,
+        371,
+        407
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Iteration 2 · Length of each segment: 1/9"
+  },
+  {
+    "questionId": "gate-2025-ec-ga-05",
+    "src": "figures/gate-2025-ec-ga-05-option-A.png",
+    "alt": "Graph: f(x)=1 left of zero and -1 right of zero.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 4,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        118,
+        168,
+        251,
+        288
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ec-ga-05",
+    "src": "figures/gate-2025-ec-ga-05-option-B.png",
+    "alt": "Graph: f(x)=-1 left of zero and 1 right of zero.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 4,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        118,
+        294,
+        248,
+        416
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ec-ga-05",
+    "src": "figures/gate-2025-ec-ga-05-option-C.png",
+    "alt": "Vertical lines at x=-1 above the axis and x=1 below the axis.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 4,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        118,
+        425,
+        248,
+        541
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ec-ga-05",
+    "src": "figures/gate-2025-ec-ga-05-option-D.png",
+    "alt": "Two curved branches, positive at negative x and negative at positive x.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 4,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        118,
+        547,
+        244,
+        662
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ec-ga-07",
+    "src": "figures/gate-2025-ec-ga-07-figure-1.png",
+    "alt": "A unit stick cut at b1 and b2, ordered from 0 through b1 and b2 to 1.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 6,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "image": "Image84.png"
+    }
+  },
+  {
+    "questionId": "gate-2025-ec-ga-08",
+    "src": "figures/gate-2025-ec-ga-08-figure-1.png",
+    "alt": "Eight chairs clockwise: P, R, T, Q, S, V, U, W around a circular table.",
+    "source": {
+      "file": "Aptitude Sets/2025/EC.pdf",
+      "page": 7,
+      "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef",
+      "pdfCrop": [
+        215,
+        242,
+        385,
+        414
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ee-ga-03",
+    "src": "figures/gate-2025-ee-ga-03-figure-1.png",
+    "alt": "Straight line through the graph points (-2,0), (0,4) and (3,10).",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 3,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "pdfCrop": [
+        127,
+        195,
+        477,
+        403
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ee-ga-04",
+    "src": "figures/gate-2025-ee-ga-04-figure-1.png",
+    "alt": "Diagram P: two overlapping small circles inside a larger circle.",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 4,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "pdfCrop": [
+        389,
+        285,
+        450,
+        341
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Column-II · (P)"
+  },
+  {
+    "questionId": "gate-2025-ee-ga-04",
+    "src": "figures/gate-2025-ee-ga-04-figure-2.png",
+    "alt": "Diagram Q: two disjoint small circles inside a larger circle.",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 4,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "pdfCrop": [
+        389,
+        358,
+        450,
+        416
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Column-II · (Q)"
+  },
+  {
+    "questionId": "gate-2025-ee-ga-04",
+    "src": "figures/gate-2025-ee-ga-04-figure-3.png",
+    "alt": "Diagram R: three overlapping circles with a common central region.",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 4,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "pdfCrop": [
+        389,
+        432,
+        450,
+        482
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Column-II · (R)"
+  },
+  {
+    "questionId": "gate-2025-ee-ga-04",
+    "src": "figures/gate-2025-ee-ga-04-figure-4.png",
+    "alt": "Diagram S: three nested circles.",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 4,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "pdfCrop": [
+        389,
+        505,
+        450,
+        565
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    },
+    "caption": "Column-II · (S)"
+  },
+  {
+    "questionId": "gate-2025-ee-ga-07",
+    "src": "figures/gate-2025-ee-ga-07-figure-1.png",
+    "alt": "Eight sectors show clockwise from top: HIJ, (i), (ii), 30, 80, 35, FG, EF.",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 7,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "pdfCrop": [
+        188,
+        161,
+        394,
+        364
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-ee-ga-10",
+    "src": "figures/gate-2025-ee-ga-10-figure-1.png",
+    "alt": "Triangle PQR with S on PQ and T on PR; ST parallel to QR, a large semicircle on PQ and a smaller semicircle on PS; difference shaded.",
+    "source": {
+      "file": "Aptitude Sets/2025/EE.pdf",
+      "page": 10,
+      "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+      "image": "Image62.png"
+    }
+  },
+  {
+    "questionId": "gate-2025-me-ga-08",
+    "src": "figures/gate-2025-me-ga-08-figure-1.png",
+    "alt": "Square with lightning upper-left, angular shape upper-right, bent arrow lower-left, crescent lower-right, and a horizontal reflection line above.",
+    "source": {
+      "file": "Aptitude Sets/2025/ME.pdf",
+      "page": 8,
+      "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+      "pdfCrop": [
+        213,
+        207,
+        384,
+        335
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-me-ga-08",
+    "src": "figures/gate-2025-me-ga-08-option-A.png",
+    "alt": "Option A: transformed arrangement of the four symbols, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/ME.pdf",
+      "page": 8,
+      "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+      "pdfCrop": [
+        116,
+        349,
+        210,
+        435
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-me-ga-08",
+    "src": "figures/gate-2025-me-ga-08-option-B.png",
+    "alt": "Option B: transformed arrangement of the four symbols, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/ME.pdf",
+      "page": 8,
+      "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+      "pdfCrop": [
+        116,
+        441,
+        210,
+        530
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-me-ga-08",
+    "src": "figures/gate-2025-me-ga-08-option-C.png",
+    "alt": "Option C: transformed arrangement of the four symbols, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/ME.pdf",
+      "page": 8,
+      "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+      "pdfCrop": [
+        116,
+        537,
+        210,
+        627
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  },
+  {
+    "questionId": "gate-2025-me-ga-08",
+    "src": "figures/gate-2025-me-ga-08-option-D.png",
+    "alt": "Option D: transformed arrangement of the four symbols, reproduced from the source paper.",
+    "source": {
+      "file": "Aptitude Sets/2025/ME.pdf",
+      "page": 8,
+      "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+      "pdfCrop": [
+        116,
+        635,
+        210,
+        721
+      ],
+      "dpi": 216,
+      "omittedBackgroundObjects": [
+        "Image5",
+        "Image15"
+      ]
+    }
+  }
+]

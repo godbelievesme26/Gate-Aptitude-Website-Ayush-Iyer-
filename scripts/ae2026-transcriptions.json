@@ -1,0 +1,79 @@
+{
+  "11": {
+    "question": "Consider the contour C shown in the figure below. For the vector F⃗ = (x + 2y)ê_{x} + (2x + 4y)ê_{y}, the integral ∮_{C} F⃗ · dl⃗ = ________.\nHere dl⃗ represents an infinitesimal length along the contour C."
+  },
+  "13": {
+    "question": "The following equation with respect to φ(x, t), where a is a non-zero constant, represents ________.",
+    "content": [
+      {"type":"text","text":"The following equation with respect to φ(x, t), where a is a non-zero constant, represents ________."},
+      {"type":"math","text":"\\frac{∂φ}{∂t} + a \\frac{∂φ}{∂x} = 0"}
+    ]
+  },
+  "15": {"options":["Deviation of drag from D ∝ v^{2} at very low speeds","Deviation of drag from D ∝ v^{2} at high subsonic speeds","Prediction of zero drag by potential flow theory","Presence of shocks in transonic flows"]},
+  "19": {
+    "question":"The velocity potential function (φ) given below represents which one of the following?",
+    "content":[{"type":"text","text":"The velocity potential function (φ) given below represents which one of the following?"},{"type":"math","text":"φ = 5x − 12y"}]
+  },
+  "22": {"question":"An n × n square matrix A satisfies A^{T} = A^{−1}. The determinant of this matrix may take which of the following value(s)?"},
+  "26": {"options":["[Q] [σ] [Q]^{T}","[Q] [σ] [Q]^{−1}","([Q]^{−1})^{T} [σ] [Q]^{T}","[Q]^{−1} [σ] [Q]"]},
+  "28": {"options":["η_{A} > η_{B}","η_{B} > η_{A}","In comparison to point B, point A is closer to the surge point","In comparison to point A, point B is closer to the choke point"]},
+  "32": {"question":"If a matrix can be written as A = uv^{T}, where both u and v are n-dimensional real-valued non-zero column vectors, then the rank of the matrix A is ________ (answer in integer)."},
+  "33": {
+    "question":"The response x(t) of a freely vibrating single degree of freedom underdamped system is given below. In the equation, A and φ are constants. The damping ratio of the system is ________ (rounded off to 3 decimal places).",
+    "content":[{"type":"text","text":"The response x(t) of a freely vibrating single degree of freedom underdamped system is given below. In the equation, A and φ are constants. The damping ratio of the system is ________ (rounded off to 3 decimal places)."},{"type":"math","text":"x(t) = Ae^{−5t} sin(10t + φ)"}]
+  },
+  "35": {"question":"An elliptic wing has a span of 6 m and a planform area of 6 m^{2}. When generating a lift coefficient of 0.6, the induced drag it incurs is ________ × 10^{−3} (rounded off to 1 decimal place)."},
+  "36": {
+    "question":"An earth satellite has the instantaneous position vector r⃗ and velocity vector v⃗ as given below. Here p̂ and q̂ denote the unit vectors along the x and y axes of the perifocal frame, respectively. Assume that the value of gravitational parameter is 398600 km^{3}/s^{2}. Which one of the following trajectories does the satellite follow?",
+    "content":[{"type":"text","text":"An earth satellite has the instantaneous position vector r⃗ and velocity vector v⃗ as given below. Here p̂ and q̂ denote the unit vectors along the x and y axes of the perifocal frame, respectively. Assume that the value of gravitational parameter is 398600 km^{3}/s^{2}. Which one of the following trajectories does the satellite follow?"},{"type":"math","text":"r⃗ = (8000p̂ + 9000q̂) km and v⃗ = (−6p̂ + 6q̂) km/s"}]
+  },
+  "37": {
+    "question":"For the matrix A = \\matrix{a & b; c & d}, if the relation a + b = c + d holds and a, b, c, d ≠ 0, then which one of the following statements about A is FALSE?",
+    "options":["\\matrix{1; 1} is an eigenvector","λ = a + b is an eigenvalue","λ = d − b is an eigenvalue","λ = d + b is an eigenvalue"]
+  },
+  "38": {
+    "question":"In an ideal turbofan engine shown in the figure below, the compressor is driven by the high pressure turbine, and the fan is driven by the low pressure turbine. The stations 0, 2, 3, 4, 4.5, and 5 refer to free-stream, compressor inlet, compressor outlet, combustor exit, high pressure turbine exit, and low pressure turbine exit, respectively, and the subscript ‘t’ refers to the total condition. Also, τ_{r} = T_{t0}/T_{0}, τ_{c} = T_{t3}/T_{t2} and τ_{λ} = T_{t4}/T_{0}. The total temperature ratio of the high pressure turbine (T_{t4.5}/T_{t4}) is given by ______.",
+    "options":["1 − \\frac{τ_{r}}{τ_{λ}}(τ_{c} − 1)","1 + \\frac{τ_{r}}{τ_{λ}}(τ_{c} + 1)","1 − \\frac{τ_{r}}{τ_{λ}}(τ_{c} + 1)","1 + \\frac{τ_{r}}{τ_{λ}}(τ_{c} − 1)"]
+  },
+  "39": {"question":"An ideal rocket has characteristic exhaust velocity of 1200 m/s, mass flow rate of 75 kg/s, thrust coefficient of 1.5, and nozzle throat area of 0.025 m^{2}. The chamber pressure in kPa and the specific impulse due to gravity in seconds are ________, respectively. Assume that the acceleration due to gravity is 9.8 m/s^{2}."},
+  "41": {"question":"Consider a launch vehicle of mass 10 tons being launched vertically. The vehicle has 8 tons of propellant, which burns completely at a constant rate over 50 s. If the engine specific impulse is 250 s, and the acceleration due to gravity at sea level is g_{0}, the acceleration experienced by the vehicle at lift-off is ________.","options":["g_{0}","2g_{0}","3g_{0}","4g_{0}"]},
+  "42": {
+    "question":"The figure below shows a compressor stage with station numbers 1, 2, and 3 as indicated. If p_{0i}, T_{0i}, and C_{i} refer to the average values of total pressure, total temperature, and absolute flow speed, respectively, at the ith station, select the CORRECT option considering losses.",
+    "options":["p_{01} < p_{02}, p_{02} > p_{03}; T_{01} < T_{02}, T_{02} ≈ T_{03}; C_{1} < C_{2}, C_{2} > C_{3}","p_{01} < p_{02}, p_{02} = p_{03}; T_{01} < T_{02}, T_{02} ≈ T_{03}; C_{1} < C_{2}, C_{2} = C_{3}","p_{01} < p_{02}, p_{02} > p_{03}; T_{01} < T_{02}, T_{02} < T_{03}; C_{1} > C_{2}, C_{2} > C_{3}","p_{01} < p_{02}, p_{02} < p_{03}; T_{01} < T_{02}, T_{02} < T_{03}; C_{1} = C_{2} = C_{3}"]
+  },
+  "43": {"question":"An experimental study is planned to map out the low-Reynolds number incompressible steady two-dimensional aerodynamic characteristics of a promising novel airfoil. The operational parameters of the problem are the speed, density and viscosity of the freestream, the chord of the airfoil and its angle of attack. If the objective is to achieve this with the minimum number of test runs N_{min} while taking 10 equally-spaced test values of each independent parameter of the problem in a suitable range, then N_{min} is ________."},
+  "47": {
+    "question":"Consider the flow over an oval modeled using the elementary potential flows as shown below. U represents uniform flow velocity and Γ represents circulation around an irrotational line vortex.\nWhich of the following statements is/are TRUE for this model?",
+    "content":[{"type":"text","text":"Consider the flow over an oval modeled using the elementary potential flows as shown below. U represents uniform flow velocity and Γ represents circulation around an irrotational line vortex."},{"type":"figure"},{"type":"text","text":"Which of the following statements is/are TRUE for this model?"}]
+  },
+  "49": {
+    "question":"Consider the differential equation with the initial conditions given below. If y(x) is the solution of the equation, the value of the slope, dy/dx, at x = ln(2) is ________ (rounded off to three decimal places).",
+    "content":[{"type":"text","text":"Consider the differential equation with the initial conditions given below. If y(x) is the solution of the equation, the value of the slope, dy/dx, at x = ln(2) is ________ (rounded off to three decimal places)."},{"type":"math","text":"\\frac{d^{2}y}{dx^{2}} + 2 \\frac{dy}{dx} + y = 0  with  y|_{x=0} = 0 and \\frac{dy}{dx}|_{x=0} = 1"}]
+  },
+  "50": {"question":"An object of mass 1 kg is launched with an initial speed of v_{o} into a large tank filled with a viscous liquid. The liquid exerts a resistive force (drag) of the form D = αv on any object that is moving inside it, where v is the instantaneous speed of the object and α = 1 kg/s. If the effect of gravity is ignored, the time taken by the object to slow down to the speed v_{o}/2 is ________ s (rounded off to 2 decimal places).\nAssume that the tank is sufficiently large for the above deceleration to happen inside the tank."},
+  "52": {
+    "question":"Isobutane (C_{4}H_{10}) is burnt completely in pure oxygen as per the reaction given below. Given that the standard heats of formation (in kcal/mole) of isobutane, carbon dioxide, and water vapour are −31.489, −94.052, and −60.150, respectively, the heat of reaction is ________ kcal (rounded off to 2 decimal places).",
+    "content":[{"type":"text","text":"Isobutane (C_{4}H_{10}) is burnt completely in pure oxygen as per the reaction given below. Given that the standard heats of formation (in kcal/mole) of isobutane, carbon dioxide, and water vapour are −31.489, −94.052, and −60.150, respectively, the heat of reaction is ________ kcal (rounded off to 2 decimal places)."},{"type":"math","text":"C_{4}H_{10} + 6.5 O_{2} → 4 CO_{2} + 5 H_{2}O"}]
+  },
+  "53": {"question":"A furnace of 250 MW rating is used to melt and raise the temperature of aluminium from 25 °C to 900 °C. Aluminium has a solid-state specific heat, latent heat, and liquid-state specific heat of 0.9 kJ/kg-K, 390 kJ/kg, and 1.108 kJ/kg-K, respectively, and the furnace has 70% efficiency. The melting point of aluminium is 660 °C. The amount of aluminium that can be processed per hour is ________ kg (rounded off to 1 decimal place)."},
+  "54": {
+    "question":"For an airfoil section the pitching moment coefficient is determined about a reference point that is 0.3 times the chord behind the leading edge. It varies with the lift coefficient as shown in the table below. The distance of the aerodynamic center from the leading edge of the airfoil as a fraction of the chord is ________ (rounded off to one decimal place).",
+    "content":[{"type":"text","text":"For an airfoil section the pitching moment coefficient is determined about a reference point that is 0.3 times the chord behind the leading edge. It varies with the lift coefficient as shown in the table below. The distance of the aerodynamic center from the leading edge of the airfoil as a fraction of the chord is ________ (rounded off to one decimal place)."},{"type":"table","label":"Lift and pitching moment coefficients","rowHeaders":true,"rows":[["c_{l}","0.2","0.4","0.6","0.8"],["c_{m}","−0.02","0","0.02","0.04"]]}]
+  },
+  "57": {
+    "question":"W_{A} and W_{B} are the respective maximum take-off weights of an aircraft for two ambient air conditions given below.\nCondition A: p = 1 bar, T = 50 °C; Condition B: p = 0.66 bar, T = −30 °C\nIf all other parameters relevant for take-off are kept the same in these two conditions, the ratio W_{B}/W_{A} is ________ (rounded off to 3 decimal places)."
+  },
+  "59": {"question":"A system comprising a bar, spring and mass is shown in the figure below. The bar, having negligible mass, is made of a material having Young’s modulus E = 200 GPa, cross-sectional area A = 100 mm^{2}, and length L = 100 mm. The spring stiffness k = 200 kN/mm and the mass M = 100 kg. The natural frequency of free vibration of the system is ________ rad/s (rounded off to the nearest integer)."},
+  "60": {"question":"A stepped cantilever beam, made of a material having Young’s modulus E = 200 GPa, is shown in the figure below. The length and the moment of inertia of the beam from point A to B are L_{1} = 100 mm and I_{1} = 100 mm^{4}, respectively. The length and the moment of inertia of the beam from point B to C are L_{2} = 100 mm and I_{2} = 700 mm^{4}, respectively. A shear force P = 30 N is applied at point A of the beam. The magnitude of the deflection of the beam at point A is ________ mm (rounded off to 1 decimal place)."},
+  "61": {"question":"A centrifugal compressor has a constant-width radial diffuser. The diameters at the diffuser inlet and outlet are 0.2 m and 0.3 m, respectively. The flow at the diffuser inlet and outlet is assumed to be steady and uniform. The average velocity at the diffuser inlet and outlet are (60 ê_{r} + 75 ê_{θ}) m/s and (u ê_{r} + 50 ê_{θ}) m/s, respectively. If the flow through the diffuser is treated as steady and incompressible, the value of u is ________ (rounded off to the nearest integer)."},
+  "62": {"question":"A gas mixture at a pressure of 800 kPa and a density of 5 kg/m^{3} enters a turbine stage. The temperature of the gas at the nozzle exit and the stage exit are 790 K and 750 K, respectively. Assume the specific heats are constant for the gas mixture in the range of temperatures considered. The specific heat at constant pressure is 0.72 kJ/kg-K and the ratio of specific heats is 1.33. The value of the degree of reaction of the turbine stage is ________ (rounded off to 2 decimal places)."},
+  "63": {"question":"Thin airfoil theory predicts the zero-lift angle of attack α_{L=0} of NACA 2412 airfoil as −2.1°. The corresponding prediction of α_{L=0} for NACA 5410 airfoil is ________ degrees (rounded off to 1 decimal place)."},
+  "64": {
+    "question":"Consider a centered Prandtl-Meyer expansion fan at a θ = 4° corner in a Mach 1.78 air flow, as shown in the figure below. The angle ψ (see figure) made by the ending wave of the fan with respect to the incoming stream is ________ degrees (rounded off to 1 decimal place).\nAn excerpt from the table of Prandtl-Meyer function for air is provided below.",
+    "content":[{"type":"text","text":"Consider a centered Prandtl-Meyer expansion fan at a θ = 4° corner in a Mach 1.78 air flow, as shown in the figure below. The angle ψ (see figure) made by the ending wave of the fan with respect to the incoming stream is ________ degrees (rounded off to 1 decimal place).\nAn excerpt from the table of Prandtl-Meyer function for air is provided below."},{"type":"figure"},{"type":"table","label":"Prandtl-Meyer function for air","headers":["M","ν [deg]","M","ν [deg]","M","ν [deg]"],"rows":[["1.72","18.40","1.82","21.30","1.92","24.15"],["1.74","18.98","1.84","21.88","1.94","24.71"],["1.76","19.56","1.86","22.45","1.96","25.27"],["1.78","20.15","1.88","23.02","1.98","25.83"],["1.80","20.73","1.90","23.59","2.00","26.38"]]}]
+  },
+  "65": {
+    "question":"A Mach 1.5 air flow enters a round duct of length 20 cm and diameter 3 cm. If the flow exits with Mach number 1.1, the average Fanning friction factor f of the duct is ________ × 10^{−3} (rounded off to 1 decimal place).\nAn excerpt from the Fanno flow table for air is given below.",
+    "content":[{"type":"text","text":"A Mach 1.5 air flow enters a round duct of length 20 cm and diameter 3 cm. If the flow exits with Mach number 1.1, the average Fanning friction factor f of the duct is ________ × 10^{−3} (rounded off to 1 decimal place).\nAn excerpt from the Fanno flow table for air is given below."},{"type":"table","label":"Fanno flow table for air","rowHeaders":true,"rows":[["M","1.1","1.2","1.3","1.4","1.5","1.6"],["\\frac{4fL^{*}}{D} × 10^{4}","99.35","336.4","648.3","997.4","1361","1724"]]}]
+  }
+}

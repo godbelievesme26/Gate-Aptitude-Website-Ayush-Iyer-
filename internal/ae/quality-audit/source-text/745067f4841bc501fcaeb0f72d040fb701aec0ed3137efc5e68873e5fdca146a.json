@@ -1,0 +1,164 @@
+{
+  "source": "internal/ae/AE2011.pdf",
+  "sha256": "745067f4841bc501fcaeb0f72d040fb701aec0ed3137efc5e68873e5fdca146a",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 4281,
+      "questionNumberCandidates": [
+        55
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE: AEROSPACE ENGINEERING \nONLINE Examination \nDuration: Three Hours                          Maximum Marks: 100 \nRead the following instructions carefully. \n1. Questions must be answered using computers provi ded by the GATE at the examination centers. Each \ncomputer shall run specialized examination software that permits a maximum of one answer to be selected \nfor questions of multiple choice type.  \n2. Your answers shall be updated and saved on the server periodically and at the end of the examination. The \nexamination will automatically stop once the duration of the examination is over. \n3. There are a total of 65 questions carrying 100 marks. All questions are of objective type. \n4. Questions Q.1 – Q.25 carry 1-mark each, and questions Q.26 – Q.55 carry 2-marks each.  \n5. Questions Q.26 - Q.30 are of numerical answer type. For each of these questions, the correct answer is a \nnumber. All other questions are of multiple choice type. Each of these questions carries four choices for \nthe answer labeled A, B, C and D. Only one of the four choices is the correct answer. \n6. Questions Q.48 – Q.51 (2 pairs) are common data ques tions and question pairs (Q.52, Q.53) and (Q.54, \nQ.55) are linked answer questions. The answer to the second question of the linked answer questions \ndepends on the answer to the first question of the pa ir. If the first question in the linked pair is wrongly \nanswered or is unattempted, then the answer to the second question in the pair will not be evaluated. \n7. Questions Q.56 – Q.65 belong to General Aptitude (GA). Questions Q.56 – Q.60 carry 1-mark each, and \nquestions Q.61 – Q.65 carry 2-marks each. \n8. Unattempted questions will result in zero mark. There is no negative marking for questions of numerical \nanswer type, i.e., for Q.26 – Q.30. For questions of multiple choice type, wrong answers will result in \nNEGATIVE marks.  For Q.1 – Q.25 and Q.56 – Q.60, ⅓ mark will be deducted for each wrong answer. \nFor Q.31 – Q.51 and Q.61 – Q.65, ⅔ mark will be deducted for each wrong answer.  The question pairs \n(Q.52, Q.53), and (Q.54, Q.55) are questions with linked answers. There will be negative marks only for \nwrong answer to the first question of the linked answer question pair, i.e. for Q.52 and Q.54, ⅔ mark will \nbe deducted for each wrong answer. There is no negative marking for Q.53 and Q.55.  \n9. Calculator is allowed whereas charts, graph sheets or tables are NOT allowed in the examination hall. \n10. Rough work can be done in the specified area only.  \n11. Candidates may use the back side of this page to record their answers for their own convenience. \n12. To login, type your Registration Number and password as per instructions provided in the envelope. \n13. In order to answer a question, you may select the que stion using the left side selection panel on the screen \nand choose the correct answer by clicking on the radio button next to the answer. The answered questions \nshall be indicated by a solid black ball on the selecti on panel. In order to change the answer, you may just \nclick on another option. If you wish to leave a previously answered question unanswered, you may click \non DESELECT ANSWER button. \n14. You may also select questions using NEXT and PREVIOUS buttons. \n15. You may also mark questions for reviewing later usin g MARK button. All marked questions are indicated \nby a rectangle in the selection panel. Questions wh ich are answered but are marked for the review are \nindicated by a solid black rectangle and questions which are not answered but are m\n arked for the review \nare indicated by an outlined rectangle in the selection panel. \n16. You must sign this sheet and leave it with the invigilators at the end of the examination. \nDECLARATION \nI hereby declare that I have read and followed all the instructions given in this sheet. \n \nPaper Code: AE   Registration No:__________________Name: ___________________________ \n \n \n                                                                                                                       Signature \n \nAE "
+    },
+    {
+      "page": 2,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2598,
+      "questionNumberCandidates": [
+        1,
+        1,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \n \nQ. 1 – Q. 25 carry one mark each. \n \nConsider zyx , ,  to be right-handed Cartesian coordinates. A vector function is defined in this \ncoordinate system as , where  and k j i v23 3 yz xy x   j i, k are the unit vectors along yx, and \nz axes, respectively. The curl of is given by v\nQ.1 \n(A)  k iy z32  (B)  k jy z32  (C)   j iy z32  (D)   k iy z32  \n \nWhich of the following fun\nctions is periodic?  Q.2 \n(A)  2) ( x x f (B)  x x flog ) ( (C)   xe x f) ( (D)   . ) (const x f\n \nThe function has its minimum value at  14 6 4 2) , , ( 3 2 1\n2\n3\n2\n2\n2\n1 3 2 1       x x x x x x x x x fQ.3 \n(A) (1, 2, 3) (B) (0, 0, 0) (C)  (3, 2, 1) (D)  (1, 1, 3) \n \nConsider the function . The vector pointing in t\nhe direction of \nmaximum\n increase of the function at the point (1, -1) is \n2 12\n2\n2\n1 2 1 2 ) , ( x xe x x x x f   Q.4 \n(A)  \n\n\n\n\n\n 5\n2\n(B)  \n\n\n\n\n\n 5\n1\n(C)   \n\n\n\n\n\n\n\n73 . 6\n73 . 0\n(D)   \n\n\n\n\n\n 4\n2\n \nTwo simultaneous equations\n given by xy    and  xy have \n(A) a unique solution (B) infinitely many solutions \nQ.5 \n(C) no solution (D) a finite number of multiple solutions \n \nIn three-dimensional linear elastic solids, the number of non-trivial stress-strain relations, strain-\ndisplacement equations and equations of equilibrium are, respectively, \nQ.6 \n(A) 3, 3 and 3 (B) 6, 3 and 3 (C)  6, 6 and 3 (D)  6, 3 and 6 \n \nAn Euler-Bernoulli beam in bending is assumed to satisfy \n(A) both plane stress as well as plane strain conditions \n(B) plane strain condition but not plane stress condition \n(C) plane stress condition but not plane strain condition \nQ.7 \n(D) neither plane strain condition nor plane stress condition  \n \nA statically indeterminate frame structure has  \n(A) same number of joint degrees of freedom as the number of equilibrium equations \n(B) number of joint degrees of freedom greater than the number of equilibrium equations \n(C) number of joint degrees of freedom less than the number of equilibrium equations \nQ.8 \n(D) unknown number of joint degrees of freedom, which cannot be solved using laws of mechanics  \n \nConsider a single degree of freedom spring-mass-damper system with mass, damping and stiffness \nof , and , respectively. The logarithmic decrement of this system can be calculated using m c k\nQ.9 \n(A) \n24\n2\nc mk\nc\n\n  (B) \n24 c mk\nc\n\n  (C) \n2\n2\nc mk\nc\n\n  (D) \n24\n2\nc mk\nc\n\n  \n \nAE "
+    },
+    {
+      "page": 3,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2195,
+      "questionNumberCandidates": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nConsider a single degree of freedom spring-mass system of spring stiffness and mass which \nhas a natural frequency of 10 rad/s. Con\nsider another single degree of freedom spring-mass system \nof spring stiffness and mass which has a natural frequency of 20 rad/s. The spring stiffness \nis equal to \n1k m\n2k m\n2k\nQ.10 \n(A)  1k (B)  12k (C)  \n4\n1k  (D)   14k\n \nConsider a simply support\ned two-dimensional beam \n \n \n \nIf the beam is converted into a fixed-fixed beam as \n \n \n \n \nthen the degree of static indeterminacy will \nQ.11 \n(A) increase by 3 (B) increase by 2 (C)  decrease by 1 (D)  decrease by 3 \n \nAn impulsive launch of a rocket mini\nmizes the loss of burn-out velocity due to \n(A) aerodynamic drag force only \n(B) gravitational force only \n(C) both aerodynamic drag and gravitational forces \nQ.12 \n(D) reaction jet control force \n \nMulti-staging in rockets improves the burn-out performance by increasing mainly stage-wise \n(A) payload mass ratios (B) structural mass efficiencies \nQ.13 \n(C) propellant masses (D) control system masses \n \nIn an un-powered glide of an aircraft having weight W, lift L and drag D, the equilibrium glide \nangle is defined as \nQ.14 \n(A) \n\n\n\nD\nL1tan  (B) \n\n\nL\nD1tan  (C) \n\n\nW\nL1tan  (D) \n\n\nL\nW1tan  \n \nLift on an aircraft climbing vertically up is \n(A) equal to its weight (B) zero \nQ.15 \n(C) equal to the drag (D) equal to the thrust \n \nIf an aircraft is performing a positive yawing manoeuvre, the side slip angle  Q.16 \n(A) is always zero (B) is never zero (C) is always negative (D) could be any value \n \nFor an airplane to be statically stable, its centre of gravity must always be \n(A) ahead of wing aerodynamic centre (B) aft of the wing aerodynamic centre \nQ.17 \n(C) ahead of neutral point (D) aft of neutral point \n \nIt is seen that the drag polar of a certain aerofoil is symmetric about the Cd axis. This drag polar \ncould refer to \nQ.18 \n(A) NACA 0012 (B) NACA 4415 (C)  NACA 23012 (D)  None of the above \n \nAE "
+    },
+    {
+      "page": 4,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2594,
+      "questionNumberCandidates": [
+        21,
+        22,
+        23,
+        25,
+        26,
+        26
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE \nThe aerodynamic centre of a supersonic aerofoil, with chord c, is located at  Q.19 \n(A) the leading edge (B) 0.25c (C)  0.5c (D)  0.75c \n \nWinglets are used on wings to minimize Q.20 \n(A) skin friction drag (B) profile drag (C)  wave drag (D)  induced drag \n \nConsider a potential flow with free stream velocity V∞, over a spinning circular cylinder of radius R  \nand circulation . The stream function, ψ, where ψ  = 0 on the cylinder surface, in cylindrical \ncoordinates (r,) is given by \n(A) \nR\nr\nr\nRr V ln21 cos2\n2\n \n\n\n\n\n   (B) \nR\nr\nr\nRr V ln21 cos2\n2\n \n\n\n\n\n   \nQ.21 \n(C) \nR\nr\nr\nRr V ln21 sin2\n2\n \n\n\n\n\n   (D) \nR\nr\nr\nRr V ln21 sin2\n2\n \n\n\n\n\n   \n \nA main objective of by-pass in a turbo-fan engine is to increase \n(A) mass flow rate through engine inlet (B) turbine inlet temperature \nQ.22 \n(C) mass flow rate through exhaust nozzle (D) compressor pressure ratio \n \nThe pressure ratio in any one stage of a jet engine compressor is limited by \n(A) entry stagnation temperature in that stage \n(B) entry Mach number in that stage \n(C) pressure gradient induced separation in that stage \nQ.23 \n(D) mass flow rate in that stage \n \nThermodynamic cycle on which the jet engine operates can be  Q.24 \n(A) open Rankine cycle only (B) either open or closed Rankine cycle \n (C) open Brayton cycle only (D) either open or closed Brayton cycle \n \nPropulsion efficiency of a jet engine is \n(A) directly proportional to both the thrust power and the air mass flow rate \n(B) inversely proportional to both the thrust power and the air mass flow rate \n(C) directly proportional to the thrust power and inversely proportional to the air mass flow rate \nQ.25 \n(D) inversely proportional to the thrust power and directly proportional to the air mass flow rate \n \nQ. 26 to Q. 55 carry two marks each. \nQuestions Q.26 to Q. 30 are numerica l answer type. The answer to each of these questio ns is \neither a positive whole number, or a positive real number with maximum of 2 decimal places. \n \nConsider a cantilever beam having length L=1 m, square cross-section (width = depth = 0.01 m) \nand Young’s modulus 50 GPa. The beam is subjected to a transverse load P = 1 N at the mid-span \n(L/2) at the center of the cross-section. Unde r the small deformation theory, the transverse \ndeflection of the beam (in mm) at its free-end is \n \nQ.26 \nP\nL \nL/2 "
+    },
+    {
+      "page": 5,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2387,
+      "questionNumberCandidates": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE \n \nConsider a beam in bending with a solid circular cross-section of 1 mm2, which is subjected to a \ntransverse shear force of 1 N. The shear stress at the center of the cross-section (in N/mm2) is \nQ.27 \n \nA simp\nly supported slender column of square cross section (width=depth= d) has to be designed \nsuch that it buckles at the same instant as it yields. Length of the column is given to be 1.57 m and \nit is made of a material whose Young’s modulus  is 200 GPa and yield stress is 240 MPa. The \nwidth, d, of the column (in cm) should be \nQ.28 \n \n \nA turbojet powered aircraft is flying at Mach nu\nmber 0.8 at an altitude of 10 km. The inlet and exit \nareas of the engine are 0.7 m 2 and 0.4 m 2 respectively. The exhaust gases have velocity of 500 m/s \nand pressure of 60 kPa. The free stream pressure , density and speed of sound are 26.5 kPa, 0.413 \nkg/m3 and 299.5 m/s respectively. The thrust of the engine (in kN) is \nQ.29 \n \nA low speed wind tunnel has a contraction ratio of 14:1 and the cross-sectional area of the test \nsection is 1 \nm2. The static pressure difference between th e settling chamber and the test section is \n40 cm of water column. Assume , and . The \nspeed of air in the test section (in m/s) is  \n2m/s 81 . 9g 3kg/m 2 . 1air 3kg/m 1000water\nQ.30 \n \nQuestions Q.31 to Q.55 are multiple choice type. \n \nConsider the function . The Newton-Raphson iteration formula to find the root of \nthe function starting from an initial guess at iteration k is \n) sin( ) (x x x f \n) 0 (x\n(A) ) (\n) ( ) (\n) 1 (\ncos 1\ncossin\nk\nkk k\nk\nx\nx x xx \n  (B) ) (\n) ( ) (\n) 1 (\ncos 1\ncossin\nk\nkk k\nk\nx\nx x xx \n  \nQ.31 \n(C) ) (\n) ( ) (\n) 1 (\ncos 1\ncossin\nk\nkk k\nk\nx\nx x xx \n  (D) ) (\n) ( ) (\n) 1 (\ncos 1\ncossin\nk\nkk k\nk\nx\nx x xx \n  \n \nConsider the matrix  where a and b are real numbers. The two eigenvalues of this m atrix \n\n\n\n2\n2\nb\na\n1 and 2 are real and distinct  2 1   when \nQ.32 \n(A)  0 and 0ab (B)  0 and 0ab (C)  0 and 0ab  (D)   0 and 0ab\n \nThe solution of 32tdy y etdt   with initial condition 1 ) 0 (y  is given by \n(A) 21 (3 )9\ntet   (B) \n2\n9\n52( 2 2 )tet t \n \nQ.33 \n(C) 2\n4\n(2 )\nte\nt \n (D)\n2\n1\n52( 2 2 )tet t \n \n "
+    },
+    {
+      "page": 6,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2871,
+      "questionNumberCandidates": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nA jet engine is operating at a Mach number of 0.8 at an altitude of 10 km. The efficiency of the air \nintake is 0.8 and that of the compressor is 0.87. Th e total temperatures (in K) at the exits of the air \nintake and the compressor respectively are \n(Ambient pressure = 26.5 kPa; Ambient temperature = 223.3 K; Gas constant,  = 1.4; 8rcp ) \nQ.34 \n(A) 251.9 and 458.2 (B) 234.9 and 486.8 (C) 251.9 and 486.8 (D) 234.9 and 458.2 \n \nA rocket engine is tested on a test bed under th e ideal condition of fully expanded jet. The exhaust \nvelocity is 2 km/s through a nozzle of area 2.5 m 2. The mass flow rate is 200 kg/s. The specific \nimpulse of the propellant and the thrust developed respectively are (assume g = 9.81 m/s2) \n(A) 175.87 s and 200 kN (B) 203.87 s and 400 kN \nQ.35 \n(C) 231.87 s and 200 kN (D) 280.87 s and 400 kN \n \nA body undergoes deformation under plane strain conditions when subjected to the following \nstresses (in MPa): 0 , 0 , 75 , 450 , 450 yzxzxyyyxx  . What are the remaining \ncomponents of stresses (in MPa) and strains? Assume  the material to be isotropic and linear-elastic \nwith Young’s modulus E = 200 GPa and Poisson’s ratio = 1/3. \n(A) 0 , 0 , 002 . 0 , 00225 . 0 , 00225 . 0 , 0  yzxzxyyyxxzz   \n(B) 0 , 0 , 001 . 0 , 001 . 0 , 001 . 0 , 300 yzxzxyyyxxzz   \n(C) 0 , 0 , 001 . 0 , 00225 . 0 , 00225 . 0 , 300 yzxzxyyyxxzz   \nQ.36 \n(D) 0 , 0 , 002 . 0 , 001 . 0 , 001 . 0 , 0  yzxzxyyyxxzz   \n \nWhich of the following Airy’s stress functions could satisfy the given boundary conditions, \nassuming constant values of xx = P, yy = Q and xy = R, along the boundary? \n \n \n(A) RxyyQxP   2 2\n22\n  (B)  RxyxQyP   2 2\n22\n  \nQ.37 \n(C) RxyxQyP   2 2\n22\n  (D)  RxyyQxP   2 2\n22\n  \ny \nx \n \nAn aircraft is performing a coordinated turn manoeuvre at a bank angle of 30o and forward speed of \n100 m/s. Assume g = 9.81 ms-2. The load factor and turn radius respectively are \n(A) (2/3) and 1.76 km (B) 3 and 17.6 km \nQ.38 \n(C) 2 and 0.18 km (D) (2/3) and 17.6 km \n \nAn aircraft in a steady level flight at forward speed of 50 m/s suddenly rolls by 180 o and becomes \ninverted. If no other changes are made to the configur ation or controls of the aircraft, the nature of \nthe subsequent flight path taken by the aircraft a nd its characteristic parameter(s) (assume g = 9.81 \nms-2) are \n(A) straight line path with a speed of 50 m/s \n(B) upward circular path with a speed of 50 m/s and radius of 127.4 m \n(C) downward circular path with a speed of 50 m/s and radius of 127.4 m/s \nQ.39 \n(D) downward circular path with a speed of 25 m/s and radius of 254.8 m/s \nAE "
+    },
+    {
+      "page": 7,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2660,
+      "questionNumberCandidates": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \n \nAn aircraft with a mass of 5000 kg takes off from sea level with a forward speed of 50 m/s and \nstarts to climb with a climb angle of 15o. The rate of climb and excess thrust available at the start of \nthe climb respectively (assume g = 9.81 ms-2) are  \n(A) 13.40 m/s and 13146.0 N (B) 12.94 m/s and 12694.1 N \nQ.40 \n(C) 13.40 m/s and 12694.1 N (D) 12.94 m/s and 13146.0 N \n \nA glider having a mass of 500 kg is taken to an a ltitude of 1000 m with a jeep moving on ground at \n54 kmph. Upon reaching the required altitude in 50 s, the glider is released and starts its descent. \nUnder the assumption of equilibrium glide, the range and endurance of the glider for a constant lift-\nto-drag ratio of 15 are  \n(A) 15.0 km and 1002.2 s respectively (B) 15.0 km and 601.3 s respectively \nQ.41 \n(C) 1.0 km and 601.3 s respectively (D) 1.0 km and 50 s respectively \n \nAn elliptic orbit has its perigee at 400 km above  the Earth’s surface and apogee at 3400 km above \nthe Earth’s surface. For this orbit, the eccentricity  and semi-major axis respectively are (assume \nradius of Earth = 6400 km) \n(A) 0.18 and  8300 km (B) 0.18 and 1900 km \nQ.42 \n(C) 0.22 and  8300 km (D) 0.22 and 1900 km \n \nAn aircraft in level flight encounters a vertical gust, which excites the phugoid mode. The phugoid \nmotion completes 10 cycles in 50 s and its amplitude reduces to half of its maximum value in 25 s. \nThe eigenvalues of the phugoid mode are \nQ.43 \n(A) −0.05  0.02i (B) −0.5  0.2i (C) −0.028  1.26i  (D) 0.028  1.26i \n \nConsider the inviscid, adiabatic flow of air at free stream conditions, M\n1 = 2, p 1 = 1 atm and T 1 = \n288 K around a sharp expansion corner ( θ = 20°) as shown below. The Prandtl-Meyer function, ν, \nis given as a function of Mach number, M, as 1 M tan ) 1 M (1\n1tan1\n1) M ( 2 121  \n\n\n \n\n\n\n  \nAssume air to be calorically perfect with  = 1.4. The Mach number, M 2, downstream of the \nexpansion corner is approximately \n \nQ.44 \n(A) 2.00 (B) 1.76 (C) 2.83 (D) 3.14  \nM1, p1, T1 \n M2 \n \nConsider a steady two dimensional zero-pressure grad ient lami\nnar flow of air over a flat plate as \nshown below. The free stream conditions are U ∞ = 100 ms -1, ρ∞ = 1.2 kg m -3, p ∞ = 1 atm and \nkg m -1s-1. The ratio of displacement thic kness to momentum thickness of the \nboundary layer at a distance of 2 m from the leading edge is \n510 8 . 1\n  \n \nQ.45 \n(A) 7.53 (B) 2.59 (C) 2.91 (D) 0.39 \nBoundary la\nyer U∞ \n∞ \np∞ \n∞ 2m\n \nAE "
+    },
+    {
+      "page": 8,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2195,
+      "questionNumberCandidates": [
+        46,
+        47,
+        49,
+        50
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE \nIn the context of Prandtl’s lifting line theory for a finite wing, which of the following combinations \nof statements is TRUE? \nP: The bound vortex is responsible for the lift force \nQ: The trailing vortices are responsible for the induced drag  \nR: The bound vortex is responsible for the induced drag \nS: The trailing vortices are responsible for the lift force \nQ.46 \n(A) P,Q (B) Q,R (C)  R,S (D)  P,S \n \nConsider flow over a thin aerofoil at Mach number, M\n∞ = 0.5 at an angle of attack, . Using the \nPrandtl-Glauert rule for compressibility correction, the formula for lift coefficient, cl, can be written \nas   \nQ.47 \n(A) 5.44 (B) 6.28 (C) 7.26 (D) 14.52 \n \nCommon Data Questions \nCommon Data for Questions 48 and 49:  \n \nThe partial differential equation (PDE) governing free vibrations of a uniform Euler-Bernoulli beam is \ngiven by   \n02\n2\n4\n4\n\n\n\nt\nwmx\nwEI , where EI is the flexural stiffness, is the mass per unit length, \nis the bending displacement, \nm\n) , (t x w x is the coordinate along the beam length, t is time and is the beam \nlength.  \nL\n \nTo solve the PDE, the number of boundary\n conditions (BC) and initial conditions (IC) needed are  Q.48 \n(A) 4 BC, 3 IC (B) 2 BC, 2 IC (C) 2 BC, 4 IC (D) 4 BC, 2 IC \n \nFor the cantilever beam shown in the figure, which of the following CANNOT be a possible \nboundary condition? \nQ.49 \n \n(A)  0 ) , 0 (t w (B) 0 ) , (2\n2\n\n t Lx\nw  (C)  0 ) , 0 (2\n2\n\n tx\nw  (D)  0 ) , (3\n3\n\n t Lx\nw  \n \nCommon Data for Questions 50 and 51:  \n \nConsider an inviscid, adiabatic flow of air at free stream Mach Number, M ∞ = 2, across a compression \ncorner (θ = 20°) as shown. The free stream total enthalpy is h 0∞ = 810 kJ kg-1. Assume that air is calorically \nperfect with γ = 1.4, R = 287 J kg-1 K-1.  \n \n The shock angle β is \n \nQ.50 \n(A) = 20°  (B) > 20° and< 30° (C) = 30°  (D) > 30°  \n \nThe total temperature at point P is Q.51 \n(A) 806.37 K (B) 1128.92 K (C)  1612.74 K (D)  2257.84 K \nx0x L x\nL\n\n\nP \n1m \nM∞ "
+    },
+    {
+      "page": 9,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1881,
+      "questionNumberCandidates": [
+        52,
+        54,
+        55
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \n \nLinked Answer Questions \nStatement for Linked Answer Questions 52 and 53:  \n \nA thin-walled (thickness << radius), hollow shaft of length 1m and mean radius, R = 5 cm has to be \ndesigned such that it can transmit a torque, T = 7 kN-m. A survey of different commercially available \nmaterials was made and following data was obtained from the suppliers ( E: Young’s modulus, y: yield \nstress in shear, : density): \nMaterial E (GPa) y (MPa)  (kg/m3) \nX 200 550 7700 \nY 70 225 2700 \nZ 110 375 4875  \nWhich of the above materials would you choose such that weight of the shaft is minimum? \n \nQ.52 \n(A) X only (B) Y only (C) Z only (D) X or Y \n \nIf you assume a factor of safety of 2, what should be the approximate thickness of such a shaft? Q.53 \n(A) 0.5 mm (B) 1 mm (C)  2 mm (D)  4 mm \n \n \n \nStatement for Linked Answer Questions 54 and 55:  \n \nPrandtl’s lifting line equation for a general wing is given by  \n \n   dyy y\ny\nUyy c U\nyy\nb\nb\nL \n\n\n \n   \n2\n2\n0\n0 0\n0\n0\n0\n/\n4\n1\n , where U  is the free-stream velocity,  is the \nangle of attack,  is the spanwise location, \n\n0y  0 0yL   gives the spanwise variation of zero-lift angle, c is \nthe chord, b is the span, and   gives the spanwise variation of circulation.  0y\n \nThe rate of change of circulation with angle of attack \n\n\n\n   is  \n(A) inversely proportional to   (B) independent of   \nQ.54 \n(C) a linear function of   (D) a quadratic function of   \n \n Given that  dy y C\nb\nb\nL \n\n \n2\n2\n, the corresponding lift curve-slope \n\n LC  is \n(A) independent of   (B) a linear function of   \nQ.55 \n(C) a quadratic function of   (D) a cubic function of   \n \n \n \n \n \nAE "
+    },
+    {
+      "page": 10,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2015,
+      "questionNumberCandidates": [
+        56,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \n \nGeneral Aptitude (GA) Questions \nQ. 56 – Q. 60 carry one mark each. \nQ.56 Choose the word from the options given below that is most nearly  opposite in meaning to the given \nword: \nDeference \n(A) aversion \n(B) resignation \n(C) suspicion \n(D) contempt \n \nQ.57 Choose the most appropriate word(s) from the opt ions given below to complete the following \nsentence. \nWe lost confidence in him because he never __________ the grandiose promises he had made. \n(A) delivered \n(B) delivered on \n(C) forgot \n(D) reneged on \n \nQ.58 Choose the word or phrase that best completes the sentence below. \n______________ in the frozen wastes of Arctic takes special equipment. \n(A) To survive \n(B) Surviving \n(C) Survival \n(D) That survival \n \nIn how many ways 3 scholarships can be awarded to 4 applicants, when each applicant can receive \nany number of scholarships? \nQ.59 \n(A) 4 (B) 12 (C)  64 (D)  81 \n \nChoose the most appropriate word from the op tions given below to complete the following \nsentence. \nThe _________ of eviden ce was on the side of the plaintiff since all but one witness testified \nthat his story was correct.  \n(A) paucity \n(B) propensity \n(C) preponderance \nQ.60 \n(D) accuracy \n \nQ. 61 to Q. 65 carry two marks each. \nIf (2y+1)/(y+2) < 1, then which of the following alternatives gives the CORRECT range of y? Q.61 \n(A) - 2 < y < 2 (B) - 2 < y < 1 (C)  - 3 < y < 1 (D)  - 4 < y < 1 \n \nA student attempted to solve a quadratic equation in x twice. However, in the first attempt, he \nincorrectly wrote the constant term and ended up wi th the roots as (4, 3). In the second attempt, he \nincorrectly wrote down the coefficient of x and got the roots as (3, 2). Based on the above \ninformation, the roots of the correct quadratic equation are \nQ.62 \n(A) (-3, 4) (B) (3, -4) (C)  (6, 1) (D)  (4, 2) \nAE "
+    },
+    {
+      "page": 11,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1771,
+      "questionNumberCandidates": [
+        63,
+        64,
+        65
+      ],
+      "text": "2011                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \n \nL, M and N are waiting in a queue meant for children to enter the zoo. There are 5 children between \nL and M, and 8 children between M and N. If there are 3 children ahead of N and 21 children \nbehind L, then what is the minimum number of children in the queue? \nQ.63 \n(A) 28 (B) 27 (C) 41 (D) 40 \n \nQ.64 Four archers P, Q, R and S try to hit a bull’s eye during a tournament consisting of seven rounds. \nAs illustrated in the figure below, a player recei ves 10 points for hitting the bulls’ eye, 5 points for \nhitting within the inner circle and 1 point for hitting within the outer circle. \n \n \n \n \nAE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOuter circle \n1 point \nInner circle \n5 points \nBull’s eye \n10 points \n \nThe final scores received by the play\ners during the tournament are listed in the table below. \n \nRound P Q R S \n1 5 1 10 1 \n5 10 10 1 2 \n1 1 1 5 3 \n10 10 1 1 4 \n1 5 5 10 5 \n10 5 1 1 6 \n5 10 1 1 7 \n \nThe most accurate and the most consistent players during the tournament are respectively \n(A) P and S  (B) Q and R (C) Q and Q  (D) R and Q \n \nNimbus clouds are dark and ragged, stratus clo uds appear dull in colour and cover the entire \nsky. Cirrus clouds are thin and delicate, whereas cumulus clouds look like cotton balls. \nQ.65 \n \nIt can be inferred from the passage that \n(A) A cumulus cloud on the ground is called fog \n(B) It is easy to predict the weather by studying clouds \n(C) Clouds are generally of very different shapes, sizes and mass \n(D) There are four basic cloud types: stratus, nimbus, cumulus and cirrus \n \n \nEND OF THE QUESTION PAPER \n \n "
+    }
+  ]
+}

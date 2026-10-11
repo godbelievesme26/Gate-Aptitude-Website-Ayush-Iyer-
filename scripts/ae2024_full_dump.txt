@@ -1,0 +1,1571 @@
+
+
+=== [PAGE 1] ===
+                       Aerospace Engineering (AE) 
+Page 1 of 40 
+Organizing Institute: IISc Bengaluru 
+General Aptitude (GA)  
+Q.1 – Q.5 Carry ONE mark Each 
+Q.1 
+If ‘→’ denotes increasing order of intensity, then the meaning of the words  
+[dry → arid → parched] is analogous to [diet → fast → ________ ]. 
+Which one of the given options is appropriate to fill the blank? 
+ 
+ 
+(A) 
+starve 
+(B) 
+reject 
+(C) 
+feast 
+(D) 
+deny 
+ 
+ 
+Q.2 
+If two distinct non-zero real variables 𝑥 and 𝑦 are such that (𝑥+ 𝑦) is proportional 
+to (𝑥−𝑦) then the value of  
+𝑥
+𝑦 
+ 
+ 
+(A) 
+depends on 𝑥𝑦 
+(B) 
+depends only on 𝑥 and not on 𝑦 
+(C) 
+depends only on 𝑦 and not on 𝑥 
+(D) 
+is a constant 
+ 
+ 
+
+
+=== [PAGE 2] ===
+                       Aerospace Engineering (AE) 
+Page 2 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.3 
+Consider the following sample of numbers:  
+9, 18, 11, 14, 15, 17, 10, 69, 11, 13 
+The median of the sample is 
+ 
+ 
+(A) 
+13.5 
+(B) 
+14 
+(C) 
+11 
+(D) 
+18.7 
+ 
+ 
+Q.4 
+The number of coins of ₹1, ₹5, and ₹10 denominations that a person has are in the  
+ratio 5:3:13. Of the total amount, the percentage of money in ₹5 coins is 
+ 
+ 
+(A) 
+21% 
+(B) 
+14
+2
+7% 
+(C) 
+10% 
+(D) 
+30%  
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 3] ===
+                       Aerospace Engineering (AE) 
+Page 3 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.5 
+For positive non-zero real variables 𝑝 and 𝑞, if 
+log (𝑝2 + 𝑞2) = log 𝑝+ log 𝑞+ 2 log 3 , 
+then, the value of  
+𝑝4+𝑞4
+𝑝2𝑞2  is 
+ 
+ 
+(A) 
+79 
+(B) 
+81 
+(C) 
+9 
+(D) 
+83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 4] ===
+                       Aerospace Engineering (AE) 
+Page 4 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 
+In the given text, the blanks are numbered (i)−(iv). Select the best match for all the 
+blanks. 
+Steve was advised to keep his head       (i)       before heading       (ii)       to bat;  
+for, while he had a head       (iii)       batting, he could only do so with a cool head  
+s       (iv)        his shoulders. 
+ 
+ 
+(A) 
+(i) down    
+(ii) down    
+(iii) on    
+(iv) for 
+(B) 
+(i) on    
+(ii) down    
+(iii) for    
+(iv) on 
+(C) 
+(i) down    
+(ii) out    
+(iii) for    
+(iv) on 
+(D) 
+(i) on    
+(ii) out    
+(iii) on   
+(iv) for 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 5] ===
+                       Aerospace Engineering (AE) 
+Page 5 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.7 
+A rectangular paper sheet of dimensions 54 cm × 4 cm is taken. The two longer 
+edges of the sheet are joined together to create a cylindrical tube. A cube whose 
+surface area is equal to the area of the sheet is also taken.  
+Then, the ratio of the volume of the cylindrical tube to the volume of the cube is 
+ 
+ 
+ 
+(A) 
+1/π 
+(B) 
+2/π 
+(C) 
+3/π 
+(D) 
+4/π 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 6] ===
+                       Aerospace Engineering (AE) 
+Page 6 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.8 
+The pie chart presents the percentage contribution of different macronutrients to a 
+typical 2,000 kcal diet of a person.  
+ 
+The typical energy density (kcal/g) of these macronutrients is given in the table.  
+Macronutrient 
+Energy density (kcal/g) 
+Carbohydrates 
+4 
+Proteins 
+4 
+Unsaturated fat 
+9 
+Saturated fat 
+9 
+Trans fat 
+9 
+The total fat (all three types), in grams, this person consumes is 
+ 
+  
+(A) 
+44.4 
+(B) 
+77.8 
+(C) 
+100 
+(D) 
+3,600 
+Carbohydrates
+35%
+Proteins
+20%
+Unsaturated fat
+20%
+Saturated fat
+20%
+Trans 
+fat
+5%
+Macronutrient energy contribution
+
+
+=== [PAGE 7] ===
+                       Aerospace Engineering (AE) 
+Page 7 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.9 
+A rectangular paper of 20 cm × 8 cm is folded 3 times. Each fold is made along the 
+line of symmetry, which is perpendicular to its long edge. The perimeter of the final 
+folded sheet (in cm) is 
+ 
+ 
+(A) 
+18 
+(B) 
+24 
+(C) 
+20 
+(D) 
+21 
+ 
+ 
+Q.10 
+The least number of squares to be added in the figure to make AB a line of  
+symmetry is 
+ 
+ 
+ 
+(A) 
+6 
+(B) 
+4 
+(C) 
+5 
+(D) 
+7 
+ 
+ 
+ 
+
+
+=== [PAGE 8] ===
+                       Aerospace Engineering (AE) 
+Page 8 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 
+The following system of linear equations 
+7𝑥−3𝑦+ 𝑧= 0
+3𝑥−𝑦+ 𝑧= 0
+𝑥−𝑦−𝑧= 0
+ 
+has:  
+ 
+ 
+ 
+(A) 
+infinitely many solutions 
+(B) 
+a unique solution 
+(C) 
+no solution 
+(D) 
+three solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 9] ===
+                       Aerospace Engineering (AE) 
+Page 9 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.12 
+The acceleration of a body travelling in a straight line is given by 𝑎= −𝐶1 −𝐶2𝑣2 
+where 𝑣 is the velocity, and 𝐶1, 𝐶2 are positive constants. Starting with an initial 
+positive velocity 𝑣𝑜, the distance travelled by the body before coming to rest for the 
+first time is:  
+ 
+ 
+(A) 
+1
+2𝐶2
+ln (1 + 𝐶2
+𝐶1
+𝑣𝑜
+2) 
+(B) 
+1
+2𝐶2
+ln (1 −𝐶2
+𝐶1
+𝑣𝑜
+2) 
+(C) 
+1
+2𝐶2
+ln(𝐶1 + 𝐶2𝑣𝑜
+2) 
+(D) 
+1
+2𝐶2
+ln(1 + 𝐶2𝑣𝑜
+2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 10] ===
+                       Aerospace Engineering (AE) 
+Page 10 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.13 
+The three-dimensional stress-strain relationship for an isotropic material is given as 
+{
+ 
+ 
+ 
+ 
+𝜎𝑥𝑥
+𝜎𝑦𝑦
+𝜎𝑧𝑧
+𝜏𝑦𝑧
+𝜏𝑥𝑧
+𝜏𝑥𝑦}
+ 
+ 
+ 
+ 
+=
+[
+ 
+ 
+ 
+ 
+ 𝑃
+𝑄
+𝑄
+𝑄
+𝑃
+𝑄
+𝑄
+𝑄
+𝑃
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+𝑅
+0
+0
+0
+𝑅
+0
+0
+0
+𝑅]
+ 
+ 
+ 
+ 
+ 
+{
+ 
+ 
+ 
+ 
+𝜀𝑥𝑥
+𝜀𝑦𝑦
+𝜀𝑧𝑧
+𝛾𝑦𝑧
+𝛾𝑥𝑧
+𝛾𝑥𝑦}
+ 
+ 
+ 
+ 
+ 
+where, P, Q and R are the three elastic constants, 𝜎 and 𝜏 represent normal and shear 
+stresses and 𝜀 and 𝛾 represent normal and engineering shear strains. Which one of 
+the following options is correct? 
+ 
+ 
+(A) 
+𝑅= 𝑃−𝑄
+2
+ 
+(B) 
+𝑅= 𝑄−𝑃
+2
+ 
+(C) 
+𝑄= 𝑃−𝑅
+2
+ 
+(D) 
+𝑄= 𝑅−𝑃
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 11] ===
+                       Aerospace Engineering (AE) 
+Page 11 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.14 
+Consider the free vibration responses P, Q, R and S (shown in the figure) of a single 
+degree of freedom spring-mass-damper system with the same initial conditions. For 
+the different damping cases listed below, which one of the following options is 
+correct? 
+1. Overdamped 
+2. Underdamped 
+3. Critically damped 
+4. Undamped 
+ 
+ 
+ 
+(A) 
+P – 1, Q – 4, R – 2, S – 3 
+(B) 
+P – 1, Q – 2, R – 4, S – 3 
+(C) 
+P – 3, Q – 4, R – 2, S – 1 
+(D) 
+P – 3, Q – 2, R – 4, S – 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 12] ===
+                       Aerospace Engineering (AE) 
+Page 12 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.15 
+For a single degree of freedom spring-mass-damper system subjected to harmonic 
+forcing, the part of the motion (response) that decays due to damping is known as: 
+ 
+ 
+(A) 
+transient response 
+(B) 
+steady-state response 
+(C) 
+harmonic response 
+(D) 
+non-transient response 
+ 
+ 
+Q.16 
+For an ideal gas, the specific heat at constant pressure is 1147 J/kg K and the ratio 
+of specific heats is equal to 1.33. What is the value of the gas constant for this gas 
+in J/kg K? 
+ 
+ 
+(A) 
+284.6 
+(B) 
+1005 
+(C) 
+862.4 
+(D) 
+8314 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 13] ===
+                       Aerospace Engineering (AE) 
+Page 13 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.17 
+A surrogate liquid hydrocarbon fuel, approximated as C10H12, is being burned in a 
+land-based gas turbine combustor with dry air (79% N2 and 21% O2 by volume). 
+How many moles of dry air are required for the stoichiometric combustion of the 
+surrogate fuel with dry air at atmospheric temperature and pressure? 
+ 
+ 
+(A) 
+61.9 
+(B) 
+30.95 
+(C) 
+13 
+(D) 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 14] ===
+                       Aerospace Engineering (AE) 
+Page 14 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.18 
+In the figure shown below, various thermodynamics processes for an ideal gas are 
+represented. Match each curve with the process that it best represents.  
+ 
+ 
+(A) 
+aa’ – Isentropic; bb’ – Isothermal; cc’ – Isobaric; dd’ – Isochoric 
+(B) 
+aa’ – Isothermal; bb’ – Isentropic; cc’ – Isochoric; dd’ – Isobaric 
+(C) 
+aa’ – Isothermal; bb’ – Isentropic; cc’ – Isobaric; dd’ – Isochoric 
+(D) 
+aa’ – Isothermal; bb’ – Isobaric; cc’ – Isentropic; dd’ – Isochoric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 15] ===
+                       Aerospace Engineering (AE) 
+Page 15 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.19 
+In an airbreathing gas turbine engine, the combustor inlet temperature is 600 K. The 
+heating value of the fuel is 43.4 × 106 J/kg. Assume Cp to be 1100 J/kg K for air and 
+burned gases, and fuel-air ratio f << 1.0. Neglect kinetic energy at the inlet and exit 
+of the combustor and assume 100% burner efficiency. What is the fuel-air ratio 
+required to achieve 1300 K temperature at the combustor exit?  
+ 
+ 
+(A) 
+0.0177 
+(B) 
+0.0215 
+(C) 
+0.0127 
+(D) 
+0.0277 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 16] ===
+                       Aerospace Engineering (AE) 
+Page 16 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.20 
+Which one of the following figures represents the drag polar of a general aviation 
+aircraft? 
+ 
+ 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 17] ===
+                       Aerospace Engineering (AE) 
+Page 17 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.21 
+In the context of steady, inviscid, incompressible flows, consider the superposition 
+of a uniform flow with speed U along the positive x-axis (from left to right), and a 
+source of strength Λ located at the origin. Which one of the following statements is 
+NOT true regarding the location of the stagnation point of the resulting flow? 
+ 
+ 
+(A) 
+It is located to the left of the origin 
+(B) 
+It moves closer to the origin for increasing Λ, while U is held constant 
+(C) 
+It moves closer to the origin for increasing U, while Λ is held constant 
+(D) 
+It is located along the x-axis 
+ 
+ 
+Q.22 
+On Day 1, an aircraft flies with a speed of  𝑉1 m/s at an altitude where the 
+temperature is T1 K. On Day 2, the same aircraft flies with a speed of √1.2 𝑉1 m/s 
+at an altitude where the temperature is 1.2 T1  K. How does the Mach number M2 on 
+Day 2 compare with the Mach number M1 on Day 1?  
+Assume ideal gas behavior for air. Also assume the ratio of specific heats and 
+molecular weight of air to be the same on both the days.   
+ 
+ 
+(A) 
+M2 = 0.6 M1 
+(B) 
+M2 = M1 
+(C) 
+M2 = 
+1
+√1.2 M1 
+(D) 
+M2 = √1.2 M1 
+ 
+ 
+ 
+
+
+=== [PAGE 18] ===
+                       Aerospace Engineering (AE) 
+Page 18 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.23 
+Consider a steady, isentropic, supersonic flow (Mach number M > 1) entering a 
+Convergent-Divergent (CD) duct as shown in the figure. Which one of the 
+following options correctly describes the flow at the throat? 
+ 
+ 
+(A) 
+Can only be supersonic 
+(B) 
+Can only be sonic 
+(C) 
+Can either be sonic or supersonic 
+(D) 
+Can only be subsonic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 19] ===
+                       Aerospace Engineering (AE) 
+Page 19 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.24 
+Consider steady, incompressible, inviscid flow past two airfoils shown in the figure. 
+The coefficient of pressure at the trailing edge of the airfoil with finite angle, shown 
+in figure (I), is 𝐶𝑃𝐼 while that at the trailing edge of the airfoil with cusp, shown in 
+figure (II), is 𝐶𝑃𝐼𝐼. Which one of the following options is TRUE? 
+ 
+ 
+(A) 
+𝐶𝑃𝐼< 1,   𝐶𝑃𝐼𝐼< 1 
+(B) 
+𝐶𝑃𝐼= 1,   𝐶𝑃𝐼𝐼= 1 
+(C) 
+𝐶𝑃𝐼= 1,   𝐶𝑃𝐼𝐼< 1 
+(D) 
+𝐶𝑃𝐼< 1,   𝐶𝑃𝐼𝐼= 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 20] ===
+                       Aerospace Engineering (AE) 
+Page 20 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.25 
+Which of the following options is/are correct? 
+ 
+ 
+(A) 
+ 
+The stress-strain graph for a nonlinear elastic material is 
+ as shown in the figure 
+ 
+(B) 
+Material properties are independent of position in a homogeneous material 
+(C) 
+An isotropic material has infinitely many planes of material symmetry 
+(D) 
+ 
+The stress-strain graph for a linear elastic material is 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 21] ===
+                       Aerospace Engineering (AE) 
+Page 21 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.26 
+Which of the following statements is/are correct about a satellite moving in a 
+geostationary orbit?  
+ 
+ 
+(A) 
+The orbit lies in the equatorial plane 
+(B) 
+The orbit is circular about the center of the Earth 
+(C) 
+The time period of motion is 90 minutes 
+(D) 
+The satellite is visible from all parts of the Earth 
+ 
+ 
+Q.27 
+In a conventional configuration airplane, the rudder can be used: 
+ 
+ 
+(A) 
+to overcome adverse yaw during a turning maneuver 
+(B) 
+to overcome yawing moment due to failure of one engine in a multi engine airplane 
+(C) 
+for landing the airplane in crosswind conditions 
+(D) 
+for enhancing longitudinal stability 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 22] ===
+                       Aerospace Engineering (AE) 
+Page 22 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.28 
+Which of the following statements about a general aviation aircraft, while operating 
+at point Q in the V-n diagram, is/are true?  
+ 
+ 
+ 
+(A) 
+The aircraft has the highest turn rate  
+(B) 
+The aircraft has the smallest turn radius  
+(C) 
+The aircraft is flying with minimum drag  
+(D) 
+The aircraft is operating at 𝐶𝐿,𝑚𝑎𝑥 
+ 
+ 
+Q.29 
+Two fair dice with numbered faces are rolled together. The faces are numbered from 
+1 to 6. The probability of getting odd numbers on both the dice is 
+________________ (rounded off to 2 decimal places). 
+ 
+ 
+Q.30 
+A particle acted upon by a constant force 4𝑖̂ + 𝑗̂ −3𝑘̂ N is displaced from point A 
+with position vector 𝑖̂ + 2𝑗̂ + 3𝑘̂ m to point B with position vector 5𝑖̂ + 4𝑗̂ + 𝑘̂ m. 
+The work done by this force is _______ J (answer in integer). 
+ 
+ 
+
+
+=== [PAGE 23] ===
+                       Aerospace Engineering (AE) 
+Page 23 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.31 
+Using Trapezoidal rule with one interval, the approximate value of the definite 
+integral: 
+∫
+𝑑𝑥
+1 + 𝑥2
+2
+1
+= ______ 
+(rounded off to 2 decimal places). 
+ 
+ 
+Q.32 
+A material has Poisson’s ratio 𝜈= 0.5 and Young’s modulus E=2500 MPa. The 
+percentage change in its volume when subjected to a hydrostatic stress of magnitude 
+10 MPa is ______ (answer in integer). 
+ 
+ 
+Q.33 
+An airplane experiences a net vertical ground reaction of 15000 N during landing. 
+The weight of the airplane is 10000 N. The landing vertical load factor, defined as 
+the ratio of inertial load to the weight of the aircraft, is __________ (rounded off to 
+1 decimal place). 
+ 
+ 
+Q.34 
+An aircraft with a turbojet engine is flying with 250 m/s speed at an altitude, 
+where the density of air is 1 kg/m3. The inlet area of the engine is 1 m2. The 
+average velocity of the exhaust gases at the exit of the nozzle, with respect to 
+aircraft, is 550 m/s. Assume the engine exit pressure is equal to the ambient 
+pressure and the fuel-air ratio is negligible. The uninstalled thrust produced  
+by the engine at these conditions is _________ N  
+(rounded off to the nearest integer). 
+ 
+ 
+Q.35 
+Using thin airfoil theory, the lift coefficient of a NACA 0012 airfoil placed at 5o 
+angle of attack in a uniform flow is _____________ (rounded off to 2 decimal 
+places). 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 24] ===
+                       Aerospace Engineering (AE) 
+Page 24 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 
+Given 𝑦= 𝑒𝑝𝑥sin 𝑞𝑥, where 𝑝 and 𝑞 are non-zero real numbers, the value of 
+the differential expression  
+𝑑2𝑦
+𝑑𝑥2 −2𝑝𝑑𝑦
+𝑑𝑥+ (𝑝2 + 𝑞2)𝑦 
+is 
+ 
+ 
+(A) 
+0 
+(B) 
+1 
+(C) 
+𝑝2 + 𝑞2 
+(D) 
+𝑝𝑞 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 25] ===
+                       Aerospace Engineering (AE) 
+Page 25 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.37 
+The volume of the solid formed by a complete rotation of the shaded portion of the 
+circle of radius R about the y-axis is 𝑘𝜋R3. The value of 𝑘 is: 
+ 
+ 
+(A) 
+5
+12 
+(B) 
+5
+24 
+(C) 
+7
+12 
+(D) 
+7
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 26] ===
+                       Aerospace Engineering (AE) 
+Page 26 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.38 
+As per the International Standard Atmosphere model, which one of the following 
+options about density variation with increase in altitude in the isothermal layer is 
+correct? 
+ 
+ 
+(A) 
+remains constant 
+(B) 
+increases linearly  
+(C) 
+decreases linearly  
+(D) 
+decreases exponentially 
+ 
+ 
+Q.39 
+At a point in the trajectory of an unpowered space vehicle moving about the Earth, 
+the altitude above the mean sea level is 600 km, and the speed with reference to a 
+coordinate system fixed to the center of mass of the Earth is 9 km/s. Assume that 
+the Earth is a sphere with a radius 6400 km and 𝐺𝑀𝐸𝑎𝑟𝑡ℎ= 3.98 × 1014 m3/s2, 
+where, G is the universal gravitational constant and 𝑀𝐸𝑎𝑟𝑡ℎ is mass of the Earth. 
+The trajectory is: 
+ 
+ 
+(A) 
+Circular 
+(B) 
+Elliptic 
+(C) 
+Parabolic 
+(D) 
+Hyperbolic 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 27] ===
+                       Aerospace Engineering (AE) 
+Page 27 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.40 
+A multistage axial compressor, with overall isentropic efficiency of 0.83, is used to 
+compress air at a stagnation temperature of 300 K through a pressure ratio of 10:1.  
+Each stage of the compressor is similar, and the stagnation temperature rise across 
+each compressor stage is 20 K. Assume Cp = 1005 J/kg K and  = 1.4 for air. How 
+many stages are there in the compressor? 
+ 
+ 
+(A) 
+17 
+(B) 
+13 
+(C) 
+19 
+(D) 
+11 
+ 
+ 
+Q.41 
+An aircraft with a turbojet engine is flying at 250 m/s. The uninstalled thrust 
+produced by the engine is 60000 N. The heating value of the fuel is 44 × 106 J/kg. 
+The engine has a thermal efficiency of 35% while burning the fuel at a rate of 
+3 kg/s. Assume the engine exit pressure to be equal to the ambient pressure. What 
+is the propulsion efficiency of the engine under these conditions (in percentage)? 
+ 
+ 
+(A) 
+32.5 
+(B) 
+35.0 
+(C) 
+11.4 
+(D) 
+92.4 
+ 
+ 
+ 
+
+
+=== [PAGE 28] ===
+                       Aerospace Engineering (AE) 
+Page 28 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.42 
+Consider a flat plate, with a sharp leading edge, placed in a uniform flow of speed 
+U. The direction of the free-stream flow is aligned with the plate. Assume that the 
+flow is steady, incompressible and laminar. The thickness of the boundary layer at 
+a fixed stream-wise location L from the leading edge of the plate is δ. Which one of 
+the following correctly describes the variation of δ with U?   
+ 
+ 
+(A) 
+δ ∝ U                
+(B) 
+δ ∝ U 3/2 
+(C) 
+δ ∝ U 1/2 
+(D) 
+δ ∝ U −1/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 29] ===
+                       Aerospace Engineering (AE) 
+Page 29 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.43 
+Shock structures for flow at three different Mach numbers over a given wedge are 
+shown in the figure below. Assuming that only the weak shock solutions are 
+possible for the attached oblique shocks, which one of the following options is 
+TRUE?  
+ 
+ 
+(A) 
+M1 < M2 < M3 
+(B) 
+M1 > M2 > M3 
+(C) 
+M1 < M3< M2 
+(D) 
+M3 < M1 < M2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 30] ===
+                       Aerospace Engineering (AE) 
+Page 30 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.44 
+Air flowing at Mach number M = 2 from left to right accelerates to M = 3 across an 
+expansion corner as shown in the figure. What is the value of 𝛿 (the angle between 
+the Forward and Rearward Mach lines) in degrees? 
+The values of the Prandtl-Meyer functions are 𝜈(3) = 49.76o and 𝜈(2) = 26.38o.  
+ 
+ 
+ 
+(A) 
+23.38 
+(B) 
+19.47 
+(C) 
+53.38 
+(D) 
+33.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 31] ===
+                       Aerospace Engineering (AE) 
+Page 31 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.45 
+Consider the function  
+𝑓(𝑥) = {𝑥2       for     𝑥< 0
+𝑥         for     𝑥≥0 
+where x is real. Which of the following statements is/are correct? 
+ 
+ 
+(A) 
+The function is continuous for all x  
+(B) 
+The derivative of the function is discontinuous at x = 0 
+(C) 
+The derivative of the function is continuous at x = 1 
+(D) 
+The function is discontinuous at x = 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 32] ===
+                       Aerospace Engineering (AE) 
+Page 32 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.46 
+The figure shows plots of two yield loci for an isotropic material, where 𝜎𝐼 and 𝜎𝐼𝐼 
+are the principal stresses, and 𝜎𝑌 is the yield stress in uniaxial tension. Which of the 
+following statements is/are correct? 
+ 
+ 
+(A) 
+Criterion P represents the von Mises criterion 
+(B) 
+Criterion Q represents the Tresca criterion 
+(C) 
+Criterion P represents the Tresca criterion  
+(D) 
+Criterion Q represents the von Mises criterion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 33] ===
+                       Aerospace Engineering (AE) 
+Page 33 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.47 
+Which of the following statements about absolute ceiling and service ceiling for a 
+piston-propeller aircraft is/are correct? 
+ 
+ 
+(A) 
+The altitude corresponding to absolute ceiling is higher than that for service ceiling 
+(B) 
+At the absolute ceiling, the power required for cruise equals the maximum power 
+available 
+(C) 
+The altitude corresponding to absolute ceiling is lower than that for service ceiling 
+(D) 
+At the service ceiling, the maximum rate of climb is 50 ft/min 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 34] ===
+                       Aerospace Engineering (AE) 
+Page 34 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.48 
+For an airplane having directional / weathercock static stability, which of the 
+following options is/are correct? 
+ 
+ 
+(A) 
+The airplane when disturbed in yaw, from an equilibrium state, will experience a 
+restoring moment 
+(B) 
+The variation of yawing moment coefficient (𝐶𝑛) with 
+sideslip angle (β) for the airplane will look like 
+ 
+(C) 
+The airplane will always tend to point into the relative wind 
+(D) 
+The airplane when disturbed in yaw will return to equilibrium state in a finite 
+amount of time after removing the disturbance 
+ 
+ 
+Q.49 
+Which of the following statements is/are TRUE for an axial turbine? 
+ 
+ 
+(A) 
+For a fixed rotational speed, the mass flow rate increases with increase in the flow 
+coefficient 
+(B) 
+The absolute stagnation enthalpy of the flow decreases across the nozzle row 
+(C) 
+The relative stagnation enthalpy remains unchanged through the rotor 
+(D) 
+For a fixed rotational speed, the mass flow rate remains unchanged with a change 
+in the flow coefficient 
+ 
+ 
+
+
+=== [PAGE 35] ===
+                       Aerospace Engineering (AE) 
+Page 35 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.50 
+Which of the following statements is/are TRUE for a single stage axial compressor? 
+ 
+ 
+(A) 
+Starting from design condition and keeping the mass flow rate constant, if the blade 
+RPM is increased, the compressor rotor may experience positive incidence flow 
+separation (actual relative flow angle greater than the design blade angle) 
+(B) 
+Starting from design condition at the same blade RPM, if the mass flow rate is 
+increased, the compressor rotor may experience positive incidence flow separation 
+(actual relative flow angle greater than the design blade angle) 
+(C) 
+Keeping the mass flow rate constant, if the blade RPM is increased, the compressor 
+may experience surge 
+(D) 
+At the same blade RPM, if the mass flow rate is increased, the compressor may 
+experience surge 
+ 
+ 
+Q.51 
+Consider the matrix 𝐴= [5
+−4
+𝑘
+−1], where k is a constant. If the determinant of A is 
+3, then the ratio of the largest eigenvalue of A to the constant k is ___________ 
+(rounded off to 1 decimal place). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 36] ===
+                       Aerospace Engineering (AE) 
+Page 36 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.52 
+The state of stress at a point is caused by two separate loading cases. One of them 
+produces a pure uniaxial tension along the  𝑥′ direction, and other one produces a 
+pure uniaxial compression along the 𝑦′ direction, as shown in the figure. The sum 
+of maximum and minimum principal stresses for the resultant state of stress caused 
+by both loads acting simultaneously is ___________ N/mm2 (rounded off to 1 
+decimal place).  
+ 
+ 
+ 
+ 
+Q.53 
+In the figure shown below, the magnitude of internal force in member BC  
+is ___________ N (rounded off to 1 decimal place). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 37] ===
+                       Aerospace Engineering (AE) 
+Page 37 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.54 
+The cross section of a thin-walled beam with uniform wall thickness t, shown in the 
+figure, is subjected to a bending moment Mx = 10 Nm. If h = 1 m and  
+t = 0.001 m, the magnitude of maximum normal stress in the cross section 
+is _________N/m2 (answer in integer). 
+ 
+ 
+ 
+ 
+Q.55 
+The equations of motion for a two degrees of freedom undamped spring-mass 
+system are: 
+𝑚𝑥̈1 + 2𝑘𝑥1 −𝑘𝑥2 = 0 
+𝑚𝑥̈2 −𝑘𝑥1 + 2𝑘𝑥2 = 0 
+where m and k represent mass and stiffness respectively, in corresponding SI units, 
+and 𝑥1 and 𝑥2 are the degrees of freedom. The larger of the two natural frequencies 
+is given by: 𝜔= 𝛼√𝑘
+𝑚 rad/s. The value of 𝛼 is ________ (rounded off to 2 decimal 
+places). 
+ 
+ 
+Q.56 
+Consider the plane strain field given by 
+𝜀𝑥𝑥= 10 𝑥𝑦2,
+𝜀𝑦𝑦= −5 𝑥2𝑦    and
+𝛾𝑥𝑦= 𝐴 𝑥𝑦 (2𝑥−𝑦) 
+where, A is a constant and 𝛾𝑥𝑦 is the engineering shear strain. The value of the 
+constant A for the strain field to be compatible is _____________ (rounded off to 1 
+decimal place). 
+ 
+ 
+
+
+=== [PAGE 38] ===
+                       Aerospace Engineering (AE) 
+Page 38 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.57 
+A chemical rocket with an ideally expanded flow through the nozzle produces 
+5 × 106 N thrust at sea level. The specific impulse of the rocket is 200 s and 
+acceleration due to gravity at the sea level is 9.8 m/s2. The propellent mass flow 
+rate out of the rocket nozzle is _________ kg/s (rounded off to the nearest integer).  
+ 
+ 
+Q.58 
+A centrifugal compressor is designed to operate with air. At the leading edge of the 
+tip of the inducer (eye of the impeller), the blade angle is 45o, and the relative Mach 
+number is 1.0. The stagnation temperature of the incoming air is 300 K. Consider 
+ = 1.4. Neglect pre-whirl and slip. The inducer tip speed is ________ m/s (rounded 
+off to the nearest integer).  
+ 
+ 
+Q.59 
+Consider the following Fanno flow problem: Flow enters a constant area duct at a 
+temperature of 273 K and a Mach number 0.2 and eventually reaches sonic 
+condition (Mach number =1) due to friction. Assume 𝛾= 1.4. The static 
+temperature at the location where sonic condition is reached is_____________ K 
+(rounded off to 2 decimal places). 
+ 
+ 
+Q.60 
+Consider an artificial satellite moving around the Moon in an elliptic orbit. The 
+altitude of the satellite from the Moon’s surface at the perigee is 25 km and that at 
+the apogee is 134 km. Assume the Moon to be spherical with a radius of 1737 km. 
+The trajectory is considered with reference to a coordinate system fixed to the center 
+of mass of the Moon. The ratio of the speed of the satellite at the perigee to that at 
+the apogee is ___________ (rounded off to 2 decimal places).   
+ 
+ 
+Q.61 
+For an aircraft moving at 4 km altitude above mean sea level at a Mach number of 
+0.2, the ratio of equivalent air speed to true air speed is _______ (rounded off to 2 
+decimal places).  
+The density of air at mean sea level is 1.225 kg/m3 and at 4 km altitude is 
+0.819 kg/m3. 
+ 
+ 
+
+
+=== [PAGE 39] ===
+                       Aerospace Engineering (AE) 
+Page 39 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.62 
+For a general aviation airplane, one of the complex conjugate pair of eigenvalues 
+for longitudinal dynamics is given by −0.039 ± 0.0567 𝑖 (in SI units). If the 
+system is disturbed to excite only this mode, the time taken for the amplitude of 
+response to become half in magnitude is _______ s (rounded off to 1 decimal place). 
+ 
+ 
+Q.63 
+The figure (not to scale) shows a control volume to estimate the forces on the airfoil 
+with elliptic cross-section. Surfaces 2 and 3 are streamlines. Velocity profiles are 
+measured at the upstream end (surface 1) and at the downstream end (surface 4) of 
+the control volume. The drag coefficient for the airfoil is defined as Cd =
+𝐷
+1
+2 𝜌 𝑈∞ 
+2 𝑐 , 
+where D is the drag force on the airfoil per unit span and  is the density of the air. 
+The static pressure, p, is constant over the entire surface of the control volume.  
+Assuming the flow to be incompressible, two-dimensional and steady, the Cd for 
+the airfoil is _________ (rounded off to 3 decimal places). 
+ 
+ 
+ 
+ 
+Q.64 
+An airplane of mass 1000 kg is in a steady level flight with a speed of 50 m/s. The 
+wing has an elliptic planform with a span of 20 m and planform area 31.4 m2. 
+Assuming the density of air at that altitude to be 1 kg/m3 and acceleration due to 
+gravity to be 10 m/s2, the induced drag on the wing is _________ N (rounded off to 
+1 decimal place). 
+ 
+ 
+ 
+ 
+
+
+=== [PAGE 40] ===
+                       Aerospace Engineering (AE) 
+Page 40 of 40 
+Organizing Institute: IISc Bengaluru 
+Q.65 
+It is desired to estimate the aerodynamic drag, D, on a car traveling at a speed of  
+30 m/s. A one-third scale model of the car is tested in a wind-tunnel following the 
+principles of dynamic similarity. The drag on the scaled model is measured to be 
+Dm. The ratio D/Dm is _________ (rounded off to 1 decimal place). 
+ 
+ 

@@ -1,0 +1,713 @@
+{
+  "2": {
+    "paper": "AE",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/AE_Keys.pdf",
+    "keySha256": "72e49bdb2174d6eee146821005dc4dab2f20dfecf6e018a9c6ca86cd9ac734e6",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/AE.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 5,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      }
+    ]
+  },
+  "9": {
+    "paper": "XE",
+    "year": 2026,
+    "keyUrl": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+    "keySha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+    "masterUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      }
+    ]
+  },
+  "10": {
+    "paper": "CE1",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+    "keySha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 7,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      }
+    ]
+  },
+  "11": {
+    "paper": "CE2",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE2_Keys.pdf",
+    "keySha256": "cf3b9e893ddd1a1149446f7f93b4aa187fd43db8fa90e8e4edc133df98d16eef",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE2.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 8,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      }
+    ]
+  },
+  "12": {
+    "paper": "CS1",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS1_Keys.pdf",
+    "keySha256": "5de4a3171f8e9629832f2080b178e802fc81945e44826ac45e82c635d9959f2e",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS1.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 1,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      }
+    ]
+  },
+  "13": {
+    "paper": "CS2",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CS2_Keys.pdf",
+    "keySha256": "cd046a9c634aad151adff94bae3addbcb846fb8ab78710e415c684b4b8bb966a",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CS2.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 2,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      }
+    ]
+  },
+  "14": {
+    "paper": "EC",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EC_Keys.pdf",
+    "keySha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EC.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "MTA",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 6,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      }
+    ]
+  },
+  "15": {
+    "paper": "EE",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+    "keySha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 4,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 2
+      }
+    ]
+  },
+  "16": {
+    "paper": "ME",
+    "year": 2025,
+    "keyUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+    "keySha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+    "masterUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+    "questions": [
+      {
+        "number": 1,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 2,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 3,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "C",
+        "marks": 1
+      },
+      {
+        "number": 4,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 1
+      },
+      {
+        "number": 5,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "A",
+        "marks": 1
+      },
+      {
+        "number": 6,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 2
+      },
+      {
+        "number": 7,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "D",
+        "marks": 2
+      },
+      {
+        "number": 8,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 9,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "number": 10,
+        "session": 3,
+        "type": "MCQ",
+        "answer": "B",
+        "marks": 2
+      }
+    ]
+  }
+}

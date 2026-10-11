@@ -1,0 +1,491 @@
+{
+  "exam": "GATE",
+  "year": 2009,
+  "paper": "AE",
+  "source": "internal/ae/AE2009-key.pdf",
+  "sha256": "5b31e39feca37e6ea4d5c79b7efcbcb47aa294b9e33dad7cb9680157c21d9511",
+  "totalQuestions": 60,
+  "totalMarks": 100,
+  "rows": [
+    {
+      "number": 1,
+      "section": "AE",
+      "sectionQuestionNumber": 1,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "section": "AE",
+      "sectionQuestionNumber": 2,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "section": "AE",
+      "sectionQuestionNumber": 3,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "section": "AE",
+      "sectionQuestionNumber": 4,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "section": "AE",
+      "sectionQuestionNumber": 5,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "section": "AE",
+      "sectionQuestionNumber": 6,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "section": "AE",
+      "sectionQuestionNumber": 7,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "section": "AE",
+      "sectionQuestionNumber": 8,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "section": "AE",
+      "sectionQuestionNumber": 9,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "section": "AE",
+      "sectionQuestionNumber": 10,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "section": "AE",
+      "sectionQuestionNumber": 11,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 12,
+      "section": "AE",
+      "sectionQuestionNumber": 12,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1
+    },
+    {
+      "number": 13,
+      "section": "AE",
+      "sectionQuestionNumber": 13,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 14,
+      "section": "AE",
+      "sectionQuestionNumber": 14,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 15,
+      "section": "AE",
+      "sectionQuestionNumber": 15,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 16,
+      "section": "AE",
+      "sectionQuestionNumber": 16,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1
+    },
+    {
+      "number": 17,
+      "section": "AE",
+      "sectionQuestionNumber": 17,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 18,
+      "section": "AE",
+      "sectionQuestionNumber": 18,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 19,
+      "section": "AE",
+      "sectionQuestionNumber": 19,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 20,
+      "section": "AE",
+      "sectionQuestionNumber": 20,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 21,
+      "section": "AE",
+      "sectionQuestionNumber": 21,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 22,
+      "section": "AE",
+      "sectionQuestionNumber": 22,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 23,
+      "section": "AE",
+      "sectionQuestionNumber": 23,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 24,
+      "section": "AE",
+      "sectionQuestionNumber": 24,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 25,
+      "section": "AE",
+      "sectionQuestionNumber": 25,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 26,
+      "section": "AE",
+      "sectionQuestionNumber": 26,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 27,
+      "section": "AE",
+      "sectionQuestionNumber": 27,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 28,
+      "section": "AE",
+      "sectionQuestionNumber": 28,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 29,
+      "section": "AE",
+      "sectionQuestionNumber": 29,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 30,
+      "section": "AE",
+      "sectionQuestionNumber": 30,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 31,
+      "section": "AE",
+      "sectionQuestionNumber": 31,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 32,
+      "section": "AE",
+      "sectionQuestionNumber": 32,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 33,
+      "section": "AE",
+      "sectionQuestionNumber": 33,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 34,
+      "section": "AE",
+      "sectionQuestionNumber": 34,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 35,
+      "section": "AE",
+      "sectionQuestionNumber": 35,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 36,
+      "section": "AE",
+      "sectionQuestionNumber": 36,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 37,
+      "section": "AE",
+      "sectionQuestionNumber": 37,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 38,
+      "section": "AE",
+      "sectionQuestionNumber": 38,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 39,
+      "section": "AE",
+      "sectionQuestionNumber": 39,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 40,
+      "section": "AE",
+      "sectionQuestionNumber": 40,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 41,
+      "section": "AE",
+      "sectionQuestionNumber": 41,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 42,
+      "section": "AE",
+      "sectionQuestionNumber": 42,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 43,
+      "section": "AE",
+      "sectionQuestionNumber": 43,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 44,
+      "section": "AE",
+      "sectionQuestionNumber": 44,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 45,
+      "section": "AE",
+      "sectionQuestionNumber": 45,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 46,
+      "section": "AE",
+      "sectionQuestionNumber": 46,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 47,
+      "section": "AE",
+      "sectionQuestionNumber": 47,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 48,
+      "section": "AE",
+      "sectionQuestionNumber": 48,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 49,
+      "section": "AE",
+      "sectionQuestionNumber": 49,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 50,
+      "section": "AE",
+      "sectionQuestionNumber": 50,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 51,
+      "section": "AE",
+      "sectionQuestionNumber": 51,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 52,
+      "section": "AE",
+      "sectionQuestionNumber": 52,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 53,
+      "section": "AE",
+      "sectionQuestionNumber": 53,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 54,
+      "section": "AE",
+      "sectionQuestionNumber": 54,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 55,
+      "section": "AE",
+      "sectionQuestionNumber": 55,
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 56,
+      "section": "AE",
+      "sectionQuestionNumber": 56,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 57,
+      "section": "AE",
+      "sectionQuestionNumber": 57,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 58,
+      "section": "AE",
+      "sectionQuestionNumber": 58,
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 59,
+      "section": "AE",
+      "sectionQuestionNumber": 59,
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 60,
+      "section": "AE",
+      "sectionQuestionNumber": 60,
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2
+    }
+  ]
+}

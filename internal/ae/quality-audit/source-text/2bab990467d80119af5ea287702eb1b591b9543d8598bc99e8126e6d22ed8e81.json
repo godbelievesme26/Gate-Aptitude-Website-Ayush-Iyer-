@@ -1,0 +1,453 @@
+{
+  "source": "Aptitude Sets/2026/CE_2.pdf",
+  "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 439,
+      "questionNumberCandidates": [
+        1,
+        1
+      ],
+      "text": " \n \nGeneral Aptitude (GA)\nQ.1 – Q.5 Carry ONE mark Each \nQ.1 \n \n‘The team ______ more than 300 runs in 20 overs ___________ rains.  \nHowever, some players needed to improve their batting skills.’ \nChoose the option with the correct sequence of words to fill the blanks. \n  \n(A) score; despite \n(B) scoring; instead of \n(C) scored; despite \n(D) scoring; in spite of \n  \n  \nOrganizing Institute: IIT Guwahati\nPage 1 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 268,
+      "questionNumberCandidates": [
+        2
+      ],
+      "text": " \n \nQ.2 If a positive real 𝑥 satisfies the following equation \nlog2 𝑥 + log√2 𝑥 = 48, \nthen the value of 𝑥 is _________________ \n  \n(A) 216 \n(B) 416 \n(C) 214 \n(D) 414 \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 2 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 169,
+      "questionNumberCandidates": [
+        3
+      ],
+      "text": " \n \n \n \nQ.3 The next figure (indicated by ‘?’) in the sequence is  \n \n  \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \n \nOrganizing Institute: IIT Guwahati\nPage 3 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 4,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 459,
+      "questionNumberCandidates": [
+        4
+      ],
+      "text": " \n \nQ.4 \n \n‘All the mangoes in the basket are good.’ \nIf the above statement is false, then which one of the following statements is \nnecessarily true? \n  \n(A) All the mangoes in the basket are not good.  \n(B) No mango in the basket is good.  \n(C) In the basket, some of the mangoes are good and some are not good. \n(D) There exists at least one mango in the basket that is not good.  \n  \n  \nOrganizing Institute: IIT Guwahati\nPage 4 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 5,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 460,
+      "questionNumberCandidates": [
+        5
+      ],
+      "text": " \n \nQ.5 Consider the following statements about four numbers: \n(S1) The average of the four numbers is 25 \n(S2) Each number is at most 40  \n(S3) Each number is at least 20 \nChoose the option that is necessarily correct. \n  \n(A) (S1) and (S2) together imply (S3) \n(B) (S2) and (S3) together imply (S1) \n(C) (S1) and (S3) together imply (S2) \n(D) (S1) implies (S3) \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 5 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 6,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 539,
+      "questionNumberCandidates": [
+        6,
+        6
+      ],
+      "text": " \n \nQ.6 – Q.10 Carry TWO marks Each \nQ.6 \n \n‘People are crowding around ___ pit into which ___ elephant has fallen. I have \nnever seen an elephant looking more bewildered ___ miserable. Here it is in a \nmost undignified position, thrust into a pit and made to look up ___ a vast, \ncuriosity-stricken crowd.’ \nChoose the option with the correct sequence of words to fill the blanks. \n  \n(A) an; a; at; and \n(B) a; an; and; at \n(C) and; a; an; at \n(D) at; a; an; and \n  \n  \nOrganizing Institute: IIT Guwahati\nPage 6 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 7,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 605,
+      "questionNumberCandidates": [
+        7
+      ],
+      "text": " \n \nQ.7 \n \nThe table lists the unit selling price of five products P, Q, R, S, and T. On a  \nparticular day, 250 items were sold with the average selling price of Rs. 60.  \nThe following observations were made: \n \n(i) The quantity of S sold was twice that of T. \n(ii) The quantity of R sold was thrice that of T. \n(iii) The quantity of Q sold was four times that of T. \n \n \nWhat is the quantity of product P sold on that day? \n \n \nProduct P Q R S T \nUnit selling price (Rs.) 100 50 40 60 60 \n  \n(A) 40 \n(B) 50 \n(C) 60 \n(D) 70 \n \n \n \n \n  \nOrganizing Institute: IIT Guwahati\nPage 7 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 8,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 574,
+      "questionNumberCandidates": [
+        8
+      ],
+      "text": " \n \nQ.8 Consider a string P of length 𝑙 that is laid out as a straight-line segment. Another \nstring K is laid out as a semicircular arc with string P as its diameter, as \nrepresented in Figure (i). When both the strings are shortened by a length 𝑥 they \ncan be re-arranged such that the shortened string K forms a full circle with the \nshortened string P as its diameter, as represented in Figure (ii). The value of 𝑥/𝑙  \nis __________ \n \n  \n(A)  𝜋 \n(B)  \n𝜋−1\n2𝜋  \n(C)  \n𝜋\n2(𝜋−1) \n(D)  \n𝜋\n𝜋−1 \n  \n \n \n \n  \nOrganizing Institute: IIT Guwahati\nPage 8 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 9,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 646,
+      "questionNumberCandidates": [
+        9
+      ],
+      "text": " \n \nQ.9 The Roman senator Meritorius, his brother, his son, and his daughter have  \nvarying oratory skill levels. They are seated in rows and columns as shown  \nin the figure with exactly one person sitting in each box. It is known that \n(i) Meritorius’ daughter and his brother are seated in the same column. \n(ii) His son is seated diagonally across the sibling of the worst orator. \n(iii) The best and worst orators are seated in the same row. \nWho is the best orator? \n \n  \n(A) Meritorius \n(B) Meritorius’ brother \n(C) Meritorius’ son \n(D) Meritorius’ daughter \n  \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 9 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 10,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 227,
+      "questionNumberCandidates": [
+        10
+      ],
+      "text": " \n \nQ.10 Which one of the patterns labelled P, Q, R, and S is used to generate the following \nfigure? \n \n \nP \n \nR \n \nQ \n \nS \n  \n(A) P \n(B) Q \n(C) R \n(D) S \n  \nOrganizing Institute: IIT Guwahati\nPage 10 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 11,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 236,
+      "questionNumberCandidates": [
+        11,
+        11
+      ],
+      "text": "                                                                                                         \n \nQ.11 – Q.35 Carry ONE mark Each \nQ.11 Matrix A has the eigenvalues 1, 2, and 3. The Trace of A2 is \n  \n(A) 6 \n(B) 14 \n(C) 20 \n(D) 8 \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 11 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 12,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 848,
+      "questionNumberCandidates": [
+        12
+      ],
+      "text": "                                                                                                         \n \nQ.12 A fifth -degree polynomial in 𝑥 is defined for  𝑥 > 0. All coefficients of the \npolynomial are positive. The first derivative of the polynomial is obtained \nnumerically at a point by using the first -order forward as well as the first -order \nbackward difference methods. Identical step lengths are used for both the methods.  \nFollowing statements are made. \n(I) Forward difference method underestimates the true derivative. \n(II) Backward difference method overestimates the true derivative. \n \nWhich one of the following options is CORRECT? \n   \n(A) Both statements (I) and (II) are FALSE. \n(B) Both statements (I) and (II) are TRUE. \n(C) Statement (I) is TRUE and statement (II) is FALSE. \n(D) Statement (I) is FALSE and statement (II) is TRUE. \n  \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 12 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 13,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 514,
+      "questionNumberCandidates": [
+        13
+      ],
+      "text": "                                                                                                         \n \nQ.13 Periodic function 𝑓(𝑥) is given below. \n𝑓(𝑥) = { −1,      when        − 𝜋 < 𝑥 < 0\n   1, when              0 < 𝑥 < 𝜋} ;𝑓(𝑥+ 2𝜋) = 𝑓(𝑥) \nThe CORRECT option representing the Fourier series expansion of 𝑓(𝑥) is:  \n   \n(A) 𝑓(𝑥) = 4\n𝜋 [sin𝑥 + sin3𝑥\n3 + sin5𝑥\n5 + ⋯] \n(B) 𝑓(𝑥) = − 4\n𝜋 [sin𝑥 + sin3𝑥\n3 + sin5𝑥\n5 + ⋯] \n(C) 𝑓(𝑥) =  1 + 4\n𝜋 [sin𝑥 + sin3𝑥\n3 + sin5𝑥\n5 + ⋯] \n(D) 𝑓(𝑥) =  1 − 4\n𝜋 [sin𝑥 + sin3𝑥\n3 + sin5𝑥\n5 + ⋯] \n  \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 13 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 14,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 601,
+      "questionNumberCandidates": [
+        14
+      ],
+      "text": "                                                                                                         \n \nQ.14 A rectangular singly reinforced concrete beam has a width of 300 mm and an \neffective depth of 550 mm. The grades of steel and concrete are Fe500 and M25, \nrespectively. The area of steel in tension is 1963 mm 2. The depth of neutral axis is \n302 mm. The ratio of the limiting depth of the neutral axis (𝑥𝑢,𝑚𝑎𝑥) to the effective \ndepth (d) of the beam is 0.456. \nThe most probable mode of failure of the beam is \n  \n(A) compression failure \n(B) bond failure \n(C) shear failure \n(D) ductile failure \n  \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 14 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 15,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 609,
+      "questionNumberCandidates": [
+        15,
+        16
+      ],
+      "text": "                                                                                                         \n \nQ.15 As per IS:800 -2007, design of a cantilever steel beam section for its moment \ncapacity requires fulfilment of an upper bound, expressed as: \n𝑀𝑑 ≤ 1.5𝑍𝑒\n𝑓𝑦\n𝛾𝑚0\n \nThe reason for such upper bound is to \n  \n(A) control deflection \n(B) restrain lateral-torsional buckling  \n(C) avoid plastic deformation under working load   \n(D) avoid yielding at ultimate load \n  \nQ.16 A plane strain problem (in X-Y plane) must satisfy the condition: \n  \n(A) 𝜎𝑧𝑧 = 0 \n(B) 𝜖𝑧𝑧 = 𝜖𝑥𝑧 = 𝜖𝑦𝑧 = 0 \n(C) 𝜎𝑥𝑥 ≠ 𝜎𝑥𝑦 ≠ 𝜎𝑥𝑧 ≠ 0 \n(D) 𝜖𝑥𝑥 ≠ 𝜀𝑦𝑦 ≠ 𝜖𝑥𝑦 ≠ 0 \n  \n \n \nOrganizing Institute: IIT Guwahati\nPage 15 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 16,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 201,
+      "questionNumberCandidates": [
+        17
+      ],
+      "text": "                                                                                                         \n \nQ.17 Which one of the following stress conditions represents the state of pure shear \nstress? \n  \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \nOrganizing Institute: IIT Guwahati\nPage 16 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 17,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 455,
+      "questionNumberCandidates": [
+        18
+      ],
+      "text": "                                                                                                         \n \nQ.18 The horizontal beam shown in the figure has fixed supports at F and L. Internal \nhinges are provided at locations G and J. The beam supports vertically downward \nconcentrated loads as well as uniformly distributed loads, as shown in the figure.  \n \n(Figure not to scale) \nThe upward vertical reaction (in kN) at the support L is \n  \n(A) 23 \n(B) 33 \n(C) 43 \n(D) 58 \n  \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 17 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 18,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 780,
+      "questionNumberCandidates": [
+        19,
+        20
+      ],
+      "text": "                                                                                                         \n \nQ.19 The Culturable Command Area (CCA) for a canal is 10000 hectares. The base \nperiod for a crop in the CCA is 140 days. Watering depth for the crop is 40 cm. The \noutlet discharge (in m3/s) lies between \n  \n(A) 3 and 4 \n(B) 13 and 14 \n(C) 23 and 24 \n(D) 33 and 34 \n  \nQ.20 Following statements are made with respect to the mass curve of rainfall: \n(I) Slope at a point on the curve can be positive. \n(II) Slope at a point on the curve can be zero. \nWhich one of the following options is CORRECT? \n  \n(A) Both statements (I) and (II) are TRUE. \n(B) Both statements (I) and (II) are FALSE. \n(C) Statement (I) is TRUE and statement (II) is FALSE. \n(D) Statement (I) is FALSE and statement (II) is TRUE. \n  \n \nOrganizing Institute: IIT Guwahati\nPage 18 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 19,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 328,
+      "questionNumberCandidates": [
+        21
+      ],
+      "text": "                                                                                                         \n \nQ.21 Based on the Casagrande’s plasticity chart, plasticity index (in %) of inorganic clays \nhaving a liquid limit of 40 %, ranges between \n  \n(A) 18.0 and 28.8 \n(B) 14.6 and 28.8 \n(C) 14.6 and 23.4 \n(D) 18.0 and 43.8 \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 19 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 20,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 753,
+      "questionNumberCandidates": [
+        22
+      ],
+      "text": "                                                                                                         \n \nQ.22 Information related to foundation design is provided in table below. \nColumn 1 Column 2 \n(I) Converse-Labarre formula (P) Pile capacity from dynamic formula \n(II) Hiley formula (Q) Pile group efficiency  \n(III) Newmark’s influence chart (R) Bearing capacity factor of saturated \nclay \n(IV) Skempton’s equation (S) Increase in vertical stress below footing \nOption giving the CORRECT match between Column 1 and Column 2 is: \n  \n(A) (I) – (Q) ;  (II) – (P) ;  (III) – (S) ;  (IV) – (R) \n(B) (I) – (R) ;  (II) – (S) ;  (III) – (Q) ;  (IV) – (P) \n(C) (I) – (P) ;  (II) – (Q) ;  (III) – (S) ;  (IV) – (R) \n(D) (I) – (R) ;  (II) – (S) ;  (III) – (P) ;  (IV) – (Q) \n  \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 20 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 21,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1152,
+      "questionNumberCandidates": [
+        23,
+        24
+      ],
+      "text": "                                                                                                         \n \nQ.23 An incident occurred on one side of a median on a four-lane dual carriageway road \nsection. This incident disrupted the traffic movement in one direction. Traffic police \ndiverted the traffic from disrupted side to the other side through an openin g in a \nmedian. The desired sight distance on the four -lane dual carriageway was kept as \n360 m under normal conditions. The  Stopping Sight Distance (SSD, in m) , which \nshould be available on the operating road section after the incident, is \n  \n(A) 360 \n(B) 240 \n(C) 180 \n(D) 720 \n  \nQ.24 Which one of the following statements is TRUE?  \n   \n(A) Cant deficiency is related to train moving faster, and Cant excess is related to train \nmoving slower. \n(B) Cant deficiency is related to train moving slower, and Cant excess is related to train \nmoving faster. \n(C) Cant deficiency  is related to train moving on the main line, and Cant excess  is \nrelated to train moving on the branch line. \n(D) Cant deficiency is related to train moving on the branch line, and Cant excess is \nrelated to train moving on the main line. \n  \nOrganizing Institute: IIT Guwahati\nPage 21 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 22,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 663,
+      "questionNumberCandidates": [
+        25,
+        26
+      ],
+      "text": "                                                                                                         \n \nQ.25 The primary purpose of the Windrose diagram is for the design of  \n   \n(A) length of a runway. \n(B) orientation of a runway. \n(C) width of a runway. \n(D) gradient of a runway. \n  \nQ.26 Which one of the following statements is TRUE with respect to levelling survey? \n  \n(A) A level surface at all points is normal to the direction of the force of gravity. \n(B) Two level surfaces can cross each other. \n(C) Ellipsoid is an irregular surface approximating the physical surface of the Earth. \n(D) Geoid is a regular surface approximating the physical surface of the Earth. \n  \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 22 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 23,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 697,
+      "questionNumberCandidates": [
+        27
+      ],
+      "text": "                                                                                                         \n \nQ.27 Column I presents common air pollutants, and column II presents treatment \ntechnologies commonly employed to control air pollutants.  \nAir pollutant Treatment technology \n1 Dust (size 5-25 µm) P Cyclone separator \n2 Carbon monoxide (CO) Q Wet lime-water scrubber \n3 Sulfur dioxide (SO2) R Electrostatic precipitator \n4 Fly ash (size ˂ 2.5 µm) S Catalytic converter \nThe option that CORRECTLY matches the air pollutant with its treatment \ntechnology is: \n  \n(A) 1  P ;  2  S ;  3  Q ;  4  R \n(B) 1  P ;  2  R ;  3  S ;  4  Q \n(C) 1  R ;  2  Q ;  3  P ;  4  S \n(D) 1  R ;  2  Q ;  3  S ;  4  P \n  \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 23 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 24,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 553,
+      "questionNumberCandidates": [
+        28,
+        29
+      ],
+      "text": "                                                                                                         \n \nQ.28 One-third of the solid matter in a sludge containing 90 % water is composed of fixed \nmineral solids with specific gravity 2.5, and two-third is composed of volatile solids \nwith specific gravity 1.0.  \nSpecific gravity of all solids lies between \n  \n(A) 1.2 and 1.3 \n(B) 1.5 and 1.6 \n(C) 1.7 and 1.8 \n(D) 2.0 and 2.1 \n  \nQ.29 The grown algae are useful in the operation of \n   \n(A) oxidation pond. \n(B) slow sand filter. \n(C) cyclone separator. \n(D) septic tank. \n  \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 24 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 25,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 860,
+      "questionNumberCandidates": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "text": "                                                                                                         \n \nQ.30 A partial differential equation is given below.  \n𝜕2𝑢\n𝜕𝑥2 − 𝜕2𝑢\n𝜕𝑦2    =  0 \nPossible solution(s) is/are: \n  \n(A) (𝑥 + 𝑦)5 \n(B) (𝑥 − 2𝑦)3 \n(C) cos(𝑥+ 𝑦) \n(D) sin(𝑥 − 2𝑦) \n  \nQ.31 \nThe eigenvalues of [𝐴] = [\n2 −3.5 6\n3.5 5 2\n8 1 8.5\n] are \n1 = 1.547, 2 = 12.330, and 3 = 4.711.  \nThe absolute value of the determinant of matrix 𝐴 is ______ (rounded off to two \ndecimal places). \nQ.32 The probability (in %) that a storm having return period of 15 year s may occur in \nthe next 10 years is ______ (rounded off to two decimal places). \nQ.33 A fully saturated sandy soil deposit has water content 20 % and specific gravity \n2.65.  \nThe critical hydraulic gradient for seepage through the soil to create the quicksand \ncondition is _____________ (rounded off to two decimal places). \nOrganizing Institute: IIT Guwahati\nPage 25 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 26,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 664,
+      "questionNumberCandidates": [
+        34,
+        35
+      ],
+      "text": "                                                                                                         \n \nQ.34 A downgrade of 1 in 100 meets an upgrade of 1 in 125  on a road . If the rate of \nchange of grade is 0.10 % per 30 m, the length (in m) of the vertical curve between \nthe two grades is ______ (rounded off to the nearest integer). \nQ.35 A tourist visiting a city holds a map prepared at a scale of 1:25000. The tourist \nmeasures the distance between place A and place B in the city as 12.0 cm on the \nmap. Assuming both the places are connected by a straight road, the distance  \n(in km) the tour ist needs to walk from A to B is __________ (rounded off to the \nnearest integer). \n \n \n  \nOrganizing Institute: IIT Guwahati\nPage 26 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 27,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 306,
+      "questionNumberCandidates": [
+        36,
+        36
+      ],
+      "text": "                                                                                                         \n \nQ.36 – Q.65 Carry TWO marks Each \nQ.36 \nLet 𝑓(𝑥) = |\n𝑥3 sin𝑥 cos𝑥\n6 −1 0\n𝑝 𝑝2 𝑝3\n|  \nwhere p is a constant.  \nThe value of  \n𝑑3\n𝑑𝑥3 𝑓(𝑥) at x = 0 is \n  \n(A) 6 p3 \n(B) p + p2 \n(C) p + p3 \n(D) independent of p \n  \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 27 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 28,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 304,
+      "questionNumberCandidates": [
+        37
+      ],
+      "text": "                                                                                                         \n \nQ.37 Vector field 𝑉⃗  is defined as  \n𝑉⃗ = 3𝑥2𝑦𝑧 𝑖̂− 5𝑥𝑦 𝑗̂+ 6𝑦𝑧2 𝑘̂ \nThe curl of 𝑉⃗  at point (2,1,1) is \n  \n(A) 6𝑖̂− 12𝑗̂− 7𝑘̂ \n(B) −12𝑖̂− 10𝑗̂− 12𝑘̂ \n(C) − 34 \n(D) \n[\n−12 12 −12\n5 −10 0\n0 6 −12\n] \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 28 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 29,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 442,
+      "questionNumberCandidates": [
+        38
+      ],
+      "text": "                                                                                                         \n \nQ.38 A simply supported, linearly elastic, homogeneous, prismatic beam of length L and \nflexural rigidity EI is shown in the figure. \n \n \n \n \n \n \nThe expression for the Influence Line Diagram (ILD) of the rotation 𝜃𝐵(𝑥) at the \nsupport B is \n  \n(A) 1\n6𝐸𝐼 (𝑥2 − 𝐿2) \n(B) 1\n6𝐸𝐼𝐿 (𝑥3 − 𝐿2𝑥) \n(C) 1\n3𝐸𝐼 (𝑥2 − 𝐿𝑥) \n(D) 1\n3𝐸𝐼𝐿 (𝑥3 − 𝐿2𝑥) \n  \n \n \n \n \n \n \n \n𝑥 \nA \n B \nL \n𝜃𝐵(𝑥) \nOrganizing Institute: IIT Guwahati\nPage 29 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 30,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 420,
+      "questionNumberCandidates": [
+        39
+      ],
+      "text": "                                                                                                         \n \nQ.39 The plane truss shown in the figure is hinge -supported at E and F. The truss is \nsubjected to vertical downward force at R and horizontal force at G.  \n \n(Figure not to scale) \nThe force (in kN) along with its nature in member JF is \n  \n(A)  10√2    compression \n(B)  10√2    tension \n(C)  25√2    compression \n(D)  25√2    tension \n  \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 30 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 31,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 711,
+      "questionNumberCandidates": [
+        40
+      ],
+      "text": "                                                                                                         \n \nQ.40 Consider the following statements with respect to rigid pavements: \nStatement-1: Bottom-up cracking (BUC) in rigid pavements is caused at the edge \nof the slab due to combined effect of single or tandem rear axle load \nand positive temperature differential. \nStatement-2: Top-down fatigue cracking (TDC) in rigid pavements is caused due to \nrepeated cycles of axle loads and negative temperature differential. \nThe CORRECT option is: \n  \n(A) Both statements are TRUE. \n(B) Statement-1 is TRUE, but Statement-2 is FALSE. \n(C) Statement-1 is FALSE, but Statement-2 is TRUE. \n(D) Both statements are FALSE. \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 31 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 32,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 851,
+      "questionNumberCandidates": [
+        41
+      ],
+      "text": "                                                                                                         \n \nQ.41 For the traverse given below, the benchmark is at ground point L. The Reduced \nLevel (RL) of L is 150.000 m. The direction of the traverse is from L to N. The \nreadings on levelling staff using the same levelling instrument kept at Station s S1 \nand S2 during the traversing are shown in the figure. \n \nColumn 1 Column 2 \n(I) Sum of Back Sights \n \n(II) Sum of Fore Sights \n \n(III) RL of Point N  \n(P) 3.300 m \n \n(Q) 2.500 m \n \n    (R) 150.300 m \n \n(S) 3.000 m \n \n     (T) 150.500 m \nMatching the information given under Column 1 and Column 2, which one of the \nfollowing options is CORRECT? \n  \n(A) (I)  (P) ;  (II)  (S) ;  (III)  (R) \n(B) (I)  (P) ;  (II)  (Q) ;  (III)  (R) \n(C) (I)  (S) ;  (II)  (P) ;  (III)  (T) \n(D) (I)  (S) ;  (II)  (Q) ;  (III)  (T) \n  \nOrganizing Institute: IIT Guwahati\nPage 32 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 33,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 411,
+      "questionNumberCandidates": [
+        42
+      ],
+      "text": "                                                                                                         \n \nQ.42 The 2.4 ml of raw sewage is diluted to 240 ml. The Dissolved Oxygen (DO) of the \ndiluted sample at the beginning of Biochemical Oxygen Demand ( BOD) test was  \n8 mg/l and it was 6 mg/l after 5-day incubation at 20  C.  \nThe BOD5 (in mg/l) of the raw sewage is \n  \n(A) 200 \n(B) 100 \n(C) 250 \n(D) 150 \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 33 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 34,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 653,
+      "questionNumberCandidates": [
+        43
+      ],
+      "text": "                                                                                                         \n \nQ.43 Types of flood routing and methods are given in the table below. \nColumn 1 \nType of Flood Routing  \nColumn 2 \nMethod  \n(P)  Hydrologic routing \n(Q)  Hydraulic routing \n(R)  Reservoir routing \n(S)  Channel routing \n(i) Muskingum method \n \n(ii) Modified Pul’s method \n \n(iii)  Method of Characteristics \nOption(s) giving the CORRECT match(es) between Column 1 and Column 2 is/are: \n \n \n(A) (P) – (i) ;  (Q) – (iii) ;  (R) – (ii) \n(B) (Q) – (i) ;  (R) – (iii) ;  (S) – (ii) \n(C) (P) – (i) ;  (R) – (ii) ;  (S) – (i) \n(D) (P) – (ii) ;  (Q) – (iii) ;  (R) – (ii) \n  \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 34 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 35,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1290,
+      "questionNumberCandidates": [
+        44,
+        45
+      ],
+      "text": "                                                                                                         \n \nQ.44 A shallow footing is subjected to a vertical load . W ithin the elastic limit of the \nunderlying soil, the TRUE statement(s) is/are: \n  \n(A) Vertical displacement below a rigid shallow footing is uniform in clay as well as \nsand. \n(B) Vertical contact pressure below a rigid shallow footing is uniform in clay as well as \nsand. \n(C) Vertical displacement below a flexible shallow footing is uniform in clay as well as \nsand. \n(D) Vertical contact pressure below a flexible shallow footing is uniform in clay as well \nas sand. \n  \nQ.45 Which of the following statements is/are TRUE with respect to the type of stresses \nto be considered for the design of rigid pavements? \n  \n(A) Warping stress due to temperature differential between the top and bottom of the \npavement slab as a result of daily variation in temperature  \n(B) Frictional stress  due to the ove rall increase or decrease in temperature of the \npavement slab as a result of seasonal variation in temperature  \n(C) Critical stress obtained as the maximum of the wheel load stress, the warping stress, \nand the frictional stress  \n(D) Critical stress obtained as the sum of wheel load stresses at edge, interior, and corner \nof the pavement slab \n  \nOrganizing Institute: IIT Guwahati\nPage 35 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 36,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1147,
+      "questionNumberCandidates": [
+        46,
+        47,
+        48
+      ],
+      "text": "                                                                                                         \n \nQ.46 Consider differential equation \n𝑑𝑦\n𝑑𝑥 + 𝑥𝑦= 𝑥  with the condition as y = 0 at x = 0.  \nThe value of y at x = 1.0 is ______ (rounded off to two decimal places).  \nQ.47 The age (in years) of a population is normally distributed with a mean of 36 and \nstandard deviation of 12. The height (in cm) of the same population is also normally \ndistributed with a mean of 160 and standard deviation of 10.  \nIf the probability of age greater than 50 years is equal to the probability of height \ngreater than h, the value of h (in cm) is ______ (rounded off to two decimal places). \nQ.48 A 250 mm wide × 600 mm deep rectangular concrete beam is prestressed by means \nof 4 high-tensile tendons, each of 14 mm diameter . The centre of the tendons is   \n200 mm from the soffit of the beam. T he effective stress in each tendon is  \n700 N/mm2. \nThe maximum bending moment (in kN -m), that can be applied to th e section \nwithout causing tension at the soffit of the beam due to prestressing only, is ______ \n(rounded off to one decimal place). \nUse  = 3.14 \n \n \n \n \n \n \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 36 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 37,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 784,
+      "questionNumberCandidates": [
+        49
+      ],
+      "text": "                                                                                                         \n \nQ.49 A rigid-jointed portal frame, shown in the figure, consists of beam and columns of \nequal length L. The frame has a fixed support at one end and a roller support at the \nother end. The frame is subjected to a uniformly distributed load w and a lateral load \nP as shown in the figure. The plastic moment capacity of the beam and column \nsections is 𝑀𝑝. Consider a combined beam-column mechanism for plastic collapse. \nBy applying the virtual work equation corresponding to the combined plastic \ncollapse mechanism, 𝑀𝑝 is expressed as  \n𝑀𝑝 = 𝐶1𝑃𝐿 + 𝐶2𝑤𝐿2 \nwhere C1 and C2 are constants. \n \n  \n \n  \n \n  \nThe value of (C1/C2) is ______ (in integer). \n \n \n \n \n \n \n \n \n \n \n \n \n \nP\nw/m\nL L\nL\nw per unit length \nP \nOrganizing Institute: IIT Guwahati\nPage 37 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 38,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1316,
+      "questionNumberCandidates": [
+        50,
+        51,
+        52
+      ],
+      "text": "                                                                                                         \n \nQ.50 Linearly elastic, homogeneous, uniform bars BCD and FG shown in the figure have \nfixed supports at  B and G, respectively. For b oth the bars, axial rigidity is  \n20000 kN. A gap of 2 mm exists between D and F prior to application of any load \n(i.e. P = 0). Small deformation and infinitesimal strain assumptions are valid for the \ngiven bars. \n \n(Figure not to scale) \nThe magnitude of the horizontal reaction (in kN) at B after application of the axial \nforce P of 20 kN at C is ______ (rounded off to the nearest integer). \nQ.51 A simply-supported rectangular reinforced concrete beam has a width 250 mm and \nan overall depth  600 mm . The effective span of the beam is 6.23 m. The beam \ncarries a live load of 5 kN/m and super imposed dead load of 5 kN/m, in addition to \nits own weight. The unit weight of reinforced concrete is 25 kN/m 3. Consider the \nload factor of 1.5 for all stated loads. \nThe design bending moment (in kN -m) for the limit state of collapse is ______ \n(rounded off to two decimal places). \nQ.52 Width (in m) of a rectangular channel required to carry a discharge of 96 m 3/s at a \ncritical depth of 9.8 m is _____ (rounded off to two decimal places). \nUse acceleration due to gravity = 9.8 m/s2 \n \n \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 38 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 39,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1217,
+      "questionNumberCandidates": [
+        53,
+        54,
+        55
+      ],
+      "text": "                                                                                                         \n \nQ.53 The cross section of a 0.5 m wide vertical gate holding water and oil is shown in \nthe figure. The unit weight s of water and oil are 10 kN/m 3 and 7.5 kN/m 3, \nrespectively.  \n \n(Figure not to scale) \nThe horizontal hydrostatic force (in kN) acting on the vertical gate  \nis _________ (rounded off to two decimal places). \nQ.54 A centrifugal pump is delivering water from an underground tank to an overhead \nreservoir against a static head of 35 m through a 2 km long, 250 mm diameter pipe. \nThe head-discharge characteristic of the pump is given by \n𝐻 = 140− 9000𝑄2 \nwhere 𝐻 is the head (in m) generated by the pump and 𝑄 is the discharge (in m3/s) \nof the pump. \nNeglecting all minor losses, the head (in m) generated by the pump is ______ \n(rounded off to the nearest integer).  \nUse: Darcy-Weisbach friction factor f = 0.04 \n        Acceleration due to gravity = 9.81 m/s2 \n         = 3.14 \nQ.55 The flow depth for a discharge of 10 m 3/s in a wide rectangular channel is 2.0 m. \nAssume that the flow is uniform.  \nIf the discharge is doubled, the flow depth (in m) in this channel is _________ \n(rounded off to two decimal places). \nOrganizing Institute: IIT Guwahati\nPage 39 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 40,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1622,
+      "questionNumberCandidates": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "text": "                                                                                                         \n \nQ.56 For a clayey soil stratum, the time required for degree of consolidation from 25 % \nto 50 % is 30 days.  \nThe total time (in days) required for 90 % degree of consolidation of the same soil \nstratum is ______ (rounded off to the nearest integer). \nQ.57 The ultimate bearing capacity of a 1 m wide strip footing is 532.80 kPa, when it is \nembedded at 1 m depth in dry cohesionless soil . The soil has a  unit weight of  \n18 kN/m3. The ultimate bearing capacity is 864 kPa when the depth of embedment \nbecomes 2 m.  \nNeglecting the effect of the depth factor, the bearing capacity factor Nq is ______ \n(rounded off to one decimal place). \nQ.58 A building is proposed in an area having thick deposit of silty clay. The water table \nis at the ground surface. The saturated unit  weight of soil is 18 kN/m 3 and unit \nweight of water is 10 kN/m 3. The maximum vertical load (P) on a column of the \nproposed building is 2000 kN.  \nConsider 𝜎𝑧 ≤ 0.1 𝜎𝑣\n′ for computation of the minimum depth of soil exploration. \n𝜎𝑣\n′ is the effective vertical overburden stress. 𝜎𝑧 is the increase in the vertical stress \nat depth z below load P as per the Boussinesq’s stress theory. \nBased on above, t he minimum depth (in m) of soil exploration required  for the \nfoundation design is ________ (rounded off to two decimal places). \nQ.59 A soil sample has following properties: \nNatural water content = 30 % \nPlasticity index = 40 % \nLiquidity index = 50 % \nThe estimated plastic limit (in %) of the soil is ________ (rounded off to one \ndecimal place). \n \n \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 40 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 41,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1196,
+      "questionNumberCandidates": [
+        60,
+        61,
+        62
+      ],
+      "text": "                                                                                                         \n \nQ.60 For a given traffic stream, the speed-density relationship is given as: \n                            𝑣 = 𝑣𝑜 ln(\n𝑘𝑗\n𝑘)   \nwhere 𝑣 is the mean speed (in km/h), and 𝑘 is the density (in veh/km).  \nConsidering 𝑣𝑜 as 45 km/h, and 𝑘𝑗 as 200 veh/km, the maximum flow (in veh/h) for \nthe given stream is __________ (rounded off to the nearest integer). \nQ.61 A vertical curve is formed by a descending gradient of 1 in 40 meeting an ascending \ngradient of 1 in 50. Consider the following: \nStopping Sight Distance (SSD) = 90 m \nHeight of headlight of a vehicle above the road surface = 0.75 m \nHeadlight beam angle with respect to the longitudinal axis of the vehicle = 1.2o \nBased on the sight distance criteria, the design length (in m) of the vertical curve is \n__________ (rounded off to the nearest integer). \nQ.62 Interior angles measured at the locations of a closed traverse  ABCDA are given in \ntable below.  \nLocation Interior angle  \nA 71o 1′ 40′′ \nB 104o 54′ 23′′ \nC 107o 54′ 10′′ \nD 76o 20′ 42′′ \nThe total error in the measured angles (in degrees) is ______________ (rounded off \nto three decimal places). \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 41 of 42\nCivil Engineering (CE2)"
+    },
+    {
+      "page": 42,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1545,
+      "questionNumberCandidates": [
+        63,
+        64,
+        65
+      ],
+      "text": "                                                                                                         \n \nQ.63 The analysis of major cations and anions in a water sample collected from a city’s \nwater supply is given below. Ions present in minor concentrations are not given. \n \n𝐻𝐶𝑙 ⇌ 𝐻+ + 𝐶𝑙−                     𝑝𝐾 = −3 \n𝐻2𝑆𝑂4\n2− ⇌ 2𝐻+ + 𝑆𝑂4\n2−         𝑝𝐾 = −3 \n𝐻2𝐶𝑂3 ⇌ 𝐻+ + 𝐻𝐶𝑂3\n−          𝑝𝐾 = 6.3 \n𝐻𝐶𝑂3\n− ⇌ 𝐻+ + 𝐶𝑂3\n2−                𝑝𝐾 = 10.3 \n𝐻𝑂𝐶𝑙 ⇌ 𝐻+ + 𝑂𝐶𝑙−               𝑝𝐾 = 7.5 \n𝐻𝑂𝐶𝑙 (in %) present in the total free chlorine in the water is _____ (rounded off to \nthe nearest integer). \nAnions 𝐶𝑙− 𝑆𝑂4\n2− 𝐻𝐶𝑂3\n− 𝐶𝑂3\n2− \nConcentration (mM) 1.5 0.5 1.0 0.01 \nCations Na+ Ca2+ Mg2+ K+ \nConcentration (mM) 2 0.5 0.25 0.02 \nQ.64 Anaerobic bacteria are being utilized for the destruction of biodegradable org anic \ncontent of wastewater measured in terms of Chemical Oxygen Demand (COD). The \nyield coefficient (Y) is 0.06 gram Volatile Suspended Solids (VSS ) per gram of \nCOD. Bacterial bi omass forms the sludge during the process. The proximate \nchemical formula of anaerobic bacteria is C6H7NO2.  \nThe COD (in %) converted into bacterial biomass is ______  (rounded off to the \nnearest integer). \nQ.65 In an industry, a cyclone collector with 80  % efficiency is installed for air \npurification, followed by an electrostatic precipitator with 50  % efficiency. The \nconcentration of particles entering the cyclone collector is 10 mg/m3.  \nThe concentration (in mg/m 3) of particles exiting the precipitator is  __________ \n(rounded off to two decimal places). \n \n \n \nOrganizing Institute: IIT Guwahati\nPage 42 of 42\nCivil Engineering (CE2)"
+    }
+  ]
+}

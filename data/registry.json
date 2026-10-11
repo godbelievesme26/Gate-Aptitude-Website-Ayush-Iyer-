@@ -1,0 +1,146 @@
+[
+  {
+    "day": 1,
+    "path": "data/day01.json",
+    "year": 2026,
+    "paper": "AE",
+    "title": "GATE 2026 \u00b7 AE \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 2,
+    "path": "data/day02.json",
+    "year": 2025,
+    "paper": "AE",
+    "title": "GATE 2025 \u00b7 AE \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 3,
+    "path": "data/day03.json",
+    "year": 2026,
+    "paper": "CE1",
+    "title": "GATE 2026 \u00b7 CE1 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 4,
+    "path": "data/day04.json",
+    "year": 2026,
+    "paper": "CE2",
+    "title": "GATE 2026 \u00b7 CE2 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 5,
+    "path": "data/day05.json",
+    "year": 2026,
+    "paper": "CS1",
+    "title": "GATE 2026 \u00b7 CS1 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 6,
+    "path": "data/day06.json",
+    "year": 2026,
+    "paper": "CS2",
+    "title": "GATE 2026 \u00b7 CS2 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 7,
+    "path": "data/day07.json",
+    "year": 2026,
+    "paper": "DA",
+    "title": "GATE 2026 \u00b7 DA \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 8,
+    "path": "data/day08.json",
+    "year": 2026,
+    "paper": "EC",
+    "title": "GATE 2026 \u00b7 EC \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 9,
+    "path": "data/day09.json",
+    "year": 2026,
+    "paper": "XE",
+    "title": "GATE 2026 \u00b7 XE \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 10,
+    "path": "data/day10.json",
+    "year": 2025,
+    "paper": "CE1",
+    "title": "GATE 2025 \u00b7 CE1 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 11,
+    "path": "data/day11.json",
+    "year": 2025,
+    "paper": "CE2",
+    "title": "GATE 2025 \u00b7 CE2 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 12,
+    "path": "data/day12.json",
+    "year": 2025,
+    "paper": "CS1",
+    "title": "GATE 2025 \u00b7 CS1 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 13,
+    "path": "data/day13.json",
+    "year": 2025,
+    "paper": "CS2",
+    "title": "GATE 2025 \u00b7 CS2 \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 14,
+    "path": "data/day14.json",
+    "year": 2025,
+    "paper": "EC",
+    "title": "GATE 2025 \u00b7 EC \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 15,
+    "path": "data/day15.json",
+    "year": 2025,
+    "paper": "EE",
+    "title": "GATE 2025 \u00b7 EE \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  },
+  {
+    "day": 16,
+    "path": "data/day16.json",
+    "year": 2025,
+    "paper": "ME",
+    "title": "GATE 2025 \u00b7 ME \u00b7 General Aptitude",
+    "questionCount": 10,
+    "marks": 15
+  }
+]

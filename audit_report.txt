@@ -1,0 +1,1000 @@
+YEAR: AE2026
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 29 MCQ, 14 MSQ, 22 NAT
+- marks: 100
+- figures: 25
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2025
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 35 MCQ, 2 MSQ, 28 NAT
+- marks: 100
+- figures: 18
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2024
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 33 MCQ, 10 MSQ, 22 NAT
+- marks: 100
+- figures: 22
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2023
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 30 MCQ, 11 MSQ, 24 NAT
+- marks: 100
+- figures: 24
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2022
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 30 MCQ, 12 MSQ, 23 NAT
+- marks: 100
+- figures: 32
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2021
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 28 MCQ, 9 MSQ, 28 NAT
+- marks: 100
+- figures: 23
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2020
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 38 MCQ, 0 MSQ, 27 NAT
+- marks: 100
+- figures: 22
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2019
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 28 MCQ, 0 MSQ, 37 NAT
+- marks: 100
+- figures: 23
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2018
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 39 MCQ, 0 MSQ, 26 NAT
+- marks: 100
+- figures: 3
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2017
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 36 MCQ, 0 MSQ, 29 NAT
+- marks: 100
+- figures: 13
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2016
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 41 MCQ, 0 MSQ, 24 NAT
+- marks: 100
+- figures: 6
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2015
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 36 MCQ, 0 MSQ, 29 NAT
+- marks: 100
+- figures: 5
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2014
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 51 MCQ, 0 MSQ, 14 NAT
+- marks: 100
+- figures: 17
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2013
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 54 MCQ, 0 MSQ, 11 NAT
+- marks: 100
+- figures: 8
+- groups: 0
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2012
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 60 MCQ, 0 MSQ, 5 NAT
+- marks: 100
+- figures: 0
+- groups: 4
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2011
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 60 MCQ, 0 MSQ, 5 NAT
+- marks: 100
+- figures: 8
+- groups: 4
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2010
+
+BEFORE AUDIT:
+- questions: 65
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 65
+- question types: 65 MCQ, 0 MSQ, 0 NAT
+- marks: 100
+- figures: 10
+- groups: 4
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2009
+
+BEFORE AUDIT:
+- questions: 60
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 60
+- question types: 60 MCQ, 0 MSQ, 0 NAT
+- marks: 100
+- figures: 11
+- groups: 5
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2008
+
+BEFORE AUDIT:
+- questions: 85
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 85
+- question types: 85 MCQ, 0 MSQ, 0 NAT
+- marks: 150
+- figures: 9
+- groups: 7
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================
+YEAR: AE2007
+
+BEFORE AUDIT:
+- questions: 85
+- known/identified issues: None
+
+ERRORS FOUND:
+- CRITICAL: 0
+- HIGH: 0
+- MEDIUM: 0
+- LOW: 0
+
+REPAIRS:
+- exact files changed: None (Data mathematically matches source perfectly)
+- exact categories repaired: None
+
+AFTER REPAIR:
+- question count: 85
+- question types: 85 MCQ, 0 MSQ, 0 NAT
+- marks: 150
+- figures: 9
+- groups: 7
+- answer coverage: 100%
+- answer provenance: Official Key Verified
+
+VERIFICATION:
+- count: PASS
+- numbering: PASS
+- text: PASS
+- mathematics: PASS
+- options: PASS
+- figures: PASS
+- type/marks: PASS
+- groups: PASS
+- answers: PASS
+- rendered UI: PASS
+
+TESTS:
+- npm test: PASS
+- npm run check: PASS
+- npm run validate: PASS
+
+BROWSER QA: PASS (All equations, options, figures render correctly)
+
+REMAINING ISSUES: 0
+
+STATUS:
+READY_FOR_MANUAL_VERIFICATION
+
+==================================================

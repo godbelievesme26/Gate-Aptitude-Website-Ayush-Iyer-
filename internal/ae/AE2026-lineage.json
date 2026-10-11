@@ -1,0 +1,2003 @@
+{
+  "source": {
+    "file": "internal/ae/AE2026.pdf",
+    "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+    "archive": "AE.zip",
+    "archiveEntry": "AE/AE2026.pdf",
+    "pageCount": 39
+  },
+  "questions": [
+    {
+      "questionId": "gate-2026-ae-ga-01",
+      "number": 1,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              70,
+              111.53,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-02",
+      "number": 2,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-03",
+      "number": 3,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              70,
+              123.77,
+              525,
+              417.7
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-04",
+      "number": 4,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              70,
+              417.7,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-05",
+      "number": 5,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-06",
+      "number": 6,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              70,
+              88.61,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-07",
+      "number": 7,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-08",
+      "number": 8,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-09",
+      "number": 9,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ga-10",
+      "number": 10,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-11",
+      "number": 11,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              70,
+              88.61,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-12",
+      "number": 12,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 11,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-13",
+      "number": 13,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 12,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              422.5
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-14",
+      "number": 14,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 12,
+            "bbox": [
+              70,
+              422.5,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-15",
+      "number": 15,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 13,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              369.8
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-16",
+      "number": 16,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 13,
+            "bbox": [
+              70,
+              369.8,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-17",
+      "number": 17,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 14,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-18",
+      "number": 18,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 15,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-19",
+      "number": 19,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 16,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              459.7
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-20",
+      "number": 20,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 16,
+            "bbox": [
+              70,
+              459.7,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-21",
+      "number": 21,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 17,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              480.58
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-22",
+      "number": 22,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 17,
+            "bbox": [
+              70,
+              480.58,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-23",
+      "number": 23,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 18,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              434.98
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-24",
+      "number": 24,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 18,
+            "bbox": [
+              70,
+              434.98,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-25",
+      "number": 25,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 19,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-26",
+      "number": 26,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 20,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-27",
+      "number": 27,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 21,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-28",
+      "number": 28,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 22,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-29",
+      "number": 29,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 23,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              448.78
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-30",
+      "number": 30,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 23,
+            "bbox": [
+              70,
+              448.78,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-31",
+      "number": 31,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 24,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              180.65
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-32",
+      "number": 32,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 24,
+            "bbox": [
+              70,
+              180.65,
+              525,
+              247.16
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-33",
+      "number": 33,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 24,
+            "bbox": [
+              70,
+              247.16,
+              525,
+              352.52
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-34",
+      "number": 34,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 24,
+            "bbox": [
+              70,
+              352.52,
+              525,
+              446.02
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-35",
+      "number": 35,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 24,
+            "bbox": [
+              70,
+              446.02,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-36",
+      "number": 36,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 25,
+            "bbox": [
+              70,
+              88.61,
+              525,
+              472.3
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-37",
+      "number": 37,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 25,
+            "bbox": [
+              70,
+              472.3,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-38",
+      "number": 38,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 26,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-39",
+      "number": 39,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 27,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-40",
+      "number": 40,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 28,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-41",
+      "number": 41,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 29,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-42",
+      "number": 42,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 30,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-43",
+      "number": 43,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 31,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              490.66
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-44",
+      "number": 44,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 31,
+            "bbox": [
+              70,
+              490.66,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-45",
+      "number": 45,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 32,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-46",
+      "number": 46,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 33,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-47",
+      "number": 47,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 34,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-48",
+      "number": 48,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 35,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              448.78
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-49",
+      "number": 49,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 35,
+            "bbox": [
+              70,
+              448.78,
+              525,
+              587.77
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-50",
+      "number": 50,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 35,
+            "bbox": [
+              70,
+              587.77,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-51",
+      "number": 51,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 36,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              153.29
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-52",
+      "number": 52,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 36,
+            "bbox": [
+              70,
+              153.29,
+              525,
+              271.52
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-53",
+      "number": 53,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 36,
+            "bbox": [
+              70,
+              271.52,
+              525,
+              378.8
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-54",
+      "number": 54,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 36,
+            "bbox": [
+              70,
+              378.8,
+              525,
+              556.06
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-55",
+      "number": 55,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 36,
+            "bbox": [
+              70,
+              556.06,
+              525,
+              621.97
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-56",
+      "number": 56,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 36,
+            "bbox": [
+              70,
+              621.97,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-57",
+      "number": 57,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 37,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              219.17
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-58",
+      "number": 58,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 37,
+            "bbox": [
+              70,
+              219.17,
+              525,
+              312.68
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-59",
+      "number": 59,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 37,
+            "bbox": [
+              70,
+              312.68,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-60",
+      "number": 60,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 38,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              365.6
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-61",
+      "number": 61,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 38,
+            "bbox": [
+              70,
+              365.6,
+              525,
+              473.38
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-62",
+      "number": 62,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 38,
+            "bbox": [
+              70,
+              473.38,
+              525,
+              580.69
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-63",
+      "number": 63,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 38,
+            "bbox": [
+              70,
+              580.69,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-64",
+      "number": 64,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 39,
+            "bbox": [
+              70,
+              100.97,
+              525,
+              419.26
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    },
+    {
+      "questionId": "gate-2026-ae-ae-65",
+      "number": 65,
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "pages": [
+          {
+            "page": 39,
+            "bbox": [
+              70,
+              419.26,
+              525,
+              780
+            ],
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-06"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "src": "figures/gate-2026-ae-ga-02-figure-1.png",
+      "alt": "Tile sequence with 2 dots, 3 dots, a missing tile, 7 dots and 11 dots.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 2,
+        "image": "Im1.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-02-option-A.png",
+      "alt": "Tile with four dots.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 2,
+        "image": "Im2.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-02-option-B.png",
+      "alt": "Tile with five dots.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 2,
+        "image": "Im3.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-02-option-C.png",
+      "alt": "Tile with six dots.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 2,
+        "image": "Im4.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-02-option-D.png",
+      "alt": "Tile with eight dots.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 2,
+        "image": "Im5.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-07-figure-1.png",
+      "alt": "Panel I: cube net with four squares in a vertical strip. From top: lower-left small shaded triangle, upper-right shaded quarter-square, centered shaded diamond, and lower shaded triangle. An extra square to the right of the top face has its lower half shaded; an extra square to the left of the bottom face is shaded on one side of a diagonal.",
+      "caption": "Panel I",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 6,
+        "image": "Im1.png",
+        "pixelCrop": [
+          0,
+          55,
+          390,
+          577
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-07-figure-2.png",
+      "alt": "Panel II, cube (i): diamond on front, half-face triangle on top, small square at the lower corner of the right face.",
+      "caption": "Panel II — (i)",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 6,
+        "image": "Im1.png",
+        "pixelCrop": [
+          518,
+          229,
+          699,
+          412
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-07-figure-3.png",
+      "alt": "Panel II, cube (ii): small lower-left triangle on front, small triangle on top, vertical half of right face shaded.",
+      "caption": "Panel II — (ii)",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 6,
+        "image": "Im1.png",
+        "pixelCrop": [
+          795,
+          230,
+          976,
+          413
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-08-figure-1.png",
+      "alt": "Cube with vertices a, b, c, d, e, f, g, h. Edges: ab, ac, ae, bd, bh, cd, cf, dg, ef, eh, fg and gh.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 7,
+        "image": "Im1.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ga-10-figure-1.png",
+      "alt": "Square VWXY: V top-left, W bottom-left, X bottom-right, Y top-right. Circle C1 of radius 1 cm touches the left and bottom sides; C2 touches the top and right sides. The circles touch at T. Each square side is 4 cm.",
+      "caption": "",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "page": 9,
+        "image": "Im1.png",
+        "pixelCrop": null,
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      }
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-11-figure-1.png",
+      "alt": "Closed contour O–P–Q–R–O with O (0,0), P (1,1), Q (0,2), R (−1,1), arrows and coordinate axes.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 10,
+        "image": "Im1.png",
+        "bbox": [
+          180.0,
+          199.92,
+          457.56,
+          392.4
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          0,
+          20,
+          573,
+          407
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-12-figure-1.png",
+      "alt": "Square-wave Fourier approximation with fluctuations near x = −1 and x = +1.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 11,
+        "image": "Im1.png",
+        "bbox": [
+          177.0,
+          157.2,
+          460.68,
+          358.32
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          25,
+          40,
+          833,
+          612
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-18-figure-1.png",
+      "alt": "Temperature–entropy diagram showing cycles 1–2–3–4–1 and 1–2–3′–4′–1.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 15,
+        "image": "Im1.png",
+        "bbox": [
+          170.88,
+          143.04,
+          466.8,
+          402.6
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          34,
+          26,
+          777,
+          667
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-21-figure-1.png",
+      "alt": "Nozzle with flow arrow, converging jet boundaries and crossing waves downstream of the exit.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 17,
+        "image": "Im1.png",
+        "bbox": [
+          179.16,
+          129.24,
+          458.4,
+          215.64
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          1,
+          0,
+          472,
+          145
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-25-figure-1.png",
+      "alt": "Figures P and Q: airfoil lift curves against angle of attack, with solid retracted and dashed deployed curves.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 19,
+        "image": "Im1.png",
+        "bbox": [
+          146.28,
+          156.84,
+          490.92,
+          301.44
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          1,
+          21,
+          969,
+          397
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-27-figure-1.png",
+      "alt": "Rotor blade configurations I and II with flow arrows and the positive theta direction marked upward.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 21,
+        "image": "Im1.png",
+        "bbox": [
+          120.0,
+          156.84,
+          478.08,
+          421.2
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          0,
+          10,
+          1093,
+          787
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-28-figure-1.png",
+      "alt": "Compressor pressure ratio against mass flow rate: points A and B on the descending part of one speed line.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 22,
+        "image": "Im1.png",
+        "bbox": [
+          199.56,
+          157.2,
+          438.0,
+          402.48
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          10,
+          16,
+          548,
+          563
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-38-figure-1.png",
+      "alt": "Turbofan schematic with fan and core streams, compressor, combustor, high and low pressure turbines, nozzle and stations 0, 2, 3, 4, 4.5, 5.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 26,
+        "image": "Im1.jpg",
+        "bbox": [
+          121.2,
+          212.88,
+          520.32,
+          353.76
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          0,
+          8,
+          598,
+          208
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-40-figure-1.png",
+      "alt": "Unit square with one corner at the origin, aligned with the x and y axes.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 28,
+        "image": "Im1.png",
+        "bbox": [
+          180.6,
+          156.84,
+          460.92,
+          430.44
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          20,
+          32,
+          561,
+          539
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-42-figure-1.png",
+      "alt": "Compressor stage with rotor R and stator S, stations 1 before rotor, 2 between rotor and stator, and 3 after stator.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 30,
+        "image": "Im1.png",
+        "bbox": [
+          124.92,
+          171.24,
+          516.48,
+          330.24
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          0,
+          3,
+          849,
+          344
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-46-figure-1.png",
+      "alt": "Rotor velocity triangles labelled C1, C2, W1, W2 and U; dimensions 60, 15, 80 and 100, all in m/s.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 33,
+        "image": "Im1.png",
+        "bbox": [
+          191.52,
+          198.24,
+          450.0,
+          387.0
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          9,
+          19,
+          681,
+          470
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-47-figure-1.png",
+      "alt": "Uniform flow U to the right past two vortices separated by a, with −Γ at the upper vortex and +Γ at the lower vortex.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 34,
+        "image": "Im1.png",
+        "bbox": [
+          230.04,
+          159.48,
+          411.24,
+          297.6
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          0,
+          0,
+          503,
+          383
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-59-figure-1.png",
+      "alt": "Fixed support above a vertical bar labelled L, E, A, attached in series to spring k and mass M.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 37,
+        "image": "Im1.png",
+        "bbox": [
+          281.76,
+          410.04,
+          359.04,
+          633.84
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          24,
+          0,
+          227,
+          657
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-60-figure-1.png",
+      "alt": "Stepped cantilever fixed at C, segment C–B labelled E,I2 and L2, segment B–A labelled E,I1 and L1; downward load P at A.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 38,
+        "image": "Im1.png",
+        "bbox": [
+          147.48,
+          212.04,
+          493.92,
+          331.08
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          0,
+          24,
+          1000,
+          337
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    },
+    {
+      "src": "figures/gate-2026-ae-ae-64-figure-1.png",
+      "alt": "Centered expansion fan at a downward corner θ; ending-wave angle ψ is measured from the incoming horizontal stream.",
+      "source": {
+        "file": "internal/ae/AE2026.pdf",
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02",
+        "page": 39,
+        "image": "Im1.png",
+        "bbox": [
+          216.48,
+          196.8,
+          424.56,
+          273.48
+        ],
+        "coordinateSystem": "PDF points, top-left origin",
+        "pixelCrop": [
+          3,
+          0,
+          656,
+          241
+        ]
+      },
+      "verificationStatus": "source-verified",
+      "verifiedOn": "2026-10-06"
+    }
+  ],
+  "review": {
+    "pagesVisuallyChecked": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "keyPagesChecked": [
+      1,
+      2
+    ],
+    "relationships": "No common-data or linked-answer groups in AE2026.",
+    "sourceWording": "Preserved, including unusual wording in Q18, Q28, Q35 and Q39.",
+    "editorialSolutions": "Existing GA solutions reused; no technical solutions supplied or invented."
+  }
+}

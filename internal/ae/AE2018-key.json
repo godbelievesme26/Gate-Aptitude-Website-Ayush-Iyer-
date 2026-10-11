@@ -1,0 +1,530 @@
+{
+  "exam": "GATE",
+  "year": 2018,
+  "paper": "AE",
+  "source": "internal/ae/AE2018-key.pdf",
+  "sha256": "0720be589978d141d6ca0e5d2de1647cd62f18a080cd30cac52998e4bebe8ed8",
+  "rowCount": 65,
+  "rows": [
+    {
+      "sectionQuestionNumber": 1,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "D",
+      "marks": 1,
+      "number": 1
+    },
+    {
+      "sectionQuestionNumber": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "A",
+      "marks": 1,
+      "number": 2
+    },
+    {
+      "sectionQuestionNumber": 3,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 3
+    },
+    {
+      "sectionQuestionNumber": 4,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "A",
+      "marks": 1,
+      "number": 4
+    },
+    {
+      "sectionQuestionNumber": 5,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 5
+    },
+    {
+      "sectionQuestionNumber": 6,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "C",
+      "marks": 2,
+      "number": 6
+    },
+    {
+      "sectionQuestionNumber": 7,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "C",
+      "marks": 2,
+      "number": 7
+    },
+    {
+      "sectionQuestionNumber": 8,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "MTA",
+      "marks": 2,
+      "number": 8
+    },
+    {
+      "sectionQuestionNumber": 9,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "D",
+      "marks": 2,
+      "number": 9
+    },
+    {
+      "sectionQuestionNumber": 10,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "B",
+      "marks": 2,
+      "number": 10
+    },
+    {
+      "sectionQuestionNumber": 1,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 11
+    },
+    {
+      "sectionQuestionNumber": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 12
+    },
+    {
+      "sectionQuestionNumber": 3,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 13
+    },
+    {
+      "sectionQuestionNumber": 4,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 14
+    },
+    {
+      "sectionQuestionNumber": 5,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 15
+    },
+    {
+      "sectionQuestionNumber": 6,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 16
+    },
+    {
+      "sectionQuestionNumber": 7,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "A",
+      "marks": 1,
+      "number": 17
+    },
+    {
+      "sectionQuestionNumber": 8,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 18
+    },
+    {
+      "sectionQuestionNumber": 9,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 19
+    },
+    {
+      "sectionQuestionNumber": 10,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 20
+    },
+    {
+      "sectionQuestionNumber": 11,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 21
+    },
+    {
+      "sectionQuestionNumber": 12,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "A",
+      "marks": 1,
+      "number": 22
+    },
+    {
+      "sectionQuestionNumber": 13,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 23
+    },
+    {
+      "sectionQuestionNumber": 14,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 24
+    },
+    {
+      "sectionQuestionNumber": 15,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 25
+    },
+    {
+      "sectionQuestionNumber": 16,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 26
+    },
+    {
+      "sectionQuestionNumber": 17,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "A",
+      "marks": 1,
+      "number": 27
+    },
+    {
+      "sectionQuestionNumber": 18,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1,
+      "number": 28
+    },
+    {
+      "sectionQuestionNumber": 19,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1,
+      "number": 29
+    },
+    {
+      "sectionQuestionNumber": 20,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.0 to 0.0",
+      "marks": 1,
+      "number": 30
+    },
+    {
+      "sectionQuestionNumber": 21,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "1185.00 to 1186.50",
+      "marks": 1,
+      "number": 31
+    },
+    {
+      "sectionQuestionNumber": 22,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "1.75 to 1.95",
+      "marks": 1,
+      "number": 32
+    },
+    {
+      "sectionQuestionNumber": 23,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "2.0 to 2.0",
+      "marks": 1,
+      "number": 33
+    },
+    {
+      "sectionQuestionNumber": 24,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.98 to 0.98",
+      "marks": 1,
+      "number": 34
+    },
+    {
+      "sectionQuestionNumber": 25,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.50 to 0.50",
+      "marks": 1,
+      "number": 35
+    },
+    {
+      "sectionQuestionNumber": 26,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 2,
+      "number": 36
+    },
+    {
+      "sectionQuestionNumber": 27,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 2,
+      "number": 37
+    },
+    {
+      "sectionQuestionNumber": 28,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 2,
+      "number": 38
+    },
+    {
+      "sectionQuestionNumber": 29,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 2,
+      "number": 39
+    },
+    {
+      "sectionQuestionNumber": 30,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 2,
+      "number": 40
+    },
+    {
+      "sectionQuestionNumber": 31,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 2,
+      "number": 41
+    },
+    {
+      "sectionQuestionNumber": 32,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 2,
+      "number": 42
+    },
+    {
+      "sectionQuestionNumber": 33,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 2,
+      "number": 43
+    },
+    {
+      "sectionQuestionNumber": 34,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 2,
+      "number": 44
+    },
+    {
+      "sectionQuestionNumber": 35,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 2,
+      "number": 45
+    },
+    {
+      "sectionQuestionNumber": 36,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "6.25 to 6.35",
+      "marks": 2,
+      "number": 46
+    },
+    {
+      "sectionQuestionNumber": 37,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.68 to 0.73",
+      "marks": 2,
+      "number": 47
+    },
+    {
+      "sectionQuestionNumber": 38,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.85 to 0.88",
+      "marks": 2,
+      "number": 48
+    },
+    {
+      "sectionQuestionNumber": 39,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "9.80 to 9.81",
+      "marks": 2,
+      "number": 49
+    },
+    {
+      "sectionQuestionNumber": 40,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "62.00 to 63.50",
+      "marks": 2,
+      "number": 50
+    },
+    {
+      "sectionQuestionNumber": 41,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "-0.81 to -0.79",
+      "marks": 2,
+      "number": 51
+    },
+    {
+      "sectionQuestionNumber": 42,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "209.00 to 211.00",
+      "marks": 2,
+      "number": 52
+    },
+    {
+      "sectionQuestionNumber": 43,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "18000 to 19440",
+      "marks": 2,
+      "number": 53
+    },
+    {
+      "sectionQuestionNumber": 44,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "7.80 to 7.80 OR 7800 to 7802",
+      "marks": 2,
+      "number": 54
+    },
+    {
+      "sectionQuestionNumber": 45,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "3.30 to 3.40",
+      "marks": 2,
+      "number": 55
+    },
+    {
+      "sectionQuestionNumber": 46,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "1.90 to 2.20",
+      "marks": 2,
+      "number": 56
+    },
+    {
+      "sectionQuestionNumber": 47,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "47.0 to 55.0",
+      "marks": 2,
+      "number": 57
+    },
+    {
+      "sectionQuestionNumber": 48,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "18.80 to 18.90",
+      "marks": 2,
+      "number": 58
+    },
+    {
+      "sectionQuestionNumber": 49,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "-2.50 to -2.20",
+      "marks": 2,
+      "number": 59
+    },
+    {
+      "sectionQuestionNumber": 50,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "3.10 to 3.20",
+      "marks": 2,
+      "number": 60
+    },
+    {
+      "sectionQuestionNumber": 51,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "12.0 to 12.0",
+      "marks": 2,
+      "number": 61
+    },
+    {
+      "sectionQuestionNumber": 52,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "-6.0 to -6.0",
+      "marks": 2,
+      "number": 62
+    },
+    {
+      "sectionQuestionNumber": 53,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "215.0 to 216.5",
+      "marks": 2,
+      "number": 63
+    },
+    {
+      "sectionQuestionNumber": 54,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "222.0 to 225.0",
+      "marks": 2,
+      "number": 64
+    },
+    {
+      "sectionQuestionNumber": 55,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.195 to 0.205",
+      "marks": 2,
+      "number": 65
+    }
+  ]
+}

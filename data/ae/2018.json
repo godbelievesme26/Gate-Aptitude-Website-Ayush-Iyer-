@@ -1,0 +1,4639 @@
+{
+  "schemaVersion": 1,
+  "id": "gate-2018-ae",
+  "exam": "GATE",
+  "year": 2018,
+  "paper": "AE",
+  "title": "GATE Aerospace Engineering 2018",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "sectionOrder": [
+    "GA",
+    "AE"
+  ],
+  "sections": [
+    {
+      "id": "GA",
+      "title": "General Aptitude",
+      "questionIds": [
+        "gate-2018-ae-ga-01",
+        "gate-2018-ae-ga-02",
+        "gate-2018-ae-ga-03",
+        "gate-2018-ae-ga-04",
+        "gate-2018-ae-ga-05",
+        "gate-2018-ae-ga-06",
+        "gate-2018-ae-ga-07",
+        "gate-2018-ae-ga-08",
+        "gate-2018-ae-ga-09",
+        "gate-2018-ae-ga-10"
+      ],
+      "totalMarks": 15
+    },
+    {
+      "id": "AE",
+      "title": "Aerospace Engineering",
+      "questionIds": [
+        "gate-2018-ae-ae-11",
+        "gate-2018-ae-ae-12",
+        "gate-2018-ae-ae-13",
+        "gate-2018-ae-ae-14",
+        "gate-2018-ae-ae-15",
+        "gate-2018-ae-ae-16",
+        "gate-2018-ae-ae-17",
+        "gate-2018-ae-ae-18",
+        "gate-2018-ae-ae-19",
+        "gate-2018-ae-ae-20",
+        "gate-2018-ae-ae-21",
+        "gate-2018-ae-ae-22",
+        "gate-2018-ae-ae-23",
+        "gate-2018-ae-ae-24",
+        "gate-2018-ae-ae-25",
+        "gate-2018-ae-ae-26",
+        "gate-2018-ae-ae-27",
+        "gate-2018-ae-ae-28",
+        "gate-2018-ae-ae-29",
+        "gate-2018-ae-ae-30",
+        "gate-2018-ae-ae-31",
+        "gate-2018-ae-ae-32",
+        "gate-2018-ae-ae-33",
+        "gate-2018-ae-ae-34",
+        "gate-2018-ae-ae-35",
+        "gate-2018-ae-ae-36",
+        "gate-2018-ae-ae-37",
+        "gate-2018-ae-ae-38",
+        "gate-2018-ae-ae-39",
+        "gate-2018-ae-ae-40",
+        "gate-2018-ae-ae-41",
+        "gate-2018-ae-ae-42",
+        "gate-2018-ae-ae-43",
+        "gate-2018-ae-ae-44",
+        "gate-2018-ae-ae-45",
+        "gate-2018-ae-ae-46",
+        "gate-2018-ae-ae-47",
+        "gate-2018-ae-ae-48",
+        "gate-2018-ae-ae-49",
+        "gate-2018-ae-ae-50",
+        "gate-2018-ae-ae-51",
+        "gate-2018-ae-ae-52",
+        "gate-2018-ae-ae-53",
+        "gate-2018-ae-ae-54",
+        "gate-2018-ae-ae-55",
+        "gate-2018-ae-ae-56",
+        "gate-2018-ae-ae-57",
+        "gate-2018-ae-ae-58",
+        "gate-2018-ae-ae-59",
+        "gate-2018-ae-ae-60",
+        "gate-2018-ae-ae-61",
+        "gate-2018-ae-ae-62",
+        "gate-2018-ae-ae-63",
+        "gate-2018-ae-ae-64",
+        "gate-2018-ae-ae-65"
+      ],
+      "totalMarks": 85
+    }
+  ],
+  "questionOrder": [
+    "gate-2018-ae-ga-01",
+    "gate-2018-ae-ga-02",
+    "gate-2018-ae-ga-03",
+    "gate-2018-ae-ga-04",
+    "gate-2018-ae-ga-05",
+    "gate-2018-ae-ga-06",
+    "gate-2018-ae-ga-07",
+    "gate-2018-ae-ga-08",
+    "gate-2018-ae-ga-09",
+    "gate-2018-ae-ga-10",
+    "gate-2018-ae-ae-11",
+    "gate-2018-ae-ae-12",
+    "gate-2018-ae-ae-13",
+    "gate-2018-ae-ae-14",
+    "gate-2018-ae-ae-15",
+    "gate-2018-ae-ae-16",
+    "gate-2018-ae-ae-17",
+    "gate-2018-ae-ae-18",
+    "gate-2018-ae-ae-19",
+    "gate-2018-ae-ae-20",
+    "gate-2018-ae-ae-21",
+    "gate-2018-ae-ae-22",
+    "gate-2018-ae-ae-23",
+    "gate-2018-ae-ae-24",
+    "gate-2018-ae-ae-25",
+    "gate-2018-ae-ae-26",
+    "gate-2018-ae-ae-27",
+    "gate-2018-ae-ae-28",
+    "gate-2018-ae-ae-29",
+    "gate-2018-ae-ae-30",
+    "gate-2018-ae-ae-31",
+    "gate-2018-ae-ae-32",
+    "gate-2018-ae-ae-33",
+    "gate-2018-ae-ae-34",
+    "gate-2018-ae-ae-35",
+    "gate-2018-ae-ae-36",
+    "gate-2018-ae-ae-37",
+    "gate-2018-ae-ae-38",
+    "gate-2018-ae-ae-39",
+    "gate-2018-ae-ae-40",
+    "gate-2018-ae-ae-41",
+    "gate-2018-ae-ae-42",
+    "gate-2018-ae-ae-43",
+    "gate-2018-ae-ae-44",
+    "gate-2018-ae-ae-45",
+    "gate-2018-ae-ae-46",
+    "gate-2018-ae-ae-47",
+    "gate-2018-ae-ae-48",
+    "gate-2018-ae-ae-49",
+    "gate-2018-ae-ae-50",
+    "gate-2018-ae-ae-51",
+    "gate-2018-ae-ae-52",
+    "gate-2018-ae-ae-53",
+    "gate-2018-ae-ae-54",
+    "gate-2018-ae-ae-55",
+    "gate-2018-ae-ae-56",
+    "gate-2018-ae-ae-57",
+    "gate-2018-ae-ae-58",
+    "gate-2018-ae-ae-59",
+    "gate-2018-ae-ae-60",
+    "gate-2018-ae-ae-61",
+    "gate-2018-ae-ae-62",
+    "gate-2018-ae-ae-63",
+    "gate-2018-ae-ae-64",
+    "gate-2018-ae-ae-65"
+  ],
+  "questionRefs": [
+    {
+      "id": "gate-2018-ae-ga-01",
+      "number": 1,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-02",
+      "number": 2,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-03",
+      "number": 3,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-04",
+      "number": 4,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-05",
+      "number": 5,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-06",
+      "number": 6,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-07",
+      "number": 7,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-08",
+      "number": 8,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-09",
+      "number": 9,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ga-10",
+      "number": 10,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-11",
+      "number": 11,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-12",
+      "number": 12,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-13",
+      "number": 13,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-14",
+      "number": 14,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-15",
+      "number": 15,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-16",
+      "number": 16,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-17",
+      "number": 17,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-18",
+      "number": 18,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-19",
+      "number": 19,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-20",
+      "number": 20,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-21",
+      "number": 21,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-22",
+      "number": 22,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-23",
+      "number": 23,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-24",
+      "number": 24,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-25",
+      "number": 25,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-26",
+      "number": 26,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-27",
+      "number": 27,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-28",
+      "number": 28,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-29",
+      "number": 29,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-30",
+      "number": 30,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-31",
+      "number": 31,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-32",
+      "number": 32,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-33",
+      "number": 33,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-34",
+      "number": 34,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-35",
+      "number": 35,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-36",
+      "number": 36,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-37",
+      "number": 37,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-38",
+      "number": 38,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-39",
+      "number": 39,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-40",
+      "number": 40,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-41",
+      "number": 41,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-42",
+      "number": 42,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-43",
+      "number": 43,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-44",
+      "number": 44,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-45",
+      "number": 45,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2018-ae-ae-46",
+      "number": 46,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-47",
+      "number": 47,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-48",
+      "number": 48,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-49",
+      "number": 49,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-50",
+      "number": 50,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-51",
+      "number": 51,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-52",
+      "number": 52,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-53",
+      "number": 53,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-54",
+      "number": 54,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-55",
+      "number": 55,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-56",
+      "number": 56,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-57",
+      "number": 57,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-58",
+      "number": 58,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-59",
+      "number": 59,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-60",
+      "number": 60,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-61",
+      "number": 61,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-62",
+      "number": 62,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-63",
+      "number": 63,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-64",
+      "number": 64,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2018-ae-ae-65",
+      "number": 65,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    }
+  ],
+  "questionGroups": [],
+  "marking": {
+    "negativeFraction": {
+      "MCQ": 0.3333333333333333,
+      "MSQ": 0,
+      "NAT": 0
+    }
+  },
+  "questionTypeCounts": {
+    "MCQ": 39,
+    "MSQ": 0,
+    "NAT": 26
+  },
+  "source": {
+    "file": "internal/ae/AE2018.pdf",
+    "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+    "pageCount": 15
+  },
+  "ingestionStatus": "complete",
+  "verificationStatus": "source-verified",
+  "verifiedOn": "2026-10-07",
+  "questions": [
+    {
+      "id": "gate-2018-ae-ga-01",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 1,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "“The dress _________ her so well that they all immediately _________ her on her appearance.”\n\nThe words that best fill the blanks in the above sentence are",
+      "content": [
+        {
+          "type": "text",
+          "text": "“The dress _________ her so well that they all immediately _________ her on her appearance.”\n\nThe words that best fill the blanks in the above sentence are"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "D",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "complemented, complemented"
+        },
+        {
+          "label": "B",
+          "text": "complimented, complemented"
+        },
+        {
+          "label": "C",
+          "text": "complimented, complimented"
+        },
+        {
+          "label": "D",
+          "text": "complemented, complimented"
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-02",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 2,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "“The judge’s standing in the legal community, though shaken by false allegations of wrongdoing, remained _________.”\n\nThe word that best fills the blank in the above sentence is",
+      "content": [
+        {
+          "type": "text",
+          "text": "“The judge’s standing in the legal community, though shaken by false allegations of wrongdoing, remained _________.”\n\nThe word that best fills the blank in the above sentence is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "undiminished"
+        },
+        {
+          "label": "B",
+          "text": "damaged"
+        },
+        {
+          "label": "C",
+          "text": "illegal"
+        },
+        {
+          "label": "D",
+          "text": "uncertain"
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-03",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 3,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Find the missing group of letters in the following series:\nBC, FGH, LMNO, _____",
+      "content": [
+        {
+          "type": "text",
+          "text": "Find the missing group of letters in the following series:\nBC, FGH, LMNO, _____"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "UVWXY"
+        },
+        {
+          "label": "B",
+          "text": "TUVWX"
+        },
+        {
+          "label": "C",
+          "text": "STUVW"
+        },
+        {
+          "label": "D",
+          "text": "RSTUV"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-04",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 4,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The perimeters of a circle, a square and an equilateral triangle are equal. Which one of the following statements is true?",
+      "content": [
+        {
+          "type": "text",
+          "text": "The perimeters of a circle, a square and an equilateral triangle are equal. Which one of the following statements is true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "The circle has the largest area."
+        },
+        {
+          "label": "B",
+          "text": "The square has the largest area."
+        },
+        {
+          "label": "C",
+          "text": "The equilateral triangle has the largest area."
+        },
+        {
+          "label": "D",
+          "text": "All the three shapes have the same area."
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-05",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 5,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The value of the expression $\\frac{1}{1+\\log_u vw} + \\frac{1}{1+\\log_v wu} + \\frac{1}{1+\\log_w uv}$ is _________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "The value of the expression $\\frac{1}{1+\\log_u vw} + \\frac{1}{1+\\log_v wu} + \\frac{1}{1+\\log_w uv}$ is _________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "-1"
+        },
+        {
+          "label": "B",
+          "text": "0"
+        },
+        {
+          "label": "C",
+          "text": "1"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-06",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 6,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Forty students watched films A, B and C over a week. Each student watched either only one film or all three. Thirteen students watched film A, sixteen students watched film B and nineteen students watched film C. How many students watched all three films?",
+      "content": [
+        {
+          "type": "text",
+          "text": "Forty students watched films A, B and C over a week. Each student watched either only one film or all three. Thirteen students watched film A, sixteen students watched film B and nineteen students watched film C. How many students watched all three films?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-07",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 7,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A wire would enclose an area of 1936 m$^2$, if it is bent into a square. The wire is cut into two pieces. The longer piece is thrice as long as the shorter piece. The long and the short pieces are bent into a square and a circle, respectively. Which of the following choices is closest to the sum of the areas enclosed by the two pieces in square meters?",
+      "content": [
+        {
+          "type": "text",
+          "text": "A wire would enclose an area of 1936 m$^2$, if it is bent into a square. The wire is cut into two pieces. The longer piece is thrice as long as the shorter piece. The long and the short pieces are bent into a square and a circle, respectively. Which of the following choices is closest to the sum of the areas enclosed by the two pieces in square meters?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "1096"
+        },
+        {
+          "label": "B",
+          "text": "1111"
+        },
+        {
+          "label": "C",
+          "text": "1243"
+        },
+        {
+          "label": "D",
+          "text": "2486"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-08",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 8,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A contract is to be completed in 52 days and 125 identical robots were employed, each operational for 7 hours a day. After 39 days, five-seventh of the work was completed. How many additional robots would be required to complete the work on time, if each robot is now operational for 8 hours a day?",
+      "content": [
+        {
+          "type": "text",
+          "text": "A contract is to be completed in 52 days and 125 identical robots were employed, each operational for 7 hours a day. After 39 days, five-seventh of the work was completed. How many additional robots would be required to complete the work on time, if each robot is now operational for 8 hours a day?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "MTA",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "50"
+        },
+        {
+          "label": "B",
+          "text": "89"
+        },
+        {
+          "label": "C",
+          "text": "146"
+        },
+        {
+          "label": "D",
+          "text": "175"
+        }
+      ],
+      "gradingRule": "marks-to-all",
+      "acceptedAnswers": [
+        "MTA"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-09",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 9,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A house has a number which needs to be identified. The following three statements are given that can help in identifying the house number.\ni. If the house number is a multiple of 3, then it is a number from 50 to 59.\nii. If the house number is NOT a multiple of 4, then it is a number from 60 to 69.\niii. If the house number is NOT a multiple of 6, then it is a number from 70 to 79.\n\nWhat is the house number?",
+      "content": [
+        {
+          "type": "text",
+          "text": "A house has a number which needs to be identified. The following three statements are given that can help in identifying the house number.\ni. If the house number is a multiple of 3, then it is a number from 50 to 59.\nii. If the house number is NOT a multiple of 4, then it is a number from 60 to 69.\niii. If the house number is NOT a multiple of 6, then it is a number from 70 to 79.\n\nWhat is the house number?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "D",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "54"
+        },
+        {
+          "label": "B",
+          "text": "65"
+        },
+        {
+          "label": "C",
+          "text": "66"
+        },
+        {
+          "label": "D",
+          "text": "76"
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ga-10",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 10,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "An unbiased coin is tossed six times in a row and four different such trials are conducted. One trial implies six tosses of the coin. If H stands for head and T stands for tail, the following are the observations from the four trials:\n(1) HTHTHT (2) TTHHHT (3) HTTHHT (4) HHHT__ __.\n\nWhich statement describing the last two coin tosses of the fourth trial has the highest probability of being correct?",
+      "content": [
+        {
+          "type": "text",
+          "text": "An unbiased coin is tossed six times in a row and four different such trials are conducted. One trial implies six tosses of the coin. If H stands for head and T stands for tail, the following are the observations from the four trials:\n(1) HTHTHT (2) TTHHHT (3) HTTHHT (4) HHHT__ __.\n\nWhich statement describing the last two coin tosses of the fourth trial has the highest probability of being correct?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 3,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "Two T will occur."
+        },
+        {
+          "label": "B",
+          "text": "One H and one T will occur."
+        },
+        {
+          "label": "C",
+          "text": "Two H will occur."
+        },
+        {
+          "label": "D",
+          "text": "One H will be followed by one T."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2018-ae-ae-11",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 11,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Let $\\vec{a}, \\vec{b}$ be two distinct vectors that are not parallel. The vector $\\vec{c} = \\vec{a} \\times \\vec{b}$ is",
+      "content": [
+        {
+          "type": "text",
+          "text": "Let $\\vec{a}, \\vec{b}$ be two distinct vectors that are not parallel. The vector $\\vec{c} = \\vec{a} \\times \\vec{b}$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "zero."
+        },
+        {
+          "label": "B",
+          "text": "orthogonal to $\\vec{a}$ alone."
+        },
+        {
+          "label": "C",
+          "text": "orthogonal to $\\vec{a} + \\vec{b}$."
+        },
+        {
+          "label": "D",
+          "text": "orthogonal to $\\vec{b}$ alone."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.1"
+    },
+    {
+      "id": "gate-2018-ae-ae-12",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 12,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Consider the function $f(x, y) = \\frac{x^2}{2} + \\frac{y^2}{3} - 5$. All the roots of this function",
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider the function $f(x, y) = \\frac{x^2}{2} + \\frac{y^2}{3} - 5$. All the roots of this function"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "form a finite set of points."
+        },
+        {
+          "label": "B",
+          "text": "lie on an elliptical curve."
+        },
+        {
+          "label": "C",
+          "text": "lie on the surface of a sphere."
+        },
+        {
+          "label": "D",
+          "text": "lie on a hyperbolic curve."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.2"
+    },
+    {
+      "id": "gate-2018-ae-ae-13",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 13,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Consider a vector field given by $x\\hat{\\imath} + y\\hat{\\jmath} + z\\hat{k}$. This vector field is",
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a vector field given by $x\\hat{\\imath} + y\\hat{\\jmath} + z\\hat{k}$. This vector field is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "divergence-free and curl-free."
+        },
+        {
+          "label": "B",
+          "text": "curl-free but not divergence-free."
+        },
+        {
+          "label": "C",
+          "text": "divergence-free but not curl-free."
+        },
+        {
+          "label": "D",
+          "text": "neither divergence-free nor curl-free."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.3"
+    },
+    {
+      "id": "gate-2018-ae-ae-14",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 14,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A jet aircraft is initially flying steady and level at its maximum endurance condition. For the aircraft to fly steady and level, but faster at the same altitude, the pilot should",
+      "content": [
+        {
+          "type": "text",
+          "text": "A jet aircraft is initially flying steady and level at its maximum endurance condition. For the aircraft to fly steady and level, but faster at the same altitude, the pilot should"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "increase thrust alone."
+        },
+        {
+          "label": "B",
+          "text": "increase thrust and increase angle of attack."
+        },
+        {
+          "label": "C",
+          "text": "increase thrust and reduce angle of attack."
+        },
+        {
+          "label": "D",
+          "text": "reduce angle of attack alone."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.4"
+    },
+    {
+      "id": "gate-2018-ae-ae-15",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 15,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The pilot of a conventional airplane that is flying steady and level at some altitude, deflects the port side aileron up and the starboard aileron down. The aircraft will then",
+      "content": [
+        {
+          "type": "text",
+          "text": "The pilot of a conventional airplane that is flying steady and level at some altitude, deflects the port side aileron up and the starboard aileron down. The aircraft will then"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "pitch, nose up."
+        },
+        {
+          "label": "B",
+          "text": "roll with the starboard wing up."
+        },
+        {
+          "label": "C",
+          "text": "pitch, nose down."
+        },
+        {
+          "label": "D",
+          "text": "roll with the port wing up."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.5"
+    },
+    {
+      "id": "gate-2018-ae-ae-16",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 16,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A NACA 0012 airfoil has a trailing edge flap. The airfoil is operating at an angle of attack of 5 degrees with un-deflected flap. If the flap is now deflected by 5 degrees downwards, the $C_L$ versus $\\alpha$ curve",
+      "content": [
+        {
+          "type": "text",
+          "text": "A NACA 0012 airfoil has a trailing edge flap. The airfoil is operating at an angle of attack of 5 degrees with un-deflected flap. If the flap is now deflected by 5 degrees downwards, the $C_L$ versus $\\alpha$ curve"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "shifts right and slope increases."
+        },
+        {
+          "label": "B",
+          "text": "shifts left and slope increases."
+        },
+        {
+          "label": "C",
+          "text": "shifts left and slope stays the same."
+        },
+        {
+          "label": "D",
+          "text": "shifts right and slope stays the same."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.6"
+    },
+    {
+      "id": "gate-2018-ae-ae-17",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 17,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "An airplane requires a longer ground roll to lift-off on hot summer days because",
+      "content": [
+        {
+          "type": "text",
+          "text": "An airplane requires a longer ground roll to lift-off on hot summer days because"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "the thrust is directly proportional to free-stream density."
+        },
+        {
+          "label": "B",
+          "text": "the thrust is directly proportional to weight of the aircraft."
+        },
+        {
+          "label": "C",
+          "text": "the lift-off distance is directly proportional to free-stream density."
+        },
+        {
+          "label": "D",
+          "text": "the runway friction is high on hot summer days."
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ],
+      "displayNumber": "Q.7"
+    },
+    {
+      "id": "gate-2018-ae-ae-18",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 18,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The velocity profile in an incompressible, laminar boundary layer is shown in the figure below. $U$ is the free-stream velocity, $u(y)$ is the stream-wise velocity component. The area of the black shaded region in the figure below represents the",
+      "content": [
+        {
+          "type": "text",
+          "text": "The velocity profile in an incompressible, laminar boundary layer is shown in the figure below. $U$ is the free-stream velocity, $u(y)$ is the stream-wise velocity component. The area of the black shaded region in the figure below represents the"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2018-ae-ae-18-figure-1.png",
+            "alt": "Boundary layer velocity profile with shaded region",
+            "page": 5,
+            "source": {
+              "file": "internal/ae/AE2018.pdf",
+              "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07",
+              "bbox": [
+                287.760009765625,
+                240.59999084472656,
+                334.55999755859375,
+                256.55999755859375
+              ]
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2018-ae-ae-18-figure-1.png",
+          "alt": "Boundary layer velocity profile with shaded region",
+          "page": 5,
+          "source": {
+            "file": "internal/ae/AE2018.pdf",
+            "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+            "page": 5,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07",
+            "bbox": [
+              287.760009765625,
+              240.59999084472656,
+              334.55999755859375,
+              256.55999755859375
+            ]
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": true,
+      "options": [
+        {
+          "label": "A",
+          "text": "boundary layer thickness."
+        },
+        {
+          "label": "B",
+          "text": "momentum thickness."
+        },
+        {
+          "label": "C",
+          "text": "displacement thickness."
+        },
+        {
+          "label": "D",
+          "text": "shape factor."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.8"
+    },
+    {
+      "id": "gate-2018-ae-ae-19",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 19,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The tangential velocity component $V$ of a spacecraft, which is in a circular orbit of radius $R$ around a spherical Earth ($\\mu = GM \\rightarrow \\text{gravitational parameter of Earth}$) is given by the following expression.",
+      "content": [
+        {
+          "type": "text",
+          "text": "The tangential velocity component $V$ of a spacecraft, which is in a circular orbit of radius $R$ around a spherical Earth ($\\mu = GM \\rightarrow \\text{gravitational parameter of Earth}$) is given by the following expression."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$V = \\sqrt{\\frac{\\mu}{2R}}$"
+        },
+        {
+          "label": "B",
+          "text": "$V = \\sqrt{\\frac{\\mu}{R}}$"
+        },
+        {
+          "label": "C",
+          "text": "$V = \\frac{2\\pi}{\\sqrt{\\mu} R^{3/2}}$"
+        },
+        {
+          "label": "D",
+          "text": "$V = \\frac{2\\pi}{\\sqrt{\\mu} R^{2/3}}$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.9"
+    },
+    {
+      "id": "gate-2018-ae-ae-20",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 20,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Equation of the trajectory of a typical space object around any planet, in polar coordinates $(r, \\theta)$ (i.e. a general conic section geometry), is given as follows. ($h$ is angular momentum, $\\mu$ is gravitational parameter, $e$ is eccentricity, $r$ is radial distance from the planet center, $\\theta$ is angle between vectors $\\vec{e}$ and $\\vec{r}$).\n",
+      "content": [
+        {
+          "type": "text",
+          "text": "Equation of the trajectory of a typical space object around any planet, in polar coordinates $(r, \\theta)$ (i.e. a general conic section geometry), is given as follows. ($h$ is angular momentum, $\\mu$ is gravitational parameter, $e$ is eccentricity, $r$ is radial distance from the planet center, $\\theta$ is angle between vectors $\\vec{e}$ and $\\vec{r}$).\n"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$r = \\frac{h^2/\\mu}{1 - e\\cos\\theta}$"
+        },
+        {
+          "label": "B",
+          "text": "$r = \\frac{h^2/\\mu}{e - \\cos\\theta}$"
+        },
+        {
+          "label": "C",
+          "text": "$r = \\frac{h^2/\\mu}{1 + e\\cos\\theta}$"
+        },
+        {
+          "label": "D",
+          "text": "$r = \\frac{h^2/\\mu}{e + \\cos\\theta}$"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.10"
+    },
+    {
+      "id": "gate-2018-ae-ae-21",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 21,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "In an elliptic orbit around any planet, the location at which a spacecraft has the maximum angular velocity is",
+      "content": [
+        {
+          "type": "text",
+          "text": "In an elliptic orbit around any planet, the location at which a spacecraft has the maximum angular velocity is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "apoapsis."
+        },
+        {
+          "label": "B",
+          "text": "periapsis."
+        },
+        {
+          "label": "C",
+          "text": "a point at $+45^\\circ$ from periapsis."
+        },
+        {
+          "label": "D",
+          "text": "a point at $-90^\\circ$ from apoapsis."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.11"
+    },
+    {
+      "id": "gate-2018-ae-ae-22",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 22,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The pitching moment of a positively cambered NACA airfoil about its leading edge at zero-lift angle of attack is",
+      "content": [
+        {
+          "type": "text",
+          "text": "The pitching moment of a positively cambered NACA airfoil about its leading edge at zero-lift angle of attack is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "negative."
+        },
+        {
+          "label": "B",
+          "text": "positive."
+        },
+        {
+          "label": "C",
+          "text": "indeterminate."
+        },
+        {
+          "label": "D",
+          "text": "zero."
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ],
+      "displayNumber": "Q.12"
+    },
+    {
+      "id": "gate-2018-ae-ae-23",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 23,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "In a low-speed wind tunnel, the angular location(s) from the front stagnation point on a circular cylinder where the static pressure equals the free-stream static pressure, is",
+      "content": [
+        {
+          "type": "text",
+          "text": "In a low-speed wind tunnel, the angular location(s) from the front stagnation point on a circular cylinder where the static pressure equals the free-stream static pressure, is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\pm 38^\\circ$"
+        },
+        {
+          "label": "B",
+          "text": "$\\pm 30^\\circ$"
+        },
+        {
+          "label": "C",
+          "text": "$\\pm 60^\\circ$"
+        },
+        {
+          "label": "D",
+          "text": "$0^\\circ$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.13"
+    },
+    {
+      "id": "gate-2018-ae-ae-24",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 24,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A thermocouple, mounted flush in an insulated flat surface in a supersonic laminar flow of air measures the",
+      "content": [
+        {
+          "type": "text",
+          "text": "A thermocouple, mounted flush in an insulated flat surface in a supersonic laminar flow of air measures the"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "static temperature."
+        },
+        {
+          "label": "B",
+          "text": "temperature greater than static but less than total temperature."
+        },
+        {
+          "label": "C",
+          "text": "total temperature."
+        },
+        {
+          "label": "D",
+          "text": "temperature greater than total temperature."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.14"
+    },
+    {
+      "id": "gate-2018-ae-ae-25",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 25,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A shock wave is moving into still air in a shock tube. Which one of the following happens to the air?",
+      "content": [
+        {
+          "type": "text",
+          "text": "A shock wave is moving into still air in a shock tube. Which one of the following happens to the air?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "static temperature increases, total temperature remains constant."
+        },
+        {
+          "label": "B",
+          "text": "static temperature increases, total temperature increases."
+        },
+        {
+          "label": "C",
+          "text": "static temperature increases, total temperature decreases."
+        },
+        {
+          "label": "D",
+          "text": "static pressure increases, total temperature remains constant."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.15"
+    },
+    {
+      "id": "gate-2018-ae-ae-26",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 26,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The highest limit load factor experienced by a civil transport aircraft is in the range",
+      "content": [
+        {
+          "type": "text",
+          "text": "The highest limit load factor experienced by a civil transport aircraft is in the range"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "0.0 – 2.0"
+        },
+        {
+          "label": "B",
+          "text": "2.0 – 5.0"
+        },
+        {
+          "label": "C",
+          "text": "5.0 – 8.0"
+        },
+        {
+          "label": "D",
+          "text": "8.0 – 10.0"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.16"
+    },
+    {
+      "id": "gate-2018-ae-ae-27",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 27,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Determine the correctness or otherwise of the following statements, [a] and [r]:\n\n[a] A closed-section box beam configuration is used in aircraft wings.\n\n[r] Closed-section box beam configuration is capable of resisting torsional loads.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Determine the correctness or otherwise of the following statements, [a] and [r]:\n\n[a] A closed-section box beam configuration is used in aircraft wings.\n\n[r] Closed-section box beam configuration is capable of resisting torsional loads."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "Both [a] and [r] are true and [r] is the correct reason for [a]."
+        },
+        {
+          "label": "B",
+          "text": "Both [a] and [r] are true but [r] is not the correct reason for [a]."
+        },
+        {
+          "label": "C",
+          "text": "Both [a] and [r] are false."
+        },
+        {
+          "label": "D",
+          "text": "[a] is true but [r] is false."
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ],
+      "displayNumber": "Q.17"
+    },
+    {
+      "id": "gate-2018-ae-ae-28",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 28,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The first law of thermodynamics is also known as conservation of",
+      "content": [
+        {
+          "type": "text",
+          "text": "The first law of thermodynamics is also known as conservation of"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "mass."
+        },
+        {
+          "label": "B",
+          "text": "momentum."
+        },
+        {
+          "label": "C",
+          "text": "energy."
+        },
+        {
+          "label": "D",
+          "text": "species."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.18"
+    },
+    {
+      "id": "gate-2018-ae-ae-29",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 29,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "In an ideal gas turbine cycle, the expansion in a turbine is represented by",
+      "content": [
+        {
+          "type": "text",
+          "text": "In an ideal gas turbine cycle, the expansion in a turbine is represented by"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "an isenthalpic process."
+        },
+        {
+          "label": "B",
+          "text": "an isentropic process."
+        },
+        {
+          "label": "C",
+          "text": "an isobaric process."
+        },
+        {
+          "label": "D",
+          "text": "an isochoric process."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.19"
+    },
+    {
+      "id": "gate-2018-ae-ae-30",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 30,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The determinant of the matrix $\\matrix{1 & 1 & -1; 2 & 1 & 0; 3 & 1 & 1}$ is ______ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The determinant of the matrix $\\matrix{1 & 1 & -1; 2 & 1 & 0; 3 & 1 & 1}$ is ______ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0,
+        0
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0,
+            0
+          ]
+        }
+      ],
+      "displayNumber": "Q.20"
+    },
+    {
+      "id": "gate-2018-ae-ae-31",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 31,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The theoretical maximum velocity (in m/s) of air expanding from a reservoir at 700 K is __________ (accurate to two decimal places). Specific heat of air at constant pressure is 1005 J/(kg-K).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The theoretical maximum velocity (in m/s) of air expanding from a reservoir at 700 K is __________ (accurate to two decimal places). Specific heat of air at constant pressure is 1005 J/(kg-K)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        1185,
+        1186.5
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1185,
+            1186.5
+          ]
+        }
+      ],
+      "displayNumber": "Q.21"
+    },
+    {
+      "id": "gate-2018-ae-ae-32",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 32,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "For a damped single degree of freedom system with damping ratio of 0.1, ratio of two successive peak amplitudes of free vibration is ___________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a damped single degree of freedom system with damping ratio of 0.1, ratio of two successive peak amplitudes of free vibration is ___________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        1.75,
+        1.95
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.75,
+            1.95
+          ]
+        }
+      ],
+      "displayNumber": "Q.22"
+    },
+    {
+      "id": "gate-2018-ae-ae-33",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 33,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The natural frequency (in rad/s) of the spring-mass system shown in the figure below is _____ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The natural frequency (in rad/s) of the spring-mass system shown in the figure below is _____ (accurate to one decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2018-ae-ae-33-figure-1.png",
+            "alt": "Two masses connected by rigid link and springs",
+            "page": 7,
+            "source": {
+              "file": "internal/ae/AE2018.pdf",
+              "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+              "page": 7,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07",
+              "bbox": [
+                172.9199981689453,
+                487.20001220703125,
+                465.719970703125,
+                564.1199951171875
+              ]
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2018-ae-ae-33-figure-1.png",
+          "alt": "Two masses connected by rigid link and springs",
+          "page": 7,
+          "source": {
+            "file": "internal/ae/AE2018.pdf",
+            "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+            "page": 7,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07",
+            "bbox": [
+              172.9199981689453,
+              487.20001220703125,
+              465.719970703125,
+              564.1199951171875
+            ]
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        2,
+        2
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            2,
+            2
+          ]
+        }
+      ],
+      "displayNumber": "Q.23"
+    },
+    {
+      "id": "gate-2018-ae-ae-34",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 34,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The stagnation pressures at the inlet and exit of a subsonic intake are 100 kPa and 98 kPa, respectively. The pressure recovery of this intake will be ______ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The stagnation pressures at the inlet and exit of a subsonic intake are 100 kPa and 98 kPa, respectively. The pressure recovery of this intake will be ______ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.98,
+        0.98
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.98,
+            0.98
+          ]
+        }
+      ],
+      "displayNumber": "Q.24"
+    },
+    {
+      "id": "gate-2018-ae-ae-35",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 35,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "A combustor is operating with a fuel-air ratio of 0.03. If the stoichiometric fuel-air ratio of the fuel used is 0.06, the equivalence ratio of the combustor will be _______ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A combustor is operating with a fuel-air ratio of 0.03. If the stoichiometric fuel-air ratio of the fuel used is 0.06, the equivalence ratio of the combustor will be _______ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.5,
+        0.5
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.5,
+            0.5
+          ]
+        }
+      ],
+      "displayNumber": "Q.25"
+    },
+    {
+      "id": "gate-2018-ae-ae-36",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 36,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "The solution of the differential equation $\\frac{d^2 y}{dx^2} + 3\\frac{dy}{dx} = 0$, given that $y = 0$ and $\\frac{dy}{dx} = 1$ at $x = 0$ is",
+      "content": [
+        {
+          "type": "text",
+          "text": "The solution of the differential equation $\\frac{d^2 y}{dx^2} + 3\\frac{dy}{dx} = 0$, given that $y = 0$ and $\\frac{dy}{dx} = 1$ at $x = 0$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$x(1 - e^{-3x})$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{1}{3}(1 - e^{-3x})$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{1}{3}(1 + e^{-3x})$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{1}{3} x e^{-3x/2}$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.26"
+    },
+    {
+      "id": "gate-2018-ae-ae-37",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 37,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "The relation between pressure ($p$) and velocity ($V$) for a steady, isentropic flow at two points along a streamline is, ($c$ is a constant)",
+      "content": [
+        {
+          "type": "text",
+          "text": "The relation between pressure ($p$) and velocity ($V$) for a steady, isentropic flow at two points along a streamline is, ($c$ is a constant)"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$c(p_2^\\gamma - p_1^\\gamma) = \\frac{V_1^2}{2} - \\frac{V_2^2}{2}$"
+        },
+        {
+          "label": "B",
+          "text": "$c(p_2^{\\frac{\\gamma}{\\gamma-1}} - p_1^{\\frac{\\gamma}{\\gamma-1}}) = \\frac{V_1^2}{2} - \\frac{V_2^2}{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$c(p_2^{\\frac{\\gamma-1}{\\gamma}} - p_1^{\\frac{\\gamma-1}{\\gamma}}) = \\frac{V_1^2}{2} - \\frac{V_2^2}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$c(p_2^{\\gamma-1} - p_1^{\\gamma-1}) = \\frac{V_1^2}{2} - \\frac{V_2^2}{2}$"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.27"
+    },
+    {
+      "id": "gate-2018-ae-ae-38",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 38,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A thin airfoil is mounted in a low-speed, subsonic wind tunnel, in which the Mach number is 0.1. At a point on the airfoil, the pressure coefficient is measured to be -1.2. If the flow velocity is increased such that the free-stream Mach number is 0.6, the pressure coefficient at the same point on the airfoil will approximately be:",
+      "content": [
+        {
+          "type": "text",
+          "text": "A thin airfoil is mounted in a low-speed, subsonic wind tunnel, in which the Mach number is 0.1. At a point on the airfoil, the pressure coefficient is measured to be -1.2. If the flow velocity is increased such that the free-stream Mach number is 0.6, the pressure coefficient at the same point on the airfoil will approximately be:"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "-3.5"
+        },
+        {
+          "label": "B",
+          "text": "-2.9"
+        },
+        {
+          "label": "C",
+          "text": "-1.5"
+        },
+        {
+          "label": "D",
+          "text": "-0.75"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.28"
+    },
+    {
+      "id": "gate-2018-ae-ae-39",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 39,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A solid circular shaft of diameter $d$ is under pure torsion of magnitude $T$. The maximum tensile stress experienced at any point on the shaft is",
+      "content": [
+        {
+          "type": "text",
+          "text": "A solid circular shaft of diameter $d$ is under pure torsion of magnitude $T$. The maximum tensile stress experienced at any point on the shaft is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "D",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{32T}{\\pi d^3}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{16T}{\\pi d^4}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{32T}{\\pi d^4}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{16T}{\\pi d^3}$"
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ],
+      "displayNumber": "Q.29"
+    },
+    {
+      "id": "gate-2018-ae-ae-40",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 40,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A clamped-clamped beam, subjected to a point load $P$ at the midspan, is shown in the figure below. The magnitude of the moment reaction at the two fixed ends of the beam is",
+      "content": [
+        {
+          "type": "text",
+          "text": "A clamped-clamped beam, subjected to a point load $P$ at the midspan, is shown in the figure below. The magnitude of the moment reaction at the two fixed ends of the beam is"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2018-ae-ae-40-figure-1.png",
+            "alt": "Clamped-clamped beam with midspan point load P",
+            "page": 8,
+            "source": {
+              "file": "internal/ae/AE2018.pdf",
+              "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+              "page": 8,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07",
+              "bbox": [
+                163.32000732421875,
+                601.7999877929688,
+                474.7200012207031,
+                723.3599853515625
+              ]
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2018-ae-ae-40-figure-1.png",
+          "alt": "Clamped-clamped beam with midspan point load P",
+          "page": 8,
+          "source": {
+            "file": "internal/ae/AE2018.pdf",
+            "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+            "page": 8,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07",
+            "bbox": [
+              163.32000732421875,
+              601.7999877929688,
+              474.7200012207031,
+              723.3599853515625
+            ]
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": true,
+      "options": [
+        {
+          "label": "A",
+          "text": "$PL/2$"
+        },
+        {
+          "label": "B",
+          "text": "$PL/4$"
+        },
+        {
+          "label": "C",
+          "text": "$PL/8$"
+        },
+        {
+          "label": "D",
+          "text": "$PL/16$"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.30"
+    },
+    {
+      "id": "gate-2018-ae-ae-41",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 41,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Which of the following statement(s) is/are true about the state of a body in plane strain condition?\n\nP: All the points in the body undergo displacements in one plane only, for example the x-y plane, leading to $\\varepsilon_{zz} = \\gamma_{xz} = \\gamma_{yz} = 0$.\nQ: All the components of stress perpendicular to the plane of deformation, for example the x-y plane, of the body are equal to zero, i.e. $\\sigma_{zz} = \\tau_{xz} = \\tau_{yz} = 0$.\nR: Except the normal component, all the other components of stress perpendicular to the plane of deformation of the body, for example the x-y plane, are equal to zero, i.e. $\\sigma_{zz} \\neq 0, \\tau_{xz} = \\tau_{yz} = 0$.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Which of the following statement(s) is/are true about the state of a body in plane strain condition?\n\nP: All the points in the body undergo displacements in one plane only, for example the x-y plane, leading to $\\varepsilon_{zz} = \\gamma_{xz} = \\gamma_{yz} = 0$.\nQ: All the components of stress perpendicular to the plane of deformation, for example the x-y plane, of the body are equal to zero, i.e. $\\sigma_{zz} = \\tau_{xz} = \\tau_{yz} = 0$.\nR: Except the normal component, all the other components of stress perpendicular to the plane of deformation of the body, for example the x-y plane, are equal to zero, i.e. $\\sigma_{zz} \\neq 0, \\tau_{xz} = \\tau_{yz} = 0$."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "D",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "P only"
+        },
+        {
+          "label": "B",
+          "text": "Q only"
+        },
+        {
+          "label": "C",
+          "text": "P and Q"
+        },
+        {
+          "label": "D",
+          "text": "P and R"
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ],
+      "displayNumber": "Q.31"
+    },
+    {
+      "id": "gate-2018-ae-ae-42",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 42,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "An aircraft with a turbojet engine flies at a velocity of 100 m/s. If the jet exhaust velocity is 300 m/s, the propulsive efficiency of the engine, assuming a negligible fuel-air ratio, is",
+      "content": [
+        {
+          "type": "text",
+          "text": "An aircraft with a turbojet engine flies at a velocity of 100 m/s. If the jet exhaust velocity is 300 m/s, the propulsive efficiency of the engine, assuming a negligible fuel-air ratio, is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "0.33"
+        },
+        {
+          "label": "B",
+          "text": "0.50"
+        },
+        {
+          "label": "C",
+          "text": "0.67"
+        },
+        {
+          "label": "D",
+          "text": "0.80"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.32"
+    },
+    {
+      "id": "gate-2018-ae-ae-43",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 43,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "An aircraft with a turboprop engine produces a thrust of 500 N and flies at 100 m/s. If the propeller efficiency is 0.5, the shaft power produced by the engine is",
+      "content": [
+        {
+          "type": "text",
+          "text": "An aircraft with a turboprop engine produces a thrust of 500 N and flies at 100 m/s. If the propeller efficiency is 0.5, the shaft power produced by the engine is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "50 kW"
+        },
+        {
+          "label": "B",
+          "text": "100 kW"
+        },
+        {
+          "label": "C",
+          "text": "125 kW"
+        },
+        {
+          "label": "D",
+          "text": "500 kW"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.33"
+    },
+    {
+      "id": "gate-2018-ae-ae-44",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 44,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "An axial compressor that generates a stagnation pressure ratio of 4.0, operates with inlet and exit stagnation temperatures of 300 K and 480 K, respectively. If the ratio of specific heats ($\\gamma$) is 1.4, the isentropic efficiency of the compressor is",
+      "content": [
+        {
+          "type": "text",
+          "text": "An axial compressor that generates a stagnation pressure ratio of 4.0, operates with inlet and exit stagnation temperatures of 300 K and 480 K, respectively. If the ratio of specific heats ($\\gamma$) is 1.4, the isentropic efficiency of the compressor is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "0.94"
+        },
+        {
+          "label": "B",
+          "text": "0.81"
+        },
+        {
+          "label": "C",
+          "text": "0.72"
+        },
+        {
+          "label": "D",
+          "text": "0.63"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ],
+      "displayNumber": "Q.34"
+    },
+    {
+      "id": "gate-2018-ae-ae-45",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 45,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A rocket has an initial mass of 150 kg. After operating for a duration of 10 s, its final mass is 50 kg. If the acceleration due to gravity is 9.81 m/s$^2$ and the thrust produced by the rocket is 19.62 kN, the specific impulse of the rocket is",
+      "content": [
+        {
+          "type": "text",
+          "text": "A rocket has an initial mass of 150 kg. After operating for a duration of 10 s, its final mass is 50 kg. If the acceleration due to gravity is 9.81 m/s$^2$ and the thrust produced by the rocket is 19.62 kN, the specific impulse of the rocket is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "400 s"
+        },
+        {
+          "label": "B",
+          "text": "300 s"
+        },
+        {
+          "label": "C",
+          "text": "200 s"
+        },
+        {
+          "label": "D",
+          "text": "100 s"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ],
+      "displayNumber": "Q.35"
+    },
+    {
+      "id": "gate-2018-ae-ae-46",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 46,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider the vector field $\\vec{v} = -\\frac{y}{r^2}\\hat{\\imath} + \\frac{x}{r^2}\\hat{\\jmath}$; where $r = \\sqrt{x^2 + y^2}$. The contour integral $\\oint \\vec{v} \\cdot d\\vec{s}$, where $d\\vec{s}$ is tangent to the contour that encloses the origin, is __________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider the vector field $\\vec{v} = -\\frac{y}{r^2}\\hat{\\imath} + \\frac{x}{r^2}\\hat{\\jmath}$; where $r = \\sqrt{x^2 + y^2}$. The contour integral $\\oint \\vec{v} \\cdot d\\vec{s}$, where $d\\vec{s}$ is tangent to the contour that encloses the origin, is __________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        6.25,
+        6.35
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            6.25,
+            6.35
+          ]
+        }
+      ],
+      "displayNumber": "Q.36"
+    },
+    {
+      "id": "gate-2018-ae-ae-47",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 47,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The magnitude of the x-component of a unit vector at the point (1, 1) that is normal to equi-potential lines of the potential function $\\phi(r) = \\frac{1}{r^2 + 4}$, where $r = \\sqrt{x^2 + y^2}$, is _______ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The magnitude of the x-component of a unit vector at the point (1, 1) that is normal to equi-potential lines of the potential function $\\phi(r) = \\frac{1}{r^2 + 4}$, where $r = \\sqrt{x^2 + y^2}$, is _______ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.68,
+        0.73
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.68,
+            0.73
+          ]
+        }
+      ],
+      "displayNumber": "Q.37"
+    },
+    {
+      "id": "gate-2018-ae-ae-48",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 48,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Assuming ISA standard sea level conditions (288.16 K, density of 1.225 kg/m$^3$, $g = 9.81\\text{ m/s}^2$, $R = 287\\text{ J/(kg-K)}$), the density (in kg/m$^3$) of air at Leh, which is at an altitude of 3500 m above mean sea level is ________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Assuming ISA standard sea level conditions (288.16 K, density of 1.225 kg/m$^3$, $g = 9.81\\text{ m/s}^2$, $R = 287\\text{ J/(kg-K)}$), the density (in kg/m$^3$) of air at Leh, which is at an altitude of 3500 m above mean sea level is ________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.85,
+        0.88
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.85,
+            0.88
+          ]
+        }
+      ],
+      "displayNumber": "Q.38"
+    },
+    {
+      "id": "gate-2018-ae-ae-49",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 49,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider a cubical tank of side 2 m with its top open. It is filled with water up to a height of 1 m. Assuming the density of water to be 1000 kg/m$^3$, $g$ as 9.81 m/s$^2$ and the atmospheric pressure to be 100 kPa, the net hydrostatic force (in kN) on the side face of the tank due to the air and water is ______ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a cubical tank of side 2 m with its top open. It is filled with water up to a height of 1 m. Assuming the density of water to be 1000 kg/m$^3$, $g$ as 9.81 m/s$^2$ and the atmospheric pressure to be 100 kPa, the net hydrostatic force (in kN) on the side face of the tank due to the air and water is ______ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        9.8,
+        9.81
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            9.8,
+            9.81
+          ]
+        }
+      ],
+      "displayNumber": "Q.39"
+    },
+    {
+      "id": "gate-2018-ae-ae-50",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 50,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "An aircraft with mass of 400,000 kg cruises at 240 m/s at an altitude of 10 km. Its lift to drag ratio at cruise is 15. Assuming $g$ as 9.81 m/s$^2$, the power (in MW) needed for it to cruise is _______ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "An aircraft with mass of 400,000 kg cruises at 240 m/s at an altitude of 10 km. Its lift to drag ratio at cruise is 15. Assuming $g$ as 9.81 m/s$^2$, the power (in MW) needed for it to cruise is _______ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        62,
+        63.5
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            62,
+            63.5
+          ]
+        }
+      ],
+      "displayNumber": "Q.40"
+    },
+    {
+      "id": "gate-2018-ae-ae-51",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 51,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A statically-stable aircraft has a $C_{L\\alpha} = 5$ (where the angle of attack, $\\alpha$, is measured in radians). The coefficient of moment of the aircraft about the center of gravity is given as $C_{M,c.g.} = 0.05 - 4\\alpha$. The mean aerodynamic chord of the aircraft wing is 1 m. The location (positive towards the nose) of the neutral point of the aircraft from the center of gravity is ______ (in m, accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A statically-stable aircraft has a $C_{L\\alpha} = 5$ (where the angle of attack, $\\alpha$, is measured in radians). The coefficient of moment of the aircraft about the center of gravity is given as $C_{M,c.g.} = 0.05 - 4\\alpha$. The mean aerodynamic chord of the aircraft wing is 1 m. The location (positive towards the nose) of the neutral point of the aircraft from the center of gravity is ______ (in m, accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        -0.81,
+        -0.79
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            -0.81,
+            -0.79
+          ]
+        }
+      ],
+      "displayNumber": "Q.41"
+    },
+    {
+      "id": "gate-2018-ae-ae-52",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 52,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "An aircraft with a gross weight of 2000 kg, has a speed of 130 m/s at sea level, where the conditions are: 1 atmosphere (pressure), 288 K (temperature), and 1.23 kg/m$^3$ (density). The speed (in m/s) required by the aircraft at an altitude of 9000 m, where the conditions are: 0.31 atmosphere, 230 K, and 0.47 kg/m$^3$, to maintain a steady, level flight is ________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "An aircraft with a gross weight of 2000 kg, has a speed of 130 m/s at sea level, where the conditions are: 1 atmosphere (pressure), 288 K (temperature), and 1.23 kg/m$^3$ (density). The speed (in m/s) required by the aircraft at an altitude of 9000 m, where the conditions are: 0.31 atmosphere, 230 K, and 0.47 kg/m$^3$, to maintain a steady, level flight is ________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        209,
+        211
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            209,
+            211
+          ]
+        }
+      ],
+      "displayNumber": "Q.42"
+    },
+    {
+      "id": "gate-2018-ae-ae-53",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 53,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A pitot probe on an aircraft in a steady, level flight records a pressure of 55,000 N/m$^2$. The static pressure and density are 45,280 N/m$^2$ and 0.6 kg/m$^3$, respectively. The wing area and the lift coefficient are 16 m$^2$ and 2, respectively. The wing loading (in N/m$^2$) on this aircraft is _________ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A pitot probe on an aircraft in a steady, level flight records a pressure of 55,000 N/m$^2$. The static pressure and density are 45,280 N/m$^2$ and 0.6 kg/m$^3$, respectively. The wing area and the lift coefficient are 16 m$^2$ and 2, respectively. The wing loading (in N/m$^2$) on this aircraft is _________ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        18000,
+        19440
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            18000,
+            19440
+          ]
+        }
+      ],
+      "displayNumber": "Q.43"
+    },
+    {
+      "id": "gate-2018-ae-ae-54",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 54,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A spacecraft forms a circular orbit at an altitude of 150 km above the surface of a spherical Earth. Assuming the gravitational parameter, $\\mu = 3.986 \\times 10^{14}\\text{ m}^3/\\text{s}^2$ and radius of earth, $R_E = 6,400\\text{ km}$, the velocity required for the injection of the spacecraft, parallel to the local horizon, is _______________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A spacecraft forms a circular orbit at an altitude of 150 km above the surface of a spherical Earth. Assuming the gravitational parameter, $\\mu = 3.986 \\times 10^{14}\\text{ m}^3/\\text{s}^2$ and radius of earth, $R_E = 6,400\\text{ km}$, the velocity required for the injection of the spacecraft, parallel to the local horizon, is _______________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        [
+          7.8,
+          7.8
+        ],
+        [
+          7800,
+          7802
+        ]
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            7.8,
+            7.8
+          ]
+        },
+        {
+          "range": [
+            7800,
+            7802
+          ]
+        }
+      ],
+      "displayNumber": "Q.44"
+    },
+    {
+      "id": "gate-2018-ae-ae-55",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 55,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Air at 50 kPa pressure and 400 K temperature flows in a duct at Mach 3.0. A part of the flow leaks through an opening on the duct wall into the ambient, where the pressure is 30 kPa. The maximum Mach number achieved in the discharge is _______ (accurate to two decimal places). (Ratio of specific heats of air is $\\gamma = 1.4$).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Air at 50 kPa pressure and 400 K temperature flows in a duct at Mach 3.0. A part of the flow leaks through an opening on the duct wall into the ambient, where the pressure is 30 kPa. The maximum Mach number achieved in the discharge is _______ (accurate to two decimal places). (Ratio of specific heats of air is $\\gamma = 1.4$)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        3.3,
+        3.4
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            3.3,
+            3.4
+          ]
+        }
+      ],
+      "displayNumber": "Q.45"
+    },
+    {
+      "id": "gate-2018-ae-ae-56",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 56,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider a $20^\\circ$ half-angle wedge in a supersonic flow at Mach 3.0 at standard sea-level conditions. If the shock-wave angle on the wedge is $36^\\circ$, the Mach number of the tangential component of the flow post-shock is _______ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a $20^\\circ$ half-angle wedge in a supersonic flow at Mach 3.0 at standard sea-level conditions. If the shock-wave angle on the wedge is $36^\\circ$, the Mach number of the tangential component of the flow post-shock is _______ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        1.9,
+        2.2
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.9,
+            2.2
+          ]
+        }
+      ],
+      "displayNumber": "Q.46"
+    },
+    {
+      "id": "gate-2018-ae-ae-57",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 57,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The boundary layer thickness at the location of a sensor on a flat plate in an incompressible, laminar flow of air is required to be restricted to 1 mm for an effective measurement. If the flow velocity is 20 m/s with 1 bar pressure, 300 K temperature, and $1.789 \\times 10^{-5}\\text{ kg/(m-s)}$ viscosity, the maximum distance (in mm) of the sensor location from the leading edge is ________ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The boundary layer thickness at the location of a sensor on a flat plate in an incompressible, laminar flow of air is required to be restricted to 1 mm for an effective measurement. If the flow velocity is 20 m/s with 1 bar pressure, 300 K temperature, and $1.789 \\times 10^{-5}\\text{ kg/(m-s)}$ viscosity, the maximum distance (in mm) of the sensor location from the leading edge is ________ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        47,
+        55
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            47,
+            55
+          ]
+        }
+      ],
+      "displayNumber": "Q.47"
+    },
+    {
+      "id": "gate-2018-ae-ae-58",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 58,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Gross weight of an airplane is 7000 N, wing area is 16 m$^2$, and the maximum lift coefficient is 2.0. Assuming density at the altitude as 1.23 kg/m$^3$, the stall speed (in m/s) of the aircraft is _________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Gross weight of an airplane is 7000 N, wing area is 16 m$^2$, and the maximum lift coefficient is 2.0. Assuming density at the altitude as 1.23 kg/m$^3$, the stall speed (in m/s) of the aircraft is _________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        18.8,
+        18.9
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            18.8,
+            18.9
+          ]
+        }
+      ],
+      "displayNumber": "Q.48"
+    },
+    {
+      "id": "gate-2018-ae-ae-59",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 59,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A thin-walled tube with external radius of 100 mm and wall thickness of 2 mm, is fixed at one end. It is subjected to a compressive force of 1 N acting at a point on the circumference parallel to its length. The maximum normal stress (in kPa) experienced by the structure is _____________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A thin-walled tube with external radius of 100 mm and wall thickness of 2 mm, is fixed at one end. It is subjected to a compressive force of 1 N acting at a point on the circumference parallel to its length. The maximum normal stress (in kPa) experienced by the structure is _____________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        -2.5,
+        -2.2
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            -2.5,
+            -2.2
+          ]
+        }
+      ],
+      "displayNumber": "Q.49"
+    },
+    {
+      "id": "gate-2018-ae-ae-60",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 60,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A 1 m long massless cantilever beam oscillates at 2 Hz, while a 60 kg mass is attached at the tip of it. The flexural rigidity of the beam (in kN-m$^2$) is _________________ (accurate to two decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A 1 m long massless cantilever beam oscillates at 2 Hz, while a 60 kg mass is attached at the tip of it. The flexural rigidity of the beam (in kN-m$^2$) is _________________ (accurate to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        3.1,
+        3.2
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            3.1,
+            3.2
+          ]
+        }
+      ],
+      "displayNumber": "Q.50"
+    },
+    {
+      "id": "gate-2018-ae-ae-61",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 61,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A cantilever beam having a rectangular cross-section of width 60 mm and depth 100 mm, is made of aluminum alloy. The material mechanical properties are: Young's modulus, $E = 73\\text{ GPa}$ and ultimate stress, $\\sigma_u = 480\\text{ MPa}$. Assuming a factor of safety of 4, the maximum bending moment (in kN-m) that can be applied on the beam is _____ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A cantilever beam having a rectangular cross-section of width 60 mm and depth 100 mm, is made of aluminum alloy. The material mechanical properties are: Young's modulus, $E = 73\\text{ GPa}$ and ultimate stress, $\\sigma_u = 480\\text{ MPa}$. Assuming a factor of safety of 4, the maximum bending moment (in kN-m) that can be applied on the beam is _____ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        12,
+        12
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            12,
+            12
+          ]
+        }
+      ],
+      "displayNumber": "Q.51"
+    },
+    {
+      "id": "gate-2018-ae-ae-62",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 62,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The components of stress in a body under plane stress condition, in the absence of body forces, is given by:\n$\\sigma_{xx} = Ax^2$; $\\sigma_{yy} = 12x^2 - 6y^2$ and $\\sigma_{xy} = 12xy$.\nThe coefficient, $A$, such that the body is under equilibrium is _____ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The components of stress in a body under plane stress condition, in the absence of body forces, is given by:\n$\\sigma_{xx} = Ax^2$; $\\sigma_{yy} = 12x^2 - 6y^2$ and $\\sigma_{xy} = 12xy$.\nThe coefficient, $A$, such that the body is under equilibrium is _____ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        -6,
+        -6
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            -6,
+            -6
+          ]
+        }
+      ],
+      "displayNumber": "Q.52"
+    },
+    {
+      "id": "gate-2018-ae-ae-63",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 63,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "An axial compressor rotor with 50% degree of reaction, operates with an axial velocity of 200 m/s. The absolute flow angle at the inlet of the rotor is $22^\\circ$ with reference to the axial direction. If the axial velocity is assumed to remain constant through the rotor, the magnitude of the relative velocity (in m/s) at the rotor exit is __________ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "An axial compressor rotor with 50% degree of reaction, operates with an axial velocity of 200 m/s. The absolute flow angle at the inlet of the rotor is $22^\\circ$ with reference to the axial direction. If the axial velocity is assumed to remain constant through the rotor, the magnitude of the relative velocity (in m/s) at the rotor exit is __________ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        215,
+        216.5
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            215,
+            216.5
+          ]
+        }
+      ],
+      "displayNumber": "Q.53"
+    },
+    {
+      "id": "gate-2018-ae-ae-64",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 64,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The relative velocity of air leaving a straight radial impeller of a centrifugal compressor is 100 m/s. If the impeller tip speed is 200 m/s, for a slip free operation, the absolute velocity (in m/s) at the impeller exit is _________ (accurate to one decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The relative velocity of air leaving a straight radial impeller of a centrifugal compressor is 100 m/s. If the impeller tip speed is 200 m/s, for a slip free operation, the absolute velocity (in m/s) at the impeller exit is _________ (accurate to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        222,
+        225
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            222,
+            225
+          ]
+        }
+      ],
+      "displayNumber": "Q.54"
+    },
+    {
+      "id": "gate-2018-ae-ae-65",
+      "exam": "GATE",
+      "year": 2018,
+      "paper": "AE",
+      "number": 65,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "An aircraft wind tunnel model, having a pitch axis mass moment of inertia ($I_{yy}$) of $0.014\\text{ kg-m}^2$, is mounted in such a manner that it has pure pitching motion about its centre of gravity, where it is supported through a frictionless hinge. If the pitching moment ($M$) derivative with respect to angle of attack ($\\alpha$), denoted by '$M_\\alpha$', is $-0.504\\text{ N-m/rad}$ and the pitching moment ($M$) derivative with respect to pitch rate ($q$), denoted by '$M_q$', is $-0.0336\\text{ N-m/(rad/s)}$, the damping ratio of the resulting motion due to an initial disturbance in pitch angle is approximately _________ (accurate to three decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "An aircraft wind tunnel model, having a pitch axis mass moment of inertia ($I_{yy}$) of $0.014\\text{ kg-m}^2$, is mounted in such a manner that it has pure pitching motion about its centre of gravity, where it is supported through a frictionless hinge. If the pitching moment ($M$) derivative with respect to angle of attack ($\\alpha$), denoted by '$M_\\alpha$', is $-0.504\\text{ N-m/rad}$ and the pitching moment ($M$) derivative with respect to pitch rate ($q$), denoted by '$M_q$', is $-0.0336\\text{ N-m/(rad/s)}$, the damping ratio of the resulting motion due to an initial disturbance in pitch angle is approximately _________ (accurate to three decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2018.pdf",
+        "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.195,
+        0.205
+      ],
+      "negativeMarks": 0,
+      "markingRule": "gate-2018-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.195,
+            0.205
+          ]
+        }
+      ],
+      "displayNumber": "Q.55"
+    }
+  ]
+}

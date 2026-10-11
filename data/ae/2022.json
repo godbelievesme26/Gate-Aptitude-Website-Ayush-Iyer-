@@ -1,0 +1,5194 @@
+{
+  "schemaVersion": 1,
+  "id": "gate-2022-ae",
+  "exam": "GATE",
+  "year": 2022,
+  "paper": "AE",
+  "totalQuestions": 65,
+  "totalMarks": 100,
+  "durationMinutes": 180,
+  "sectionOrder": [
+    "GA",
+    "AE"
+  ],
+  "sections": [
+    {
+      "id": "GA",
+      "title": "General Aptitude",
+      "questionIds": [
+        "gate-2022-ae-ga-01",
+        "gate-2022-ae-ga-02",
+        "gate-2022-ae-ga-03",
+        "gate-2022-ae-ga-04",
+        "gate-2022-ae-ga-05",
+        "gate-2022-ae-ga-06",
+        "gate-2022-ae-ga-07",
+        "gate-2022-ae-ga-08",
+        "gate-2022-ae-ga-09",
+        "gate-2022-ae-ga-10"
+      ],
+      "totalMarks": 15
+    },
+    {
+      "id": "AE",
+      "title": "Aerospace Engineering",
+      "questionIds": [
+        "gate-2022-ae-ae-11",
+        "gate-2022-ae-ae-12",
+        "gate-2022-ae-ae-13",
+        "gate-2022-ae-ae-14",
+        "gate-2022-ae-ae-15",
+        "gate-2022-ae-ae-16",
+        "gate-2022-ae-ae-17",
+        "gate-2022-ae-ae-18",
+        "gate-2022-ae-ae-19",
+        "gate-2022-ae-ae-20",
+        "gate-2022-ae-ae-21",
+        "gate-2022-ae-ae-22",
+        "gate-2022-ae-ae-23",
+        "gate-2022-ae-ae-24",
+        "gate-2022-ae-ae-25",
+        "gate-2022-ae-ae-26",
+        "gate-2022-ae-ae-27",
+        "gate-2022-ae-ae-28",
+        "gate-2022-ae-ae-29",
+        "gate-2022-ae-ae-30",
+        "gate-2022-ae-ae-31",
+        "gate-2022-ae-ae-32",
+        "gate-2022-ae-ae-33",
+        "gate-2022-ae-ae-34",
+        "gate-2022-ae-ae-35",
+        "gate-2022-ae-ae-36",
+        "gate-2022-ae-ae-37",
+        "gate-2022-ae-ae-38",
+        "gate-2022-ae-ae-39",
+        "gate-2022-ae-ae-40",
+        "gate-2022-ae-ae-41",
+        "gate-2022-ae-ae-42",
+        "gate-2022-ae-ae-43",
+        "gate-2022-ae-ae-44",
+        "gate-2022-ae-ae-45",
+        "gate-2022-ae-ae-46",
+        "gate-2022-ae-ae-47",
+        "gate-2022-ae-ae-48",
+        "gate-2022-ae-ae-49",
+        "gate-2022-ae-ae-50",
+        "gate-2022-ae-ae-51",
+        "gate-2022-ae-ae-52",
+        "gate-2022-ae-ae-53",
+        "gate-2022-ae-ae-54",
+        "gate-2022-ae-ae-55",
+        "gate-2022-ae-ae-56",
+        "gate-2022-ae-ae-57",
+        "gate-2022-ae-ae-58",
+        "gate-2022-ae-ae-59",
+        "gate-2022-ae-ae-60",
+        "gate-2022-ae-ae-61",
+        "gate-2022-ae-ae-62",
+        "gate-2022-ae-ae-63",
+        "gate-2022-ae-ae-64",
+        "gate-2022-ae-ae-65"
+      ],
+      "totalMarks": 85
+    }
+  ],
+  "questionOrder": [
+    "gate-2022-ae-ga-01",
+    "gate-2022-ae-ga-02",
+    "gate-2022-ae-ga-03",
+    "gate-2022-ae-ga-04",
+    "gate-2022-ae-ga-05",
+    "gate-2022-ae-ga-06",
+    "gate-2022-ae-ga-07",
+    "gate-2022-ae-ga-08",
+    "gate-2022-ae-ga-09",
+    "gate-2022-ae-ga-10",
+    "gate-2022-ae-ae-11",
+    "gate-2022-ae-ae-12",
+    "gate-2022-ae-ae-13",
+    "gate-2022-ae-ae-14",
+    "gate-2022-ae-ae-15",
+    "gate-2022-ae-ae-16",
+    "gate-2022-ae-ae-17",
+    "gate-2022-ae-ae-18",
+    "gate-2022-ae-ae-19",
+    "gate-2022-ae-ae-20",
+    "gate-2022-ae-ae-21",
+    "gate-2022-ae-ae-22",
+    "gate-2022-ae-ae-23",
+    "gate-2022-ae-ae-24",
+    "gate-2022-ae-ae-25",
+    "gate-2022-ae-ae-26",
+    "gate-2022-ae-ae-27",
+    "gate-2022-ae-ae-28",
+    "gate-2022-ae-ae-29",
+    "gate-2022-ae-ae-30",
+    "gate-2022-ae-ae-31",
+    "gate-2022-ae-ae-32",
+    "gate-2022-ae-ae-33",
+    "gate-2022-ae-ae-34",
+    "gate-2022-ae-ae-35",
+    "gate-2022-ae-ae-36",
+    "gate-2022-ae-ae-37",
+    "gate-2022-ae-ae-38",
+    "gate-2022-ae-ae-39",
+    "gate-2022-ae-ae-40",
+    "gate-2022-ae-ae-41",
+    "gate-2022-ae-ae-42",
+    "gate-2022-ae-ae-43",
+    "gate-2022-ae-ae-44",
+    "gate-2022-ae-ae-45",
+    "gate-2022-ae-ae-46",
+    "gate-2022-ae-ae-47",
+    "gate-2022-ae-ae-48",
+    "gate-2022-ae-ae-49",
+    "gate-2022-ae-ae-50",
+    "gate-2022-ae-ae-51",
+    "gate-2022-ae-ae-52",
+    "gate-2022-ae-ae-53",
+    "gate-2022-ae-ae-54",
+    "gate-2022-ae-ae-55",
+    "gate-2022-ae-ae-56",
+    "gate-2022-ae-ae-57",
+    "gate-2022-ae-ae-58",
+    "gate-2022-ae-ae-59",
+    "gate-2022-ae-ae-60",
+    "gate-2022-ae-ae-61",
+    "gate-2022-ae-ae-62",
+    "gate-2022-ae-ae-63",
+    "gate-2022-ae-ae-64",
+    "gate-2022-ae-ae-65"
+  ],
+  "questionRefs": [
+    {
+      "id": "gate-2022-ae-ga-01",
+      "number": 1,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-02",
+      "number": 2,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-03",
+      "number": 3,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-04",
+      "number": 4,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-05",
+      "number": 5,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-06",
+      "number": 6,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-07",
+      "number": 7,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-08",
+      "number": 8,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-09",
+      "number": 9,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ga-10",
+      "number": 10,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-11",
+      "number": 11,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-12",
+      "number": 12,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-13",
+      "number": 13,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-14",
+      "number": 14,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-15",
+      "number": 15,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-16",
+      "number": 16,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-17",
+      "number": 17,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-18",
+      "number": 18,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-19",
+      "number": 19,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-20",
+      "number": 20,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-21",
+      "number": 21,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-22",
+      "number": 22,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-23",
+      "number": 23,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-24",
+      "number": 24,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-25",
+      "number": 25,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-26",
+      "number": 26,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-27",
+      "number": 27,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-28",
+      "number": 28,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-29",
+      "number": 29,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-30",
+      "number": 30,
+      "section": "AE",
+      "marks": 1,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-31",
+      "number": 31,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-32",
+      "number": 32,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-33",
+      "number": 33,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-34",
+      "number": 34,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-35",
+      "number": 35,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-36",
+      "number": 36,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-37",
+      "number": 37,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-38",
+      "number": 38,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-39",
+      "number": 39,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-40",
+      "number": 40,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-41",
+      "number": 41,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-42",
+      "number": 42,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-43",
+      "number": 43,
+      "section": "AE",
+      "marks": 2,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-44",
+      "number": 44,
+      "section": "AE",
+      "marks": 2,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-45",
+      "number": 45,
+      "section": "AE",
+      "marks": 2,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-46",
+      "number": 46,
+      "section": "AE",
+      "marks": 2,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-47",
+      "number": 47,
+      "section": "AE",
+      "marks": 2,
+      "type": "MSQ"
+    },
+    {
+      "id": "gate-2022-ae-ae-48",
+      "number": 48,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-49",
+      "number": 49,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-50",
+      "number": 50,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-51",
+      "number": 51,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-52",
+      "number": 52,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-53",
+      "number": 53,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-54",
+      "number": 54,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-55",
+      "number": 55,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-56",
+      "number": 56,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-57",
+      "number": 57,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-58",
+      "number": 58,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-59",
+      "number": 59,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-60",
+      "number": 60,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-61",
+      "number": 61,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-62",
+      "number": 62,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-63",
+      "number": 63,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-64",
+      "number": 64,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2022-ae-ae-65",
+      "number": 65,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    }
+  ],
+  "questionGroups": [],
+  "marking": {
+    "negativeFraction": {
+      "MCQ": 0.3333333333333333,
+      "MSQ": 0.0,
+      "NAT": 0.0
+    }
+  },
+  "questionTypeCounts": {
+    "MCQ": 30,
+    "MSQ": 12,
+    "NAT": 23
+  },
+  "source": {
+    "file": "internal/ae/AE2022.pdf",
+    "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+    "pageCount": 42
+  },
+  "ingestionStatus": "complete",
+  "verificationStatus": "source-verified",
+  "verifiedOn": "2026-10-07",
+  "questions": [
+    {
+      "id": "gate-2022-ae-ga-01",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 1,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Writing too many things on the ________ while teaching could make the students get _________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "bored / board"
+        },
+        {
+          "label": "B",
+          "text": "board / bored"
+        },
+        {
+          "label": "C",
+          "text": "board / board"
+        },
+        {
+          "label": "D",
+          "text": "bored / bored"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Writing too many things on the ________ while teaching could make the students get _________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ga-02",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 2,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Which one of the following is a representation (not to scale and in bold) of all values of $x$ satisfying the inequality $2 - 5x \\le -\\frac{6x - 5}{3}$ on the real number line?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option A",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-02-option-A.png",
+            "alt": "Number line representation option A.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 2,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-02-option-A.png",
+                "alt": "Number line representation option A.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 2,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "text": "Option B",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-02-option-B.png",
+            "alt": "Number line representation option B.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 2,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-02-option-B.png",
+                "alt": "Number line representation option B.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 2,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "text": "Option C",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-02-option-C.png",
+            "alt": "Number line representation option C.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 2,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-02-option-C.png",
+                "alt": "Number line representation option C.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 2,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "text": "Option D",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-02-option-D.png",
+            "alt": "Number line representation option D.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 2,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-02-option-D.png",
+                "alt": "Number line representation option D.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 2,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Which one of the following is a representation (not to scale and in bold) of all values of $x$ satisfying the inequality $2 - 5x \\le -\\frac{6x - 5}{3}$ on the real number line?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ga-03",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 3,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "If $f(x) = 2 \\ln(\\sqrt{e^x})$, what is the area bounded by $f(x)$ for the interval $[0, 2]$ on the $x$-axis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{2}$"
+        },
+        {
+          "label": "B",
+          "text": "$1$"
+        },
+        {
+          "label": "C",
+          "text": "$2$"
+        },
+        {
+          "label": "D",
+          "text": "$4$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "If $f(x) = 2 \\ln(\\sqrt{e^x})$, what is the area bounded by $f(x)$ for the interval $[0, 2]$ on the $x$-axis?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 3,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ga-04",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 4,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A person was born on the fifth Monday of February in a particular year.\nWhich one of the following statements is correct based on the above information?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The 2nd February of that year is a Tuesday"
+        },
+        {
+          "label": "B",
+          "text": "There will be five Sundays in the month of February in that year"
+        },
+        {
+          "label": "C",
+          "text": "The 1st February of that year is a Sunday"
+        },
+        {
+          "label": "D",
+          "text": "All Mondays of February in that year have even dates"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A person was born on the fifth Monday of February in a particular year.\nWhich one of the following statements is correct based on the above information?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ga-05",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 5,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Which one of the groups given below can be assembled to get the shape that is shown above using each piece only once without overlapping with each other? (rotation and translation operations may be used).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option A",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-05-option-A.png",
+            "alt": "Piece assembly option A.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-05-option-A.png",
+                "alt": "Piece assembly option A.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 5,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "text": "Option B",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-05-option-B.png",
+            "alt": "Piece assembly option B.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-05-option-B.png",
+                "alt": "Piece assembly option B.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 5,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "text": "Option C",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-05-option-C.png",
+            "alt": "Piece assembly option C.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-05-option-C.png",
+                "alt": "Piece assembly option C.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 5,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "text": "Option D",
+          "figure": {
+            "src": "figures/gate-2022-ae-ga-05-option-D.png",
+            "alt": "Piece assembly option D.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ga-05-option-D.png",
+                "alt": "Piece assembly option D.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 5,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Which one of the groups given below can be assembled to get the shape that is shown above using each piece only once without overlapping with each other? (rotation and translation operations may be used)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ga-05-figure-1.png",
+            "alt": "Shape to be assembled from smaller geometric pieces.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ga-05-figure-1.png",
+          "alt": "Shape to be assembled from smaller geometric pieces.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 5,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          },
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "C"
+      ],
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ga-06",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 6,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Fish belonging to species S in the deep sea have skins that are extremely black (ultra-black skin). This helps them not only to avoid predators but also sneakily attack their prey. However, having this extra layer of black pigment results in lower collagen on their skin, making their skin more fragile.\nWhich one of the following is the CORRECT logical inference based on the information in the above passage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Having ultra-black skin is only advantageous to species S"
+        },
+        {
+          "label": "B",
+          "text": "Species S with lower collagen in their skin are at an advantage because it helps them avoid predators"
+        },
+        {
+          "label": "C",
+          "text": "Having ultra-black skin has both advantages and disadvantages to species S"
+        },
+        {
+          "label": "D",
+          "text": "Having ultra-black skin is only disadvantageous to species S but advantageous only to their predators"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Fish belonging to species S in the deep sea have skins that are extremely black (ultra-black skin). This helps them not only to avoid predators but also sneakily attack their prey. However, having this extra layer of black pigment results in lower collagen on their skin, making their skin more fragile.\nWhich one of the following is the CORRECT logical inference based on the information in the above passage?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ga-07",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 7,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "For the past $m$ days, the average daily production at a company was 100 units per day.\nIf today’s production of 180 units changes the average to 110 units per day, what is the value of $m$?",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "For the past $m$ days, the average daily production at a company was 100 units per day.\nIf today’s production of 180 units changes the average to 110 units per day, what is the value of $m$?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ga-08",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 8,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Consider the following functions for non-zero positive integers, $p$ and $q$.\n$$f(p, q) = \\underbrace{p \\times p \\times p \\times \\dots \\times p}_{q\\text{ terms}} = p^q; \\quad f(p, 1) = p$$\n$$g(p, q) = p^{p^{p^{\\cdot^{\\cdot^{\\cdot^{(q\\text{ times})}}}}}; \\quad g(p, 1) = p$$\nWhich one of the following options is correct based on the above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$f(2,2) = g(2,2)$"
+        },
+        {
+          "label": "B",
+          "text": "$f(g(2,2), 2) < f(2, g(2,2))$"
+        },
+        {
+          "label": "C",
+          "text": "$g(2,1) \\ne f(2,1)$"
+        },
+        {
+          "label": "D",
+          "text": "$f(3,2) > g(3,2)$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider the following functions for non-zero positive integers, $p$ and $q$.\n$$f(p, q) = \\underbrace{p \\times p \\times p \\times \\dots \\times p}_{q\\text{ terms}} = p^q; \\quad f(p, 1) = p$$\n$$g(p, q) = p^{p^{p^{\\cdot^{\\cdot^{\\cdot^{(q\\text{ times})}}}}}; \\quad g(p, 1) = p$$\nWhich one of the following options is correct based on the above?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ga-09",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 9,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Four cities P, Q, R and S are connected through one-way routes as shown in the figure. The travel time between any two connected cities is one hour. The boxes beside each city name describe the starting time of first train of the day and their frequency of operation. For example, from city P, the first trains of the day start at 8 AM with a frequency of 90 minutes to each of R and S. A person does not spend additional time at any city other than the waiting time for the next connecting train.\nIf the person starts from R at 7 AM and is required to visit S and return to R, what is the minimum time required?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 hours 30 minutes"
+        },
+        {
+          "label": "B",
+          "text": "3 hours 45 minutes"
+        },
+        {
+          "label": "C",
+          "text": "4 hours 30 minutes"
+        },
+        {
+          "label": "D",
+          "text": "5 hours 15 minutes"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Four cities P, Q, R and S are connected through one-way routes as shown in the figure. The travel time between any two connected cities is one hour. The boxes beside each city name describe the starting time of first train of the day and their frequency of operation. For example, from city P, the first trains of the day start at 8 AM with a frequency of 90 minutes to each of R and S. A person does not spend additional time at any city other than the waiting time for the next connecting train.\nIf the person starts from R at 7 AM and is required to visit S and return to R, what is the minimum time required?"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ga-09-figure-1.png",
+            "alt": "Network graph connecting four cities P, Q, R, and S with train start times and frequencies.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 9,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ga-09-figure-1.png",
+          "alt": "Network graph connecting four cities P, Q, R, and S with train start times and frequencies.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 9,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ga-10",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 10,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Equal sized circular regions are shaded in a square sheet of paper of 1 cm side length. Two cases, case M and case N, are considered as shown in the figures below. In the case M, four circles are shaded in the square sheet and in the case N, nine circles are shaded in the square sheet as shown.\nWhat is the ratio of the areas of unshaded regions of case M to that of case N?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 : 3"
+        },
+        {
+          "label": "B",
+          "text": "1 : 1"
+        },
+        {
+          "label": "C",
+          "text": "3 : 2"
+        },
+        {
+          "label": "D",
+          "text": "2 : 1"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Equal sized circular regions are shaded in a square sheet of paper of 1 cm side length. Two cases, case M and case N, are considered as shown in the figures below. In the case M, four circles are shaded in the square sheet and in the case N, nine circles are shaded in the square sheet as shown.\nWhat is the ratio of the areas of unshaded regions of case M to that of case N?"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ga-10-figure-1.png",
+            "alt": "Square sheets with shaded circles for Case M (4 circles) and Case N (9 circles).",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 10,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ga-10-figure-1.png",
+          "alt": "Square sheets with shaded circles for Case M (4 circles) and Case N (9 circles).",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 10,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          },
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-11",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 11,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The equation of the straight line representing the tangent to the curve $y = x^2$ at the point $(1,1)$ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "$y = 2x - 2$"
+        },
+        {
+          "label": "B",
+          "text": "$x = 2y - 1$"
+        },
+        {
+          "label": "C",
+          "text": "$y - 1 = 2(x - 1)$"
+        },
+        {
+          "label": "D",
+          "text": "$x - 1 = 2(y - 1)$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The equation of the straight line representing the tangent to the curve $y = x^2$ at the point $(1,1)$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-12",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 12,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Let $\\hat{\\imath}, \\hat{\\jmath}$, and $\\hat{k}$ be the unit vectors in the x, y and z directions, respectively. If the vector $\\hat{\\imath} + \\hat{\\jmath}$ is rotated about positive $\\hat{k}$ by $135^\\circ$, one gets",
+      "options": [
+        {
+          "label": "A",
+          "text": "$-\\hat{\\imath}$"
+        },
+        {
+          "label": "B",
+          "text": "$-\\hat{\\jmath}$"
+        },
+        {
+          "label": "C",
+          "text": "$-\\frac{1}{\\sqrt{2}}\\hat{\\jmath}$"
+        },
+        {
+          "label": "D",
+          "text": "$-\\sqrt{2}\\hat{\\imath}$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Let $\\hat{\\imath}, \\hat{\\jmath}$, and $\\hat{k}$ be the unit vectors in the x, y and z directions, respectively. If the vector $\\hat{\\imath} + \\hat{\\jmath}$ is rotated about positive $\\hat{k}$ by $135^\\circ$, one gets"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "D",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-13",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 13,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Let $x$ be a real number and $i = \\sqrt{-1}$. Then the real part of $\\cos(ix)$ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\sinh x$"
+        },
+        {
+          "label": "B",
+          "text": "$\\cosh x$"
+        },
+        {
+          "label": "C",
+          "text": "$\\cos x$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sin x$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Let $x$ be a real number and $i = \\sqrt{-1}$. Then the real part of $\\cos(ix)$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-14",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 14,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The point of maximum entropy on a Fanno-curve in a Temperature-Entropy (T-s) diagram represents the",
+      "options": [
+        {
+          "label": "A",
+          "text": "maximum flow Mach number"
+        },
+        {
+          "label": "B",
+          "text": "minimum flow Mach number"
+        },
+        {
+          "label": "C",
+          "text": "sonic Mach number"
+        },
+        {
+          "label": "D",
+          "text": "normal shock in the flow"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The point of maximum entropy on a Fanno-curve in a Temperature-Entropy (T-s) diagram represents the"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-15",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 15,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Consider a two-dimensional potential flow over a cylinder. If the freestream speed is $U_\\infty$, the maximum speed on the cylinder surface is",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{U_\\infty}{2}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{3U_\\infty}{2}$"
+        },
+        {
+          "label": "C",
+          "text": "$2U_\\infty$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{4U_\\infty}{3}$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a two-dimensional potential flow over a cylinder. If the freestream speed is $U_\\infty$, the maximum speed on the cylinder surface is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-16",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 16,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Consider steady, two-dimensional, incompressible flow over a non-porous flat plate as shown in the figure. For the control volume PQRS, the speed, $u_\\infty$, at section PQ is uniform and the speed at section RS is given by $u(y) = A_0 \\left(\\frac{y}{h}\\right)^n$, where $n$ is a positive integer. The value of $A_0$ for which the flow through section PS will vanish is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{u_\\infty}{n + 1}$"
+        },
+        {
+          "label": "B",
+          "text": "$u_\\infty(n + 1)$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{u_\\infty}{n - 1}$"
+        },
+        {
+          "label": "D",
+          "text": "$u_\\infty(n - 1)$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider steady, two-dimensional, incompressible flow over a non-porous flat plate as shown in the figure. For the control volume PQRS, the speed, $u_\\infty$, at section PQ is uniform and the speed at section RS is given by $u(y) = A_0 \\left(\\frac{y}{h}\\right)^n$, where $n$ is a positive integer. The value of $A_0$ for which the flow through section PS will vanish is:"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-16-figure-1.png",
+            "alt": "Control volume PQRS over a non-porous flat plate showing velocity profiles at PQ and RS.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 14,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-16-figure-1.png",
+          "alt": "Control volume PQRS over a non-porous flat plate showing velocity profiles at PQ and RS.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 14,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-17",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 17,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Consider the velocity distribution, $u(y)$ shown in the figure. For two adjacent fluid layers L1 and L2, the viscous force exerted by L1 on L2 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "to the right"
+        },
+        {
+          "label": "B",
+          "text": "to the left"
+        },
+        {
+          "label": "C",
+          "text": "vertically upwards"
+        },
+        {
+          "label": "D",
+          "text": "vertically downwards"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider the velocity distribution, $u(y)$ shown in the figure. For two adjacent fluid layers L1 and L2, the viscous force exerted by L1 on L2 is"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-17-figure-1.png",
+            "alt": "Velocity distribution u(y) with adjacent fluid layers L1 and L2.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 15,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-17-figure-1.png",
+          "alt": "Velocity distribution u(y) with adjacent fluid layers L1 and L2.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 15,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-18",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 18,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The service ceiling of an airplane is the altitude",
+      "options": [
+        {
+          "label": "A",
+          "text": "at which maximum rate of climb is 100 m/min"
+        },
+        {
+          "label": "B",
+          "text": "beyond which theoretically the airplane cannot sustain level flight"
+        },
+        {
+          "label": "C",
+          "text": "at which maximum power is required for flight"
+        },
+        {
+          "label": "D",
+          "text": "at which maximum rate of climb is 100 ft/min"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The service ceiling of an airplane is the altitude"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 16,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "D",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-19",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 19,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Regarding the horizontal tail of a conventional airplane, which one of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It contributes to $C_{m_\\alpha} < 0$"
+        },
+        {
+          "label": "B",
+          "text": "It makes $C_{m_\\alpha} = 0$"
+        },
+        {
+          "label": "C",
+          "text": "It makes $C_{m_\\alpha} > 0$"
+        },
+        {
+          "label": "D",
+          "text": "It makes $C_{m_0} > 0$ and $C_{m_\\alpha} > 0$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Regarding the horizontal tail of a conventional airplane, which one of the following statements is true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 16,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-20",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 20,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A beam with a symmetrical T-shaped cross-section, as shown in the figure, is subjected to pure bending. The maximum magnitude of the normal stress is realised:",
+      "options": [
+        {
+          "label": "A",
+          "text": "only at the top fibres of the cross-section"
+        },
+        {
+          "label": "B",
+          "text": "only at the bottom fibres of the cross-section"
+        },
+        {
+          "label": "C",
+          "text": "both at the top and bottom fibres of the cross-section"
+        },
+        {
+          "label": "D",
+          "text": "only at the centroidal fibres of the cross-section"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A beam with a symmetrical T-shaped cross-section, as shown in the figure, is subjected to pure bending. The maximum magnitude of the normal stress is realised:"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-20-figure-1.png",
+            "alt": "Symmetrical T-shaped cross-section beam.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 17,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-20-figure-1.png",
+          "alt": "Symmetrical T-shaped cross-section beam.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 17,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 17,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-21",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 21,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A three-member truss is simply supported at Q and R, and loaded at P by a horizontal force $F$ as shown. The force in QR is",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$F$ (tensile)"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{F}{\\sqrt{2}}$ (compressive)"
+        },
+        {
+          "label": "D",
+          "text": "$\\sqrt{2}F$ (tensile)"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A three-member truss is simply supported at Q and R, and loaded at P by a horizontal force $F$ as shown. The force in QR is"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-21-figure-1.png",
+            "alt": "Three-member truss simply supported at Q and R, loaded at P by horizontal force F.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 18,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-21-figure-1.png",
+          "alt": "Three-member truss simply supported at Q and R, loaded at P by horizontal force F.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 18,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 18,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-22",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 22,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The closed thin-walled rectangular channel shown in figure (i) is opened by introducing a sharp cut at the center of the bottom edge, as shown in figure (ii). Which one of the following statements is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Centroids of (i) and (ii) coincide while shear centers do not"
+        },
+        {
+          "label": "B",
+          "text": "Shear centers of (i) and (ii) coincide while centroids do not"
+        },
+        {
+          "label": "C",
+          "text": "Both centroids and shear centers of (i) and (ii) coincide"
+        },
+        {
+          "label": "D",
+          "text": "Neither centroids nor shear centers of (i) and (ii) coincide"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The closed thin-walled rectangular channel shown in figure (i) is opened by introducing a sharp cut at the center of the bottom edge, as shown in figure (ii). Which one of the following statements is correct?"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-22-figure-1.png",
+            "alt": "Thin-walled rectangular channel: closed in figure (i) and cut open in figure (ii).",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 19,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-22-figure-1.png",
+          "alt": "Thin-walled rectangular channel: closed in figure (i) and cut open in figure (ii).",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 19,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 19,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-23",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 23,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The region of highest static temperature in a rocket engine and the region of highest heat flux are ____________, respectively.",
+      "options": [
+        {
+          "label": "A",
+          "text": "nozzle throat and nozzle entry"
+        },
+        {
+          "label": "B",
+          "text": "combustion chamber and nozzle throat"
+        },
+        {
+          "label": "C",
+          "text": "nozzle exit and nozzle throat"
+        },
+        {
+          "label": "D",
+          "text": "nozzle throat and combustion chamber"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The region of highest static temperature in a rocket engine and the region of highest heat flux are ____________, respectively."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 19,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-24",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 24,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "If $\\hat{a}, \\hat{b}, \\hat{c}$ are three mutually perpendicular unit vectors, then $\\hat{a} \\cdot (\\hat{b} \\times \\hat{c})$ can take the value(s)",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$1$"
+        },
+        {
+          "label": "C",
+          "text": "$-1$"
+        },
+        {
+          "label": "D",
+          "text": "$\\infty$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "If $\\hat{a}, \\hat{b}, \\hat{c}$ are three mutually perpendicular unit vectors, then $\\hat{a} \\cdot (\\hat{b} \\times \\hat{c})$ can take the value(s)"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 20,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "C"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-25",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 25,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "Across an oblique shock wave in a calorifically perfect gas,",
+      "options": [
+        {
+          "label": "A",
+          "text": "the stagnation enthalpy changes"
+        },
+        {
+          "label": "B",
+          "text": "the stagnation entropy changes"
+        },
+        {
+          "label": "C",
+          "text": "the stagnation temperature changes"
+        },
+        {
+          "label": "D",
+          "text": "the speed of sound changes"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Across an oblique shock wave in a calorifically perfect gas,"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 20,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "D"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-26",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 26,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "NACA 2412 airfoil has",
+      "options": [
+        {
+          "label": "A",
+          "text": "4% maximum camber with respect to chord"
+        },
+        {
+          "label": "B",
+          "text": "maximum camber at 40% chord"
+        },
+        {
+          "label": "C",
+          "text": "12% maximum thickness to chord ratio"
+        },
+        {
+          "label": "D",
+          "text": "maximum camber at 20% chord"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "NACA 2412 airfoil has"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 21,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "C"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-27",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 27,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "For International Standard Atmosphere (ISA) up to 11 km, which of the following statement(s) is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The hydrostatic/ aerostatic equation is used"
+        },
+        {
+          "label": "B",
+          "text": "The temperature lapse rate is taken as $-10^{-2}\\text{ K/m}$"
+        },
+        {
+          "label": "C",
+          "text": "The sea level conditions are taken as: pressure, $p_0 = 1.01325 \\times 10^5\\text{ Pa}$; temperature, $T_0 = 300\\text{ K}$; density, $\\rho_0 = 1.225\\text{ kg/m}^3$"
+        },
+        {
+          "label": "D",
+          "text": "Air is treated as a perfect gas"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "For International Standard Atmosphere (ISA) up to 11 km, which of the following statement(s) is/are true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 21,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "A",
+        "D"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-28",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 28,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "Let $\\sigma$ and $\\tau$ represent the normal stress and shear stress on a plane, respectively. The Mohr circle(s) that may possibly represent the state of stress at points in a beam of rectangular cross-section under pure bending is/are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option A",
+          "figure": {
+            "src": "figures/gate-2022-ae-ae-28-option-A.png",
+            "alt": "Mohr circle representation option A.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 22,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ae-28-option-A.png",
+                "alt": "Mohr circle representation option A.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 22,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "text": "Option B",
+          "figure": {
+            "src": "figures/gate-2022-ae-ae-28-option-B.png",
+            "alt": "Mohr circle representation option B.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 22,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ae-28-option-B.png",
+                "alt": "Mohr circle representation option B.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 22,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "text": "Option C",
+          "figure": {
+            "src": "figures/gate-2022-ae-ae-28-option-C.png",
+            "alt": "Mohr circle representation option C.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 22,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ae-28-option-C.png",
+                "alt": "Mohr circle representation option C.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 22,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "text": "Option D",
+          "figure": {
+            "src": "figures/gate-2022-ae-ae-28-option-D.png",
+            "alt": "Mohr circle representation option D.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 22,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "content": [
+            {
+              "type": "figure",
+              "asset": {
+                "src": "figures/gate-2022-ae-ae-28-option-D.png",
+                "alt": "Mohr circle representation option D.",
+                "source": {
+                  "file": "internal/ae/AE2022.pdf",
+                  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+                  "page": 22,
+                  "verificationStatus": "source-verified",
+                  "verifiedOn": "2026-10-07"
+                },
+                "verificationStatus": "source-verified",
+                "verifiedOn": "2026-10-07"
+              }
+            }
+          ]
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Let $\\sigma$ and $\\tau$ represent the normal stress and shear stress on a plane, respectively. The Mohr circle(s) that may possibly represent the state of stress at points in a beam of rectangular cross-section under pure bending is/are:"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 22,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "C"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-29",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 29,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "An isotropic linear elastic material point under plane strain condition in the x-y plane always obeys:",
+      "options": [
+        {
+          "label": "A",
+          "text": "out-of-plane normal strain, $\\epsilon_{zz} = 0$"
+        },
+        {
+          "label": "B",
+          "text": "out-of-plane normal stress, $\\sigma_{zz} = 0$"
+        },
+        {
+          "label": "C",
+          "text": "out-of-plane shear stress, $\\tau_{xz} = 0$"
+        },
+        {
+          "label": "D",
+          "text": "out-of-plane shear strain, $\\gamma_{xz} = 0$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "An isotropic linear elastic material point under plane strain condition in the x-y plane always obeys:"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 23,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-30",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 30,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 1,
+      "question": "A high-pressure-ratio multistage axial compressor encounters an extreme loading mismatch during starting. Which of the following technique(s) can be used to alleviate this problem?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blade cooling"
+        },
+        {
+          "label": "B",
+          "text": "Variable angle stator vanes"
+        },
+        {
+          "label": "C",
+          "text": "Blow-off valves"
+        },
+        {
+          "label": "D",
+          "text": "Multi-spool shaft"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A high-pressure-ratio multistage axial compressor encounters an extreme loading mismatch during starting. Which of the following technique(s) can be used to alleviate this problem?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 23,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-31",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 31,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The arc length of the parametric curve: $x = \\cos \\theta$, $y = \\sin \\theta$, $z = \\theta$ from $\\theta = 0$ to $\\theta = 2\\pi$ is equal to ________ (round off to one decimal place).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "The arc length of the parametric curve: $x = \\cos \\theta$, $y = \\sin \\theta$, $z = \\theta$ from $\\theta = 0$ to $\\theta = 2\\pi$ is equal to ________ (round off to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 24,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        8.6,
+        9.1
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-32",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 32,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "An unpowered glider is flying at a glide angle of 10 degrees. Its lift-to-drag ratio is ________ (round off to two decimal places).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "An unpowered glider is flying at a glide angle of 10 degrees. Its lift-to-drag ratio is ________ (round off to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 24,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        5.55,
+        5.8
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-33",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 33,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The two-dimensional plane-stress state at a point is:\n$$\\sigma_{xx} = 110\\text{ MPa}; \\quad \\sigma_{yy} = 30\\text{ MPa}; \\quad \\tau_{xy} = 40\\text{ MPa}$$\nThe normal stress, $\\sigma_n$, on a plane inclined $45^\\circ$ as shown in the figure is ____ MPa (round off to the nearest integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "The two-dimensional plane-stress state at a point is:\n$$\\sigma_{xx} = 110\\text{ MPa}; \\quad \\sigma_{yy} = 30\\text{ MPa}; \\quad \\tau_{xy} = 40\\text{ MPa}$$\nThe normal stress, $\\sigma_n$, on a plane inclined $45^\\circ$ as shown in the figure is ____ MPa (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-33-figure-1.png",
+            "alt": "Two-dimensional plane-stress element showing normal stress sigma_n on plane inclined at 45 degrees.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 24,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-33-figure-1.png",
+          "alt": "Two-dimensional plane-stress element showing normal stress sigma_n on plane inclined at 45 degrees.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 24,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 24,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        109.0,
+        111.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-34",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 34,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "In a static test, a turbofan engine with bypass ratio of 9 has core hot exhaust speed 1.5 times that of fan exhaust speed. The engine is operated at a fuel to air ratio of $f = 0.03$. Both the fan and the core streams have no pressure thrust. The ratio of fan thrust to thrust from the core engine is _____ (round off to one decimal place).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "In a static test, a turbofan engine with bypass ratio of 9 has core hot exhaust speed 1.5 times that of fan exhaust speed. The engine is operated at a fuel to air ratio of $f = 0.03$. Both the fan and the core streams have no pressure thrust. The ratio of fan thrust to thrust from the core engine is _____ (round off to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 25,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        5.7,
+        6.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-35",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 35,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "In a single stage turbine, the hot gases come out of stator/ nozzle at a speed of 500 m/s and at an angle of 70 degrees with the turbine axis as shown. The design speed of the rotor blade is 250 m/s at the mean blade radius. The rotor blade angle, $\\beta$, at the leading edge is ________ degrees (round off to one decimal place).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "In a single stage turbine, the hot gases come out of stator/ nozzle at a speed of 500 m/s and at an angle of 70 degrees with the turbine axis as shown. The design speed of the rotor blade is 250 m/s at the mean blade radius. The rotor blade angle, $\\beta$, at the leading edge is ________ degrees (round off to one decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-35-figure-1.png",
+            "alt": "Turbine stator exit velocity triangle with angle of 70 degrees and blade speed of 250 m/s.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 25,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-35-figure-1.png",
+          "alt": "Turbine stator exit velocity triangle with angle of 70 degrees and blade speed of 250 m/s.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 25,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          },
+          {
+            "page": 25,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        51.5,
+        52.6
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-36",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 36,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "The height of a right circular cone of maximum volume that can be enclosed within a hollow sphere of radius $R$ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "$R$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{5}{4}R$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{4}{3}R$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{3}{2}R$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The height of a right circular cone of maximum volume that can be enclosed within a hollow sphere of radius $R$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 26,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-37",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 37,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Consider the differential equation\n$$\\frac{d^2y}{dx^2} - 2\\frac{dy}{dx} + y = 0$$\nThe boundary conditions are $y = 0$ and $\\frac{dy}{dx} = 1$ at $x = 0$.\nThen the value of $y$ at $x = 1/2$ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$\\sqrt{e}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{\\sqrt{e}}{2}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\sqrt{\\frac{e}{2}}$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider the differential equation\n$$\\frac{d^2y}{dx^2} - 2\\frac{dy}{dx} + y = 0$$\nThe boundary conditions are $y = 0$ and $\\frac{dy}{dx} = 1$ at $x = 0$.\nThen the value of $y$ at $x = 1/2$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 26,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-38",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 38,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Consider the partial differential equation\n$$\\frac{\\partial^2 f}{\\partial x^2} + \\frac{\\partial^2 f}{\\partial y^2} = 0$$\nwhere $x, y$ are real.\nIf $f(x, y) = a(x)b(y)$, where $a(x)$ and $b(y)$ are real functions, which one of the following statements can be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$a(x)$ is a periodic function and $b(y)$ is a linear function"
+        },
+        {
+          "label": "B",
+          "text": "both $a(x)$ and $b(y)$ are exponential functions"
+        },
+        {
+          "label": "C",
+          "text": "$a(x)$ is a periodic function and $b(y)$ is an exponential function"
+        },
+        {
+          "label": "D",
+          "text": "both $a(x)$ and $b(y)$ are periodic functions"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider the partial differential equation\n$$\\frac{\\partial^2 f}{\\partial x^2} + \\frac{\\partial^2 f}{\\partial y^2} = 0$$\nwhere $x, y$ are real.\nIf $f(x, y) = a(x)b(y)$, where $a(x)$ and $b(y)$ are real functions, which one of the following statements can be true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 27,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-39",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 39,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A cylindrical object of diameter 900 mm is designed to move axially in air at 60 m/s. Its drag is estimated on a geometrically half-scaled model in water, assuming flow similarity.\nCoefficients of dynamic viscosity and densities for air and water are $1.86 \\times 10^{-5}\\text{ Pa-s}$, $1.2\\text{ kg/m}^3$ and $1.01 \\times 10^{-3}\\text{ Pa-s}$, $1000\\text{ kg/m}^3$ respectively.\nDrag measured for the model is 2280 N. Drag experienced by the full-scale object is ____ N (rounded off to the nearest integer).",
+      "options": [
+        {
+          "label": "A",
+          "text": "322"
+        },
+        {
+          "label": "B",
+          "text": "644"
+        },
+        {
+          "label": "C",
+          "text": "1288"
+        },
+        {
+          "label": "D",
+          "text": "2576"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A cylindrical object of diameter 900 mm is designed to move axially in air at 60 m/s. Its drag is estimated on a geometrically half-scaled model in water, assuming flow similarity.\nCoefficients of dynamic viscosity and densities for air and water are $1.86 \\times 10^{-5}\\text{ Pa-s}$, $1.2\\text{ kg/m}^3$ and $1.01 \\times 10^{-3}\\text{ Pa-s}$, $1000\\text{ kg/m}^3$ respectively.\nDrag measured for the model is 2280 N. Drag experienced by the full-scale object is ____ N (rounded off to the nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 27,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-40",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 40,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Consider a conventional subsonic fixed-wing airplane. $e$ is the Oswald efficiency factor and $AR$ is the aspect ratio. Corresponding to the minimum $\\left(\\frac{C_D}{C_L^{3/2}}\\right)$, which of the following relations is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{C_D}{C_L^2} = \\frac{1}{\\pi e AR}$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{C_D}{C_L^2} = \\frac{4}{3\\pi e AR}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{C_D}{C_L} = \\frac{1}{\\pi e AR}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{C_D}{\\sqrt{C_L}} = \\frac{1}{\\sqrt{\\pi e AR}}$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a conventional subsonic fixed-wing airplane. $e$ is the Oswald efficiency factor and $AR$ is the aspect ratio. Corresponding to the minimum $\\left(\\frac{C_D}{C_L^{3/2}}\\right)$, which of the following relations is true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 28,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-41",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 41,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A horizontal load $F$ is applied at point R on a two-member truss, as shown in the figure. Both the members are prismatic with cross-sectional area, $A_0$, and made of the same material with Young’s modulus $E$.\nThe horizontal displacement of point R is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{Fl}{EA_0}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{\\sqrt{2}Fl}{EA_0}$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{2Fl}{EA_0}$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A horizontal load $F$ is applied at point R on a two-member truss, as shown in the figure. Both the members are prismatic with cross-sectional area, $A_0$, and made of the same material with Young’s modulus $E$.\nThe horizontal displacement of point R is:"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-41-figure-1.png",
+            "alt": "Two-member truss with horizontal load F applied at point R.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 29,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-41-figure-1.png",
+          "alt": "Two-member truss with horizontal load F applied at point R.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 29,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 29,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-42",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 42,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Which of the following is NOT always true for a combustion process taking place in a closed system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Total number of atoms is conserved"
+        },
+        {
+          "label": "B",
+          "text": "Total number of molecules is conserved"
+        },
+        {
+          "label": "C",
+          "text": "Total number of atoms of each element is conserved"
+        },
+        {
+          "label": "D",
+          "text": "Total mass is conserved"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Which of the following is NOT always true for a combustion process taking place in a closed system?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 30,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-43",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 43,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 2,
+      "question": "The real function $y = \\sin^2(|x|)$ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "continuous for all $x$"
+        },
+        {
+          "label": "B",
+          "text": "differentiable for all $x$"
+        },
+        {
+          "label": "C",
+          "text": "not continuous at $x = 0$"
+        },
+        {
+          "label": "D",
+          "text": "not differentiable at $x = 0$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "The real function $y = \\sin^2(|x|)$ is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 30,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "A",
+        "B"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-44",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 44,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 2,
+      "question": "A convergent nozzle fed from a constant pressure, constant temperature reservoir, is discharging air to atmosphere at 1 bar (absolute) with choked flow at the exit (marked as $Q$).\nFlow through the nozzle can be assumed to be isentropic.\nIf the exit area of the nozzle is increased while all the reservoir parameters and ambient conditions remain the same, then at steady state",
+      "options": [
+        {
+          "label": "A",
+          "text": "the nozzle will remain choked"
+        },
+        {
+          "label": "B",
+          "text": "the nozzle will be un-choked"
+        },
+        {
+          "label": "C",
+          "text": "the Mach number at section P will increase"
+        },
+        {
+          "label": "D",
+          "text": "the Mach number at section P will decrease"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A convergent nozzle fed from a constant pressure, constant temperature reservoir, is discharging air to atmosphere at 1 bar (absolute) with choked flow at the exit (marked as $Q$).\nFlow through the nozzle can be assumed to be isentropic.\nIf the exit area of the nozzle is increased while all the reservoir parameters and ambient conditions remain the same, then at steady state"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-44-figure-1.png",
+            "alt": "Convergent nozzle fed from reservoir discharging air to atmosphere.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 31,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-44-figure-1.png",
+          "alt": "Convergent nozzle fed from reservoir discharging air to atmosphere.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 31,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 31,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "A",
+        "C"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-45",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 45,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 2,
+      "question": "For a conventional airplane in straight, level, constant velocity flight condition, which of the following condition(s) is/are possible on Euler angles $(\\phi, \\theta, \\psi)$, angle of attack $(\\alpha)$ and the sideslip angle $(\\beta)$?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\phi = 0^\\circ, \\theta = 2^\\circ, \\psi = 0^\\circ, \\alpha = 2^\\circ, \\beta = 0^\\circ$"
+        },
+        {
+          "label": "B",
+          "text": "$\\phi = 5^\\circ, \\theta = 0^\\circ, \\psi = 0^\\circ, \\alpha = 2^\\circ, \\beta = 0^\\circ$"
+        },
+        {
+          "label": "C",
+          "text": "$\\phi = 0^\\circ, \\theta = 3^\\circ, \\psi = 0^\\circ, \\alpha = 3^\\circ, \\beta = 5^\\circ$"
+        },
+        {
+          "label": "D",
+          "text": "$\\phi = 0^\\circ, \\theta = 5^\\circ, \\psi = 0^\\circ, \\alpha = 2^\\circ, \\beta = 5^\\circ$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "For a conventional airplane in straight, level, constant velocity flight condition, which of the following condition(s) is/are possible on Euler angles $(\\phi, \\theta, \\psi)$, angle of attack $(\\alpha)$ and the sideslip angle $(\\beta)$?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 32,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "A"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-46",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 46,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 2,
+      "question": "Consider a high Earth-orbiting satellite of angular momentum per unit mass $\\vec{h}$ and eccentricity $e$.\nThe mass of the Earth is $M$ and $G$ is the universal gravitational constant.\nThe distance between the satellite’s center of mass and the Earth’s center of mass is $r$, the true anomaly is $\\theta$, and the phase angle is zero.\nWhich of the following statements is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The trajectory equation is $r = r(\\theta) = \\frac{|\\vec{h}|}{GM(1 + e\\cos\\theta)}$"
+        },
+        {
+          "label": "B",
+          "text": "The trajectory equation is $r = r(\\theta) = \\frac{|\\vec{h}|^2}{GM(1 + e\\cos\\theta)}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\vec{h}$ is conserved"
+        },
+        {
+          "label": "D",
+          "text": "The sum of potential energy and kinetic energy of the satellite is conserved"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a high Earth-orbiting satellite of angular momentum per unit mass $\\vec{h}$ and eccentricity $e$.\nThe mass of the Earth is $M$ and $G$ is the universal gravitational constant.\nThe distance between the satellite’s center of mass and the Earth’s center of mass is $r$, the true anomaly is $\\theta$, and the phase angle is zero.\nWhich of the following statements is/are true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 32,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-47",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 47,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MSQ",
+      "marks": 2,
+      "question": "A rocket operates at an absolute chamber pressure of 20 bar to produce thrust, $F_1$.\nThe hot exhaust is optimally expanded to 1 bar (absolute pressure) using a convergent-divergent nozzle with exit to throat area ratio $\\left(\\frac{A_e}{A_t}\\right)$ of 3.5 and thrust coefficient, $C_{F,1} = 1.42$.\nThe same rocket when operated at an absolute chamber pressure of 50 bar produces thrust $F_2$ and the thrust coefficient is $C_{F,2}$.\nWhich of the following statement(s) is/are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{F_2}{F_1} = 2.5$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{F_2}{F_1} > 2.5$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{C_{F,2}}{C_{F,1}} = 1$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{C_{F,2}}{C_{F,1}} > 1$"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "text": "A rocket operates at an absolute chamber pressure of 20 bar to produce thrust, $F_1$.\nThe hot exhaust is optimally expanded to 1 bar (absolute pressure) using a convergent-divergent nozzle with exit to throat area ratio $\\left(\\frac{A_e}{A_t}\\right)$ of 3.5 and thrust coefficient, $C_{F,1} = 1.42$.\nThe same rocket when operated at an absolute chamber pressure of 50 bar produces thrust $F_2$ and the thrust coefficient is $C_{F,2}$.\nWhich of the following statement(s) is/are correct?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 33,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        "B",
+        "D"
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-48",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 48,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "$\\vec{v} = x^3\\hat{\\imath} + y^3\\hat{\\jmath} + z^3\\hat{k}$ is a vector field where $\\hat{\\imath}, \\hat{\\jmath}, \\hat{k}$ are the base vectors of a cartesian coordinate system.\nUsing the Gauss divergence theorem, the value of the outward flux of the vector field over the surface of a sphere of unit radius centered at the origin is________ (rounded off to one decimal place).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "$\\vec{v} = x^3\\hat{\\imath} + y^3\\hat{\\jmath} + z^3\\hat{k}$ is a vector field where $\\hat{\\imath}, \\hat{\\jmath}, \\hat{k}$ are the base vectors of a cartesian coordinate system.\nUsing the Gauss divergence theorem, the value of the outward flux of the vector field over the surface of a sphere of unit radius centered at the origin is________ (rounded off to one decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 33,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        7.4,
+        7.7
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-49",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 49,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The largest eigenvalue of the given matrix is _____.\n$$\\begin{bmatrix} 0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0 \\end{bmatrix}$$",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "The largest eigenvalue of the given matrix is _____.\n$$\\begin{bmatrix} 0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0 \\end{bmatrix}$$"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 34,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": 2,
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-50",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 50,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A rotational velocity field in an air flow is given as $\\vec{V} = ay\\hat{\\imath} + bx\\hat{\\jmath}$, with $a = 10\\text{ s}^{-1}, b = 20\\text{ s}^{-1}$.\nThe air density is $1.0\\text{ kg/m}^3$ and the pressure at $(x, y) = (0\\text{ m}, 0\\text{ m})$ is 100 kPa.\nNeglecting gravity, the pressure at $(x, y) = (6\\text{ m}, 8\\text{ m})$ is _____ kPa (rounded off to nearest integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A rotational velocity field in an air flow is given as $\\vec{V} = ay\\hat{\\imath} + bx\\hat{\\jmath}$, with $a = 10\\text{ s}^{-1}, b = 20\\text{ s}^{-1}$.\nThe air density is $1.0\\text{ kg/m}^3$ and the pressure at $(x, y) = (0\\text{ m}, 0\\text{ m})$ is 100 kPa.\nNeglecting gravity, the pressure at $(x, y) = (6\\text{ m}, 8\\text{ m})$ is _____ kPa (rounded off to nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 34,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        88.0,
+        91.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-51",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 51,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider a circulation distribution over a finite wing given by the equation below.\n$$\\Gamma(y) = \\begin{cases} \\Gamma_0\\left(1 - \\frac{2y}{b}\\right) & \\text{if } 0 \\le y \\le \\frac{b}{2} \\\\[6pt] \\Gamma_0\\left(1 + \\frac{2y}{b}\\right) & \\text{if } -\\frac{b}{2} \\le y \\le 0 \\end{cases}$$\nThe wingspan $b$ is 10 m, the maximum circulation $\\Gamma_0$ is 20 m$^2$/s, density of air is 1.2 kg/m$^3$ and the free stream speed is 80 m/s.\nThe lift over the wing is ______N (rounded off to the nearest integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a circulation distribution over a finite wing given by the equation below.\n$$\\Gamma(y) = \\begin{cases} \\Gamma_0\\left(1 - \\frac{2y}{b}\\right) & \\text{if } 0 \\le y \\le \\frac{b}{2} \\\\[6pt] \\Gamma_0\\left(1 + \\frac{2y}{b}\\right) & \\text{if } -\\frac{b}{2} \\le y \\le 0 \\end{cases}$$\nThe wingspan $b$ is 10 m, the maximum circulation $\\Gamma_0$ is 20 m$^2$/s, density of air is 1.2 kg/m$^3$ and the free stream speed is 80 m/s.\nThe lift over the wing is ______N (rounded off to the nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 34,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        9500.0,
+        9800.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-52",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 52,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider a solid cylinder housed inside another cylinder as shown in the figure.\nRadius of the inner cylinder is 1 m and its height is 2 m. The gap between the cylinders is 5 mm and is filled with a fluid of viscosity $10^{-4}\\text{ Pa-s}$.\nThe inner cylinder is rotating at a constant angular speed of 5 rad/s while the outer cylinder is stationary. Friction at the bottom surfaces can be ignored. Velocity profile in the vertical gap between the cylinders can be assumed to be linear.\nThe driving moment required for the rotating motion of the inner cylinder is ____________ Nm (rounded off to two decimal places).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a solid cylinder housed inside another cylinder as shown in the figure.\nRadius of the inner cylinder is 1 m and its height is 2 m. The gap between the cylinders is 5 mm and is filled with a fluid of viscosity $10^{-4}\\text{ Pa-s}$.\nThe inner cylinder is rotating at a constant angular speed of 5 rad/s while the outer cylinder is stationary. Friction at the bottom surfaces can be ignored. Velocity profile in the vertical gap between the cylinders can be assumed to be linear.\nThe driving moment required for the rotating motion of the inner cylinder is ____________ Nm (rounded off to two decimal places)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-52-figure-1.png",
+            "alt": "Solid cylinder rotating at 5 rad/s inside stationary outer cylinder with fluid gap.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 35,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-52-figure-1.png",
+          "alt": "Solid cylinder rotating at 5 rad/s inside stationary outer cylinder with fluid gap.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 35,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 35,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        1.24,
+        1.28
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-53",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 53,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "In a converging duct, area and velocity at section P are 1 m$^2$ and 15 m/s, respectively. The temperature of the fluid is 300 K.\nAir flow through the nozzle can be assumed to be inviscid and isothermal.\nCharacteristic gas constant is 287 J/(kg-K) and ratio of specific heats is 1.4 for air.\nTo ensure that the air flow remains incompressible (Mach number, $M \\le 0.3$) in the duct, the minimum area required at section Q is _____ m$^2$ (rounded off to two decimal places).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "In a converging duct, area and velocity at section P are 1 m$^2$ and 15 m/s, respectively. The temperature of the fluid is 300 K.\nAir flow through the nozzle can be assumed to be inviscid and isothermal.\nCharacteristic gas constant is 287 J/(kg-K) and ratio of specific heats is 1.4 for air.\nTo ensure that the air flow remains incompressible (Mach number, $M \\le 0.3$) in the duct, the minimum area required at section Q is _____ m$^2$ (rounded off to two decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 36,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.14,
+        0.15
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-54",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 54,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider a thin symmetric airfoil at 2 degree angle of attack in a uniform flow at 50 m/s. The pitching moment coefficient about its leading edge is _____ (rounded off to three decimal places).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider a thin symmetric airfoil at 2 degree angle of attack in a uniform flow at 50 m/s. The pitching moment coefficient about its leading edge is _____ (rounded off to three decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 36,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        -0.057,
+        -0.053
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-55",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 55,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A convergent-divergent nozzle with adiabatic walls is designed for an exit Mach number of 2.3. It is discharging air to atmosphere under the conditions indicated in the figure.\nFlow through the nozzle is inviscid, the characteristic gas constant for air is 287 J/(kg-K), and $\\gamma = 1.4$.\nWhen the reservoir pressure is 25 bar (absolute), and temperature is 300 K, Prandtl-Meyer expansion waves appear at the nozzle exit as shown.\nThe minimum percentage change in the reservoir pressure required to eliminate the wave system at the nozzle exit under steady state is _______%.",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A convergent-divergent nozzle with adiabatic walls is designed for an exit Mach number of 2.3. It is discharging air to atmosphere under the conditions indicated in the figure.\nFlow through the nozzle is inviscid, the characteristic gas constant for air is 287 J/(kg-K), and $\\gamma = 1.4$.\nWhen the reservoir pressure is 25 bar (absolute), and temperature is 300 K, Prandtl-Meyer expansion waves appear at the nozzle exit as shown.\nThe minimum percentage change in the reservoir pressure required to eliminate the wave system at the nozzle exit under steady state is _______%."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-55-figure-1.png",
+            "alt": "Convergent-divergent nozzle discharging air with Prandtl-Meyer expansion waves at nozzle exit.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 37,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-55-figure-1.png",
+          "alt": "Convergent-divergent nozzle discharging air with Prandtl-Meyer expansion waves at nozzle exit.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 37,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 37,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        [
+          49.0,
+          51.0
+        ],
+        [
+          -51.0,
+          -49.0
+        ]
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true,
+      "acceptedAnswers": [
+        [
+          49.0,
+          51.0
+        ],
+        [
+          -51.0,
+          -49.0
+        ]
+      ]
+    },
+    {
+      "id": "gate-2022-ae-ae-56",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 56,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A conventional airplane of mass 5000 kg is doing a level turn of radius 1000 m at a constant speed of 100 m/s at sea level.\nTaking the acceleration due to gravity as 10 m/s$^2$, the bank angle of the airplane is _________ degrees.",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A conventional airplane of mass 5000 kg is doing a level turn of radius 1000 m at a constant speed of 100 m/s at sea level.\nTaking the acceleration due to gravity as 10 m/s$^2$, the bank angle of the airplane is _________ degrees."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 37,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        44.0,
+        46.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-57",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 57,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Given: The tip deflection and tip slope for a tip loaded cantilever of length $L$ are: $\\frac{N L^3}{3EI}$ and $\\frac{N L^2}{2EI}$, respectively, where $N$ is the tip force and $EI$ is the flexural rigidity.\nA cantilever $PQ$ of rectangular cross-section is subjected to transverse load, $F$, at its mid-point. Two cases are considered as shown in the figure. In Case I, the end $Q$ is free and in Case II, $Q$ is simply supported.\nThe ratio of the magnitude of the maximum bending stress at $P$ in Case I to that in Case II is ________ (rounded off to one decimal place).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "Given: The tip deflection and tip slope for a tip loaded cantilever of length $L$ are: $\\frac{N L^3}{3EI}$ and $\\frac{N L^2}{2EI}$, respectively, where $N$ is the tip force and $EI$ is the flexural rigidity.\nA cantilever $PQ$ of rectangular cross-section is subjected to transverse load, $F$, at its mid-point. Two cases are considered as shown in the figure. In Case I, the end $Q$ is free and in Case II, $Q$ is simply supported.\nThe ratio of the magnitude of the maximum bending stress at $P$ in Case I to that in Case II is ________ (rounded off to one decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-57-figure-1.png",
+            "alt": "Cantilever PQ under transverse load F at mid-point: Case I (free end Q) and Case II (simply supported Q).",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 38,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-57-figure-1.png",
+          "alt": "Cantilever PQ under transverse load F at mid-point: Case I (free end Q) and Case II (simply supported Q).",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 38,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 38,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        2.6,
+        2.7
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-58",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 58,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A simply supported Aluminium column of length 1 m and rectangular cross-section $w \\times t$ with $t \\le w$, is subjected to axial compressive loading.\nYoung’s modulus is 70 GPa. Yield stress under uniaxial compression is 120 MPa.\nThe value of $t$ at which the failure load for yielding and buckling coincide is _______mm.",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A simply supported Aluminium column of length 1 m and rectangular cross-section $w \\times t$ with $t \\le w$, is subjected to axial compressive loading.\nYoung’s modulus is 70 GPa. Yield stress under uniaxial compression is 120 MPa.\nThe value of $t$ at which the failure load for yielding and buckling coincide is _______mm."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 38,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        43.0,
+        48.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-59",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 59,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A 0.5 m long thin-walled circular shaft of radius 2 cm is to be designed for an axial load of 7.4 kN and a torque of 148 Nm applied at its tip, as shown in the figure.\nThe allowable stress under uniaxial tension is 100 MPa.\nUsing maximum principal stress criterion, the minimum thickness, $t$, of the shaft so that it does not fail is _____ mm (rounded off to the nearest integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A 0.5 m long thin-walled circular shaft of radius 2 cm is to be designed for an axial load of 7.4 kN and a torque of 148 Nm applied at its tip, as shown in the figure.\nThe allowable stress under uniaxial tension is 100 MPa.\nUsing maximum principal stress criterion, the minimum thickness, $t$, of the shaft so that it does not fail is _____ mm (rounded off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-59-figure-1.png",
+            "alt": "Thin-walled circular shaft of radius 2 cm subjected to axial load 7.4 kN and torque 148 Nm.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 39,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-59-figure-1.png",
+          "alt": "Thin-walled circular shaft of radius 2 cm subjected to axial load 7.4 kN and torque 148 Nm.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 39,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 39,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": 1,
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-60",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 60,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A 10 kN axial load is applied eccentrically on a rod of square cross-section (1 cm $\\times$ 1 cm) as shown in the figure.\nThe strains measured by the two strain gages attached to the top and bottom surfaces at a distance of 0.5 m from the tip are $\\epsilon_1 = 0.0016$ and $\\epsilon_2 = 0.0004$, respectively.\nThe eccentricity in loading, $e$ is _________mm.",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A 10 kN axial load is applied eccentrically on a rod of square cross-section (1 cm $\\times$ 1 cm) as shown in the figure.\nThe strains measured by the two strain gages attached to the top and bottom surfaces at a distance of 0.5 m from the tip are $\\epsilon_1 = 0.0016$ and $\\epsilon_2 = 0.0004$, respectively.\nThe eccentricity in loading, $e$ is _________mm."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-60-figure-1.png",
+            "alt": "Square cross-section rod with eccentrically applied 10 kN axial load and strain gages.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 39,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-60-figure-1.png",
+          "alt": "Square cross-section rod with eccentrically applied 10 kN axial load and strain gages.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 39,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 39,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        0.95,
+        1.05
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-61",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 61,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "For a thin-walled I section, the width of the two flanges as well as the web height are the same, i.e., $2b = 20\\text{ mm}$. Thickness is 0.6 mm.\nThe second moment of area about a horizontal axis passing through the centroid is ______ mm$^4$.",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "For a thin-walled I section, the width of the two flanges as well as the web height are the same, i.e., $2b = 20\\text{ mm}$. Thickness is 0.6 mm.\nThe second moment of area about a horizontal axis passing through the centroid is ______ mm$^4$."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-61-figure-1.png",
+            "alt": "Thin-walled I-section with flange width 2b = 20 mm and web height 20 mm.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 40,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-61-figure-1.png",
+          "alt": "Thin-walled I-section with flange width 2b = 20 mm and web height 20 mm.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 40,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 40,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        2700.0,
+        2960.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-62",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 62,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A damper with damping coefficient, $c$, is attached to a mass of 5 kg and spring of stiffness 5 kN/m as shown in figure. The system undergoes under-damped oscillations.\nIf the ratio of the 3rd amplitude to the 4th amplitude of oscillations is 1.5, the value of $c$ is ____ Ns/m (rounded off to the nearest integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A damper with damping coefficient, $c$, is attached to a mass of 5 kg and spring of stiffness 5 kN/m as shown in figure. The system undergoes under-damped oscillations.\nIf the ratio of the 3rd amplitude to the 4th amplitude of oscillations is 1.5, the value of $c$ is ____ Ns/m (rounded off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-62-figure-1.png",
+            "alt": "Under-damped spring-mass-damper system with mass 5 kg and stiffness 5 kN/m.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 40,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-62-figure-1.png",
+          "alt": "Under-damped spring-mass-damper system with mass 5 kg and stiffness 5 kN/m.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 40,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 40,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        19.0,
+        21.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-63",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 63,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A uniform rigid prismatic bar of total mass $m$ is suspended from a ceiling by two identical springs as shown in figure.\nLet $\\omega_1$ and $\\omega_2$ be the natural frequencies of mode I and mode II respectively ($\\omega_1 < \\omega_2$).\nThe value of $\\omega_2/\\omega_1$ is _________ (rounded off to one decimal place).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A uniform rigid prismatic bar of total mass $m$ is suspended from a ceiling by two identical springs as shown in figure.\nLet $\\omega_1$ and $\\omega_2$ be the natural frequencies of mode I and mode II respectively ($\\omega_1 < \\omega_2$).\nThe value of $\\omega_2/\\omega_1$ is _________ (rounded off to one decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2022-ae-ae-63-figure-1.png",
+            "alt": "Uniform rigid prismatic bar of mass m suspended by two identical springs.",
+            "source": {
+              "file": "internal/ae/AE2022.pdf",
+              "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+              "page": 41,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2022-ae-ae-63-figure-1.png",
+          "alt": "Uniform rigid prismatic bar of mass m suspended by two identical springs.",
+          "source": {
+            "file": "internal/ae/AE2022.pdf",
+            "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+            "page": 41,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 41,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        1.7,
+        1.8
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": true
+    },
+    {
+      "id": "gate-2022-ae-ae-64",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 64,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "An ideal ramjet is to operate with exhaust gases optimally expanded to ambient pressure at an altitude where temperature is 220 K. The exhaust speed at the nozzle exit is 1200 m/s at a temperature of 1100 K.\nGiven: $\\gamma = 1.4$ at 220 K; $R = 287\\text{ J/(kg-K)}$ for air\n$\\gamma = 1.33$ at 1100 K; $R = 287\\text{ J/(kg-K)}$ for exhaust gases.\nThe cruise speed of this ramjet is ________ m/s (rounded off to nearest integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "An ideal ramjet is to operate with exhaust gases optimally expanded to ambient pressure at an altitude where temperature is 220 K. The exhaust speed at the nozzle exit is 1200 m/s at a temperature of 1100 K.\nGiven: $\\gamma = 1.4$ at 220 K; $R = 287\\text{ J/(kg-K)}$ for air\n$\\gamma = 1.33$ at 1100 K; $R = 287\\text{ J/(kg-K)}$ for exhaust gases.\nThe cruise speed of this ramjet is ________ m/s (rounded off to nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 41,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        545.0,
+        555.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    },
+    {
+      "id": "gate-2022-ae-ae-65",
+      "exam": "GATE",
+      "year": 2022,
+      "paper": "AE",
+      "number": 65,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A multistage axial compressor takes in air at 1 atm, 300 K and compresses it to a minimum of 5 atm.\nThe mean blade speed is 245 m/s and work coefficient, $\\frac{\\Delta C_\\theta}{U}$ is 0.55 for each stage.\nFor air, use $C_p = 1005\\text{ J/(kg-K)}$, $R = 287\\text{ J/(kg-K)}$ and $\\gamma = 1.4$.\nIf the compression is isentropic, the number of stages required is ___________ (rounded off to the next higher integer).",
+      "options": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "A multistage axial compressor takes in air at 1 atm, 300 K and compresses it to a minimum of 5 atm.\nThe mean blade speed is 245 m/s and work coefficient, $\\frac{\\Delta C_\\theta}{U}$ is 0.55 for each stage.\nFor air, use $C_p = 1005\\text{ J/(kg-K)}$, $R = 287\\text{ J/(kg-K)}$ and $\\gamma = 1.4$.\nIf the compression is isentropic, the number of stages required is ___________ (rounded off to the next higher integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2022.pdf",
+        "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+        "pages": [
+          {
+            "page": 26,
+            "coordinateSystem": "PDF points, top-left origin"
+          },
+          {
+            "page": 42,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "answer": [
+        6.0,
+        6.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2022-official",
+      "hasFigure": false
+    }
+  ]
+}

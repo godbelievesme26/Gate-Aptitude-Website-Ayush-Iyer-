@@ -1,0 +1,814 @@
+{
+  "schemaVersion": 1,
+  "day": 15,
+  "year": 2025,
+  "paper": "EE",
+  "title": "GATE 2025 · EE · General Aptitude",
+  "source": "Aptitude Sets/2025/EE.pdf",
+  "answerKeyStatus": "official GATE 2025 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2025-ee-ga-01",
+      "number": 1,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Kavya _________ go to work yesterday as she __________ feeling well. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "didn’t; isn’t"
+        },
+        {
+          "label": "B",
+          "text": "wouldn’t; wasn’t"
+        },
+        {
+          "label": "C",
+          "text": "wasn’t; wasn’t"
+        },
+        {
+          "label": "D",
+          "text": "couldn’t; wasn’t"
+        }
+      ],
+      "sourceImage": "figures/day15-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              156.41,
+              565.32,
+              372.53
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The sentence describes inability to go yesterday because of illness. “Couldn’t” expresses that inability and “wasn’t feeling well” supplies the matching past tense. “Wouldn’t” would suggest unwillingness, not the stated inability. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ee-ga-02",
+      "number": 2,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Good : Evil :: Genuine : _______ Select the most appropriate option to complete the analogy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Counterfeit"
+        },
+        {
+          "label": "B",
+          "text": "Contraband"
+        },
+        {
+          "label": "C",
+          "text": "Counterfoil"
+        },
+        {
+          "label": "D",
+          "text": "Counterpart"
+        }
+      ],
+      "sourceImage": "figures/day15-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              324.29
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The analogy uses opposites: good versus evil, and genuine versus counterfeit. “Counterfeit” means fake; the other alternatives do not mean the opposite of genuine. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ee-ga-03",
+      "number": 3,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The relationship between two variables x and y is given by x+py+q = 0 and is shown in the figure. Find the values of p and q. Note: The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "p = −1/2; q = 2"
+        },
+        {
+          "label": "B",
+          "text": "p = 2; q = −2"
+        },
+        {
+          "label": "C",
+          "text": "p = 1/2; q = 4"
+        },
+        {
+          "label": "D",
+          "text": "p = 2; q = 4"
+        }
+      ],
+      "sourceImage": "figures/day15-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              605.95
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The graph passes through (0,4) and (−2,0). In x+py+q=0, the second point gives q=2. The first then gives 4p+2=0, so p=−1/2. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ee-ga-03-figure-1.png",
+          "alt": "Straight line through the graph points (-2,0), (0,4) and (3,10).",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 3,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "pdfCrop": [
+              127,
+              195,
+              477,
+              403
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ee-ga-04",
+      "number": 4,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Each row of Column-I has three items and each item is represented by a circle in Column-II. The arrangement of circles in Column-II represents the relationship among the items in Column-I. Identify the option that has the most appropriate match between Column-I and Column-II. Note: The figures shown are representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) – (Q); (2) – (P); (3) – (S); (4) – (R)"
+        },
+        {
+          "label": "B",
+          "text": "(1) – (Q); (2) – (R); (3) – (S); (4) – (P)"
+        },
+        {
+          "label": "C",
+          "text": "(1) – (S); (2) – (P); (3) – (R); (4) – (Q)"
+        },
+        {
+          "label": "D",
+          "text": "(1) – (R); (2) – (S); (3) – (Q); (4) – (P)"
+        }
+      ],
+      "sourceImage": "figures/day15-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              734.14
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "table": {
+        "headers": [
+          "Column-I"
+        ],
+        "rows": [
+          [
+            "(1) Animals, Zebra, Giraffe"
+          ],
+          [
+            "(2) Director, Producer, Actor"
+          ],
+          [
+            "(3) Word, Sentence, Novel"
+          ],
+          [
+            "(4) Pianist, Guitarist, Instrumentalist"
+          ]
+        ]
+      },
+      "solution": "Zebra and giraffe are disjoint subsets of animals: Q. Director, producer and actor may overlap without any category containing all the others: R. Words sit within sentences and sentences within novels: S. Pianists and guitarists are potentially overlapping subsets of instrumentalists: P. Hence (1)–Q,(2)–R,(3)–S,(4)–P, option B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ee-ga-04-figure-1.png",
+          "alt": "Diagram P: two overlapping small circles inside a larger circle.",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 4,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "pdfCrop": [
+              389,
+              285,
+              450,
+              341
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Column-II · (P)"
+        },
+        {
+          "src": "figures/gate-2025-ee-ga-04-figure-2.png",
+          "alt": "Diagram Q: two disjoint small circles inside a larger circle.",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 4,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "pdfCrop": [
+              389,
+              358,
+              450,
+              416
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Column-II · (Q)"
+        },
+        {
+          "src": "figures/gate-2025-ee-ga-04-figure-3.png",
+          "alt": "Diagram R: three overlapping circles with a common central region.",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 4,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "pdfCrop": [
+              389,
+              432,
+              450,
+              482
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Column-II · (R)"
+        },
+        {
+          "src": "figures/gate-2025-ee-ga-04-figure-4.png",
+          "alt": "Diagram S: three nested circles.",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 4,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "pdfCrop": [
+              389,
+              505,
+              450,
+              565
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          },
+          "caption": "Column-II · (S)"
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ee-ga-05",
+      "number": 5,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "What is the value of (3^{81}/27^{4})^{1/3}?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3^{13}"
+        },
+        {
+          "label": "B",
+          "text": "3^{96}"
+        },
+        {
+          "label": "C",
+          "text": "3^{23}"
+        },
+        {
+          "label": "D",
+          "text": "3^{69}"
+        }
+      ],
+      "sourceImage": "figures/day15-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              154.01,
+              565.32,
+              365.81
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Write every term as a power of 3: 27 = 3³, so 27⁴ = 3¹². Dividing powers with the same base subtracts exponents: 3⁸¹/3¹² = 3⁶⁹. Taking the cube root divides the exponent by 3, giving 3²³. Choose C; 3⁶⁹ is the value before taking the cube root.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ee-ga-06",
+      "number": 6,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\nP. It is because deer, like most of the animals that tigers normally prey on, run much faster! It simply means, another day of empty stomach for the big cats.\nQ. Tigers spend most of their life searching for food.\nR. If they trace the scent of deer, tigers follow the trail, chase the deer for a mile or two in the dark, and yet may not catch them.\nS. For several nights, they relentlessly prowl through the forest, hunting for a trail that may lead to their prey.",
+      "options": [
+        {
+          "label": "A",
+          "text": "S → P → R → Q"
+        },
+        {
+          "label": "B",
+          "text": "R → P → S → Q"
+        },
+        {
+          "label": "C",
+          "text": "Q → S → R → P"
+        },
+        {
+          "label": "D",
+          "text": "P → Q → S → R"
+        }
+      ],
+      "sourceImage": "figures/day15-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              131.09,
+              565.32,
+              485.11
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Q introduces the tigers’ search for food. S describes their repeated nightly search. R gives the pursuit of a deer as an example, and P explains why that pursuit may fail. Hence Q→S→R→P, option C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ee-ga-07",
+      "number": 7,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In the given figure, EF and HJ are coded as 30 and 80, respectively. Which one among the given options is most appropriate for the entries marked (i) and (ii) ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i) EH; (ii) 40"
+        },
+        {
+          "label": "B",
+          "text": "(i) JK; (ii) 36"
+        },
+        {
+          "label": "C",
+          "text": "(i) EG; (ii) 42"
+        },
+        {
+          "label": "D",
+          "text": "(i) PS; (ii) 14"
+        }
+      ],
+      "sourceImage": "figures/day15-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              531.19
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Each letter pair is coded by multiplying its alphabetical positions, with the code in the opposite sector: EF=5×6=30 and HJ=8×10=80. The pair opposite 35 must be EG=5×7, and FG gives 6×7=42. Thus (i)=EG and (ii)=42, option C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ee-ga-07-figure-1.png",
+          "alt": "Eight sectors show clockwise from top: HIJ, (i), (ii), 30, 80, 35, FG, EF.",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 7,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "pdfCrop": [
+              188,
+              161,
+              394,
+              364
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ee-ga-08",
+      "number": 8,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Scores obtained by two students P and Q in seven courses are given in the table below. Based on the information given in the table, which one of the following statements is INCORRECT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Average score of P is less than the average score of Q."
+        },
+        {
+          "label": "B",
+          "text": "Median score of P is same as the median score of Q."
+        },
+        {
+          "label": "C",
+          "text": "Difference between the maximum and minimum scores of P is greater than the difference between the maximum and minimum scores of Q."
+        },
+        {
+          "label": "D",
+          "text": "Median score and the average score of Q are same."
+        }
+      ],
+      "sourceImage": "figures/day15-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              455.71
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "label": "Scores in seven courses",
+        "rowHeaders": true,
+        "rows": [
+          [
+            "P",
+            22,
+            89,
+            50,
+            45,
+            78,
+            60,
+            39
+          ],
+          [
+            "Q",
+            35,
+            65,
+            60,
+            56,
+            81,
+            45,
+            50
+          ]
+        ]
+      },
+      "solution": "Sorted P scores are 22,39,45,50,60,78,89, giving median 50 and mean 383/7≈54.71. Sorted Q scores are 35,45,50,56,60,65,81, giving median 56 and mean 392/7=56. The medians differ, so B is incorrect. P’s range is 67 versus Q’s 46, and the other statements hold.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ee-ga-09",
+      "number": 9,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Spheres of unit diameter are centered at (l,m,n) where l, m, and n take every possible integer values.\nThe distance between two spheres is computed from the center of one sphere to the center of the other sphere. For a given sphere, x is the distance to its nearest sphere and y is the distance to its next nearest sphere. The value of y/x is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2√2"
+        },
+        {
+          "label": "B",
+          "text": "1/√2"
+        },
+        {
+          "label": "C",
+          "text": "√2"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        }
+      ],
+      "sourceImage": "figures/day15-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              391.73
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The nearest centers differ by one unit along one coordinate axis, so x=1. The next-nearest centers differ by one unit along two axes, so y=√(1²+1²)=√2. Since distances are center-to-center, the sphere diameter does not need to be subtracted. Thus y/x=√2, option C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ee-ga-10",
+      "number": 10,
+      "year": 2025,
+      "paper": "EE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In the triangle PQR, the lengths of PT and TR are in the ratio of 3:2. ST is parallel to QR. Two semicircles are drawn with PS and PQ as diameters, as shown in the figure. Which one of the following statements is true about the shaded area PQS? Note: The figure shown is representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The shaded area is 16/9 times the area of the semicircle with the diameter PS."
+        },
+        {
+          "label": "B",
+          "text": "The shaded area is equal to the area of the semicircle with the diameter PS."
+        },
+        {
+          "label": "C",
+          "text": "The shaded area is 14/9 times the area of the semicircle with the diameter PS."
+        },
+        {
+          "label": "D",
+          "text": "The shaded area is 14/25 times the area of the semicircle with the diameter PQ."
+        }
+      ],
+      "sourceImage": "figures/day15-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2025/EE.pdf",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              35,
+              108.17,
+              565.32,
+              618.31
+            ]
+          }
+        ],
+        "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Since ST∥QR, triangles PST and PQR are similar. PT/PR=3/(3+2)=3/5, hence PS/PQ=3/5. Semicircle areas scale with the square of their diameters, so the small area is 9/25 of the large. Shaded area=(25−9)/25=16/25 of the large, or 16/9 of the small. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/EE_Keys.pdf",
+        "paper": "EE",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 4,
+        "verifiedOn": "2026-10-05",
+        "sha256": "c1c1e0e1cff77344827809b3838893095116e3b120f0df17faa679ac89a2aedc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/EE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ee-ga-10-figure-1.png",
+          "alt": "Triangle PQR with S on PQ and T on PR; ST parallel to QR, a large semicircle on PQ and a smaller semicircle on PS; difference shaded.",
+          "source": {
+            "file": "Aptitude Sets/2025/EE.pdf",
+            "page": 10,
+            "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+            "image": "Image62.png"
+          }
+        }
+      ]
+    }
+  ]
+}

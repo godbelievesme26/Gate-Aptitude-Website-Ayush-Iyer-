@@ -1,0 +1,19 @@
+{
+  "questions": 160,
+  "keyedOrOfficialRuling": 160,
+  "ordinaryKeys": 159,
+  "editorialSolutions": 160,
+  "MCQ": 160,
+  "MSQ": 0,
+  "NAT": 0,
+  "figureQuestions": 54,
+  "textMathTableOnlyQuestions": 106,
+  "semanticTables": 10,
+  "figureAssets": 153,
+  "newFigureAssets": 69,
+  "MTA": [
+    "gate-2025-ec-ga-08"
+  ],
+  "blocked": [],
+  "masterMappingDiscrepancies": []
+}

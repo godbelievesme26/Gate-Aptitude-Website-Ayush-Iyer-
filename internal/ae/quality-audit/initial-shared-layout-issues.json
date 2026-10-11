@@ -1,0 +1,16 @@
+[
+  {
+    "id": "initial-mobile-exam-width",
+    "scope": "Exam view at 390 x 844, light and dark themes",
+    "questionId": "gate-2026-ae-ga-01",
+    "category": "responsive layout defect",
+    "severity": "high",
+    "observed": "Fixed-width right palette occupies almost the entire viewport; question body is reduced to a narrow clipped strip. Confirmed by screenshot, not only overflow heuristics.",
+    "expected": "Question and answer choices remain readable and accessible on narrow screens while retaining navigation controls.",
+    "evidence": ["visual/initial-mobile-exam-clipping.png", "initial-browser-390-light.json", "initial-browser-390-dark.json", "js/views.js: inline CBT layout styles"],
+    "safeSourceSupportedFix": true,
+    "requiresFurtherReview": true,
+    "status": "OPEN",
+    "qualification": "Representative visual confirmation of a shared layout defect; per-question overflow signals are not individually certified defects. Internal audit toolbar covers the bottom and must not be confused with production UI."
+  }
+]

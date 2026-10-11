@@ -1,0 +1,18 @@
+[
+  {
+    "questionId": "gate-2020-ae-ae-41",
+    "at": "2026-10-11T03:58:46.316Z",
+    "productionHTML": "<div class=\"question-content\"><p class=\"question-stem\">For three different airplanes A, B and C, the yawing moment coefficient ($C_n$) was measured in a wind-tunnel for three settings of sideslip angle $\\beta$ and tabulated as\n\n| | Airplane A | Airplane B | Airplane C |\n|---|---|---|---|\n| $\\beta = -5\\text{ deg}$ | -0.030 | -0.025 | 0.040 |\n| $\\beta = 0\\text{ deg}$ | 0 | 0 | 0 |\n| $\\beta = 5\\text{ deg}$ | 0.030 | 0.025 | -0.040 |\n\nWhich one of the following statements is true regarding directional static stability of the airplanes A, B and C?</p></div>",
+    "expected": "Structured source table",
+    "status": "FAIL",
+    "method": "Production renderer output inspection, not browser screenshot"
+  },
+  {
+    "questionId": "gate-2020-ae-ae-47",
+    "at": "2026-10-11T03:58:46.316Z",
+    "productionHTML": "<div class=\"question-content\"><p class=\"question-stem\">The table shows the lift characteristics of an airfoil at low speeds. The maximum lift coefficient occurs at 16 degrees.\n\n| Angle of attack $\\alpha$ (in degrees) | Lift coefficient $C_l$ |\n|---|---|\n| 0 | 0.10 |\n| 4 | 0.53 |\n\nUsing Prandtl-Glauert rule, the lift coefficient for the airfoil at the angle of attack of 6 degrees and free stream Mach number of 0.6 is _____ *(round off to two decimal places)*.</p></div>",
+    "expected": "Structured source table",
+    "status": "FAIL",
+    "method": "Production renderer output inspection, not browser screenshot"
+  }
+]

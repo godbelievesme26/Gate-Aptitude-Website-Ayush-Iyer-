@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 1,
+  "day": 9,
+  "year": 2026,
+  "paper": "XE",
+  "title": "GATE 2026 · XE · General Aptitude",
+  "source": "Aptitude Sets/2026/XE (1).pdf",
+  "answerKeyStatus": "official GATE 2026 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-xe-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Suresh said, “I did it yesterday.” Which one of the following options is the correct form of this sentence in indirect speech?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suresh said that I did it yesterday."
+        },
+        {
+          "label": "B",
+          "text": "Suresh says I did it yesterday."
+        },
+        {
+          "label": "C",
+          "text": "Suresh says that he did it the day before."
+        },
+        {
+          "label": "D",
+          "text": "Suresh said that he had done it the day before."
+        }
+      ],
+      "sourceImage": "figures/day09-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              409.25
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "With the past reporting verb “said”, “I” becomes “he”, “did” becomes “had done”, and “yesterday” becomes “the day before”. The resulting sentence is “Suresh said that he had done it the day before.” Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-xe-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "To continue the sequence of tiles shown, the tile indicated by the question mark should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-xe-ga-02-option-A.png",
+            "alt": "Four dots at the corners.",
+            "source": {
+              "file": "Aptitude Sets/2026/XE (1).pdf",
+              "page": 2,
+              "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+              "image": "Im2.png"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-xe-ga-02-option-B.png",
+            "alt": "Six dots in two columns of three.",
+            "source": {
+              "file": "Aptitude Sets/2026/XE (1).pdf",
+              "page": 2,
+              "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+              "image": "Im3.png"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-xe-ga-02-option-C.png",
+            "alt": "Eight dots around the perimeter of a square.",
+            "source": {
+              "file": "Aptitude Sets/2026/XE (1).pdf",
+              "page": 2,
+              "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+              "image": "Im4.png"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-xe-ga-02-option-D.png",
+            "alt": "Nine dots in a three-by-three grid.",
+            "source": {
+              "file": "Aptitude Sets/2026/XE (1).pdf",
+              "page": 2,
+              "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+              "image": "Im5.png"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day09-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              551.23
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The tiles contain 0, 1, 1, 2, 3 and 5 dots. Each count is the sum of the previous two, so the next count is 3+5=8. Option C contains eight dots.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-xe-ga-02-figure-1.png",
+          "alt": "Sequence of squares containing 0, 1, 1, 2, 3 and 5 dots, followed by an unknown square.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 2,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-xe-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Consider an art gallery whose walkways are shown as lines in the diagram. A black dot represents a junction of two walkways. A guard may be placed at a junction to watch over the walkways that join at that junction. The minimum number of guards needed to watch all the walkways is ________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "sourceImage": "figures/day09-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              511.87
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The walkways form a five-edge cycle. One guard covers the two edges meeting at that junction. Two guards cover at most four distinct edges, so at least three are needed. Three suitably alternating junctions cover all five edges. The minimum is 3, option B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-xe-ga-03-figure-1.png",
+          "alt": "Five junctions connected in a closed cycle of five walkways.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 3,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-xe-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The 2nd of June is a Thursday in a certain year. Which day of the week is the 3rd of July in that year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thursday"
+        },
+        {
+          "label": "B",
+          "text": "Friday"
+        },
+        {
+          "label": "C",
+          "text": "Saturday"
+        },
+        {
+          "label": "D",
+          "text": "Sunday"
+        }
+      ],
+      "sourceImage": "figures/day09-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              337.61
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "From 2 June to 2 July is 30 days; 3 July is one more day later. Thus the shift is 31 mod 7=3 weekdays. Three days after Thursday is Sunday, option D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-xe-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A coin with heads facing up is shown as Ⓗ and a coin with tails facing up is shown as Ⓣ. Six coins are placed in the Starting Arrangement, as shown in the figure below. A “step” is defined as interchanging a pair of adjacent coins without flipping them. The minimum number of steps needed to go from the Starting Arrangement to the Final Arrangement, as shown in the figure, is ________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "sourceImage": "figures/day09-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              486.79
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The starting order is HHHTTT and the target is TTTHHH. Each of the three H coins must pass each of the three T coins. One adjacent interchange resolves exactly one such H–T pair. Therefore at least 3×3=9 swaps are needed, and moving each T left achieves that bound. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-xe-ga-05-figure-1.png",
+          "alt": "Starting arrangement H H H T T T; final arrangement T T T H H H.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 5,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-xe-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Exacerbate : Mitigate :: ___________ Choose the option with the correct pair of words to fill the blank.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aggravate : Alleviate"
+        },
+        {
+          "label": "B",
+          "text": "Alleviate : Precipitate"
+        },
+        {
+          "label": "C",
+          "text": "Aggravate : Precipitate"
+        },
+        {
+          "label": "D",
+          "text": "Emancipate : Exonerate"
+        }
+      ],
+      "sourceImage": "figures/day09-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              372.53
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Exacerbate means make worse; mitigate means make less severe. Aggravate and alleviate reproduce that ordered opposition. “Precipitate” means cause to happen, and the other pairs do not express the same relationship. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-xe-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A paper shown in Panel I is folded along the dashed lines (- - -) to construct a cube. The shaded regions shown in Panel I appear on the outer surface of the cube. Referring to cubes shown in Panel II, which one of the options is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only (i) can correspond to the unfolded cube in Panel I."
+        },
+        {
+          "label": "B",
+          "text": "Only (ii) can correspond to the unfolded cube in Panel I."
+        },
+        {
+          "label": "C",
+          "text": "Both (i) and (ii) can correspond to the unfolded cube in Panel I."
+        },
+        {
+          "label": "D",
+          "text": "Neither (i) nor (ii) can correspond to the unfolded cube in Panel I."
+        }
+      ],
+      "sourceImage": "figures/day09-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              608.5
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Only cube (ii) can be formed, so choose B. Fold around the dashed central face: the vertical-stripe face is opposite the half-shaded face; the triangular patch is opposite the horizontal-stripe face; and the L-shaped patch is opposite the small square patch. In cube (i), the top stripe cannot be the central stripe because the half-shaded face is adjacent. It would have to be the other striped face, whose stripe must run perpendicular to its shared edge with the L-shaped face. The drawing instead shows it parallel. Cube (ii) preserves both the face adjacencies and the patch orientations.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-xe-ga-07-figure-1.png",
+          "alt": "Cube net with a central vertical stripe, upper triangular patch, left L-shaped patch, right square patch, lower horizontal stripe and bottom half-shaded face.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 7,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png",
+            "pixelCrop": [
+              0,
+              55,
+              394,
+              580
+            ]
+          },
+          "caption": "Panel I"
+        },
+        {
+          "src": "figures/gate-2026-xe-ga-07-figure-2.png",
+          "alt": "Cube (i): L-shaped front, narrow striped top, and half-shaded right face.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 7,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png",
+            "pixelCrop": [
+              500,
+              207,
+              688,
+              392
+            ]
+          },
+          "caption": "Panel II · (i)"
+        },
+        {
+          "src": "figures/gate-2026-xe-ga-07-figure-3.png",
+          "alt": "Cube (ii): triangular patch on front, half-shaded top, and square patch on right.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 7,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png",
+            "pixelCrop": [
+              734,
+              207,
+              920,
+              392
+            ]
+          },
+          "caption": "Panel II · (ii)"
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-xe-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In a population, patients who have high cholesterol also have high blood-pressure (BP). Some patients with high BP also have diabetes. There are no patients who have both high cholesterol and diabetes. Furthermore,\n1. the total number of patients with at least one of these conditions is 75,\n2. the number of patients with high cholesterol is 10,\n3. the number of patients with high BP is 45, and\n4. the number of patients with only high BP and no other conditions is 20. Then the number of patients who have both diabetes and high BP is _______",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "20"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "sourceImage": "figures/day09-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              444.43
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "All 10 high-cholesterol patients are among the 45 high-BP patients, and none has diabetes. The high-BP group therefore splits into 20 BP-only, 10 BP-and-cholesterol, and x BP-and-diabetes patients. Hence 20+10+x=45, giving x=15. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-xe-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Four people P, Q, R, and S, of different ages, make the following observations. P – I am younger than S. Q – I am neither the youngest nor the oldest. R – P is older than me. Based on these observations, the youngest person is ______.",
+      "options": [
+        {
+          "label": "A",
+          "text": "P"
+        },
+        {
+          "label": "B",
+          "text": "Q"
+        },
+        {
+          "label": "C",
+          "text": "R"
+        },
+        {
+          "label": "D",
+          "text": "S"
+        }
+      ],
+      "sourceImage": "figures/day09-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              427.03
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "P is younger than S and older than R, so R<P<S. Q cannot be the youngest. P and S also cannot be the youngest because R is younger than both. Therefore R is the youngest, option C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-xe-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "XE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Circles C_{1}, C_{2}, and C_{3}, with centers O_{1}, O_{2}, and O_{3}, and radii r_{1}, r_{2}, and r_{3}, respectively, touch each other as shown in the following figure. Given r_{1} = 2 cm, r_{2} = 1 cm and the angle ∠O_{1}O_{3}O_{2} is 90°, r_{3} = _____ cm.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(−3+√17)/2"
+        },
+        {
+          "label": "B",
+          "text": "(3+√17)/2"
+        },
+        {
+          "label": "C",
+          "text": "(−2+√17)/2"
+        },
+        {
+          "label": "D",
+          "text": "(−3+2√17)/2"
+        }
+      ],
+      "sourceImage": "figures/day09-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/XE (1).pdf",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              634.9
+            ]
+          }
+        ],
+        "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "External tangency gives O₁O₂=2+1=3, O₁O₃=2+r₃ and O₂O₃=1+r₃. The right angle is at O₃, so (2+r₃)²+(1+r₃)²=3². This simplifies to r₃²+3r₃−2=0. The positive root is (−3+√17)/2 cm, option A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/XE_Keys.pdf",
+        "paper": "XE",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 1,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2fab52ceb86e9e37b7d2f36bfbf7663e45903ca8e134deecbc058d6c60835061",
+        "masterPaperUrl": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/XE.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-xe-ga-10-figure-1.png",
+          "alt": "Three externally tangent circles with center O3 forming a right angle between the segments to centers O1 and O2.",
+          "source": {
+            "file": "Aptitude Sets/2026/XE (1).pdf",
+            "page": 10,
+            "sha256": "cd03cd379e8ea5bbe80d1bc5ed9605143a07cbff1ab6ad8d46548a9ca1f9b506",
+            "image": "Im1.png"
+          }
+        }
+      ]
+    }
+  ]
+}

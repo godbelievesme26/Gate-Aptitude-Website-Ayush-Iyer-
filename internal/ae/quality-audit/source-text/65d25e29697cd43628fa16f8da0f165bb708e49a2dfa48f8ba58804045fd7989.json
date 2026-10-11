@@ -1,0 +1,524 @@
+{
+  "source": "Aptitude Sets/2025/EE.pdf",
+  "sha256": "65d25e29697cd43628fa16f8da0f165bb708e49a2dfa48f8ba58804045fd7989",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 368,
+      "questionNumberCandidates": [
+        1,
+        1
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 1 of 50 \nGeneral Aptitude \nQ.1 – Q.5 Carry ONE mark Each \nQ.1 Kavya _________ go to work yesterday as she __________ feeling well. \nSelect the most appropriate option to complete the above sentence. \n(A) didn’t; isn’t \n(B) wouldn’t; wasn’t \n(C) wasn’t; wasn’t \n(D) couldn’t; wasn’t \n  \n  "
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 260,
+      "questionNumberCandidates": [
+        2
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 2 of 50 \nQ.2 Good : Evil :: Genuine : _______ \nSelect the most appropriate option to complete the analogy. \n(A) Counterfeit \n(B) Contraband \n(C) Counterfoil \n(D) Counterpart \n  \n \n \n \n \n \n  "
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 422,
+      "questionNumberCandidates": [
+        3
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 3 of 50 \nQ.3 The relationship between two variables 𝑥 and 𝑦 is given by 𝑥 + 𝑝𝑦 + 𝑞 = 0 and is \nshown in the figure. Find the values of 𝑝 and 𝑞. \nNote: The figure shown is representative. \n \n \n(A) 𝑝 =  − 1\n2 ;  𝑞 =  2  \n(B) 𝑝 =  2 ;  𝑞 =  −2 \n(C) 𝑝 =  1\n2 ;  𝑞 =  4 \n(D) 𝑝 =  2 ;  𝑞 =  4 \n  \n  \n0\n2\n4\n6\n8\n10\n12\n-4 -3 -2 -1 0 1 2 3 4\ny\nx"
+    },
+    {
+      "page": 4,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 799,
+      "questionNumberCandidates": [
+        4
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 4 of 50 \nQ.4 Each row of Column -I has three items and each item is represented by a circle in \nColumn-II. The arrangement of circles in Column -II represents the relationship \namong the items in Column-I. \nIdentify the option that has the most appropriate match between Column -I and \nColumn-II. \nNote: The figures shown are representative. \n \n \nColumn-I Column-II \n(1)  Animals, Zebra, Giraffe (P)  \n(2)  Director, Producer, Actor (Q)   \n(3)  Word, Sentence, Novel (R)   \n(4)  Pianist, Guitarist, Instrumentalist (S)  \n(A) (1) – (Q); (2) – (P); (3) – (S); (4) – (R)  \n(B) (1) – (Q); (2) – (R); (3) – (S); (4) – (P) \n(C) (1) – (S); (2) – (P); (3) – (R); (4) – (Q) \n(D) (1) – (R); (2) – (S); (3) – (Q); (4) – (P)   \n  "
+    },
+    {
+      "page": 5,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 184,
+      "questionNumberCandidates": [
+        5
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 5 of 50 \n \n \nQ.5 \nWhat is the value of  (\n381  \n274 )\n1\n3\n  ? \n(A) 313 \n(B) 396 \n(C) 323 \n(D) 369 \n  \n \n \n \n \n \n \n \n  "
+    },
+    {
+      "page": 6,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 790,
+      "questionNumberCandidates": [
+        6,
+        6
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 6 of 50 \nQ.6 – Q.10 Carry TWO marks Each \nQ.6 Identify the option that has the most appropriate sequence such that a coherent \nparagraph is formed: \nP. It is because deer, like most of the animals that tigers normally prey on, run \nmuch faster! It simply means, another day of empty stomach for the big cats. \n \nQ. Tigers spend most of their life searching for food. \n \nR. If they trace the scent of deer, tigers follow the trail, chase the deer for a \nmile or two in the dark, and yet may not catch them. \n \nS. For several nights, they relentlessly prowl through the forest, hunting for a \ntrail that may lead to their prey. \n(A) S →  P → R → Q  \n(B) R → P → S → Q \n(C) Q → S → R → P \n(D) P → Q → S → R \n  \n  "
+    },
+    {
+      "page": 7,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 412,
+      "questionNumberCandidates": [
+        7
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 7 of 50 \nQ.7 In the given figure, EF and HJ are  coded as 30 and 80 , respectively. Which one \namong the given options is most appropriate for the entries marked (i) and (ii) ? \n  \n \n \n \n \n \n \n \n(A) (i) EH; (ii) 40 \n(B) (i) JK; (ii) 36 \n(C) (i) EG; (ii) 42 \n(D) (i) PS; (ii) 14 \n  \n \n \n \n \n \n  \nEF HJ \n30 80 \nFG \n(ii) 35 \n(i) "
+    },
+    {
+      "page": 8,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 650,
+      "questionNumberCandidates": [
+        8,
+        35
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 8 of 50 \nQ.8 Scores obtained by two students P and Q in seven courses are given in the table \nbelow. Based on the information given in the table, w hich one of the following \nstatements is INCORRECT? \n \n  \nP 22 89 50 45 78 60 39 \nQ 35 65 60 56 81 45 50 \n(A) Average score of P is less than the average score of Q. \n(B) Median score of P is same as the median score of Q. \n(C) Difference between the maximum and minimum scores of P  is greater than the \ndifference between the maximum and minimum scores of Q. \n(D) Median score and the average score of Q are same. \n  \n  "
+    },
+    {
+      "page": 9,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 486,
+      "questionNumberCandidates": [
+        9
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 9 of 50 \nQ.9 Spheres of unit diameter are centered at (𝑙, 𝑚, 𝑛) where 𝑙, 𝑚, and 𝑛 take every possible \ninteger values. \nThe distance between two spheres is computed from the center of one sphere to the \ncenter of the other sphere. For a given sphere, x is the distance to its nearest sphere and \ny is the distance to its next nearest sphere. The value of  \n𝑦\n𝑥 is: \n(A) 2√2 \n(B) 1\n√2\n \n(C) √2 \n(D) 2 \n  \n \n \n \n \n \n \n \n  "
+    },
+    {
+      "page": 10,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 737,
+      "questionNumberCandidates": [
+        10
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 10 of 50 \nQ.10 In the triangle PQR, the lengths of PT and TR are in the ratio of 3:2.  \nST is parallel to QR. Two semicircles are drawn with PS and PQ as diameters, as \nshown in the figure. \nWhich one of the following statements is true about the shaded area PQS? \nNote: The figure shown is representative. \n \n \n(A) The shaded area is \n16\n9  times the area of the semicircle with the diameter PS. \n(B) The shaded area is equal to the area of the semicircle with the diameter PS. \n(C) The shaded area is \n14\n9  times the area of the semicircle with the diameter PS. \n(D) The shaded area is \n14\n25 times the area of the semicircle with the diameter PQ. \n  \n \n \n \n \n \n"
+    },
+    {
+      "page": 11,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 754,
+      "questionNumberCandidates": [
+        11,
+        11,
+        12
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 11 of 50 \nQ.11 – Q.35 Carry ONE mark Each \nQ.11 Consider the set 𝑆 of points (𝑥, 𝑦) ∈ ℜ2 which minimize the real valued function  \n𝑓(𝑥, 𝑦) = (𝑥 + 𝑦 − 1)2 + (𝑥 + 𝑦)2 \nWhich of the following statements is true about the set 𝑆? \n(A) The number of elements in the set 𝑆 is finite and more than one. \n(B) The number of elements in the set 𝑆 is infinite. \n(C) The set 𝑆 is empty. \n (D) The number of elements in the set 𝑆 is exactly one. \n  \n  \nQ.12 Let 𝒗𝟏 and 𝒗𝟐 be the two eigenvectors corresponding to distinct eigenvalues of a \n3 × 3 real symmetric matrix. Which one of the following statements is true? \n(A) 𝒗𝟏\n𝑻𝒗𝟐 ≠ 0 \n(B) 𝒗𝟏\n𝑻𝒗𝟐 = 0 \n(C) 𝒗𝟏 + 𝒗𝟐 = 𝟎 \n(D) 𝒗𝟏 − 𝒗𝟐 = 𝟎 \n  "
+    },
+    {
+      "page": 12,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 454,
+      "questionNumberCandidates": [
+        13,
+        14
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 12 of 50 \nQ.13 \nLet 𝑨 = [\n1 1 1\n−1 −1 −1\n0 1 −1\n], and 𝒃 = [\n1/3\n−1/3\n0\n]. Then, the system of linear equations \n𝑨𝒙 = 𝒃 has \n(A) a unique solution. \n(B) infinitely many solutions. \n(C) a finite number of solutions. \n(D) no solution. \n  \n  \nQ.14 \nLet 𝑃 = [\n2 1 0\n−1 0 0\n0 0 1\n] and let 𝐼 be the identity matrix. Then 𝑃2 is equal to \n(A) 2𝑃 − 𝐼 \n(B) 𝑃 \n(C) 𝐼 \n(D) 𝑃 + 𝐼 \n  \n  "
+    },
+    {
+      "page": 13,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 360,
+      "questionNumberCandidates": [
+        15
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 13 of 50 \nQ.15 Consider discrete random variables 𝑋 and 𝑌 with probabilities as follows: \n𝑃(𝑋 = 0 𝑎𝑛𝑑 𝑌 = 0) = 1\n4 \n𝑃(𝑋 = 1 𝑎𝑛𝑑 𝑌 = 0) = 1\n8  \n𝑃(𝑋 = 0 𝑎𝑛𝑑 𝑌 = 1) = 1\n2 \n𝑃(𝑋 = 1 𝑎𝑛𝑑 𝑌 = 1) = 1\n8 \n Given 𝑋 = 1, the expected value of 𝑌 is   \n(A) 1\n4 \n(B) 1\n2 \n(C) 1\n8 \n(D) 1\n3 \n  \n  "
+    },
+    {
+      "page": 14,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 574,
+      "questionNumberCandidates": [
+        16
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 14 of 50 \nQ.16 Which one of the following statements is true about the small signal voltage gain of \na MOSFET based single stage amplifier? \n(A) Common source and common gate amplifiers are both inverting amplifiers \n(B) Common source and common gate amplifiers are both non-inverting amplifiers \n(C) Common source amplifier is inverting and common gate amplifier is non-inverting \namplifier \n(D) Common source amplifier is non-inverting and common gate amplifier is inverting \namplifier \n  \n  \n  "
+    },
+    {
+      "page": 15,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 282,
+      "questionNumberCandidates": [
+        17
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 15 of 50 \nQ.17 Assuming ideal op-amps, the circuit represents a \n \n \n(A) summing amplifier. \n(B) difference amplifier. \n(C) logarithmic amplifier. \n(D) buffer. \n  \n  \n-VEE\n-VEE\n+VDD\n+VDD\nVout\nVin"
+    },
+    {
+      "page": 16,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 297,
+      "questionNumberCandidates": [
+        18
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 16 of 50 \nQ.18 The I-V characteristics of the element between the nodes X and Y is best depicted \nby \n \n \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \n  \nX\nY\n1 A 1 kΩ \nIXY\nVXY\nIXY\n1 A\n0\n1 A\nVXY0\nIXY\n1 A\nVXY0\nIXY\n1 A\nVXY0\nIXY"
+    },
+    {
+      "page": 17,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 767,
+      "questionNumberCandidates": [
+        19,
+        20
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 17 of 50 \nQ.19 A nullator is defined as a circuit element where  the voltage across the device and \nthe current through the device are both zero. A series combination of a nullator and \na resistor of value, R, will behave as a \n(A) resistor of value R. \n(B) nullator. \n(C) open circuit. \n(D) short circuit. \n  \n  \nQ.20 Consider a discrete-time linear time-invariant (LTI) system 𝑺, where \n𝑦[𝑛] = 𝑺{𝑥[𝑛]} \nLet \n𝑺{𝛿[𝑛]} = {1, 𝑛 ∈ {0, 1, 2}\n0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒  \nwhere 𝛿[𝑛] is the discrete-time unit impulse function. For an input signal 𝑥[𝑛], the \noutput 𝑦[𝑛] is \n(A) 𝑥[𝑛] + 𝑥[𝑛− 1] + 𝑥[𝑛− 2] \n(B) 𝑥[𝑛 − 1] + 𝑥[𝑛] + 𝑥[𝑛+ 1] \n(C) 𝑥[𝑛] + 𝑥[𝑛+ 1] + 𝑥[𝑛+ 2] \n(D) 𝑥[𝑛 + 1] + 𝑥[𝑛 + 2] + 𝑥[𝑛 + 3] \n  "
+    },
+    {
+      "page": 18,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 637,
+      "questionNumberCandidates": [
+        21,
+        22
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 18 of 50 \nQ.21 Consider a continuous-time signal \n 𝑥(𝑡) = −𝑡2{𝑢(𝑡 + 4) − 𝑢(𝑡 − 4)}  \nwhere 𝑢(𝑡) is the continuous-time unit step function. Let 𝛿(𝑡) be the continuous-\ntime unit impulse function. The value of \n∫ 𝑥(𝑡)𝛿(𝑡 + 3)𝑑𝑡\n∞\n−∞ \n \nis \n(A) −9 \n(B) 9 \n(C) 3 \n(D) −3 \n  \nQ.22 Selected data points of the step response of a stable first-order linear time-invariant \n(LTI) system are given below. The closest value of the time-constant, in sec, of the \nsystem is \n Time (sec) 0.6 1.6 2.6 10 ∞ \nOutput 0.78 1.65 2.18 2.98 3 \n \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 4 "
+    },
+    {
+      "page": 19,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 829,
+      "questionNumberCandidates": [
+        23,
+        24
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 19 of 50 \nQ.23 The Nyquist plot of a strictly stable 𝐺(𝑠) having the numerator polynomial as \n(𝑠 − 3) encircles the critical point −1 once in the anti-clockwise direction. Which \none of the following statement s on the closed -loop system  shown in figure,  is \ncorrect?  \n \n \n(A) The system stability cannot be ascertained. \n(B) The system is marginally stable. \n(C) The system is stable. \n(D) The system is unstable. \n  \n  \nQ.24 During a power failure, a domestic household uninterruptible power supply (UPS) \nsupplies AC power to a limited number of lights and fans in various rooms. As per \na Newton-Raphson load-flow formulation, the UPS would be represented as a \n(A) Slack bus \n(B) PV bus \n(C) PQ bus \n(D) PQV bus \nG(s)+\n_\nInput Output"
+    },
+    {
+      "page": 20,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 445,
+      "questionNumberCandidates": [
+        25
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 20 of 50 \nQ.25 Which one of the following figure s represents the radial electric field distribution \n𝐸𝑅 caused by a spherical cloud of electrons with a volume charge density ,                \n𝜌 = −3𝜌0 for 0 ≤ 𝑅 ≤ 𝑎 (both 𝜌0, 𝑎 are positive and 𝑅 is the radial distance) and \n𝜌 = 0 for 𝑅 > 𝑎 ?  \n \n \n(A) Fig. (i) \n(B) Fig. (ii) \n(C) Fig. (iii) \n(D) Fig. (iv) \n  \n  \n"
+    },
+    {
+      "page": 21,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 570,
+      "questionNumberCandidates": [
+        26
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 21 of 50 \nQ.26 The operating region of the developed torque ( 𝑇𝑒𝑚) and speed (𝜔) of an induction \nmotor drive is given by the shaded region OQRE in the figure. The load torque (𝑇𝐿) \ncharacteristic is also shown. The motor drive moves from the initial operating point \nO to the final operating point S. Which one of the following trajectories will take \nthe shortest time?    \n \n \n(A) 𝑂 − 𝑄 − 𝑅 − 𝑆 \n(B) 𝑂 − 𝑃 − 𝑆 \n(C) 𝑂 − 𝐸 − 𝑆 \n(D) 𝑂 − 𝐹 − 𝑆 \n  \n \n \n \n \n \n  \nTem\nP\nO ω \nTL\nQ R\nS\nE\nF"
+    },
+    {
+      "page": 22,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 526,
+      "questionNumberCandidates": [
+        27,
+        28
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 22 of 50 \nQ.27 The input voltage 𝑣(𝑡) and current 𝑖(𝑡) of a converter are given by, \n𝑣(𝑡) = 300sin(𝜔𝑡) 𝑉  \n𝑖(𝑡) = 10sin(𝜔𝑡 − 𝜋\n6) + 2 sin(3𝜔𝑡 + 𝜋\n6) + sin(5𝜔𝑡 + 𝜋\n2)  𝐴 \nwhere, 𝜔 = 2𝜋 × 50 rad/s. The input power factor of the converter is closest to \n(A) 0.845 \n(B) 0.867 \n(C) 0.887 \n(D) 1.0 \n  \n  \nQ.28 Instrument(s) required to synchronize an alternator to the grid is/are \n(A) Voltmeter \n(B) Wattmeter \n(C) Synchroscope \n(D) Stroboscope \n  \n  "
+    },
+    {
+      "page": 23,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 563,
+      "questionNumberCandidates": [
+        29,
+        30
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 23 of 50 \nQ.29 \n \nThe open-loop transfer function of the system shown in the figure, is \n𝐺(𝑠) = 𝐾𝑠(𝑠 + 2)\n(𝑠 + 5)(𝑠 + 7) \nFor 𝐾 ≥ 0, which of the following real axis point(s) is/are on the root locus? \n \n \n(A) −1  \n(B) −4  \n(C) −6  \n(D) −10  \n  \n  \nQ.30 A continuous time periodic signal 𝑥(𝑡) is  \n𝑥(𝑡) = 1 + 2 cos2𝜋𝑡 + 2 cos4𝜋𝑡 + 2 cos6𝜋𝑡 . \nIf 𝑇 is the period of 𝑥(𝑡), then  \n1\n𝑇 ∫ |𝑥(𝑡)|2𝑑𝑡\n𝑇\n0 =____________ (round off to the \nnearest integer). \n  \n  \nG(s)+\n_\nInput Output"
+    },
+    {
+      "page": 24,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 948,
+      "questionNumberCandidates": [
+        31,
+        32,
+        33
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 24 of 50 \nQ.31 The maximum percentage error in the equivalent resistance of two parallel -\nconnected resistors of 100 Ω and 900 Ω with each having a maximum 5% error is \n____________ % (round off to nearest integer value). \n  \n  \nQ.32 Consider a distribution feeder, with 𝑅/𝑋 ratio of 5. At the receiving end, a 350 kVA \nload is connected. The maximum voltage drop will occur from the sending end to \nthe receiving end, when the power factor of the load is ___________(round off to \nthree decimal places). \n  \n  \nQ.33 The bus impedance matrix of a 3-bus system (in pu) is  \n𝑍𝑏𝑢𝑠 = [\n𝑗0.059 𝑗0.061 𝑗0.038\n𝑗0.061 𝑗0.093 𝑗0.066\n𝑗0.038 𝑗0.066 𝑗0.110\n] \nA symmetrical fault (through a fault impedance of 𝑗0.007 pu) occurs at bus 2. \nNeglecting pre -fault loading conditions, the voltage at bus 1, during the fault is \n________ pu (round off to three decimal places). \n  \n  \n  "
+    },
+    {
+      "page": 25,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 896,
+      "questionNumberCandidates": [
+        34,
+        35
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 25 of 50 \nQ.34 In the circuit with ideal devices, the power MOSFET is operated with a duty cycle \nof 0.4 in a switching cycle with 𝐼 =10 A and 𝑉 =15 V. The power delivered by the \ncurrent source, in W, is ____________ (round off to the nearest integer).  \n \n \n  \n  \nQ.35 The induced emf in a 3.3 kV, 4 pole, 3 -phase star connected synchronous motor is \nconsidered to be equal and in phase with the terminal voltage under no load \ncondition. On application of a mechanical load, the induced emf phasor is deflected \nby an angle of 2° mechanical with respect to the terminal voltage phasor. If the \nsynchronous reactance is 2 Ω, and stator resistance is negligible, then the motor \narmature current magnitude, in ampere, during loaded condition is closest to,   \n____________ (round off to two decimal places). \n  \n \n  \n"
+    },
+    {
+      "page": 26,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 531,
+      "questionNumberCandidates": [
+        36,
+        36
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 26 of 50 \nQ.36 – Q.65 Carry TWO marks Each \nQ.36 Let 𝑋 and 𝑌 be continuous random variables with probability density functions \n𝑃𝑋(𝑥) and 𝑃𝑌(𝑦), respectively. Further, let 𝑌 = 𝑋2 and  \n𝑃𝑋(𝑥) = {1, 𝑥 ∈ (0,1]\n0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒.  \nWhich one of the following options is correct? \n(A) \n𝑃𝑌(𝑦) = {\n1\n2√𝑦\n, 𝑦 ∈ (0,1]\n0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒\n \n(B) 𝑃𝑌(𝑦) = {1, 𝑦 ∈ (0,1]\n0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 \n(C) 𝑃𝑌(𝑦) = {1.5 √𝑦, 𝑦 ∈ (0,1]\n0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒\n \n(D) 𝑃𝑌(𝑦) = {2𝑦, 𝑦 ∈ (0,1]\n0, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 \n  \n  "
+    },
+    {
+      "page": 27,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 341,
+      "questionNumberCandidates": [
+        37
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 27 of 50 \nQ.37 A Boolean function is given as \n𝑓 = (𝑢̅ + 𝑣̅+ 𝑤̅ + 𝑥̅). (𝑢̅ + 𝑣̅+ 𝑤̅ + 𝑥). (𝑢̅ + 𝑣 + 𝑤̅ + 𝑥̅). (𝑢̅ + 𝑣 + 𝑤̅ + 𝑥) \nThe simplified form of this function is represented by \n  \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \n \n \n \n \n \n \nu\nw\nf\nu\nw\nf\nv\nx\nf\nv\nx\nf"
+    },
+    {
+      "page": 28,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 520,
+      "questionNumberCandidates": [
+        38
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 28 of 50 \nQ.38 In the circuit, IDC is an ideal current source. The transistors M1 and M2 are assumed \nto be biased in saturation , wherein Vin is the input signal and VDC is fixed DC \nvoltage. Both transistors have a small signal resistance of  𝑟𝑑𝑠 and trans-conductance \nof 𝑔𝑚. The small signal output impedance of this circuit is  \n \n \n(A) 2𝑟𝑑𝑠  \n(B) 1\n𝑔𝑚\n+ 𝑟𝑑𝑠  \n(C) 𝑔𝑚𝑟𝑑𝑠\n2 + 2𝑟𝑑𝑠  \n(D) infinity \n  \n  \nVDD\nIDC\nVDC\nVin\nVout\nM1\nM2"
+    },
+    {
+      "page": 29,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 371,
+      "questionNumberCandidates": [
+        39
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 29 of 50 \nQ.39 In the circuit, shown below, if the values of R and C are very large, the form of the \noutput voltage for a very high frequency square wave input, is best represented by \n \n \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \n-1 V\n1 V\nVout\nt\n-1 V\n1 V\nVout\nt\n-1 V\n1 V\nVout\nt\n-1 V\n1 V\nVout\nt"
+    },
+    {
+      "page": 30,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 657,
+      "questionNumberCandidates": [
+        40,
+        41
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 30 of 50 \nQ.40 Let continuous-time signals 𝑥1(𝑡) and 𝑥2(𝑡) be \n𝑥1(𝑡) = {\n1,          𝑡 ∈ [0,1]\n2 − 𝑡,   𝑡 ∈ [1,2]\n0,       𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒\n        and        𝑥2(𝑡) = {\n𝑡,          𝑡 ∈ [0,1]\n2 − 𝑡,   𝑡 ∈ [1,2]\n0,        𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒\n \nConsider the convolution 𝑦(𝑡) = 𝑥1(𝑡) ∗ 𝑥2(𝑡). Then ∫ 𝑦(𝑡)𝑑𝑡\n∞\n−∞  is  \n(A) 1.5 \n(B) 2.5 \n(C) 3.5 \n(D) 4 \n  \nQ.41 Let 𝐺(𝑠) =\n1\n(𝑠+1)(𝑠+2). Then the closed-loop system shown in the figure below, \nis  \n \n \n(A) stable for all 𝐾 > 2. \n(B) unstable for all 𝐾 > 2. \n(C) unstable for all 𝐾 > 1. \n(D) stable for all 𝐾 > 1. \n  \n+\n_\nInput OutputK(s-1)G(s)"
+    },
+    {
+      "page": 31,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 692,
+      "questionNumberCandidates": [
+        42
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 31 of 50 \nQ.42 The continuous-time unit impulse signal is applied as an input to a continuous-time \nlinear time-invariant system 𝑺. The output is observed to be the continuous -time \nunit step signal 𝑢(𝑡). Which one of the following statements is true? \n(A) Every bounded input signal applied to 𝑺 results in a bounded output signal.  \n(B) It is possible to find  a bounded input signal which when applied to 𝑺 results in an \nunbounded output signal. \n(C) On applying any input signal to 𝑺, the output signal is always bounded. \n(D) On applying any input signal to 𝑺 the output signal is always unbounded. \n  \n  "
+    },
+    {
+      "page": 32,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 601,
+      "questionNumberCandidates": [
+        43
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 32 of 50 \nQ.43 The transformer connection given in the figure is part of a balanced 3-phase circuit \nwhere the phase sequence is “𝑎𝑏𝑐”. The primary to secondary turns ratio is 2:1. If \n(𝐼𝑎 + 𝐼𝑏 + 𝐼𝑐 = 0), then the relationship between 𝐼𝐴 and 𝐼𝑎𝑑 will be \n \n \n(A) |𝐼𝐴|\n|𝐼𝑎𝑑| =\n1\n2√3 and 𝐼𝑎𝑑 lags 𝐼𝐴 by 30°. \n(B) |𝐼𝐴|\n|𝐼𝑎𝑑| =\n1\n2√3 and 𝐼𝑎𝑑 leads 𝐼𝐴 by 30°. \n(C) |𝐼𝐴|\n|𝐼𝑎𝑑| = 2√3 and 𝐼𝑎𝑑 lags 𝐼𝐴 by 30°. \n(D) |𝐼𝐴|\n|𝐼𝑎𝑑| = 2√3 and 𝐼𝑎𝑑 leads 𝐼𝐴 by 30°. \n  \n  \nIA\nIB\nIC\nIad\nIbd\nIcd\nIa\nIb\nIc\nprimary secondary\nA\nB\nC\na\nb\nc"
+    },
+    {
+      "page": 33,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1040,
+      "questionNumberCandidates": [
+        44,
+        45
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 33 of 50 \nQ.44 A DC series motor with negligible series resistance is running at a certain speed \ndriving a load, where the load torque varies as cube of the speed. The motor is fed \nfrom a 400 V DC source and draws 40 A armature current. Assume linear magnetic \ncircuit. Th e external resistance, in Ω, that must be connected in series with the \narmature to reduce the speed of the motor by half, is closest to   \n(A) 23.28  \n(B) 4.82 \n(C) 46.7 \n(D) 0 \n  \n  \nQ.45 A 3-phase, 400 V, 4 pole, 50 Hz star connected induction motor has the following \nparameters referred to the stator: \n𝑅𝑟\n′ = 1Ω,       𝑋𝑠 = 𝑋𝑟\n′ = 2Ω \nStator resistance, magnetizing reactance and core loss of the motor are neglected. \nThe motor is run with constant V/f control from a drive. For maximum starting \ntorque, the voltage and frequency output, respectively, from the drive, is closest to, \n(A) 400 V and 50 Hz \n(B) 200 V and 25 Hz \n(C) 100 V and 12.5 Hz \n(D) 300 V and 37.5 Hz \n  "
+    },
+    {
+      "page": 34,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 674,
+      "questionNumberCandidates": [
+        46
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 34 of 50 \nQ.46 The 3-phase modulating waveforms ( 𝑣𝑎(𝑡), 𝑣𝑏(𝑡) and 𝑣𝑐(𝑡)), used in sinusoidal \nPWM in a Voltage Source Inverter (VSI) are \n𝑣𝑎(𝑡) = 0.8 sin (ω𝑡) V \n𝑣𝑏(𝑡) = 0.8 sin (ω𝑡 −\n2𝜋\n3 ) V \n𝑣𝑐(𝑡) = 0.8 sin (ω𝑡 +\n2𝜋\n3 ) V \nwhere ω = 2𝜋 × 40 rad/s is the fundamental frequency. The modulating \nwaveforms are compared with a 10 kHz triangular carrier whose magnitude varies \nbetween +1 and −1. The VSI has a DC link voltage of 600 V and feeds a star \nconnected motor. The per phase fundamental RMS motor voltage, in volts, is closest \nto \n(A) 169.71 \n(B) 300.00 \n(C) 424.26 \n(D) 212.13 \n  \n  "
+    },
+    {
+      "page": 35,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 362,
+      "questionNumberCandidates": [
+        47
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 35 of 50 \nQ.47 An ideal sinusoidal voltage source 𝑣(𝑡) = 230√2 sin(2𝜋 × 50𝑡) 𝑉 feeds an ideal \ninductor 𝐿 through an ideal SCR with firing angle 𝛼 = 0°. If 𝐿 = 100 𝑚𝐻, then the \npeak of the inductor current, in ampere, is closest to \n \n \n(A) 20.71 \n(B) 0 \n(C) 10.35 \n(D) 7.32 \n  \n  \n"
+    },
+    {
+      "page": 36,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 340,
+      "questionNumberCandidates": [
+        48
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 36 of 50 \nQ.48 In the following circuit, the average voltage \n 𝑉𝑜 = 400 (1 +\ncos 𝛼\n3 ) V,  \nwhere 𝛼 is the firing angle. If the power dissipated in the resistor is 64 W, then the \nclosest value of 𝛼 in degrees is \n \n \n(A) 35.9 \n(B) 46.4 \n(C) 41.4 \n(D) 0 \n  \n  \n"
+    },
+    {
+      "page": 37,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 678,
+      "questionNumberCandidates": [
+        49
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 37 of 50 \nQ.49 \nIn the system shown below, the generator was initially supplying power to the grid. \nA temporary LLLG bolted fault occurs at F  very close to circuit breaker 1 . The \ncircuit breakers open to isolate the line . The fault self -clears. The circuit breaker s \nreclose and restore the line. Which one of the following diagrams best indicates the \nrotor accelerating and decelerating areas? \n \n \n \nFig. (i)                         \n \nFig. (ii)  \n \nFig. (iii)                  \n \nFig. (iv) \n \n(A) Fig. (i) \n(B) Fig. (ii) \n(C) Fig. (iii) \n(D) Fig. (iv) \nCB 1\nfault\nCB2CB1Gen Grid\nF\n"
+    },
+    {
+      "page": 38,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 643,
+      "questionNumberCandidates": [
+        50
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 38 of 50 \nQ.50 An air filled cylindrical capacitor (capacitance 𝐶0) of length L, with a and b as its \ninner and outer radii, respectively, consists of two coaxial conducting surfaces. Its \ncross-sectional view is shown in Fig. (i). In order to increase the capacitance, a \ndielectric material of relative permittivity 𝜀𝑟 is inserted inside 50% of the annular \nregion as shown in Fig. (ii). The value of 𝜀𝑟 for which the capacitance of the \ncapacitor in Fig. (ii), becomes 5𝐶0 is \n \n \n(A) 4 \n(B) 5 \n(C) 9 \n(D) 10 \n  \n  \na\nb\na\nb\n0\nr0\n0\nFig. (i) Fig. (ii)"
+    },
+    {
+      "page": 39,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 708,
+      "questionNumberCandidates": [
+        51,
+        52
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 39 of 50 \nQ.51 Let 𝒂𝑹 be the unit radial vector in the spherical co -ordinate system. For which of \nthe following value(s) of n, the divergence of the radial vector field 𝒇(𝑹) = 𝒂𝑹\n1\n𝑅𝑛 \nis independent of R?  \n(A) −2 \n(B) −1 \n(C) 1 \n(D) 2 \n  \n  \nQ.52 Consider two coupled circuits, having self -inductances 𝐿1 and 𝐿2, that carry non-\nzero currents 𝐼1 and 𝐼2, respectively. The mutual inductance between the circuits is \nM with unity coupling coefficient . The stored magnetic energy of the coupled \ncircuits is minimum at which of the following value(s) of  \n𝐼1\n𝐼2\n ? \n(A) −\n𝑀\n𝐿1\n  \n(B) −\n𝑀\n𝐿2\n  \n(C) −\n𝐿1\n𝑀   \n(D) −\n𝐿2\n𝑀  \n  "
+    },
+    {
+      "page": 40,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 775,
+      "questionNumberCandidates": [
+        53,
+        54,
+        55
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 40 of 50 \nQ.53 Let (𝑥, 𝑦) ∈ ℜ2. The rate of change of the real valued function, \n 𝑉(𝑥, 𝑦) = 𝑥2 + 𝑥 + 𝑦2 + 1  \nat the origin in the direction of the point (1,2) is ___________ (round off to the \nnearest integer). \n  \n  \nQ.54 Consider ordinary differential equations given by \n 𝑥̇1(𝑡) = 2𝑥2(𝑡)  \n𝑥̇2(𝑡) = 𝑟(𝑡)  \nwith initial conditions 𝑥1(0) = 1 and 𝑥2(0) = 0.  \nIf 𝑟(𝑡) = {1, 𝑡 ≥ 0\n0, 𝑡 < 0, then at 𝑡 = 1, 𝑥1(𝑡) =__________ (round off to the nearest \ninteger). \n  \n  \nQ.55 Let 𝐶 be a clockwise oriented closed curve in the complex plane defined by       \n |𝑧| = 1. Further, let 𝑓(𝑧) = 𝑗𝑧 be a complex function, where 𝑗 = √−1. Then, \n∮ 𝑓(𝑧)𝑑𝑧𝐶 = _______ (round off to the nearest integer). \n  \n  \n  "
+    },
+    {
+      "page": 41,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 424,
+      "questionNumberCandidates": [
+        56,
+        57
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 41 of 50 \nQ.56 The op-amps in the following circuit are ideal. The voltage gain of the circuit is   \n____   (round off to the nearest integer). \n \n \n  \n  \nQ.57 The switch (S) closes at 𝑡 = 0 sec. The time, in sec, the capacitor takes to charge to \n50 V is _____ (round off to one decimal place). \n \n  \n  \n  \n  \n100 V 3 A 25 Ω \n2 Ω \n5 F\nS"
+    },
+    {
+      "page": 42,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 850,
+      "questionNumberCandidates": [
+        58,
+        59
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 42 of 50 \nQ.58 In an experiment to measure the active power drawn by a single -phase RL Load \nconnected to an AC source through a 2 Ω resistor, three voltmeters are connected \nas shown in the figure below . The voltmeter readings are as follows:                \n𝑉𝑆𝑜𝑢𝑟𝑐𝑒 = 200 𝑉, 𝑉𝑅 = 9 𝑉, 𝑉𝐿𝑜𝑎𝑑 = 199 𝑉. Assuming perfect resistors and ideal \nvoltmeters, the Load-active power measured in this experiment, in W, is ________ \n(round off to one decimal place). \n \n \n  \n  \nQ.59 In the Wheatstone bridge shown below, the sensitivity of the bridge in terms of \nchange in balancing voltage 𝐸 for unit change in the resistance 𝑅, in mV/Ω, is \n______________ (round off to two decimal places). \n \n \n  \n  \nRL Load\nRV\n2\nLoadV\nSourceVV V\nV\nP=10 Ω\nS=5 kΩ\nR=50 Ω\nQ=1 kΩ\n10 V E"
+    },
+    {
+      "page": 43,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 569,
+      "questionNumberCandidates": [
+        60,
+        61
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 43 of 50 \nQ.60 The steady state capacitor current of a conventional DC -DC buck converter, \nworking in CCM, is shown in one switching cycle. If the input voltage is 30 V, the \nvalue of the inductor used, in mH, is _____________ (round off to one decimal \nplace). \n \n \n  \n  \nQ.61 An ideal low pass filter has frequency response given by  \n𝐻(𝑗𝜔) = {1,   |𝜔| ≤ 200𝜋\n0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒  \nLet ℎ(𝑡) be its time domain representation. Then ℎ(0) = ________  (round off to the \nnearest integer). \n  \n  \n  \n"
+    },
+    {
+      "page": 44,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1182,
+      "questionNumberCandidates": [
+        62,
+        63,
+        64
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 44 of 50 \nQ.62 Consider the state-space model         \n𝒙̇ (𝑡) = 𝐴𝒙(𝑡) + 𝐵𝑟(𝑡), \n 𝑦(𝑡) =  𝐶𝒙(𝑡)  \nwhere 𝒙(𝑡), 𝑟(𝑡) , 𝑦(𝑡) are the state, input and output, respectively. T he matrices \n𝐴, 𝐵, 𝐶 are given below \n𝐴 = [ 0 1\n−2 −3],  𝐵 = [0\n1],  𝐶 = [1 0] \nThe sum of the magnitudes of the poles is _______________ (round off to nearest \ninteger). \n  \n  \nQ.63 Using shunt capacitors, the power factor of a 3 -phase, 4 kV induction motor \n(drawing 390 kVA at 0.77 pf lag) is to be corrected to 0.85 pf lag. The line current \nof the capacitor bank, in A, is ____________ (round off to one decimal place). \n  \n  \nQ.64 Two units, rated at 100 MW and 150 MW, are enabled for economic load dispatch. \nWhen the overall incremental cost is 10,000 Rs./MWh, the units are dispatched to \n50 MW and 80 MW respectively. At an overall incremental cost of                        \n10,600 Rs ./MWh, the power output of the units are 80 MW and 92 MW, \nrespectively. The total plant MW-output (without overloading any unit) at an overall \nincremental cost of 11,800 Rs./MWh is ________ (round off to the nearest integer). \n  \n  "
+    },
+    {
+      "page": 45,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 426,
+      "questionNumberCandidates": [
+        65
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 45 of 50 \nQ.65 A controller 𝐷(𝑠) of the form  (1 + 𝐾𝐷𝑠) is to be designed for the plant                \n𝐺(𝑠) =\n1000√2\n𝑠(𝑠+10)2 as shown in the figure. The value of 𝐾𝐷 that yields a phase margin \nof 45° at the gain cross-over frequency of 10 rad/sec is ________________ (round \noff to one decimal place). \n \n \n \n  \n+\n_\nInput G(s) OutputD(s)"
+    },
+    {
+      "page": 46,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 743,
+      "questionNumberCandidates": [],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 46 of 50 \nEXTRA (BUFFER) Questions \nQ.1A – Q.1E Carry ONE mark only \n \nQ.1A In a power system, following a sudden increase in load, the frequency will settle at \na lower steady-state value if \n  \n(A) rotational inertia of the power system reduces. \n(B) a major proportion of the connected load is resistive. \n(C) all generation units for frequency regulation also have voltage regulators enabled. \n(D) the pre-disturbance tie-line power flows are increased. \n  \n \n \nQ.1B A coil of inductance 100 mH and series resistance 100 Ω is connected across a         \n20 V, 1 kHz supply. The quality factor of the coil at 1 kHz is  \n  \n(A) 𝜋 \n(B) 2𝜋 \n(C) 10−3 \n(D) 1 "
+    },
+    {
+      "page": 47,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 685,
+      "questionNumberCandidates": [
+        1,
+        2
+      ],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 47 of 50 \n  \nQ.1C A device (single-phase, 50 Hz, AC) yields the following measurements at its \nterminals: voltage = 141.4 ∠ − 10° V, current = 0.7∠ − 55° A. The power factor \nof the device is______(round off to three decimal places). \n  \nQ.1D The current, i, in the circuit shown below, in A, is _________ (round off to the \nnearest integer). \n \n \n  \nQ.1E In the circuit, both Q1 and Q2 have a current gain of 100 and 𝑉𝐵𝐸 = 0.7 𝑉. The small \nsignal voltage gain is _______ (round off to two decimal places). \n \n \n1 Ω \n1 Ω 2 Ω \n3 Ω \n6 A \n4 V 10 V \ni \n \nVout\nQ1\nQ2\n100 kΩ \n100 kΩ \n10 V\n1 kΩ \nVin\n1 pF"
+    },
+    {
+      "page": 48,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 460,
+      "questionNumberCandidates": [],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 48 of 50 \nQ.2A – Q.2E Carry TWO marks only \nQ.2A The bilateral 𝑧-transform of a discrete-time signal 𝑥[𝑛] is \n𝑋(𝑧) = (1 − 𝑎2)\n(𝑧 − 𝑎)(𝑧−1 − 𝑎) \nwith 0 < 𝑎 < 1, and the region of convergence \n𝑎 < |𝑧| <\n1\n𝑎 . \nLet 𝑢[𝑛] be the discrete-time unit step signal. Then, for 𝑛 ≥ 0, the signal 𝑥[𝑛] is \n  \n(A) 𝑎𝑛𝑢[𝑛] \n(B) 1\n𝑎𝑛 𝑢[𝑛− 1] \n(C) 𝑎𝑛(𝑢[𝑛] − 𝑢[𝑛− 1]) \n(D) −𝑎𝑛(𝑢[𝑛] − 𝑢[𝑛− 1]) \n  \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 49,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 906,
+      "questionNumberCandidates": [],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 49 of 50 \nQ.2B Let 𝐺(𝑠) =\n1\n(𝑠+1)(𝑠+2). Then the closed-loop system shown in the figure below, \nis  \n \n \n(A) stable for all 𝐾 > 2. \n(B) unstable for all 𝐾 > 2. \n(C) unstable for all 𝐾 > 1. \n(D) stable for all 𝐾 > 1. \n  \nQ.2C Consider the two statements given below, and select the correct option. \nStatement 1: A directional relay relies on the principle that the CT currents due to \nfault location on either side of the CT, always differ from each other by a phase of \n90°.  \nStatement 2: Directional relays are generally deployed in distribution feeders, with \ntheir direction towards the source/substation. \n  \n(A) Both the Statements are FALSE. \n(B) Both the Statements are TRUE. \n(C) Statement 1 is FALSE, while Statement 2 is TRUE. \n(D) Statement 1 is TRUE, while Statement 2 is FALSE. \n+\n_\nInput OutputK(s-1)G(s)"
+    },
+    {
+      "page": 50,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 604,
+      "questionNumberCandidates": [],
+      "text": "  Electrical Engineering (EE) \nOrganizing Institute: IIT Roorkee                    Page 50 of 50 \nQ.2D In the Wheatstone bridge shown below, the sensitivity of the bridge in terms of \nchange in balancing voltage 𝐸 for unit change in the resistance 𝑅, in mV/Ω, i s \n______________ (round off to two decimal places). \n \n \n  \nQ.2E Given 𝑭 = 𝒂𝒙(3𝑦 + 𝑘1𝑧) + 𝒂𝒚(𝑘2𝑥 − 2𝑧) + 𝒂𝒛(𝑘3𝑦 − 𝑥), where 𝒂𝒙, 𝒂𝒚  and \n𝒂𝒛 are the unit vectors in Cartesian coordinate system. The product 𝑘1𝑘2𝑘3 for \nwhich 𝑭  is irrotational is __________(round off to nearest integer). \n \n \n \n \n \n \n \n \n \n \nP=10 Ω\nS=5 kΩ\nR=50 Ω\nQ=1 kΩ\n10 V E"
+    }
+  ]
+}

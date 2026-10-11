@@ -1,0 +1,1151 @@
+[
+  {
+    "questionId": "gate-2015-ae-ga-01",
+    "year": 2015,
+    "number": 1,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.208Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-02",
+    "year": 2015,
+    "number": 2,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-03",
+    "year": 2015,
+    "number": 3,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-04",
+    "year": 2015,
+    "number": 4,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-05",
+    "year": 2015,
+    "number": 5,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-06",
+    "year": 2015,
+    "number": 6,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-07",
+    "year": 2015,
+    "number": 7,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-08",
+    "year": 2015,
+    "number": 8,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      280,
+      280
+    ],
+    "actual": [
+      280,
+      280
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-09",
+    "year": 2015,
+    "number": 9,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-10",
+    "year": 2015,
+    "number": 10,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-11",
+    "year": 2015,
+    "number": 11,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-12",
+    "year": 2015,
+    "number": 12,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-13",
+    "year": 2015,
+    "number": 13,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-14",
+    "year": 2015,
+    "number": 14,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-15",
+    "year": 2015,
+    "number": 15,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      24.99,
+      25.01
+    ],
+    "actual": [
+      24.99,
+      25.01
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-16",
+    "year": 2015,
+    "number": 16,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-17",
+    "year": 2015,
+    "number": 17,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-18",
+    "year": 2015,
+    "number": 18,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-11T04:09:28.210Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-19",
+    "year": 2015,
+    "number": 19,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-20",
+    "year": 2015,
+    "number": 20,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-21",
+    "year": 2015,
+    "number": 21,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-22",
+    "year": 2015,
+    "number": 22,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-23",
+    "year": 2015,
+    "number": 23,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      2131.1,
+      2139.1
+    ],
+    "actual": [
+      2131.1,
+      2139.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-24",
+    "year": 2015,
+    "number": 24,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-25",
+    "year": 2015,
+    "number": 25,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      0.97,
+      1.01
+    ],
+    "actual": [
+      0.97,
+      1.01
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-26",
+    "year": 2015,
+    "number": 26,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-27",
+    "year": 2015,
+    "number": 27,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      4.9,
+      5.1
+    ],
+    "actual": [
+      4.9,
+      5.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-28",
+    "year": 2015,
+    "number": 28,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      43.9,
+      44.1
+    ],
+    "actual": [
+      43.9,
+      44.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-29",
+    "year": 2015,
+    "number": 29,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-30",
+    "year": 2015,
+    "number": 30,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-31",
+    "year": 2015,
+    "number": 31,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      6.27,
+      6.29
+    ],
+    "actual": [
+      6.27,
+      6.29
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-32",
+    "year": 2015,
+    "number": 32,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      0.99,
+      1.01
+    ],
+    "actual": [
+      0.99,
+      1.01
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-33",
+    "year": 2015,
+    "number": 33,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-34",
+    "year": 2015,
+    "number": 34,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-35",
+    "year": 2015,
+    "number": 35,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-36",
+    "year": 2015,
+    "number": 36,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1.9,
+      2.1
+    ],
+    "actual": [
+      1.9,
+      2.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-37",
+    "year": 2015,
+    "number": 37,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.49,
+      0.51
+    ],
+    "actual": [
+      0.49,
+      0.51
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-38",
+    "year": 2015,
+    "number": 38,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-39",
+    "year": 2015,
+    "number": 39,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      49.99,
+      50.01
+    ],
+    "actual": [
+      49.99,
+      50.01
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-40",
+    "year": 2015,
+    "number": 40,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.24,
+      0.26
+    ],
+    "actual": [
+      0.24,
+      0.26
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-41",
+    "year": 2015,
+    "number": 41,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      5.45,
+      5.6
+    ],
+    "actual": [
+      5.45,
+      5.6
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-42",
+    "year": 2015,
+    "number": 42,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      39.5,
+      40.5
+    ],
+    "actual": [
+      39.5,
+      40.5
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-43",
+    "year": 2015,
+    "number": 43,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.15,
+      0.18
+    ],
+    "actual": [
+      0.15,
+      0.18
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-44",
+    "year": 2015,
+    "number": 44,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.99,
+      1.01
+    ],
+    "actual": [
+      0.99,
+      1.01
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-45",
+    "year": 2015,
+    "number": 45,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-46",
+    "year": 2015,
+    "number": 46,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      53.9,
+      54.1
+    ],
+    "actual": [
+      53.9,
+      54.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-47",
+    "year": 2015,
+    "number": 47,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-48",
+    "year": 2015,
+    "number": 48,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-49",
+    "year": 2015,
+    "number": 49,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-50",
+    "year": 2015,
+    "number": 50,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1742,
+      1752
+    ],
+    "actual": [
+      1742,
+      1752
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-51",
+    "year": 2015,
+    "number": 51,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      5.42,
+      5.48
+    ],
+    "actual": [
+      5.42,
+      5.48
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-52",
+    "year": 2015,
+    "number": 52,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-53",
+    "year": 2015,
+    "number": 53,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-54",
+    "year": 2015,
+    "number": 54,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1.27,
+      1.32
+    ],
+    "actual": [
+      1.27,
+      1.32
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-55",
+    "year": 2015,
+    "number": 55,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-56",
+    "year": 2015,
+    "number": 56,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      8.9,
+      9.1
+    ],
+    "actual": [
+      8.9,
+      9.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-57",
+    "year": 2015,
+    "number": 57,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1.33,
+      1.4
+    ],
+    "actual": [
+      1.33,
+      1.4
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-58",
+    "year": 2015,
+    "number": 58,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      990,
+      1020
+    ],
+    "actual": [
+      990,
+      1020
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-59",
+    "year": 2015,
+    "number": 59,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      2046,
+      2075
+    ],
+    "actual": [
+      2046,
+      2075
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-60",
+    "year": 2015,
+    "number": 60,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      17.2,
+      17.3
+    ],
+    "actual": [
+      17.2,
+      17.3
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-61",
+    "year": 2015,
+    "number": 61,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-62",
+    "year": 2015,
+    "number": 62,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1.9,
+      2.1
+    ],
+    "actual": [
+      1.9,
+      2.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-63",
+    "year": 2015,
+    "number": 63,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.37,
+      0.39
+    ],
+    "actual": [
+      0.37,
+      0.39
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-64",
+    "year": 2015,
+    "number": 64,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      20.5,
+      21.3
+    ],
+    "actual": [
+      20.5,
+      21.3
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2015-ae-ae-65",
+    "year": 2015,
+    "number": 65,
+    "status": "PASS",
+    "source": "internal/ae/AE2015.pdf",
+    "sha256": "db3101304b6eeeb75951f20ff1cf9f8d87b59018219cc87a023ef055fd106090",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      824,
+      832.1
+    ],
+    "actual": [
+      824,
+      832.1
+    ],
+    "reviewedAt": "2026-10-11T04:09:28.211Z",
+    "method": "All embedded answer annotations in the original local question PDF visually read; no separate key PDF available. Extracted rows compared with loaded canonical records; this is not independent official publication verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  }
+]

@@ -1,0 +1,760 @@
+{
+  "schemaVersion": 1,
+  "day": 4,
+  "year": 2026,
+  "paper": "CE2",
+  "title": "GATE 2026 · CE2 · General Aptitude",
+  "source": "Aptitude Sets/2026/CE_2.pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-ce2-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘The team ______ more than 300 runs in 20 overs ___________ rains. However, some players needed to improve their batting skills.’\nChoose the option with the correct sequence of words to fill the blanks.",
+      "options": [
+        {
+          "label": "A",
+          "text": "score; despite"
+        },
+        {
+          "label": "B",
+          "text": "scoring; instead of"
+        },
+        {
+          "label": "C",
+          "text": "scored; despite"
+        },
+        {
+          "label": "D",
+          "text": "scoring; in spite of"
+        }
+      ],
+      "sourceImage": "figures/day04-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              409.25
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The sentence needs the finite past-tense verb ‘scored’. ‘Despite’ introduces the contrasting circumstance of rain and is followed directly by a noun. Thus ‘scored; despite’ (C) completes the sentence correctly.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce2-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "If a positive real x satisfies the following equation\nlog₂ x + log_{√2} x = 48,\nthen the value of x is _________________",
+      "options": [
+        {
+          "label": "A",
+          "text": "2¹⁶"
+        },
+        {
+          "label": "B",
+          "text": "4¹⁶"
+        },
+        {
+          "label": "C",
+          "text": "2¹⁴"
+        },
+        {
+          "label": "D",
+          "text": "4¹⁴"
+        }
+      ],
+      "sourceImage": "figures/day04-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              377.81
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Let a = log₂ x. Since √2 = 2^{1/2}, changing the base gives log_{√2} x = 2 log₂ x = 2a. Hence a + 2a = 48, so a = 16 and x = 2¹⁶ (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce2-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The next figure (indicated by ‘?’) in the sequence is",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-03-option-A.png",
+            "alt": "Triangle row 4 column 3; circle row 2 column 1.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 3,
+              "image": "Im2.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-03-option-B.png",
+            "alt": "Triangle row 2 column 1; circle row 4 column 3.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 3,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-03-option-C.png",
+            "alt": "Triangle row 1 column 3; circle row 3 column 2.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 3,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-03-option-D.png",
+            "alt": "Triangle row 1 column 3; circle row 4 column 1.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 3,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day04-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              696.46
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "The triangle moves down one row at each step in the rightmost column: rows 1, 2, 3, then 4. The circle also moves down, wrapping from row 4 to row 1 in the leftmost column, so its next row is 2. Option A has the triangle at bottom-right and the circle in row 2 at the left.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce2-ga-03-figure-1.png",
+          "alt": "Three grids with four rows and three columns. Triangle positions: row 1 column 3, row 2 column 3, row 3 column 3. Circle positions: row 3 column 1, row 4 column 1, row 1 column 1.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_2.pdf",
+            "page": 3,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce2-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘All the mangoes in the basket are good.’ If the above statement is false, then which one of the following statements is necessarily true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All the mangoes in the basket are not good."
+        },
+        {
+          "label": "B",
+          "text": "No mango in the basket is good."
+        },
+        {
+          "label": "C",
+          "text": "In the basket, some of the mangoes are good and some are not good."
+        },
+        {
+          "label": "D",
+          "text": "There exists at least one mango in the basket that is not good."
+        }
+      ],
+      "sourceImage": "figures/day04-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              363.41
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "The negation of ‘all mangoes are good’ is ‘at least one mango is not good’ (D). It does not require all mangoes to be bad or require a mixture of good and bad mangoes.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce2-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Consider the following statements about four numbers:\n(S1) The average of the four numbers is 25\n(S2) Each number is at most 40\n(S3) Each number is at least 20\nChoose the option that is necessarily correct.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(S1) and (S2) together imply (S3)"
+        },
+        {
+          "label": "B",
+          "text": "(S2) and (S3) together imply (S1)"
+        },
+        {
+          "label": "C",
+          "text": "(S1) and (S3) together imply (S2)"
+        },
+        {
+          "label": "D",
+          "text": "(S1) implies (S3)"
+        }
+      ],
+      "sourceImage": "figures/day04-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              427.03
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "S1 gives a total of 4 × 25 = 100. Under S3, any three numbers have sum at least 60, leaving at most 40 for the fourth. So S1 and S3 imply S2 (C). For comparison, 10, 30, 30, 30 satisfy S1 and S2 but not S3.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce2-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "‘People are crowding around ___ pit into which ___ elephant has fallen. I have never seen an elephant looking more bewildered ___ miserable. Here it is in a most undignified position, thrust into a pit and made to look up ___ a vast, curiosity-stricken crowd.’\nChoose the option with the correct sequence of words to fill the blanks.",
+      "options": [
+        {
+          "label": "A",
+          "text": "an; a; at; and"
+        },
+        {
+          "label": "B",
+          "text": "a; an; and; at"
+        },
+        {
+          "label": "C",
+          "text": "and; a; an; at"
+        },
+        {
+          "label": "D",
+          "text": "at; a; an; and"
+        }
+      ],
+      "sourceImage": "figures/day04-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              413.95
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Use ‘a pit’ and ‘an elephant’, according to the following consonant/vowel sound. ‘Bewildered and miserable’ joins two adjectives. The phrase is ‘look up at a crowd’. The sequence is a; an; and; at (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce2-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The table lists the unit selling price of five products P, Q, R, S, and T. On a particular day, 250 items were sold with the average selling price of Rs. 60.\nThe following observations were made:\n(i) The quantity of S sold was twice that of T.\n(ii) The quantity of R sold was thrice that of T.\n(iii) The quantity of Q sold was four times that of T.",
+      "options": [
+        {
+          "label": "A",
+          "text": "40"
+        },
+        {
+          "label": "B",
+          "text": "50"
+        },
+        {
+          "label": "C",
+          "text": "60"
+        },
+        {
+          "label": "D",
+          "text": "70"
+        }
+      ],
+      "sourceImage": "figures/day04-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              536.59
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "headers": [
+          "Product",
+          "P",
+          "Q",
+          "R",
+          "S",
+          "T"
+        ],
+        "rows": [
+          [
+            "Unit selling price (Rs.)",
+            "100",
+            "50",
+            "40",
+            "60",
+            "60"
+          ]
+        ]
+      },
+      "afterTable": "What is the quantity of product P sold on that day?",
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Let t be the quantity of T and p the quantity of P. The quantities of Q, R and S are 4t, 3t and 2t. Total quantity: p + 10t = 250. Total revenue: 100p + (50×4 + 40×3 + 60×2 + 60)t = 250×60, so 100p + 500t = 15000. Subtract 50(p + 10t) = 12500 to get 50p = 2500. Thus p = 50 items (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce2-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Consider a string P of length 𝑙 that is laid out as a straight-line segment. Another string K is laid out as a semicircular arc with string P as its diameter, as represented in Figure (i). When both the strings are shortened by a length 𝑥 they can be re-arranged such that the shortened string K forms a full circle with the shortened string P as its diameter, as represented in Figure (ii). The value of 𝑥/𝑙 is __________",
+      "options": [
+        {
+          "label": "A",
+          "text": "π"
+        },
+        {
+          "label": "B",
+          "text": "(π − 1)/(2π)"
+        },
+        {
+          "label": "C",
+          "text": "π/[2(π − 1)]"
+        },
+        {
+          "label": "D",
+          "text": "π/(π − 1)"
+        }
+      ],
+      "sourceImage": "figures/day04-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              601.3
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Initially P has length l and K has semicircular arc length πl/2. After both lose x, K has length πl/2 − x and becomes a full circle with diameter l − x. Therefore πl/2 − x = π(l − x). Rearranging, (π − 1)x = πl/2, so x/l = π/[2(π − 1)] (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce2-ga-08-figure-1.png",
+          "alt": "Figure i: string P is a diameter of length l; string K forms the semicircular arc. Figure ii: after shortening both strings, K forms a full circle and P is its diameter.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_2.pdf",
+            "page": 8,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce2-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The Roman senator Meritorius, his brother, his son, and his daughter have varying oratory skill levels. They are seated in rows and columns as shown in the figure with exactly one person sitting in each box. It is known that\n(i) Meritorius’ daughter and his brother are seated in the same column.\n(ii) His son is seated diagonally across the sibling of the worst orator.\n(iii) The best and worst orators are seated in the same row. Who is the best orator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meritorius"
+        },
+        {
+          "label": "B",
+          "text": "Meritorius’ brother"
+        },
+        {
+          "label": "C",
+          "text": "Meritorius’ son"
+        },
+        {
+          "label": "D",
+          "text": "Meritorius’ daughter"
+        }
+      ],
+      "sourceImage": "figures/day04-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              613.78
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "The daughter and brother occupy one column, leaving Meritorius and his son in the other. The person diagonally across the son is therefore either the daughter or the brother. If it is the daughter, her sibling (the son) is worst; the person sharing the son’s row is the brother, who must be best. If it is the brother, his sibling Meritorius is worst; again the brother shares the worst orator’s row and must be best. Both possibilities give Meritorius’ brother (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce2-ga-09-figure-1.png",
+          "alt": "Seating arrangement: a two-by-two grid labelled Row 1, Row 2 and Column 1, Column 2.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_2.pdf",
+            "page": 9,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce2-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "CE2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Which one of the patterns labelled P, Q, R, and S is used to generate the following figure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-10-option-A.png",
+            "alt": "Candidate P: first square stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 10,
+              "image": "Im2.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "Q",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-10-option-B.png",
+            "alt": "Candidate Q: second square stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 10,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "R",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-10-option-C.png",
+            "alt": "Candidate R: third square stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 10,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "S",
+          "figure": {
+            "src": "figures/gate-2026-ce2-ga-10-option-D.png",
+            "alt": "Candidate S: fourth square stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_2.pdf",
+              "page": 10,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day04-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_2.pdf",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              698.74
+            ]
+          }
+        ],
+        "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Split the long pattern into three equal square tiles. Each tile has the same arrangement of the horizontal and vertical strokes. Figure Q reproduces this tile; placing three copies side by side aligns the boundaries and reconstructs the given pattern. Thus B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE2_Keys.pdf",
+        "paper": "CE2",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce2-ga-10-figure-1.png",
+          "alt": "A wide rectangular black-and-white pattern of horizontal and vertical strokes; the candidate square tiles are below.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_2.pdf",
+            "page": 10,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "day": 3,
+  "year": 2026,
+  "paper": "CE1",
+  "title": "GATE 2026 · CE1 · General Aptitude",
+  "source": "Aptitude Sets/2026/CE_1.pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-ce1-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘The shopkeeper sells lemons.’ In this sentence, the word ‘lemons’ is the ________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "object"
+        },
+        {
+          "label": "B",
+          "text": "subject"
+        },
+        {
+          "label": "C",
+          "text": "predicate"
+        },
+        {
+          "label": "D",
+          "text": "verb"
+        }
+      ],
+      "sourceImage": "figures/day03-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              395.45
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "‘Sells’ is the verb. Ask ‘sells what?’: lemons. ‘Lemons’ receives the action and is the direct object (A); ‘the shopkeeper’ is the subject.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce1-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The figure below is supposed to show three non-overlapping shapes – one oval and two triangles. Which one of the following figures P, Q, R, or S fits the missing portion indicated by ‘?’ and completes the oval and the two triangles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-02-option-A.png",
+            "alt": "Candidate P: oval arc at upper-left, triangle portions at upper-right and lower-right.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 2,
+              "image": "Im2.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "Q",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-02-option-B.png",
+            "alt": "Candidate Q: oval arc at upper-left, triangle portions at upper-right and lower-left.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 2,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "R",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-02-option-C.png",
+            "alt": "Candidate R: oval arc at upper-left, differently oriented upper-right triangle and a lower-right triangle.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 2,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "S",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-02-option-D.png",
+            "alt": "Candidate S: vertically curved oval portion at left and triangle portions at upper-right and lower-right.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 2,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day03-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              699.46
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Extend the visible boundaries into the missing rectangle. The oval must curve around on the right, while the straight segments must close the upper and lower triangles without crossing the oval. Figure P connects all these boundaries with the correct orientations; Q, R and S change a required boundary. Hence A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce1-ga-02-figure-1.png",
+          "alt": "Incomplete oval and two triangles, with a rectangular central portion missing. The original boundary positions are shown.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_1.pdf",
+            "page": 2,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce1-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "At how many points will the curves y = x² and y = −x² − 2x − 1 intersect in the real (x, y) plane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "sourceImage": "figures/day03-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              338.33
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "At an intersection, x² = −x² − 2x − 1, giving 2x² + 2x + 1 = 0. Its discriminant is 2² − 4(2)(1) = −4, which is negative. There is no real x, so there are 0 intersections (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce1-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘If Anish had scored hundred runs in today’s match, he would have been made the captain of his team. He would have then become the youngest captain in his team’s history. Unfortunately, he got out without scoring any runs. Hence, there won’t be any change in the captaincy for now.’\nBased on the paragraph above, which one of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anish made hundred runs but was denied captaincy."
+        },
+        {
+          "label": "B",
+          "text": "Anish was the captain of his team before the game today."
+        },
+        {
+          "label": "C",
+          "text": "The current captain is older than Anish."
+        },
+        {
+          "label": "D",
+          "text": "Anish is the youngest player in his team."
+        }
+      ],
+      "sourceImage": "figures/day03-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              391.01
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Anish would have become the youngest captain in the team’s history. In particular, he would have been younger than the current captain. Therefore the current captain is older than Anish (C). The passage does not say that Anish is the youngest player.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce1-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Which one of the following figures P, Q, R, or S, correctly shows the 45° clockwise-rotated version of figure (I)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-05-option-A.png",
+            "alt": "Candidate P: first rotated black-stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 5,
+              "image": "Im2.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "Q",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-05-option-B.png",
+            "alt": "Candidate Q: second rotated black-stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 5,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "R",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-05-option-C.png",
+            "alt": "Candidate R: third rotated black-stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 5,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "S",
+          "figure": {
+            "src": "figures/gate-2026-ce1-ga-05-option-D.png",
+            "alt": "Candidate S: fourth rotated black-stroke pattern.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CE_1.pdf",
+              "page": 5,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day03-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              701.74
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Turn the whole figure 45° clockwise, keeping the relative arrangement of its branches fixed. The upward branch now points diagonally up-right and each remaining branch moves through the same angle. The resulting arrangement is Q (B); rotating individual branches or reflecting the figure would change the pattern.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce1-ga-05-figure-1.png",
+          "alt": "Figure I: a square pattern of connected horizontal and vertical black strokes, to be rotated 45 degrees clockwise.",
+          "caption": "(I)",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_1.pdf",
+            "page": 5,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce1-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Match the words in Column I with their synonyms in Column II.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i)-(q); (ii)-(p); (iii)-(s); (iv)-(r)"
+        },
+        {
+          "label": "B",
+          "text": "(i)-(q); (ii)-(s); (iii)-(r); (iv)-(p)"
+        },
+        {
+          "label": "C",
+          "text": "(i)-(s); (ii)-(p); (iii)-(q); (iv)-(r)"
+        },
+        {
+          "label": "D",
+          "text": "(i)-(r); (ii)-(s); (iii)-(p); (iv)-(q)"
+        }
+      ],
+      "sourceImage": "figures/day03-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              505.27
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "headers": [
+          "Column I",
+          "Column II"
+        ],
+        "rows": [
+          [
+            "(i) Lonely",
+            "(p) Verbatim"
+          ],
+          [
+            "(ii) Literal",
+            "(q) Solitary"
+          ],
+          [
+            "(iii) Lousy",
+            "(r) Deadly"
+          ],
+          [
+            "(iv) Lethal",
+            "(s) Terrible"
+          ]
+        ]
+      },
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Lonely pairs with solitary (i–q); literal with verbatim (ii–p); lousy with terrible (iii–s); lethal with deadly (iv–r). This is option A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ce1-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In the given figure, \\overline{PQ} is the diameter of a circle with center O. Two points R and S are chosen on the circle such that ∠ROS = 80°. When \\overline{PR} and \\overline{QS} are extended, they meet at T. The value of ∠RTS is _________________",
+      "options": [
+        {
+          "label": "A",
+          "text": "40°"
+        },
+        {
+          "label": "B",
+          "text": "50°"
+        },
+        {
+          "label": "C",
+          "text": "60°"
+        },
+        {
+          "label": "D",
+          "text": "80°"
+        }
+      ],
+      "sourceImage": "figures/day03-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              605.38
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "For two secants meeting outside a circle, the angle at their intersection is half the difference of their intercepted arcs. The far arc PQ is a semicircle, 180°, and the near arc RS is 80°. Thus ∠RTS = (180° − 80°)/2 = 50° (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce1-ga-07-figure-1.png",
+          "alt": "Circle with diameter PQ and center O. R and S are on the upper semicircle with angle ROS equal to 80 degrees. Lines PR and QS extended meet at T above the circle.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_1.pdf",
+            "page": 7,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce1-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Based on the relationship between each polygon and the number inside it, the value of ‘X’ is ______",
+      "options": [
+        {
+          "label": "A",
+          "text": "720"
+        },
+        {
+          "label": "B",
+          "text": "596"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "240"
+        }
+      ],
+      "sourceImage": "figures/day03-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              493.63
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "The number is the factorial of the number of sides: triangle 3! = 6, quadrilateral 4! = 24 and pentagon 5! = 120. The hexagon therefore contains 6! = 720 (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce1-ga-08-figure-1.png",
+          "alt": "Triangle containing 6, quadrilateral containing 24, pentagon containing 120, and hexagon containing X.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_1.pdf",
+            "page": 8,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce1-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Consider a linear arrangement of seven bulbs, each of which can be in the ON or OFF states. The initial configuration of the bulbs is shown in the figure. In every Step, the states of the bulbs are changed based on the following rules:\n• Any OFF bulb with exactly one ON neighbor at the end of the previous Step is turned ON.\n• Any ON bulb with both neighbors ON at the end of the previous Step is turned OFF.\n• The state of any bulb not meeting the conditions above is left unchanged. The state of bulbs at the end of Step 1 and Step 2 are also shown in the figure.\nThe number of bulbs which are ON at the end of Step 8 is ______",
+      "options": [
+        {
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "sourceImage": "figures/day03-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              673.3
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Apply every update simultaneously using the previous step, not the partially updated row. Write 1 for ON and 0 for OFF. Starting from 0001000, the successive states are:\n1: 0011100; 2: 0110110; 3: 1110111; 4: 1010101; 5: 1010101.\nIn 1010101 each OFF bulb has two ON neighbors and each ON bulb has no ON neighbor, so no further rule applies. Step 8 still has four ON bulbs (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ce1-ga-09-figure-1.png",
+          "alt": "Seven bulbs: initially only bulb 4 is ON. Step 1: bulbs 3, 4 and 5 ON. Step 2: bulbs 2, 3, 5 and 6 ON. White means ON; black means OFF.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CE_1.pdf",
+            "page": 9,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ce1-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "P and Q are two positive integers such that P² = Q² + 13.\nThe product of the numbers P and Q is _________",
+      "options": [
+        {
+          "label": "A",
+          "text": "13"
+        },
+        {
+          "label": "B",
+          "text": "26"
+        },
+        {
+          "label": "C",
+          "text": "39"
+        },
+        {
+          "label": "D",
+          "text": "42"
+        }
+      ],
+      "sourceImage": "figures/day03-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CE_1.pdf",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              350.33
+            ]
+          }
+        ],
+        "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "Factor P² − Q² = (P − Q)(P + Q) = 13. Since 13 is prime and P, Q are positive, P − Q = 1 and P + Q = 13. Adding gives P = 7, then Q = 6. Their product is 42 (D).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    }
+  ]
+}

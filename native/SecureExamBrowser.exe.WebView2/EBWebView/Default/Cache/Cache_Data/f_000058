@@ -1,0 +1,763 @@
+{
+  "schemaVersion": 1,
+  "day": 5,
+  "year": 2026,
+  "paper": "CS1",
+  "title": "GATE 2026 · CS1 · General Aptitude",
+  "source": "Aptitude Sets/2026/CS1.pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-cs1-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The antonym of the word protagonist is ________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "agnostic"
+        },
+        {
+          "label": "B",
+          "text": "antagonist"
+        },
+        {
+          "label": "C",
+          "text": "arsonist"
+        },
+        {
+          "label": "D",
+          "text": "anarchist"
+        }
+      ],
+      "sourceImage": "figures/day05-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              369.65
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "A protagonist is the principal character; an antagonist is the opposing character or force. ‘Antagonist’ is the intended antonym (B). The other words describe belief, arson or opposition to government.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs1-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The figure shows two 4-tile patterns. Either one or both of the patterns can be used any number of times and in any orientation to construct a new pattern. Which one of the options below cannot be constructed by using only these two 4-tile patterns assuming there are no overlaps among them?",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-02-option-A.png",
+            "alt": "Rectangle with four rows and two columns of tiles.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 2,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-02-option-B.png",
+            "alt": "Rectangle with four rows and three columns of tiles.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 2,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-02-option-C.png",
+            "alt": "Rectangle with three rows and five columns of tiles.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 2,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-02-option-D.png",
+            "alt": "Rectangle with four rows and five columns of tiles.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 2,
+              "image": "Im6.png",
+              "pixelCrop": null,
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day05-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              530.11
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Each permitted piece covers exactly 4 tiles, so any constructed pattern must contain a multiple of 4 tiles. The options contain 8, 12, 15 and 20 tiles respectively. The 15-tile rectangle in C is impossible. A, B and D can each be tiled using straight four-tile bars, so the area test is sufficient here.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs1-ga-02-figure-1.png",
+          "alt": "Four unit tiles in a two-by-two square.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CS1.pdf",
+            "page": 2,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+          }
+        },
+        {
+          "src": "figures/gate-2026-cs1-ga-02-figure-2.png",
+          "alt": "Four unit tiles in a straight column.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CS1.pdf",
+            "page": 2,
+            "image": "Im2.png",
+            "pixelCrop": null,
+            "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs1-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Consider a knock-out women’s badminton singles tournament where there are no ties. The loser in each game is eliminated from the tournament. Every player plays until she is defeated or remains the last undefeated player. The last undefeated player is declared the winner of the tournament. If there are 64 players in the beginning of the tournament, how many games should be played in total to declare the winner of the tournament?",
+      "options": [
+        {
+          "label": "A",
+          "text": "127"
+        },
+        {
+          "label": "B",
+          "text": "64"
+        },
+        {
+          "label": "C",
+          "text": "63"
+        },
+        {
+          "label": "D",
+          "text": "32"
+        }
+      ],
+      "sourceImage": "figures/day05-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              392.81
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Each game eliminates exactly one player. To leave one undefeated player from 64, exactly 63 players must be eliminated. Thus 63 games are required (C), regardless of how the knock-out rounds are arranged.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs1-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A student needs to enroll for a minimum of 60 credits. A student cannot enroll for more than 70 credits. The credits are divided amongst project and three distinct sets of courses namely, core courses, specialization courses, and elective courses. It is compulsory for a student to enroll for exactly 15 credits of core courses and exactly 20 credits of project. In addition, a student has to enroll for a minimum of 10 credits of specialization courses. The maximum credits of elective courses that a student can enroll for is ______",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "20"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "sourceImage": "figures/day05-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              406.61
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "To maximize elective credits, use the maximum total of 70 and the minimum required specialization credits of 10. Electives = 70 − 15 (core) − 20 (project) − 10 (specialization) = 25 credits (D). This also satisfies the 60-credit minimum.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs1-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘When the teacher is in the room, all students stand silently.’ If the above statement is true, which one of the following statements is not necessarily true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If any student is not standing silently, then the teacher is not in the room."
+        },
+        {
+          "label": "B",
+          "text": "When the teacher is in the room, all students are silent."
+        },
+        {
+          "label": "C",
+          "text": "If all students are standing, then the teacher is in the room."
+        },
+        {
+          "label": "D",
+          "text": "When the teacher is in the room, all students are standing."
+        }
+      ],
+      "sourceImage": "figures/day05-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              445.9,
+              565.32,
+              714.34
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The given implication is: teacher present ⇒ every student standing silently. Its contrapositive, A, is valid; B and D follow directly. The converse need not hold: students could stand even when the teacher is absent. Therefore C is not necessarily true.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs1-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Combinatorics deals with problems involving counting. For example, “How many distinct arrangements of N distinct objects in M spaces on a circle are possible?” is a typical problem in combinatorics. This kind of counting is sometimes used in the modeling of several physical phenomena. Often, in such models, the different combinatorial possibilities are assigned probability values. Assigning probabilities enables the computation of the average values of physical quantities. Consider the following statements:\nP: Combinatorics is always invoked in the modeling of physical phenomena.\nQ: Modeling some physical phenomena involves assigning probabilities to combinatorial possibilities in order to compute average values of physical quantities.\nBased on the passage above, what can be inferred about statements P and Q?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P is False and Q is False"
+        },
+        {
+          "label": "B",
+          "text": "P is False and Q is True"
+        },
+        {
+          "label": "C",
+          "text": "P is True and Q is False"
+        },
+        {
+          "label": "D",
+          "text": "P is True and Q is True"
+        }
+      ],
+      "sourceImage": "figures/day05-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              546.55
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "The passage says combinatorics is ‘sometimes’ used in physical modeling; it does not support P’s universal claim ‘always’. Q restates the described use of probabilities to compute averages. The intended classification is P False and Q True (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs1-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In Panel I of the figure below, the front view and top view of a structure are shown. Which one of the 3D structures shown in Panel II possesses the views shown in Panel I?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i)",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-07-option-A.png",
+            "alt": "Structure i, with front and top viewing arrows.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                390,
+                40,
+                660,
+                330
+              ],
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "(ii)",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-07-option-B.png",
+            "alt": "Structure ii, with front and top viewing arrows.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                690,
+                40,
+                940,
+                330
+              ],
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "(iii)",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-07-option-C.png",
+            "alt": "Structure iii, with front and top viewing arrows.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                390,
+                340,
+                660,
+                625
+              ],
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "(iv)",
+          "figure": {
+            "src": "figures/gate-2026-cs1-ga-07-option-D.png",
+            "alt": "Structure iv, with front and top viewing arrows.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS1.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                690,
+                340,
+                940,
+                625
+              ],
+              "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day05-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              607.9
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "Compare both projections, using the arrows to fix the viewing directions. The front outline has heights 3, 2 and 2 units from left to right. The top view has an L-shaped footprint with the front-right square absent and the indicated internal step boundaries. Structure (iv) matches both. Structure (i) fills the missing corner, (ii) has a different internal step arrangement, and (iii) has a taller middle portion. Hence D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs1-ga-07-figure-1.png",
+          "alt": "Panel I: front and top orthographic views of a stepped solid. Front column heights are 3, 2, 2. The top footprint is a three-by-three square missing its front-right cell; internal step boundaries are shown.",
+          "caption": "Panel I",
+          "source": {
+            "file": "Aptitude Sets/2026/CS1.pdf",
+            "page": 6,
+            "image": "Im1.png",
+            "pixelCrop": [
+              100,
+              154,
+              225,
+              554
+            ],
+            "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs1-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "For positive real numbers S and K, the function H_{K}(S) is defined as:\nH_{K}(S) = max(S − K, 0). The max function is defined as:\nmax(a, b) = a, when a > b;\n                  b, when a ≤ b.\nThe graph below shows the plot of a function N(S) versus S.\nN(S) can be expressed as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "H₁₀(S) − H₂₀(S)"
+        },
+        {
+          "label": "B",
+          "text": "H₁₀(S) − 2H₂₀(S)"
+        },
+        {
+          "label": "C",
+          "text": "−H₁₀(S) + H₂₀(S)"
+        },
+        {
+          "label": "D",
+          "text": "H₁₅(S) − H₂₀(S)"
+        }
+      ],
+      "sourceImage": "figures/day05-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              623.86
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "The graph is 0 up to S = 10, rises with slope 1 from 10 to 20, and stays at 10 beyond 20. H₁₀(S) starts the rising segment at 10; subtracting H₂₀(S) cancels its slope after 20. Thus N(S) = H₁₀(S) − H₂₀(S) (A): the three interval values are 0, S − 10 and 10.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs1-ga-08-figure-1.png",
+          "alt": "Graph N(S): zero from S=0 to 10, a straight rise to N=10 at S=20, then horizontal at N=10 to S=30.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CS1.pdf",
+            "page": 7,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs1-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In the 2020 summer Olympics’ Javelin throw finals, Neeraj Chopra exhibited a spectacular performance to win the gold medal. The silver medal was won by Jakub Vadlejch and the bronze medal was won by Vitezlav Vesely. There were six rounds of throws with each athlete having one throw per round. The best of all the throws of each athlete is considered for the medal. Following were the observations about the throws:\ni. The first and second rounds were dominated by Neeraj Chopra with a gold medal performance in his second throw, while the other two athletes did not have any medal winning throws in these rounds.\nii. The throws in the last round by both Jakub Vadlejch and Vitezlav Vesely were fouls and were not considered for scoring.\niii. After four rounds, Vitezlav Vesely was in the second position and could not improve upon his best throw in the succeeding rounds.\niv. In the fourth round, the throw by Jakub Vadlejch was the best in that round. In which round did Vitezlav Vesely have his best throw?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Third"
+        },
+        {
+          "label": "B",
+          "text": "Fourth"
+        },
+        {
+          "label": "C",
+          "text": "Fifth"
+        },
+        {
+          "label": "D",
+          "text": "Sixth"
+        }
+      ],
+      "sourceImage": "figures/day05-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              596.26
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Vesely’s medal-winning best was not in rounds 1 or 2. He did not improve after round 4, excluding rounds 5 and 6. His best cannot be in round 4 either: Vadlejch had the best throw of that round, yet Vesely was ahead of him after four rounds. Therefore Vesely’s best occurred in round 3 (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs1-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "CS1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "An unbiased six-faced dice whose faces are marked with numbers 1, 2, 3, 4, 5, and 6 is rolled twice in succession and the number on the top face is recorded each time. The probability that the number appearing in the second roll is an integer multiple of the number appearing in the first roll is __________",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/6"
+        },
+        {
+          "label": "B",
+          "text": "5/18"
+        },
+        {
+          "label": "C",
+          "text": "7/18"
+        },
+        {
+          "label": "D",
+          "text": "5/6"
+        }
+      ],
+      "sourceImage": "figures/day05-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS1.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              418.75
+            ]
+          }
+        ],
+        "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The 36 ordered outcomes are equally likely. For first rolls 1, 2, 3, 4, 5 and 6, the numbers of permissible second rolls are respectively 6, 3, 2, 1, 1 and 1. Total favorable outcomes = 14, so the probability is 14/36 = 7/18 (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS1_Keys.pdf",
+        "paper": "CS1",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    }
+  ]
+}

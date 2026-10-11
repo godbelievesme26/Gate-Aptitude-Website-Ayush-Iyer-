@@ -1,0 +1,1489 @@
+[
+  {
+    "questionId": "gate-2021-ae-ga-01",
+    "year": 2021,
+    "number": 1,
+    "printedNumber": 1,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-02",
+    "year": 2021,
+    "number": 2,
+    "printedNumber": 2,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-03",
+    "year": 2021,
+    "number": 3,
+    "printedNumber": 3,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-04",
+    "year": 2021,
+    "number": 4,
+    "printedNumber": 4,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-05",
+    "year": 2021,
+    "number": 5,
+    "printedNumber": 5,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-06",
+    "year": 2021,
+    "number": 6,
+    "printedNumber": 6,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-07",
+    "year": 2021,
+    "number": 7,
+    "printedNumber": 7,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "A",
+    "actual": "A",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-08",
+    "year": 2021,
+    "number": 8,
+    "printedNumber": 8,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-09",
+    "year": 2021,
+    "number": 9,
+    "printedNumber": 9,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ga-10",
+    "year": 2021,
+    "number": 10,
+    "printedNumber": 10,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-11",
+    "year": 2021,
+    "number": 11,
+    "printedNumber": 1,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-12",
+    "year": 2021,
+    "number": 12,
+    "printedNumber": 2,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-13",
+    "year": 2021,
+    "number": 13,
+    "printedNumber": 3,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-14",
+    "year": 2021,
+    "number": 14,
+    "printedNumber": 4,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "A",
+    "actual": "A",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-15",
+    "year": 2021,
+    "number": 15,
+    "printedNumber": 5,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-16",
+    "year": 2021,
+    "number": 16,
+    "printedNumber": 6,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "A",
+    "actual": "A",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-17",
+    "year": 2021,
+    "number": 17,
+    "printedNumber": 7,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-18",
+    "year": 2021,
+    "number": 18,
+    "printedNumber": 8,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-19",
+    "year": 2021,
+    "number": 19,
+    "printedNumber": 9,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-20",
+    "year": 2021,
+    "number": 20,
+    "printedNumber": 10,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 1,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-21",
+    "year": 2021,
+    "number": 21,
+    "printedNumber": 11,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-22",
+    "year": 2021,
+    "number": 22,
+    "printedNumber": 12,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-23",
+    "year": 2021,
+    "number": 23,
+    "printedNumber": 13,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-24",
+    "year": 2021,
+    "number": 24,
+    "printedNumber": 14,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "A",
+      "B",
+      "C"
+    ],
+    "actual": [
+      "A",
+      "B",
+      "C"
+    ],
+    "type": "MSQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-25",
+    "year": 2021,
+    "number": 25,
+    "printedNumber": 15,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "A",
+      "B",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "B",
+      "D"
+    ],
+    "type": "MSQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-26",
+    "year": 2021,
+    "number": 26,
+    "printedNumber": 16,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "A",
+      "B"
+    ],
+    "actual": [
+      "A",
+      "B"
+    ],
+    "type": "MSQ",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-27",
+    "year": 2021,
+    "number": 27,
+    "printedNumber": 17,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0,
+      0
+    ],
+    "actual": [
+      0,
+      0
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-28",
+    "year": 2021,
+    "number": 28,
+    "printedNumber": 18,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0.02,
+      0.03
+    ],
+    "actual": [
+      0.02,
+      0.03
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-29",
+    "year": 2021,
+    "number": 29,
+    "printedNumber": 19,
+    "status": "UNVERIFIABLE",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      [
+        264,
+        264
+      ],
+      [
+        833,
+        835
+      ]
+    ],
+    "actual": [
+      [
+        264,
+        264
+      ],
+      [
+        833,
+        835
+      ]
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Conflicting preserved versions; no canonical answer changed."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-30",
+    "year": 2021,
+    "number": 30,
+    "printedNumber": 20,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      4,
+      4
+    ],
+    "actual": [
+      4,
+      4
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-31",
+    "year": 2021,
+    "number": 31,
+    "printedNumber": 21,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0,
+      0
+    ],
+    "actual": [
+      0,
+      0
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-32",
+    "year": 2021,
+    "number": 32,
+    "printedNumber": 22,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0.2,
+      0.2
+    ],
+    "actual": [
+      0.2,
+      0.2
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-33",
+    "year": 2021,
+    "number": 33,
+    "printedNumber": 23,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      64.3,
+      64.6
+    ],
+    "actual": [
+      64.3,
+      64.6
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-34",
+    "year": 2021,
+    "number": 34,
+    "printedNumber": 24,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      6.5,
+      6.6
+    ],
+    "actual": [
+      6.5,
+      6.6
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-35",
+    "year": 2021,
+    "number": 35,
+    "printedNumber": 25,
+    "status": "UNVERIFIABLE",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      [
+        7.75,
+        7.77
+      ],
+      [
+        7750,
+        7770
+      ]
+    ],
+    "actual": [
+      [
+        7.75,
+        7.77
+      ],
+      [
+        7750,
+        7770
+      ]
+    ],
+    "type": "NAT",
+    "marks": 1,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Conflicting preserved versions; no canonical answer changed."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-36",
+    "year": 2021,
+    "number": 36,
+    "printedNumber": 26,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "A",
+    "actual": "A",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-37",
+    "year": 2021,
+    "number": 37,
+    "printedNumber": 27,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-38",
+    "year": 2021,
+    "number": 38,
+    "printedNumber": 28,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "B",
+    "actual": "B",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-39",
+    "year": 2021,
+    "number": 39,
+    "printedNumber": 29,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "C",
+    "actual": "C",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-40",
+    "year": 2021,
+    "number": 40,
+    "printedNumber": 30,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": "D",
+    "actual": "D",
+    "type": "MCQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-41",
+    "year": 2021,
+    "number": 41,
+    "printedNumber": 31,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "B",
+      "D"
+    ],
+    "actual": [
+      "B",
+      "D"
+    ],
+    "type": "MSQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-42",
+    "year": 2021,
+    "number": 42,
+    "printedNumber": 32,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "B",
+      "C"
+    ],
+    "actual": [
+      "B",
+      "C"
+    ],
+    "type": "MSQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-43",
+    "year": 2021,
+    "number": 43,
+    "printedNumber": 33,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 2,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "D"
+    ],
+    "actual": [
+      "D"
+    ],
+    "type": "MSQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-44",
+    "year": 2021,
+    "number": 44,
+    "printedNumber": 34,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "A",
+      "C",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "C",
+      "D"
+    ],
+    "type": "MSQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-45",
+    "year": 2021,
+    "number": 45,
+    "printedNumber": 35,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "B",
+      "C",
+      "D"
+    ],
+    "actual": [
+      "B",
+      "C",
+      "D"
+    ],
+    "type": "MSQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-46",
+    "year": 2021,
+    "number": 46,
+    "printedNumber": 36,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      "A",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "D"
+    ],
+    "type": "MSQ",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-47",
+    "year": 2021,
+    "number": 47,
+    "printedNumber": 37,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      8,
+      8
+    ],
+    "actual": [
+      8,
+      8
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-48",
+    "year": 2021,
+    "number": 48,
+    "printedNumber": 38,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0.66,
+      0.68
+    ],
+    "actual": [
+      0.66,
+      0.68
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-49",
+    "year": 2021,
+    "number": 49,
+    "printedNumber": 39,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0.41,
+      0.43
+    ],
+    "actual": [
+      0.41,
+      0.43
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-50",
+    "year": 2021,
+    "number": 50,
+    "printedNumber": 40,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      98,
+      98.5
+    ],
+    "actual": [
+      98,
+      98.5
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-51",
+    "year": 2021,
+    "number": 51,
+    "printedNumber": 41,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      0.005,
+      0.009
+    ],
+    "actual": [
+      0.005,
+      0.009
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-52",
+    "year": 2021,
+    "number": 52,
+    "printedNumber": 42,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      4.8,
+      5.2
+    ],
+    "actual": [
+      4.8,
+      5.2
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-53",
+    "year": 2021,
+    "number": 53,
+    "printedNumber": 43,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      605,
+      607
+    ],
+    "actual": [
+      605,
+      607
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-54",
+    "year": 2021,
+    "number": 54,
+    "printedNumber": 44,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      216,
+      220
+    ],
+    "actual": [
+      216,
+      220
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-55",
+    "year": 2021,
+    "number": 55,
+    "printedNumber": 45,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      20,
+      22
+    ],
+    "actual": [
+      20,
+      22
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-56",
+    "year": 2021,
+    "number": 56,
+    "printedNumber": 46,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      274,
+      282
+    ],
+    "actual": [
+      274,
+      282
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-57",
+    "year": 2021,
+    "number": 57,
+    "printedNumber": 47,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      18,
+      19.5
+    ],
+    "actual": [
+      18,
+      19.5
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-58",
+    "year": 2021,
+    "number": 58,
+    "printedNumber": 48,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      2.35,
+      2.5
+    ],
+    "actual": [
+      2.35,
+      2.5
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-59",
+    "year": 2021,
+    "number": 59,
+    "printedNumber": 49,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      14,
+      16
+    ],
+    "actual": [
+      14,
+      16
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-60",
+    "year": 2021,
+    "number": 60,
+    "printedNumber": 50,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      2.1,
+      2.5
+    ],
+    "actual": [
+      2.1,
+      2.5
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-61",
+    "year": 2021,
+    "number": 61,
+    "printedNumber": 51,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      2.2,
+      2.6
+    ],
+    "actual": [
+      2.2,
+      2.6
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-62",
+    "year": 2021,
+    "number": 62,
+    "printedNumber": 52,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      232,
+      238
+    ],
+    "actual": [
+      232,
+      238
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-63",
+    "year": 2021,
+    "number": 63,
+    "printedNumber": 53,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      14.8,
+      15.2
+    ],
+    "actual": [
+      14.8,
+      15.2
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-64",
+    "year": 2021,
+    "number": 64,
+    "printedNumber": 54,
+    "status": "UNVERIFIABLE",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      9787,
+      9795
+    ],
+    "actual": [
+      9787,
+      9795
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Conflicting preserved versions; no canonical answer changed."
+  },
+  {
+    "questionId": "gate-2021-ae-ae-65",
+    "year": 2021,
+    "number": 65,
+    "printedNumber": 55,
+    "status": "PASS",
+    "source": "internal/ae/AE2021-key.pdf",
+    "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+    "page": 3,
+    "additionalSource": "internal/ae/AE2021.pdf pages 33–35",
+    "expectedFromExtractedRows": [
+      -0.025,
+      -0.023
+    ],
+    "actual": [
+      -0.025,
+      -0.023
+    ],
+    "type": "NAT",
+    "marks": 2,
+    "reviewedAt": "2026-10-11T03:57:09.594Z",
+    "method": "All three separate key pages and all three appended key pages visually read. Rows 29/35 contain appended-key alternatives absent from the separate key; row 64 differs between versions.",
+    "remotePublication": "NOT RE-FETCHED",
+    "qualification": "Keys agree in both preserved sources."
+  }
+]

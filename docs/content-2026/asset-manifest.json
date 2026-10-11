@@ -1,0 +1,1293 @@
+[
+  {
+    "questionId": "gate-2026-ae-ga-02",
+    "role": "stem",
+    "src": "figures/gate-2026-ae-ga-02-figure-1.png",
+    "alt": "Tile sequence with 2 dots, 3 dots, a missing tile, 7 dots and 11 dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-02",
+    "role": "option A",
+    "src": "figures/gate-2026-ae-ga-02-option-A.png",
+    "alt": "Tile with four dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 2,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-02",
+    "role": "option B",
+    "src": "figures/gate-2026-ae-ga-02-option-B.png",
+    "alt": "Tile with five dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 2,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-02",
+    "role": "option C",
+    "src": "figures/gate-2026-ae-ga-02-option-C.png",
+    "alt": "Tile with six dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 2,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-02",
+    "role": "option D",
+    "src": "figures/gate-2026-ae-ga-02-option-D.png",
+    "alt": "Tile with eight dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 2,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-07",
+    "role": "stem",
+    "src": "figures/gate-2026-ae-ga-07-figure-1.png",
+    "alt": "Panel I: cube net with four squares in a vertical strip. From top: lower-left small shaded triangle, upper-right shaded quarter-square, centered shaded diamond, and lower shaded triangle. An extra square to the right of the top face has its lower half shaded; an extra square to the left of the bottom face is shaded on one side of a diagonal.",
+    "caption": "Panel I",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        0,
+        55,
+        390,
+        577
+      ],
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-07",
+    "role": "stem",
+    "src": "figures/gate-2026-ae-ga-07-figure-2.png",
+    "alt": "Panel II, cube (i): diamond on front, half-face triangle on top, small square at the lower corner of the right face.",
+    "caption": "Panel II — (i)",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        518,
+        229,
+        699,
+        412
+      ],
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-07",
+    "role": "stem",
+    "src": "figures/gate-2026-ae-ga-07-figure-3.png",
+    "alt": "Panel II, cube (ii): small lower-left triangle on front, small triangle on top, vertical half of right face shaded.",
+    "caption": "Panel II — (ii)",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        795,
+        230,
+        976,
+        413
+      ],
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-08",
+    "role": "stem",
+    "src": "figures/gate-2026-ae-ga-08-figure-1.png",
+    "alt": "Cube with vertices a, b, c, d, e, f, g, h. Edges: ab, ac, ae, bd, bh, cd, cf, dg, ef, eh, fg and gh.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 7,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ae-ga-10",
+    "role": "stem",
+    "src": "figures/gate-2026-ae-ga-10-figure-1.png",
+    "alt": "Square VWXY: V top-left, W bottom-left, X bottom-right, Y top-right. Circle C1 of radius 1 cm touches the left and bottom sides; C2 touches the top and right sides. The circles touch at T. Each square side is 4 cm.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/AE (1).pdf",
+      "page": 9,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-02",
+    "role": "stem",
+    "src": "figures/gate-2026-ce1-ga-02-figure-1.png",
+    "alt": "Incomplete oval and two triangles, with a rectangular central portion missing. The original boundary positions are shown.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-02",
+    "role": "option A",
+    "src": "figures/gate-2026-ce1-ga-02-option-A.png",
+    "alt": "Candidate P: oval arc at upper-left, triangle portions at upper-right and lower-right.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 2,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-02",
+    "role": "option B",
+    "src": "figures/gate-2026-ce1-ga-02-option-B.png",
+    "alt": "Candidate Q: oval arc at upper-left, triangle portions at upper-right and lower-left.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 2,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-02",
+    "role": "option C",
+    "src": "figures/gate-2026-ce1-ga-02-option-C.png",
+    "alt": "Candidate R: oval arc at upper-left, differently oriented upper-right triangle and a lower-right triangle.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 2,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-02",
+    "role": "option D",
+    "src": "figures/gate-2026-ce1-ga-02-option-D.png",
+    "alt": "Candidate S: vertically curved oval portion at left and triangle portions at upper-right and lower-right.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 2,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-05",
+    "role": "stem",
+    "src": "figures/gate-2026-ce1-ga-05-figure-1.png",
+    "alt": "Figure I: a square pattern of connected horizontal and vertical black strokes, to be rotated 45 degrees clockwise.",
+    "caption": "(I)",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 5,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-05",
+    "role": "option A",
+    "src": "figures/gate-2026-ce1-ga-05-option-A.png",
+    "alt": "Candidate P: first rotated black-stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 5,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-05",
+    "role": "option B",
+    "src": "figures/gate-2026-ce1-ga-05-option-B.png",
+    "alt": "Candidate Q: second rotated black-stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 5,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-05",
+    "role": "option C",
+    "src": "figures/gate-2026-ce1-ga-05-option-C.png",
+    "alt": "Candidate R: third rotated black-stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 5,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-05",
+    "role": "option D",
+    "src": "figures/gate-2026-ce1-ga-05-option-D.png",
+    "alt": "Candidate S: fourth rotated black-stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 5,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-07",
+    "role": "stem",
+    "src": "figures/gate-2026-ce1-ga-07-figure-1.png",
+    "alt": "Circle with diameter PQ and center O. R and S are on the upper semicircle with angle ROS equal to 80 degrees. Lines PR and QS extended meet at T above the circle.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 7,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-08",
+    "role": "stem",
+    "src": "figures/gate-2026-ce1-ga-08-figure-1.png",
+    "alt": "Triangle containing 6, quadrilateral containing 24, pentagon containing 120, and hexagon containing X.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce1-ga-09",
+    "role": "stem",
+    "src": "figures/gate-2026-ce1-ga-09-figure-1.png",
+    "alt": "Seven bulbs: initially only bulb 4 is ON. Step 1: bulbs 3, 4 and 5 ON. Step 2: bulbs 2, 3, 5 and 6 ON. White means ON; black means OFF.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_1.pdf",
+      "page": 9,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2374f7ca3d6bca2c5da5572b05b2c84bb53d235eee05ffb5d1c58cbfeb5797aa"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-03",
+    "role": "stem",
+    "src": "figures/gate-2026-ce2-ga-03-figure-1.png",
+    "alt": "Three grids with four rows and three columns. Triangle positions: row 1 column 3, row 2 column 3, row 3 column 3. Circle positions: row 3 column 1, row 4 column 1, row 1 column 1.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 3,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-03",
+    "role": "option A",
+    "src": "figures/gate-2026-ce2-ga-03-option-A.png",
+    "alt": "Triangle row 4 column 3; circle row 2 column 1.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 3,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-03",
+    "role": "option B",
+    "src": "figures/gate-2026-ce2-ga-03-option-B.png",
+    "alt": "Triangle row 2 column 1; circle row 4 column 3.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 3,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-03",
+    "role": "option C",
+    "src": "figures/gate-2026-ce2-ga-03-option-C.png",
+    "alt": "Triangle row 1 column 3; circle row 3 column 2.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 3,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-03",
+    "role": "option D",
+    "src": "figures/gate-2026-ce2-ga-03-option-D.png",
+    "alt": "Triangle row 1 column 3; circle row 4 column 1.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 3,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-08",
+    "role": "stem",
+    "src": "figures/gate-2026-ce2-ga-08-figure-1.png",
+    "alt": "Figure i: string P is a diameter of length l; string K forms the semicircular arc. Figure ii: after shortening both strings, K forms a full circle and P is its diameter.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-09",
+    "role": "stem",
+    "src": "figures/gate-2026-ce2-ga-09-figure-1.png",
+    "alt": "Seating arrangement: a two-by-two grid labelled Row 1, Row 2 and Column 1, Column 2.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 9,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-10",
+    "role": "stem",
+    "src": "figures/gate-2026-ce2-ga-10-figure-1.png",
+    "alt": "A wide rectangular black-and-white pattern of horizontal and vertical strokes; the candidate square tiles are below.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 10,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-10",
+    "role": "option A",
+    "src": "figures/gate-2026-ce2-ga-10-option-A.png",
+    "alt": "Candidate P: first square stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 10,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-10",
+    "role": "option B",
+    "src": "figures/gate-2026-ce2-ga-10-option-B.png",
+    "alt": "Candidate Q: second square stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 10,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-10",
+    "role": "option C",
+    "src": "figures/gate-2026-ce2-ga-10-option-C.png",
+    "alt": "Candidate R: third square stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 10,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-ce2-ga-10",
+    "role": "option D",
+    "src": "figures/gate-2026-ce2-ga-10-option-D.png",
+    "alt": "Candidate S: fourth square stroke pattern.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CE_2.pdf",
+      "page": 10,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "2bab990467d80119af5ea287702eb1b591b9543d8598bc99e8126e6d22ed8e81"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-02",
+    "role": "stem",
+    "src": "figures/gate-2026-cs1-ga-02-figure-1.png",
+    "alt": "Four unit tiles in a two-by-two square.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-02",
+    "role": "stem",
+    "src": "figures/gate-2026-cs1-ga-02-figure-2.png",
+    "alt": "Four unit tiles in a straight column.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 2,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-02",
+    "role": "option A",
+    "src": "figures/gate-2026-cs1-ga-02-option-A.png",
+    "alt": "Rectangle with four rows and two columns of tiles.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 2,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-02",
+    "role": "option B",
+    "src": "figures/gate-2026-cs1-ga-02-option-B.png",
+    "alt": "Rectangle with four rows and three columns of tiles.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 2,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-02",
+    "role": "option C",
+    "src": "figures/gate-2026-cs1-ga-02-option-C.png",
+    "alt": "Rectangle with three rows and five columns of tiles.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 2,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-02",
+    "role": "option D",
+    "src": "figures/gate-2026-cs1-ga-02-option-D.png",
+    "alt": "Rectangle with four rows and five columns of tiles.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 2,
+      "image": "Im6.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-07",
+    "role": "stem",
+    "src": "figures/gate-2026-cs1-ga-07-figure-1.png",
+    "alt": "Panel I: front and top orthographic views of a stepped solid. Front column heights are 3, 2, 2. The top footprint is a three-by-three square missing its front-right cell; internal step boundaries are shown.",
+    "caption": "Panel I",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        100,
+        154,
+        225,
+        554
+      ],
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-07",
+    "role": "option A",
+    "src": "figures/gate-2026-cs1-ga-07-option-A.png",
+    "alt": "Structure i, with front and top viewing arrows.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        390,
+        40,
+        660,
+        330
+      ],
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-07",
+    "role": "option B",
+    "src": "figures/gate-2026-cs1-ga-07-option-B.png",
+    "alt": "Structure ii, with front and top viewing arrows.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        690,
+        40,
+        940,
+        330
+      ],
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-07",
+    "role": "option C",
+    "src": "figures/gate-2026-cs1-ga-07-option-C.png",
+    "alt": "Structure iii, with front and top viewing arrows.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        390,
+        340,
+        660,
+        625
+      ],
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-07",
+    "role": "option D",
+    "src": "figures/gate-2026-cs1-ga-07-option-D.png",
+    "alt": "Structure iv, with front and top viewing arrows.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        690,
+        340,
+        940,
+        625
+      ],
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs1-ga-08",
+    "role": "stem",
+    "src": "figures/gate-2026-cs1-ga-08-figure-1.png",
+    "alt": "Graph N(S): zero from S=0 to 10, a straight rise to N=10 at S=20, then horizontal at N=10 to S=30.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS1.pdf",
+      "page": 7,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "ccfa649cdb671e2ac777b266a3eba7729f902122ec5cd3553fef01dac409ed96"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-02",
+    "role": "stem",
+    "src": "figures/gate-2026-cs2-ga-02-figure-1.png",
+    "alt": "Panel I: square PQRS, P bottom-left, Q bottom-right, R top-right, S top-left. A stepped part is missing from the black square, opening at its right edge.",
+    "caption": "Panel I",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": [
+        12,
+        181,
+        298,
+        490
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-02",
+    "role": "option A",
+    "src": "figures/gate-2026-cs2-ga-02-option-A.png",
+    "alt": "Shape i: first stepped black candidate.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": [
+        480,
+        81,
+        707,
+        265
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-02",
+    "role": "option B",
+    "src": "figures/gate-2026-cs2-ga-02-option-B.png",
+    "alt": "Shape ii: second stepped black candidate.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": [
+        790,
+        82,
+        1013,
+        265
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-02",
+    "role": "option C",
+    "src": "figures/gate-2026-cs2-ga-02-option-C.png",
+    "alt": "Shape iii: third stepped black candidate.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": [
+        480,
+        364,
+        707,
+        546
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-02",
+    "role": "option D",
+    "src": "figures/gate-2026-cs2-ga-02-option-D.png",
+    "alt": "Shape iv: fourth stepped black candidate.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": [
+        790,
+        364,
+        1013,
+        546
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-07",
+    "role": "stem",
+    "src": "figures/gate-2026-cs2-ga-07-figure-1.png",
+    "alt": "Panel I: three-by-three grid of dot tiles. Filled-dot counts by row: 8, 1, 6; 3, 5, missing; 4, 9, missing.",
+    "caption": "Panel I",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        0,
+        227,
+        339,
+        535
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-07",
+    "role": "option A",
+    "src": "figures/gate-2026-cs2-ga-07-option-A.png",
+    "alt": "Tile i: seven filled dots above two filled dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        489,
+        115,
+        611,
+        325
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-07",
+    "role": "option B",
+    "src": "figures/gate-2026-cs2-ga-07-option-B.png",
+    "alt": "Tile ii: six filled dots above two filled dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        786,
+        115,
+        908,
+        325
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-07",
+    "role": "option C",
+    "src": "figures/gate-2026-cs2-ga-07-option-C.png",
+    "alt": "Tile iii: seven filled dots above three filled dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        489,
+        444,
+        611,
+        655
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-07",
+    "role": "option D",
+    "src": "figures/gate-2026-cs2-ga-07-option-D.png",
+    "alt": "Tile iv: six filled dots above three filled dots.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 6,
+      "image": "Im1.png",
+      "pixelCrop": [
+        786,
+        444,
+        908,
+        655
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-08",
+    "role": "stem",
+    "src": "figures/gate-2026-cs2-ga-08-figure-1.png",
+    "alt": "Graph i: four-by-four rectangular grid of cities with horizontal and vertical highways between immediate neighbors. Graph ii: two cities each connected to the same three intermediate cities; no other highways.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 7,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-09",
+    "role": "stem",
+    "src": "figures/gate-2026-cs2-ga-09-figure-1.png",
+    "alt": "Panel I: four-by-four grid. Required row totals, top to bottom: 3, 1, 2, 2. Required column totals, left to right: 2, 2, 2, 2.",
+    "caption": "Panel I",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": [
+        15,
+        213,
+        329,
+        531
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-09",
+    "role": "option A",
+    "src": "figures/gate-2026-cs2-ga-09-option-A.png",
+    "alt": "Grid i: shaded columns by row are 1,3,4 / 2,4 / 3 / 1,2.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": [
+        388,
+        55,
+        677,
+        343
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-09",
+    "role": "option B",
+    "src": "figures/gate-2026-cs2-ga-09-option-B.png",
+    "alt": "Grid ii: shaded columns by row are 1,3,4 / 2 / 3,4 / 1,2.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": [
+        733,
+        55,
+        1019,
+        343
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-09",
+    "role": "option C",
+    "src": "figures/gate-2026-cs2-ga-09-option-C.png",
+    "alt": "Grid iii: shaded columns by row are 1,3,4 / 2,3 / 3 / 1,2.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": [
+        388,
+        410,
+        677,
+        699
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-cs2-ga-09",
+    "role": "option D",
+    "src": "figures/gate-2026-cs2-ga-09-option-D.png",
+    "alt": "Grid iv: shaded columns by row are 1,3,4 / 2 / 3 / 1,2,4.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/CS2.pdf",
+      "page": 8,
+      "image": "Im1.png",
+      "pixelCrop": [
+        733,
+        410,
+        1019,
+        699
+      ],
+      "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "stem",
+    "src": "figures/gate-2026-da-ga-03-figure-1.png",
+    "alt": "Puzzle piece supplying the left boundary, with a curved and stepped inner edge.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "stem",
+    "src": "figures/gate-2026-da-ga-03-figure-2.png",
+    "alt": "Puzzle piece supplying the top boundary, with a curved inner edge.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "stem",
+    "src": "figures/gate-2026-da-ga-03-figure-3.png",
+    "alt": "Puzzle piece supplying the right boundary, with a pointed opening and stepped inner edge.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "stem",
+    "src": "figures/gate-2026-da-ga-03-figure-4.png",
+    "alt": "Puzzle piece supplying the bottom boundary, with two upward triangular projections.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "option A",
+    "src": "figures/gate-2026-da-ga-03-option-A.png",
+    "alt": "P: white silhouette with rounded head, right-pointing beak and angled diamond-shaped lower body.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "option B",
+    "src": "figures/gate-2026-da-ga-03-option-B.png",
+    "alt": "Q: white silhouette with rounded head, no long beak and angled lower body.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im7.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "option C",
+    "src": "figures/gate-2026-da-ga-03-option-C.png",
+    "alt": "R: white silhouette with rounded head, right-pointing beak and flattened lower edge.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im6.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-03",
+    "role": "option D",
+    "src": "figures/gate-2026-da-ga-03-option-D.png",
+    "alt": "S: white silhouette with an angular notch in its head, right-pointing beak and angled lower body.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 2,
+      "image": "Im8.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-da-ga-10",
+    "role": "stem",
+    "src": "figures/gate-2026-da-ga-10-figure-1.png",
+    "alt": "Circle of radius 10 cm with Q at the top and P, R below. PQ equals RQ; angle PQR is 45 degrees. O is the center. Shading fills triangle PQR except for triangle POR.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/DA.pdf",
+      "page": 7,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-03",
+    "role": "stem",
+    "src": "figures/gate-2026-ec-ga-03-figure-1.png",
+    "alt": "Three intersecting straight segments with central rectangle WXYZ missing. W and X mark its upper corners; Z and Y its lower corners. Visible segments extend through different edges of the rectangle.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 3,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-03",
+    "role": "option A",
+    "src": "figures/gate-2026-ec-ga-03-option-A.png",
+    "alt": "Candidate P: three segments with two descending slopes and one ascending slope.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 3,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-03",
+    "role": "option B",
+    "src": "figures/gate-2026-ec-ga-03-option-B.png",
+    "alt": "Candidate Q: three segments, all ascending left to right.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 3,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-03",
+    "role": "option C",
+    "src": "figures/gate-2026-ec-ga-03-option-C.png",
+    "alt": "Candidate R: three segments intersecting near the right side.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 3,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-03",
+    "role": "option D",
+    "src": "figures/gate-2026-ec-ga-03-option-D.png",
+    "alt": "Candidate S: three segments forming three distinct interior intersections.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 3,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-09",
+    "role": "stem",
+    "src": "figures/gate-2026-ec-ga-09-figure-1.png",
+    "alt": "Alternating concentric land and water regions. The center island is land. Points A through F mark successive boundaries along the radius, with water AB, land BC, water CD, land DE, water EF.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 9,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-10",
+    "role": "stem",
+    "src": "figures/gate-2026-ec-ga-10-figure-1.png",
+    "alt": "Transformation example: the two-line inscription Ref Fig / 12 34 is transformed to the inverted lettering shown after the arrow.",
+    "caption": "If",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 10,
+      "image": "Im1.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-10",
+    "role": "stem",
+    "src": "figures/gate-2026-ec-ga-10-figure-2.png",
+    "alt": "Apply the illustrated transformation to the two-line inscription GATE - 2026 / Aptitude Test.",
+    "caption": "Then",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 10,
+      "image": "Im2.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-10",
+    "role": "option A",
+    "src": "figures/gate-2026-ec-ga-10-option-A.png",
+    "alt": "P: inverted Test Aptitude above inverted GATE - 2026.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 10,
+      "image": "Im3.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-10",
+    "role": "option B",
+    "src": "figures/gate-2026-ec-ga-10-option-B.png",
+    "alt": "Q: inverted Aptitude Test above inverted 2026 - GATE.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 10,
+      "image": "Im5.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-10",
+    "role": "option C",
+    "src": "figures/gate-2026-ec-ga-10-option-C.png",
+    "alt": "R: inverted Aptitude Test above inverted GATE - 2026.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 10,
+      "image": "Im4.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  },
+  {
+    "questionId": "gate-2026-ec-ga-10",
+    "role": "option D",
+    "src": "figures/gate-2026-ec-ga-10-option-D.png",
+    "alt": "S: inverted Test Aptitude above inverted 2026 - GATE.",
+    "caption": "",
+    "source": {
+      "file": "Aptitude Sets/2026/EC.pdf",
+      "page": 10,
+      "image": "Im6.png",
+      "pixelCrop": null,
+      "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+    }
+  }
+]

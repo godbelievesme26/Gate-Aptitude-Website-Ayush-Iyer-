@@ -1,0 +1,39 @@
+/* A queue on the existing canvas, not a collection of score cards. */
+.revision-workspace{max-width:1120px}
+.revision-plan{display:flex;justify-content:space-between;align-items:center;gap:var(--space-8);padding:var(--space-6) 0 var(--space-8);border-bottom:1px solid var(--color-border)}
+.revision-plan h2{font-family:var(--font-display);font-size:var(--text-page);font-weight:var(--weight-regular);margin-bottom:var(--space-3)}
+.revision-plan p{font-size:var(--text-control);max-width:52ch}
+.revision-plan-controls{display:grid;grid-template-columns:1fr auto;gap:var(--space-2) var(--space-4);align-items:end;min-width:300px}
+.revision-plan-controls label{grid-column:1;font-size:var(--text-sm)}
+.revision-plan-controls>button{grid-column:2;grid-row:1;min-height:46px}
+.revision-plan-controls>.caption{grid-column:1/-1}
+.revision-tabs{margin-top:var(--space-6);gap:var(--space-1)}
+.revision-tabs a{min-height:44px;padding:var(--space-3);font-size:var(--text-control)}
+.revision-filters{display:flex;flex-wrap:wrap;gap:var(--space-2);margin-bottom:var(--space-6)}
+.revision-intro{margin-bottom:var(--space-4)}
+.revision-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:var(--space-8);padding:var(--space-6) 0;border-bottom:1px solid var(--color-border)}
+.revision-row-main{min-width:0}
+.revision-row-heading{display:flex;align-items:baseline;flex-wrap:wrap;gap:var(--space-3);margin:var(--space-2) 0}
+.revision-row h3{font-size:var(--text-section)}
+.revision-status{font-size:var(--text-sm);font-weight:var(--weight-semibold);color:var(--color-text)}
+.revision-context{font-size:var(--text-control)}
+.revision-meta{display:flex;flex-wrap:wrap;gap:var(--space-3) var(--space-6);margin:var(--space-4) 0 0;font-size:var(--text-sm)}
+.revision-meta dt{color:var(--color-text-muted)}
+.revision-meta dd{margin:var(--space-1) 0 0;color:var(--color-text);font-variant-numeric:tabular-nums}
+.revision-row-action{display:flex;flex-direction:column;align-items:end;gap:var(--space-3);justify-content:center;min-width:160px}
+.revision-row-action>button{min-width:120px;min-height:44px}
+.revision-row-action .text-link{min-height:44px;display:flex;align-items:center}
+.revision-due{font-size:var(--text-control);color:var(--color-text-muted)}
+.revision-due.is-due{color:var(--home-brass);font-weight:var(--weight-semibold)}
+.revision-why,.revision-policy{font-size:var(--text-sm);color:var(--color-text-muted)}
+.revision-why{margin-top:var(--space-2)}
+.revision-why summary,.revision-policy summary{min-height:44px;cursor:pointer;padding-block:var(--space-3);color:var(--color-text-muted)}
+.revision-why p,.revision-policy p{max-width:80ch;margin-bottom:var(--space-3)}
+.revision-policy{margin-top:var(--space-6);border-top:1px solid var(--color-border);padding-top:var(--space-3)}
+.revision-summary{display:flex;justify-content:space-between;align-items:center;gap:var(--space-5);border-block:1px solid var(--color-border);padding:var(--space-5) 0;margin:var(--space-6) 0}
+.revision-summary p{font-size:var(--text-control);margin-top:var(--space-2)}
+.revision-summary button{flex-shrink:0;min-height:44px}
+.revision-result-context{font-size:var(--text-control);color:var(--home-brass);margin-top:var(--space-2)}
+@media(max-width:1050px){.revision-plan{align-items:start;flex-direction:column;gap:var(--space-5)}.revision-plan-controls{min-width:0;width:100%;max-width:460px}}
+@media(max-width:680px){.revision-plan{padding-top:var(--space-2)}.revision-tabs a{padding-inline:var(--space-2)}.revision-row{grid-template-columns:1fr;gap:var(--space-3);padding-block:var(--space-5)}.revision-row-action{display:grid;grid-template-columns:1fr auto;align-items:center;gap:var(--space-2);min-width:0}.revision-row-action>.revision-due{grid-column:1/-1}.revision-row-action>button{min-width:0;justify-self:start}.revision-meta{gap:var(--space-3) var(--space-5)}.revision-summary{align-items:start;flex-direction:column}.revision-summary button{width:100%}}
+@media(max-width:380px){.revision-plan-controls{grid-template-columns:1fr}.revision-plan-controls>button{grid-column:1;grid-row:3}.revision-plan-controls>.caption{grid-row:2}.revision-row-action .text-link{font-size:var(--text-sm)}}

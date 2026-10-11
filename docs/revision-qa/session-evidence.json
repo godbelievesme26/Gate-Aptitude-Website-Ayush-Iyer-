@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 6,
+  "readOnly": false,
+  "questionId": "gate-2026-ae-ga-01",
+  "state": "recovered",
+  "dueDate": "2026-10-19",
+  "attemptCount": 4,
+  "attempts": [
+    {
+      "attemptId": "qa-repeat-first:gate-2026-ae-ga-01",
+      "sessionId": "qa-repeat-first",
+      "selectedAnswer": "B",
+      "correctness": "incorrect",
+      "origin": "custom",
+      "localDate": "2026-09-30"
+    },
+    {
+      "attemptId": "qa-repeat-second:gate-2026-ae-ga-01",
+      "sessionId": "qa-repeat-second",
+      "selectedAnswer": "B",
+      "correctness": "incorrect",
+      "origin": "custom",
+      "localDate": "2026-10-01"
+    },
+    {
+      "attemptId": "25507d64-f3f2-43e2-9033-21dbe406584a:gate-2026-ae-ga-01",
+      "sessionId": "25507d64-f3f2-43e2-9033-21dbe406584a",
+      "selectedAnswer": "A",
+      "correctness": "correct",
+      "origin": "revision",
+      "localDate": "2026-10-05"
+    },
+    {
+      "attemptId": "e716bbbc-04d6-4aaf-982c-18698d84d986:gate-2026-ae-ga-01",
+      "sessionId": "e716bbbc-04d6-4aaf-982c-18698d84d986",
+      "selectedAnswer": "A",
+      "correctness": "correct",
+      "origin": "daily",
+      "localDate": "2026-10-05"
+    }
+  ],
+  "dueQueue": [],
+  "sessions": [
+    {
+      "id": "qa-repeat-first",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-01"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-repeat-second",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-01"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-overdue",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-02"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-due",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-03"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-recovery-old",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-04"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-recovered-due",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-04"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-recovery-recent-old",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-05"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-recovered-future",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-05"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "qa-correct",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-06"
+      ],
+      "answered": 1
+    },
+    {
+      "id": "25507d64-f3f2-43e2-9033-21dbe406584a",
+      "origin": "revision",
+      "questionIds": [
+        "gate-2026-ae-ga-01",
+        "gate-2026-ae-ga-02",
+        "gate-2026-ae-ga-03",
+        "gate-2026-ae-ga-04"
+      ],
+      "answered": 4
+    }
+  ],
+  "drafts": [
+    {
+      "id": "e716bbbc-04d6-4aaf-982c-18698d84d986",
+      "origin": "daily",
+      "questionIds": [
+        "gate-2026-ae-ga-01",
+        "gate-2026-ae-ga-02",
+        "gate-2026-ae-ga-03",
+        "gate-2026-ae-ga-04",
+        "gate-2026-ae-ga-05",
+        "gate-2026-ae-ga-06",
+        "gate-2026-ae-ga-07",
+        "gate-2026-ae-ga-08",
+        "gate-2026-ae-ga-09",
+        "gate-2026-ae-ga-10"
+      ]
+    },
+    {
+      "id": "8ddc91fb-801c-40fa-8c94-9e9a8ab68b39",
+      "origin": "custom",
+      "questionIds": [
+        "gate-2026-ae-ga-01",
+        "gate-2026-ae-ga-02"
+      ]
+    }
+  ]
+}

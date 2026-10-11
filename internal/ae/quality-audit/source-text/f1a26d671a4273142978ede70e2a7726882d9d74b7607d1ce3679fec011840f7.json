@@ -1,0 +1,207 @@
+{
+  "source": "internal/ae/AE2018.pdf",
+  "sha256": "f1a26d671a4273142978ede70e2a7726882d9d74b7607d1ce3679fec011840f7",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1612,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6
+      ],
+      "text": "GATE 2018                                                                                            General Aptitude (GA) Set-2  \nGA 1/3 \nQ. 1 – Q. 5 carry one mark each. \nQ.1  “The dress _________ her so well that they all immediately _________ her on her \nappearance.” \n \nThe words that best fill the blanks in the above sentence are \n \n(A) complemented, complemented (B) complimented, complemented \n(C) complimented, complimented (D) complemented, complimented \n \n \nQ.2  “The judge’s standing in the legal community, though shaken by false allegations of \nwrongdoing, remained _________.” \n \nThe word that best fills the blank in the above sentence is  \n \n(A) undiminished (B) damaged (C) illegal (D) uncertain \n \n \nQ.3  Find the missing group of letters in the following series: \nBC, FGH, LMNO, _____ \n \n(A) UVWXY (B) TUVWX (C) STUVW (D) RSTUV \n \n \nQ.4  The perimeters of a circle, a square and an equilateral triangle are equal. Which one of the \nfollowing statements is true? \n \n(A) The circle has the largest area. \n(B) The square has the largest area. \n(C) The equilateral triangle has the largest area. \n(D) All the three shapes have the same area. \n \n \nQ.5  The value of the expression \n1\n1+log𝑢 𝑣𝑤 +\n1\n1+log𝑣 𝑤𝑢 +\n1\n1+log𝑤 𝑢𝑣 is _________. \n \n(A) -1 (B) 0 (C) 1 (D) 3 \n \n \nQ. 6 – Q. 10 carry two marks each. \n \nQ.6  Forty students watched films A, B and C over a week. Each student watched either only \none film or all three. Thirteen students watched film A, sixteen students watched film B \nand nineteen students watched film C. How many students watched all three films? \n \n(A) 0 (B) 2 (C) 4 (D) 8 \n \n "
+    },
+    {
+      "page": 2,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1343,
+      "questionNumberCandidates": [
+        7,
+        8,
+        9
+      ],
+      "text": "GATE 2018                                                                                            General Aptitude (GA) Set-2  \nGA 2/3 \nQ.7  A wire wo uld enclose an area of 1936 m2, if it is bent into a square. The wire is cut into \ntwo pieces. The longer piece is thrice as long as the shorter piece. The long and the short \npieces are bent into a square and a circle, respectively. Which of the following choices is \nclosest to the sum of the areas enclosed by the two pieces in square meters? \n \n(A) 1096 (B) 1111 (C) 1243 (D) 2486 \n \n \nQ.8  A contract is to be completed in 52 days and 125 identical robots were employed, each \noperational for 7 hours a day. After 39 days, five -seventh of the work was completed. How \nmany additional robots would be required to complete the work on time, if each robot is \nnow operational for 8 hours a day? \n \n(A) 50 (B) 89 (C) 146 (D) 175 \n \n \nQ.9  A house has a number which needs to be identified . The following three statements are \ngiven that can help in identifying the house number. \ni. If the house number is a multiple of 3, then it is a number from 50 to 59. \nii. If the house number is NOT a multiple of 4, then it is a number from 60 to 69. \niii. If the house number is NOT a multiple of 6, then it is a number from 70 to 79. \n \nWhat is the house number? \n \n(A) 54 (B) 65 (C) 66 (D) 76 \n \n  "
+    },
+    {
+      "page": 3,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 704,
+      "questionNumberCandidates": [
+        10
+      ],
+      "text": "GATE 2018                                                                                            General Aptitude (GA) Set-2  \nGA 3/3 \n \nQ.10  An unbiased coin is tossed six times in a row and four different such trials are conducted. \nOne trial implies six tosses of the coin. If H stands for head and T stands for tail, the \nfollowing are the observations from the four trials: \n(1) HTHTHT (2) TTHHHT (3) HTTHHT (4) HHHT__ __. \n \nWhich statement describing the last two coin tosses of the fourth trial has the highest \nprobability of being correct? \n \n(A) Two T will occur. \n(B) One H and one T will occur. \n(C) Two H will occur. \n(D) One H will be followed by one T. \n \n \nEND OF THE QUESTION PAPER \n "
+    },
+    {
+      "page": 4,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1943,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 1/9 \nQ. 1 – Q. 25 carry one mark each. \nQ.1  Let 𝑎⃗ , 𝑏⃗⃗ be two distinct vectors that are not parallel. The vector 𝑐⃗ = 𝑎⃗ ×  𝑏⃗⃗ is \n(A) zero. (B) orthogonal to 𝑎⃗  alone. \n(C) orthogonal to  𝑎⃗  + 𝑏⃗⃗. (D) orthogonal to 𝑏⃗⃗ alone. \n \n \nQ.2  Consider the function 𝑓(𝑥, 𝑦) =\n𝑥2\n2 +\n𝑦2\n3 − 5. All the roots of this function \n(A) form a finite set of points. \n(B) lie on an elliptical curve. \n(C) lie on the surface of a sphere. \n(D) lie on a hyperbolic curve. \n \n \nQ.3  Consider a vector field given by 𝑥𝑖̂+ 𝑦𝑗̂+ 𝑧𝑘̂. This vector field is \n(A) divergence-free and curl-free. \n(B) curl-free but not divergence-free. \n(C) divergence-free but not curl-free. \n(D) neither divergence-free nor curl-free. \n \n \nQ.4  A jet aircraft is initially flying steady and level at its maximum endurance condition. For the \naircraft to fly steady and level, but faster at the same altitude, the pilot should \n(A) increase thrust alone. \n(B) increase thrust and increase angle of attack. \n(C) increase thrust and reduce angle of attack. \n(D) reduce angle of attack alone. \n \n \nQ.5  The pilot of a conventional airplane that is flying steady and level at some altitude, deflects \nthe port side aileron up and the starboard aileron down. The aircraft will then    \n(A) pitch, nose up. \n(B) roll with the starboard wing up. \n(C) pitch, nose down. \n(D) roll with the port wing up. \n \n \nQ.6  A NACA 0012 airfoil has  a trailing edge flap. The airfoil is operating at an angle of attack \nof 5 degrees with un-deflected flap. If the flap is now deflected by 5 degrees downwards, the \n𝐶𝐿 versus 𝛼 curve \n(A) shifts right and slope increases. \n(B) shifts left and slope increases. \n(C) shifts left and slope stays the same. \n(D) shifts right and slope stays the same. \n \n \n "
+    },
+    {
+      "page": 5,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1948,
+      "questionNumberCandidates": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 2/9 \nQ.7  An airplane requires a longer ground roll to lift-off on hot summer days because \n(A) the thrust is directly proportional to free-stream density. \n(B) the thrust is directly proportional to weight of the aircraft. \n(C) the lift-off distance is directly proportional to free-stream density. \n(D) the runway friction is high on hot summer days. \n \n \nQ.8  The velocity profile in an incompressible, laminar boundary layer is shown in the figure \nbelow. U is the free-stream velocity, u(y) is the stream-wise velocity component. T he area \nof the black shaded region in the figure below represents the \n \n \n \n \n                                                    y \n \n \n \n \n(A) boundary layer thickness. \n(B) momentum thickness. \n(C) displacement thickness.  \n(D) shape factor. \n \n \nQ.9  The tangential velocity component ‘V’ of a spacecraft, which is in a circular orbit of radius \n‘R’ around a spherical Earth (µ = GM  gravitational parameter of Earth) is given by the \nfollowing expression. \n(A) 𝑉 = √\nµ\n2𝑅 (B) 𝑉 = √\nµ\n𝑅 (C)  𝑉 =\n2𝜋\n√µ 𝑅\n3\n2 (D) 𝑉 =\n2𝜋\n√µ 𝑅\n2\n3 \n \n \nQ.10  Equation of the trajectory of a typical space object around any planet, in polar coordinates \n(r, ) (i.e. a general conic section geometry), is given as follows. (h is angular momentum, \nµ is gravitational parameter, e is eccentricity, r is radial distance from the planet center, , \nis angle between vectors 𝑒⃗ and  𝑟⃗. \n(A) 𝑟 =\n(ℎ2\nµ⁄ )\n1−𝑒 𝑐𝑜𝑠 (B) 𝑟 =\n(ℎ2\nµ⁄ )\n𝑒−𝑐𝑜𝑠 \n(C) 𝑟 =\n(ℎ2\nµ⁄ )\n1+𝑒 𝑐𝑜𝑠 (D) 𝑟 =\n(ℎ2\nµ⁄ )\n𝑒+𝑐𝑜𝑠 \n \n \nQ.11  In an elliptic orbit around any planet, the location at which a spacecraft has the maximum \nangular velocity is \n(A) apoapsis. (B) periapsis. \n(C) a point at +45o from periapsis. (D) a point at 90o from apoapsis. \n \n \nu(y)/U "
+    },
+    {
+      "page": 6,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1919,
+      "questionNumberCandidates": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 3/9 \n \nQ.12  The pitching moment of a positively cambered NACA airfoil about its leading edge at zero-\nlift angle of attack is \n(A) negative. \n(B) positive.  \n(C) indeterminate. \n(D) zero. \n \n \nQ.13  In a low -speed wind tunnel, t he angular location(s) from the front stagnation point on a \ncircular cylinder where the static pressure equals the free-stream static pressure, is \n(A)   ± 380 (B)  ± 300 (C)  ± 600 (D)   00  \n \n \nQ.14  A thermocouple, mounted flush in an insulated flat surface in a supersonic laminar flow of \nair measures the \n(A) static temperature. \n(B) temperature greater than static but less than total temperature. \n(C) total temperature. \n(D) temperature greater than total temperature. \n \n \nQ.15  A shock wave is moving into still air in a shock tube. Which one of the following happens \nto the air? \n(A) static temperature increases, total temperature remains constant. \n(B) static temperature increases, total temperature increases. \n(C) static temperature increases, total temperature decreases. \n(D) static pressure increases, total temperature remains constant. \n \n \nQ.16  The highest limit load factor experienced by a civil transport aircraft is in the range \n(A) 0.0 – 2.0 (B) 2.0 – 5.0 (C)  5.0 – 8.0 (D) 8.0 – 10.0  \n \n \nQ.17  Determine the correctness or otherwise of the following statements, [a] and [r]: \n \n[a] A closed-section box beam configuration is used in aircraft wings. \n \n[r] Closed-section box beam configuration is capable of resisting torsional loads. \n(A) Both [a] and [r] are true and [r] is the correct reason for [a]. \n(B) Both [a] and [r] are true but [r] is not the correct reason for [a]. \n(C) Both [a] and [r] are false. \n(D) [a] is true but [r] is false. \n \n \n \n \n \n "
+    },
+    {
+      "page": 7,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1609,
+      "questionNumberCandidates": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 4/9 \nQ.18  The first law of thermodynamics is also known as conservation of \n(A) mass. \n(B) momentum. \n(C) energy. \n(D) species. \n \n \nQ.19  In an ideal gas turbine cycle, the expansion in a turbine is represented by  \n(A) an isenthalpic process. (B) an isentropic process. \n(C) an isobaric process. (D) an isochoric process. \n \n \nQ.20  \nThe determinant of the matrix  [\n1 1 −1\n2 1 0\n3 1 1\n] is ______ (accurate to one decimal place). \n \n \nQ.21  The theoretical maximum velocity (in m/s) of air expanding from a reservoir at 700 K is \n__________ (accurate to two decimal places). Specific heat of air at constant pressure is \n1005 J/(kg-K). \n \n \nQ.22  For a damped single degree of freedom system w ith damping ratio of 0.1, ratio  of two \nsuccessive peak amplitudes of free vibration is ___________  (accurate to two decimal \nplaces). \n \n \nQ.23  The natural frequency (in rad/s) of the spring-mass system shown in the figure below is \n_____ (accurate to one decimal place). \n \n \n \nQ.24  The stagnation pressures at the inlet and exit of a subsonic intake are 100 kPa and 98 kPa, \nrespectively. The pressure recovery of this intake will be  ______ (accurate to two decimal \nplaces). \n \n \nQ.25  A combustor is operating with a fuel -air ratio of 0.03. If the stoichiometric fuel -air ratio of \nthe fuel used is 0.06, the equivalence ratio of the combustor will be  _______ (accurate to \ntwo decimal places). \n \n \n \n \n"
+    },
+    {
+      "page": 8,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1610,
+      "questionNumberCandidates": [
+        26,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 5/9 \nQ. 26 – Q. 55 carry two marks each. \n \nQ.26  The solution of the differential equation  \n𝑑2𝑦\n𝑑𝑥2 + 3\n𝑑𝑦\n𝑑𝑥 = 0, given that 𝑦 = 0 and\n𝑑𝑦\n𝑑𝑥 = 1 at \n𝑥 = 0 is \n(A) 𝑥(1 − 𝑒−3𝑥) (B) \n1\n3\n(1 − 𝑒−3𝑥) (C)  \n1\n3 (1 + 𝑒−3𝑥) (D)  \n1\n3 𝑥𝑒\n−3𝑥\n2  \n \n \nQ.27  The relation between pressure (p) and velocity (V) for a steady, isentropic flow at two points \nalong a streamline is, (c is a constant) \n(A)   𝑐(𝑝2\n𝛾 −  𝑝1\n𝛾) = \n𝑉12\n2 − \n𝑉22\n2  \n(B)  𝑐(𝑝2\n𝛾\n𝛾−1\n−  𝑝1\n𝛾\n𝛾−1\n) = \n𝑉12\n2 −  \n𝑉22\n2  \n(C)  𝑐(𝑝2\n𝛾−1\n𝛾\n−  𝑝1\n𝛾−1\n𝛾\n) = \n𝑉12\n2 −  \n𝑉22\n2  \n(D)  𝑐(𝑝2\n𝛾−1 −  𝑝1\n𝛾−1) = \n𝑉12\n2 − \n𝑉22\n2  \n \n \nQ.28  A thin airfoil is mounted in a low -speed, subsonic wind tunnel, in which the Mach number \nis 0.1. At a point on the airfoil, the pressure coefficient is measured to be 1.2. If the flow \nvelocity is increased such that the free -stream Mach number is 0.6, the  pressure coefficient \nat the same point on the airfoil will approximately be:  \n(A) 3.5 (B) 2.9 (C) 1.5 (D)  0.75 \n \n \nQ.29  A solid circular shaft of diameter d is under pure torsion of magnitude T. The maximum \ntensile stress experienced at any point on the shaft is  \n(A)  \n32𝑇\n𝜋𝑑3 (B)  \n16𝑇\n𝜋𝑑4 (C)  \n32𝑇\n𝜋𝑑4 (D)  \n16𝑇\n𝜋𝑑3 \n \n \nQ.30  A clamped-clamped beam, subjected to a point load P at the midspan, is shown in the figure \nbelow. The magnitude of the moment reaction at the two fixed ends of the beam is \n \n(A) PL/2 (B) PL/4  (C) PL/8   (D) PL/16   \n \n \n \n"
+    },
+    {
+      "page": 9,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2400,
+      "questionNumberCandidates": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 6/9 \n \nQ.31  Which of the following statement(s) is/are true about the state of a body in plane strain \ncondition? \nP: All the points in the body undergo displacements in one plane only, for example the x -y \nplane, leading to 𝜀𝑧𝑧 =  𝛾𝑥𝑧 =  𝛾𝑦𝑧 = 0.  \nQ: All the components of stress perpendicular to the plane of deformation, for example the \nx-y plane, of the body are equal to zero, i.e. 𝜎𝑧𝑧 =  𝜏𝑥𝑧 =  𝜏𝑦𝑧 = 0. \nR: Except the normal component, all the other components of stress perpendicular to the \nplane of deformation of the body, for example the x -y plane, are equal to zero, i.e. 𝜎𝑧𝑧 ≠ 0,\n𝜏𝑥𝑧 =  𝜏𝑦𝑧 = 0. \n \n(A) P only (B) Q only  (C) P and Q   (D) P and R   \n \n \nQ.32  An aircraft with a turbojet engine flies at a velocity of 100 m/s. If the jet exhaust velocity is \n300 m/s, the propulsive efficiency of the engine, assuming a negligible fuel-air ratio, is \n(A)  0.33 (B) 0.50 (C) 0.67 (D)  0.80 \n \n \nQ.33  An aircraft with a turboprop engine produces a thrust of 500 N and flies at 100 m/s. If the \npropeller efficiency is 0.5, the shaft power produced by the engine is  \n(A) 50 kW (B) 100 kW \n(C) 125 kW (D) 500 kW \n \n \nQ.34  An axial compressor that generates a stagnation pressure ratio of 4.0, operates with inlet and \nexit stagnation temperatures of 300 K and 480 K, respectively. If the ratio of specific heats \n(𝛾) is 1.4, the isentropic efficiency of the compressor is  \n(A) 0.94 (B) 0.81 \n(C) 0.72 (D) 0.63 \n \n \nQ.35  A rocket has an initial mass of 150 kg. After operating for a duration of 10 s, its final mass \nis 50 kg. If the acceleration due to gravity is 9.81 m/s2 and the thrust produced by the rocket \nis 19.62 kN, the specific impulse of the rocket is \n(A) 400 s (B) 300 s \n(C) 200 s (D) 100 s \n \n \nQ.36  Consider the vector field 𝑣⃗ = −\n𝑦\n𝑟2  𝑖̂+\n𝑥\n𝑟2 𝑗̂ ; where 𝑟 =  √𝑥2 + 𝑦2. The contour integral \n∮ 𝑣⃗ ⋅ 𝑑𝑠⃗⃗⃗⃗⃗, where 𝑑𝑠⃗⃗⃗⃗⃗ is tangent to the contour that encloses the origin, is __________ (accurate \nto two decimal places). \n \n \nQ.37  The magnitude of the x-component of a unit vector at the point (1, 1) that is normal to equi-\npotential lines of the potential function 𝜙(𝑟) =\n1\n𝑟2+4 , where 𝑟 =  √𝑥2 + 𝑦2,  is _______  \n(accurate to two decimal places). \n "
+    },
+    {
+      "page": 10,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2955,
+      "questionNumberCandidates": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 7/9 \nQ.38  Assuming ISA standard sea level conditions (288.16  K, density of 1.225 kg/m 3, \ng = 9.81 m/s2, R = 287 J/(kg-K)), the density (in kg/m3) of air at Leh, which is at an altitude \nof 3500  m above mean sea level is ________ (accurate to two decimal places).    \n \n \nQ.39  Consider a cubical tank of side 2 m with its top open. It is filled with water up to a height of \n1 m. Assuming the density of water to be 1000 kg/m3, g as 9.81 m/s2 and the atmospheric \npressure to be 100 kPa, the net hydrostatic force (in kN) on the side face of the tank due to \nthe air and water is ______ (accurate to two decimal places). \n \n \nQ.40  An aircraft with mass of 400,000 kg cruises at 240 m/s at an altitude of 10 km. Its lift to drag \nratio at cruise is 15.  Assuming g as 9.81 m/s2, the power (in MW) needed for it to cruise is \n_______ (accurate to two decimal places). \n \n \nQ.41  A statically-stable aircraft has a 𝐶𝐿𝛼= 5 (where the angle of attack, α, is measured in radians). \nThe coefficient of moment of the aircraft about the center of gravity  is given as  \n𝐶𝑀,𝑐.𝑔 = 0.05 − 4𝛼.  The mean aerodynamic chord of the aircraft wing is 1 m. The location \n(positive towards the nose ) of the neutral point of the aircraft from the center of gravity  is \n______ (in m, accurate to two decimal places). \n \n \nQ.42  An aircraft with a gross weight of 2000 kg , has a speed of 130 m/s at sea level, where the \nconditions are: 1 atmosphere (pressure), 288 K (temperature), and 1.23 kg/m3 (density). The \nspeed (in m/s) required by the aircraft at an altitude of 9000 m, where the conditions are: \n0.31 atmosphere, 230 K, and 0. 47 kg/m3, to maintain a steady,  level flight is ________ \n(accurate to two decimal places). \n \n \nQ.43  A pitot probe on an aircraft in a steady, level flight records a pressure of 55,000 N/m 2. The \nstatic pressure and density are 45,280 N/m2 and 0.6 kg/m3, respectively. The wing area and \nthe lift coefficient are 16 m2 and 2, respectively. The wing loading (in N/m2) on this aircraft \nis _________ (accurate to one decimal place).  \n \n \nQ.44  A spacecraft forms a circular orbit at an altitude of 150 km above the surface of a spherical \nEarth. Assuming the gravitational parameter, µ = 3.986 × 10 14 m3/s2 and radius of earth, \nRE = 6,400 km, the velocity required for the injection of the spacecraft, parallel to the local \nhorizon, is _______________ (accurate to two decimal places). \n \n \nQ.45  Air at 50 kPa pressure and 400 K temperature flows in a duct at Mach 3.0. A part of the flow \nleaks through an opening on the duct wall into the ambient, where the pressure is 30 kPa. \nThe maximum Mach number achieved in the discharge is _______ (accurate to two decimal \nplaces). (Ratio of specific heats of air is 𝛾 = 1.4). \n "
+    },
+    {
+      "page": 11,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2761,
+      "questionNumberCandidates": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 8/9 \nQ.46  Consider a 20 0 half-angle wedge in a supersonic flow at Mach 3 .0 at standard sea -level \nconditions. If the shock-wave angle on the wedge is 360, the Mach number of the tangential \ncomponent of the flow post-shock is _______ (accurate to two decimal places). \n \n \nQ.47  The boundary layer thickness at the location of a sensor on a flat plate in an incompressible, \nlaminar flow of air is required to be restricted to 1 mm for an effective measurement. If the \nflow velocity is 20 m/s with 1 bar pressure, 300 K temperature, and 1.789×10 ˗5 kg/(m-s) \nviscosity, the maximum distance (in mm)  of the sensor location from the leading edge is \n________ (accurate to one decimal place).  \n \n \nQ.48  Gross weight of an airplane is 7000 N, wing area is 16 m2, and the maximum lift coefficient \nis 2.0. Assuming density at the altitude as 1.23 kg/m3, the stall speed (in m/s) of the aircraft \nis _________ (accurate to two decimal places).   \n \n \nQ.49  A thin-walled tube with external radius of 100  mm and wall thickness of 2  mm, is fixed at \none end. It is subjected to a compressive force of 1 N acting at a point on the circumference \nparallel to its length. The maximum normal stress  (in kPa) experienced by the structure is \n_____________ (accurate to two decimal places). \n \n \nQ.50  A 1 m long massless cantilever beam oscillates at 2Hz, while a 60 kg mass is attached at the \ntip of it. The flexural rigidity of the beam (in kN-m2) is _________________ (accurate to \ntwo decimal places).    \n \n \nQ.51  A cantilever beam having a rectangular cross-section of width 60 mm and depth 100 mm, is \nmade of aluminum alloy. The material mechanical properties are: Young’s modulus,  \nE = 73 GPa  and ultimate stress, 𝜎𝑢 = 480 MPa. Assuming a factor of safety of 4, the \nmaximum bending moment (in kN-m) that can be applied on the beam is _____ (accurate to \none decimal place). \n \n \nQ.52  The components of stress in a bo dy under plane stress condition, in the absence of body \nforces, is given by:  \n𝜎𝑥𝑥 = 𝐴𝑥2; 𝜎𝑦𝑦 =  12𝑥2 − 6𝑦2 and 𝜎𝑥𝑦 = 12𝑥𝑦.  \nThe coefficient, A, such that the body is under equilibrium is _____ (accurate to one decimal \nplace). \n \n \nQ.53  An axial compressor rotor with 50 % degree of reaction, operates with an axial velocity of \n200 m/s. The absolute flow angle at the inlet of the rotor is 22 o with reference to the axial \ndirection. If the axial velocity is assumed to remain constant through the rotor, the magnitude \nof the relativ e velocity (in m/s) at the rotor exit is __________ ( accurate to one decimal \nplace). \n "
+    },
+    {
+      "page": 12,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1149,
+      "questionNumberCandidates": [
+        54,
+        55
+      ],
+      "text": "GATE 2018                                                                                                                                                                         Aerospace Engineering \nAE 9/9 \nQ.54  The relative velocity of air leaving a straight radial impeller of a centrifugal compressor is \n100 m/s. If the impeller tip speed is 200 m/s, for a slip free operation, the absolute velocity \n(in m/s) at the impeller exit is _________ (accurate to one decimal place). \n \n \nQ.55  An aircraft wind tunnel model, having a pitch axis mass moment of inertia  (Iyy) of  \n0.014 kg-m2, is mounted in such a manner that it has pure pitching motion about its centre  \nof gravity, where it is supported through a frictionless hinge. If the pitching moment (M) \nderivative with respect to angle of attack (α), denoted by ‘M α’, is -0.504 N-m/rad and the \npitching moment (M) derivative with respect to pitch rate (q), denoted by  ‘Mq’, is  \n-0.0336 N-m/(rad/s), the damping ratio of the resulting motion due to an initial disturbance \nin pitch angle is approximately _________ (accurate to three decimal places). \n \n \n \nEND OF THE QUESTION PAPER "
+    },
+    {
+      "page": 13,
+      "width": 612.0,
+      "height": 792.0,
+      "textCharacters": 350,
+      "questionNumberCandidates": [],
+      "text": "Q.No. Type Section Key/Range Marks\n1 MCQ GA D 1\n2 MCQ GA A 1\n3 MCQ GA B 1\n4 MCQ GA A 1\n5 MCQ GA C 1\n6 MCQ GA C 2\n7 MCQ GA C 2\n8 MCQ GA Marks  to All 2\n9 MCQ GA D 2\n10 MCQ GA B 2\n1 MCQ AE C 1\n2 MCQ AE B 1\n3 MCQ AE B 1\n4 MCQ AE C 1\n5 MCQ AE B 1\n6 MCQ AE C 1\n7 MCQ AE A 1\n8 MCQ AE C 1\n9 MCQ AE B 1\n10 MCQ AE C 1\n11 MCQ AE B 1\n12 MCQ AE A 1\n13 MCQ AE B 1"
+    },
+    {
+      "page": 14,
+      "width": 612.0,
+      "height": 792.0,
+      "textCharacters": 440,
+      "questionNumberCandidates": [],
+      "text": "Q.No. Type Section Key/Range Marks\n14 MCQ AE B 1\n15 MCQ AE B 1\n16 MCQ AE B 1\n17 MCQ AE A 1\n18 MCQ AE C 1\n19 MCQ AE B 1\n20 NAT AE 0.0 to 0.0 1\n21 NAT AE 1185.00  to 1186.50 1\n22 NAT AE 1.75  to 1.95 1\n23 NAT AE 2.0 to 2.0 1\n24 NAT AE 0.98  to 0.98 1\n25 NAT AE 0.50  to 0.50 1\n26 MCQ AE B 2\n27 MCQ AE C 2\n28 MCQ AE C 2\n29 MCQ AE D 2\n30 MCQ AE C 2\n31 MCQ AE D 2\n32 MCQ AE B 2\n33 MCQ AE B 2\n34 MCQ AE B 2\n35 MCQ AE C 2\n36 NAT AE 6.25  to 6.35 2"
+    },
+    {
+      "page": 15,
+      "width": 612.0,
+      "height": 792.0,
+      "textCharacters": 565,
+      "questionNumberCandidates": [],
+      "text": "Q.No. Type Section Key/Range Marks\n37 NAT AE 0.68  to 0.73 2\n38 NAT AE 0.85  to 0.88 2\n39 NAT AE 9.80  to 9.81 2\n40 NAT AE 62.00  to 63.50  2\n41 NAT AE ‐0.81 to ‐0.79 2\n42 NAT AE 209.00  to 211.00 2\n43 NAT AE 18000  to 19440 2\n44 NAT AE 7.80 to 7.80 (or) 7800 to \n7802 2\n45 NAT AE 3.30  to 3.40 2\n46 NAT AE 1.90  to 2.20 2\n47 NAT AE 47.0  to 55.0 2\n48 NAT AE 18.80  to 18.90 2\n49 NAT AE ‐2.50 to ‐2.20 2\n50 NAT AE 3.10  to 3.20  2\n51 NAT AE 12.0  to 12.0 2\n52 NAT AE ‐6.0 to ‐6.0 2\n53 NAT AE 215.0  to 216.5 2\n54\nNAT AE 222.0  to 225.0 2\n55 NAT AE 0.195  to 0.205 2"
+    }
+  ]
+}

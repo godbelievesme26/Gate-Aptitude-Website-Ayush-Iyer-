@@ -1,0 +1,105 @@
+- link "Skip to content":
+  - /url: "#main"
+- complementary:
+  - link "G GATE STUDY WORKSPACE":
+    - /url: "#/home"
+    - generic: G
+    - text: GATE
+    - generic: STUDY WORKSPACE
+  - button "Start a session":
+    - text: Start a session
+  - navigation "Primary navigation":
+    - generic: Study
+    - link "Today":
+      - /url: "#/home"
+      - text: Today
+    - link "Daily sets":
+      - /url: "#/daily"
+      - text: Daily sets
+    - link "Question bank":
+      - /url: "#/bank"
+      - text: Question bank
+    - link "Build a session":
+      - /url: "#/practice"
+      - text: Build a session
+    - generic: Review
+    - link "Review library":
+      - /url: "#/review"
+      - text: Review library
+    - link "Flashcards":
+      - /url: "#/flashcards"
+      - text: Flashcards
+    - generic: Progress
+    - link "Analytics":
+      - /url: "#/analytics"
+      - text: Analytics
+    - link "Study plan":
+      - /url: "#/planner"
+      - text: Study plan
+  - link "Session history":
+    - /url: "#/history"
+    - text: Session history
+  - link "Settings":
+    - /url: "#/settings"
+    - text: Settings
+  - text: Personal workspace
+  - text: Saved on this browser
+- banner:
+  - generic: Workspace / Question detail
+  - button "Search ⌘ K":
+    - text: Search
+    - generic: ⌘ K
+  - generic: Beginner
+  - generic: 20 XP
+  - button "Switch color theme":
+  - generic: G
+- main [active]:
+  - heading "2026 AE · Question 22" [level=1]
+  - paragraph: Aerospace Engineering · 1 mark
+  - region "Revision status":
+    - strong: Recovered
+    - paragraph: Recovered after 2 attempts · 2 answered attempts
+    - paragraph: Last attempted 6 Oct 2026 · Due 13 Oct 2026
+    - paragraph: "Correct after an earlier mistake. Next opportunity: 7 local days later."
+    - button "Review now"
+  - button "Practice question"
+  - button "☆ Bookmark"
+  - button "Add to notebook"
+  - button "Create flashcard"
+  - button "Share"
+  - button "Report source issue"
+  - paragraph:
+    - text: An n × n square matrix A satisfies A
+    - superscript: T
+    - text: = A
+    - superscript: −1
+    - text: . The determinant of this matrix may take which of the following value(s)?
+  - list:
+    - generic: A
+    - generic: "+1"
+    - generic: B
+    - generic: −1
+    - generic: C
+    - generic: "n"
+    - generic: D
+    - generic: "0"
+  - paragraph: "Original source: 2026 AE · Question 22"
+  - heading "My note" [level=2]
+  - paragraph: Personal notes are separate from source material.
+  - generic: My note
+  - textbox "My note":
+    - /placeholder: What would help you approach this question again?
+  - button "Save note"
+  - heading "Answer & solution" [level=2]
+  - paragraph: "Answer: A, B"
+  - paragraph:
+    - link "Official AE answer key":
+      - /url: https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf
+    - text: · AE Q22 · MSQ · 1 mark
+  - paragraph: No source solution available.
+  - heading "Question history" [level=2]
+  - paragraph: Recovered · 2 answered attempts · 00:42 total answering time
+  - generic: 6 Oct 2026 · Response A,B
+  - generic: correct
+  - generic: 6 Oct 2026 · Response A
+  - generic: incorrect

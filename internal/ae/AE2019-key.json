@@ -1,0 +1,594 @@
+{
+  "exam": "GATE",
+  "year": 2019,
+  "paper": "AE",
+  "source": "internal/ae/AE2019-key.pdf",
+  "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+  "rows": [
+    {
+      "number": 1,
+      "sectionQuestionNumber": 1,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 2,
+      "sectionQuestionNumber": 2,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 3,
+      "sectionQuestionNumber": 3,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 4,
+      "sectionQuestionNumber": 4,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 5,
+      "sectionQuestionNumber": 5,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 6,
+      "sectionQuestionNumber": 6,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2,
+      "page": 1
+    },
+    {
+      "number": 7,
+      "sectionQuestionNumber": 7,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2,
+      "page": 1
+    },
+    {
+      "number": 8,
+      "sectionQuestionNumber": 8,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2,
+      "page": 1
+    },
+    {
+      "number": 9,
+      "sectionQuestionNumber": 9,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2,
+      "page": 1
+    },
+    {
+      "number": 10,
+      "sectionQuestionNumber": 10,
+      "section": "GA",
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2,
+      "page": 1
+    },
+    {
+      "number": 11,
+      "sectionQuestionNumber": 1,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 12,
+      "sectionQuestionNumber": 2,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 13,
+      "sectionQuestionNumber": 3,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 14,
+      "sectionQuestionNumber": 4,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 15,
+      "sectionQuestionNumber": 5,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 16,
+      "sectionQuestionNumber": 6,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 17,
+      "sectionQuestionNumber": 7,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 18,
+      "sectionQuestionNumber": 8,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 19,
+      "sectionQuestionNumber": 9,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 20,
+      "sectionQuestionNumber": 10,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 21,
+      "sectionQuestionNumber": 11,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 22,
+      "sectionQuestionNumber": 12,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 23,
+      "sectionQuestionNumber": 13,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 1,
+      "page": 1
+    },
+    {
+      "number": 24,
+      "sectionQuestionNumber": 14,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.5 to 0.5",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 25,
+      "sectionQuestionNumber": 15,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.16 to 0.17",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 26,
+      "sectionQuestionNumber": 16,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "10 to 10",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 27,
+      "sectionQuestionNumber": 17,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "72 to 72",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 28,
+      "sectionQuestionNumber": 18,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "5.98 to 6.00",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 29,
+      "sectionQuestionNumber": 19,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "43.05 to 43.15",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 30,
+      "sectionQuestionNumber": 20,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "3 to 3",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 31,
+      "sectionQuestionNumber": 21,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.70 to 0.72",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 32,
+      "sectionQuestionNumber": 22,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "2 to 2",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 33,
+      "sectionQuestionNumber": 23,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.2 to 0.2",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 34,
+      "sectionQuestionNumber": 24,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "247 to 255",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 35,
+      "sectionQuestionNumber": 25,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "16 to 16",
+      "marks": 1,
+      "page": 2
+    },
+    {
+      "number": 36,
+      "sectionQuestionNumber": 26,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 37,
+      "sectionQuestionNumber": 27,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "B",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 38,
+      "sectionQuestionNumber": 28,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "D",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 39,
+      "sectionQuestionNumber": 29,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "C",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 40,
+      "sectionQuestionNumber": 30,
+      "section": "AE",
+      "type": "MCQ",
+      "rawKey": "A",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 41,
+      "sectionQuestionNumber": 31,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "1 to 1",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 42,
+      "sectionQuestionNumber": 32,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "2 to 2",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 43,
+      "sectionQuestionNumber": 33,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.5 to 0.5",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 44,
+      "sectionQuestionNumber": 34,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "30 to 30",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 45,
+      "sectionQuestionNumber": 35,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "10 to 10",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 46,
+      "sectionQuestionNumber": 36,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "3.5 to 3.7 OR 2.3 to 2.5",
+      "marks": 2,
+      "page": 2
+    },
+    {
+      "number": 47,
+      "sectionQuestionNumber": 37,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "5.95 to 6.10",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 48,
+      "sectionQuestionNumber": 38,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.24 to 0.30",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 49,
+      "sectionQuestionNumber": 39,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "18.00 to 19.20",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 50,
+      "sectionQuestionNumber": 40,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "2.06 to 2.08",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 51,
+      "sectionQuestionNumber": 41,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "1.32 to 1.35",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 52,
+      "sectionQuestionNumber": 42,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "2.54 to 2.62",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 53,
+      "sectionQuestionNumber": 43,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "1440 to 1490",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 54,
+      "sectionQuestionNumber": 44,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "0.96 to 0.96",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 55,
+      "sectionQuestionNumber": 45,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "1 to 1",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 56,
+      "sectionQuestionNumber": 46,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "1.60 to 1.65",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 57,
+      "sectionQuestionNumber": 47,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "88 to 90",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 58,
+      "sectionQuestionNumber": 48,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "2.50 to 2.60",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 59,
+      "sectionQuestionNumber": 49,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "60 to 60",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 60,
+      "sectionQuestionNumber": 50,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "550 to 570",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 61,
+      "sectionQuestionNumber": 51,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "1.8 to 1.9",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 62,
+      "sectionQuestionNumber": 52,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "310 to 320",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 63,
+      "sectionQuestionNumber": 53,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "17.0 to 17.5",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 64,
+      "sectionQuestionNumber": 54,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "12.3 to 12.6",
+      "marks": 2,
+      "page": 3
+    },
+    {
+      "number": 65,
+      "sectionQuestionNumber": 55,
+      "section": "AE",
+      "type": "NAT",
+      "rawKey": "25 to 25",
+      "marks": 2,
+      "page": 3
+    }
+  ]
+}

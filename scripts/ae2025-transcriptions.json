@@ -1,0 +1,357 @@
+{
+  "11": {
+    "question": "For any real symmetric matrix A, the transpose of A is ____ .",
+    "options": [
+      "inverse of A",
+      "null matrix",
+      "−A",
+      "A"
+    ]
+  },
+  "12": {
+    "question": "Consider the system of linear equations:n2x + 3y + z = 0nx + y = 0ny + z = 0\nThe given system of equations has",
+    "options": [
+      "a unique solution.",
+      "infinitely many solutions.",
+      "no solution.",
+      "a finite number of solutions."
+    ]
+  },
+  "13": {
+    "question": "The eigenvalues of the matrix \\matrix{1 & 2; 0 & 3} are _____.",
+    "options": [
+      "0, 2",
+      "2, 3",
+      "1, 3",
+      "1, 2"
+    ]
+  },
+  "14": {
+    "question": "The partial differential equationn\\frac{∂^{2}u}{∂ x^{2}} + 4\\frac{∂^{2}u}{∂ x ∂ y} + 2\\frac{∂^{2}u}{∂ y^{2}} = 0 is ______.",
+    "options": [
+      "elliptic",
+      "hyperbolic",
+      "parabolic",
+      "of mixed type"
+    ]
+  },
+  "15": {
+    "question": "f(x) = { A + x , if x < 2 ; 1 + x^{2} , if x ≥ 2 }\nIf the function f(x) is continuous at x = 2, the value of A is _____.",
+    "options": [
+      "2",
+      "2.5",
+      "3",
+      "3.5"
+    ]
+  },
+  "16": {
+    "question": "If i = √(-1),n\\frac{(i + 1)^{3}}{i - 1} = ________.",
+    "options": [
+      "2",
+      "−2",
+      "(i + 1)",
+      "(i − 1)"
+    ]
+  },
+  "17": {
+    "question": "For a two-dimensional incompressible flow over a flat plate, the laminar boundary layer thickness at a distance x from the leading edge is δ. If Re_{x} is the Reynolds number defined based on length scale x, (\\frac{δ}{x}) is proportional to ______.",
+    "options": [
+      "Re_{x}^{-1/2}",
+      "Re_{x}^{-1}",
+      "Re_{x}^{-3/2}",
+      "Re_{x}^{-2}"
+    ]
+  },
+  "18": {
+    "question": "For a NACA 4415 airfoil, the location of maximum camber, as a fraction of the chord length from the leading edge, is ______.",
+    "options": [
+      "0.44",
+      "0.40",
+      "0.15",
+      "0.04"
+    ]
+  },
+  "19": {
+    "question": "A positively cambered airfoil is placed in a uniform flow (velocity, U_{∞}) at its zero-lift angle of attack. M is the corresponding pitching moment. Which one of the following representations accurately describes this scenario?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ]
+  },
+  "20": {
+    "question": "Consider a pair of point vortices with clockwise circulation Γ each. The distance between their centers is a, as shown in the figure. Assume two-dimensional, incompressible, inviscid flow. Which one of the following options is correct?",
+    "options": [
+      "The vortices translate downwards together with a velocity \\frac{Γ}{2π a}.",
+      "The vortices translate upwards together with a velocity \\frac{Γ}{2π a}.",
+      "The vortices rotate clockwise around each other about their centroid O.",
+      "The vortices rotate counter-clockwise around each other about their centroid O."
+    ]
+  },
+  "21": {
+    "question": "In a fluid flow, Mach number is an estimate of _____.",
+    "options": [
+      "√(\\frac{inertia force){viscous force}}",
+      "√(\\frac{inertia force){elastic force}}",
+      "√(\\frac{elastic force){viscous force}}",
+      "√(\\frac{viscous force){inertia force}}"
+    ]
+  },
+  "22": {
+    "question": "A general aviation airplane is in steady and level flight. The airplane is prone to adverse yaw. Which one of the following options best describes the deflections of aileron and rudder to achieve a coordinated right turn?",
+    "options": [
+      "Left aileron: down; Right aileron: up; Rudder: left",
+      "Left aileron: down; Right aileron: up; Rudder: right",
+      "Left aileron: up; Right aileron: down; Rudder: left",
+      "Left aileron: up; Right aileron: down; Rudder: right"
+    ]
+  },
+  "23": {
+    "question": "For a general aviation airplane, which one of the following has a destabilizing effect on its static roll stability?",
+    "options": [
+      "Wing with a positive dihedral angle",
+      "Fuselage with a high wing",
+      "Fuselage with a low wing",
+      "Swept back wing"
+    ]
+  },
+  "24": {
+    "question": "A general aviation airplane is flying at an altitude of 5000 m. The indicated airspeed is 250 km/h. Assume that there are no instrument errors and position errors. Neglecting compressibility effects, which one of the following options is FALSE?",
+    "options": [
+      "The true airspeed is greater than 250 km/h.",
+      "The calibrated airspeed is 250 km/h.",
+      "The true airspeed is 250 km/h.",
+      "The equivalent airspeed is 250 km/h."
+    ]
+  },
+  "25": {
+    "question": "To achieve longitudinal static stability of a general aviation airplane, which one of the following conditions should be satisfied?",
+    "options": [
+      "The center of gravity of the airplane should be aft of the neutral point.",
+      "The center of gravity of the airplane should be forward of the neutral point.",
+      "The stability coefficient \\frac{∂ C_{m}}{∂ α} (C_{m} is the airplane pitching moment coefficient and α is the angle of attack) is positive.",
+      "The static margin is negative."
+    ]
+  },
+  "26": {
+    "question": "For a homogeneous, isotropic material, the relation between the shear modulus (G), Young’s modulus (E), and Poisson’s ratio (ν) is ____.",
+    "options": [
+      "G = 2E(1 + ν)",
+      "2G = E(1 + ν)",
+      "E = 2G(1 + ν)",
+      "2E = G(1 + ν)"
+    ]
+  },
+  "27": {
+    "question": "A simply supported horizontal beam is subjected to a distributed transverse load varying linearly from q_{0} at A to zero at B, as shown in the figure. Which one of the following options is correct?",
+    "options": [
+      "The magnitude of the vertical reaction force at A is larger than that at B.",
+      "The magnitude of the vertical reaction force at B is larger than that at A.",
+      "The magnitudes of the vertical reaction forces at A and B are equal.",
+      "The reactions at points A and B are indeterminate."
+    ]
+  },
+  "28": {
+    "question": "A stress field is given by σ_{xx} = σ_{zz} = C_{1}y; σ_{yy} = C_{2}y; τ_{xy} = τ_{yz} = τ_{zx} = 0, where C_{1} and C_{2} are non-zero constants. If the stress field satisfies equilibrium, which one of the following options is correct?",
+    "options": [
+      "There is no body force per unit volume.",
+      "There is a constant body force per unit volume in the y-direction.",
+      "The body force per unit volume varies linearly in the y-direction.",
+      "The direction of the body force per unit volume depends on the value of C_{1}."
+    ]
+  },
+  "29": {
+    "question": "A uniform symmetric cross-section cantilever beam of length L is subjected to a transverse force P at the free end, as shown in the figure. The Young’s modulus of the material is E and the moment of inertia is I. Ignoring the contributions due to transverse shear, the strain energy stored in the beam is _____.",
+    "options": [
+      "\\frac{P^{2}L^{3}}{6EI}",
+      "\\frac{PL^{3}}{3EI}",
+      "\\frac{PL^{3}}{6EI}",
+      "\\frac{P^{2}L^{3}}{3EI}"
+    ]
+  },
+  "30": {
+    "question": "In the given figure, plate ABCD in its undeformed configuration (solid line) is a rhombus with all the internal angles being 90°. The lengths of the undeformed diagonals are 20 cm. ABCD deforms as shown by the dotted lines. Upon deformation, diagonal AC reduces to 19.96 cm and BD increases to 20.04 cm. In the given x-y coordinate system, the engineering shear strain γ_{xy} is equal to ____.",
+    "options": [
+      "0",
+      "0.002",
+      "0.004",
+      "-0.004"
+    ]
+  },
+  "31": {
+    "question": "δ Q and δ W are the heat and work interactions of a system with its surroundings, and dU is the change in the internal energy of the system. For an adiabatic process in a closed, constant pressure combustor, which one of the following options is correct?",
+    "options": [
+      "|δ Q| = |dU| ≠ 0 and |δ W| = 0",
+      "|δ Q| = |δ W| = 0 and |dU| ≠ 0",
+      "|δ Q| = |δ W| = |dU| = 0",
+      "|δ W| = |dU| ≠ 0 and |δ Q| = 0"
+    ]
+  },
+  "32": {
+    "question": "An ideal two-stage rocket has identical specific impulse and structural coefficient for its two stages. For an optimized rocket, the two stages have identical payload ratio as well. The payload is 2 tons and the initial mass of the rocket is 200 tons. The mass of the second stage of the rocket (including the final payload mass) is ____ tons.",
+    "options": [
+      "100",
+      "10",
+      "20",
+      "50"
+    ]
+  },
+  "33": {
+    "question": "A gaseous fuel mixture comprising 3 moles of methane and 2 moles of ammonia is combusted in X moles of pure oxygen in stoichiometric amount. Assuming complete combustion, with only CO_{2}, H_{2}O and N_{2} in the product gases, the value of X is ___.nn3 CH_{4} + 2 NH_{3} + X O_{2} → Products (CO_{2}, H_{2}O, N_{2})",
+    "options": [
+      "7.5",
+      "5.5",
+      "8.5",
+      "9.5"
+    ]
+  },
+  "34": {
+    "question": "The lift per unit span for a spinning circular cylinder in a potential flow is 6 N/m. The free-stream velocity is 30 m/s, and the density of air is 1.225 kg/m^{3}. The circulation around the cylinder is ____ m^{2}/s (rounded off to two decimal places).",
+    "options": []
+  },
+  "35": {
+    "question": "In a centrifugal compressor, the eye tip diameter is 10 cm. For a shaft rotational speed of 490 rotations per second, the tangential speed at the inducer tip is ___ m/s (rounded off to one decimal place).",
+    "options": []
+  },
+  "36": {
+    "question": "A lifting surface has a spanwise circulation distribution of Γ(θ) = A sin 3θ (where A ≠ 0) over its span -\\frac{b}{2} ≤ y ≤ \\frac{b}{2}, and y = -\\frac{b}{2} cos θ is the spanwise coordinate. Furthermore, the downwash varies along the span as w(θ) = V_{∞} (\\frac{3A sin 3θ}{sin θ}), where V_{∞} is the freestream velocity. Which one of the following options represents the total lift (L) and induced drag (D_{i})?",
+    "options": [
+      "L = 0 and D_{i} = 0",
+      "L = 0 and D_{i} ≠ 0",
+      "L ≠ 0 and D_{i} = 0",
+      "L ≠ 0 and D_{i} ≠ 0"
+    ]
+  },
+  "37": {
+    "question": "A 1 m long rod is to be designed to support an axial tensile load P (P >> weight of the rod). The material for the rod is to be chosen from one of the four provided in the table. Using strength-based failure criterion for design, which material results in the lowest weight of the rod?",
+    "options": [
+      "Material α",
+      "Material β",
+      "Material γ",
+      "Material δ"
+    ]
+  },
+  "38": {
+    "question": "A general aviation airplane is initially in steady and level flight. The stability coefficient \\frac{∂ C_{m}}{∂ q} (C_{m} is the airplane pitching moment coefficient and q is the pitch rate) is negative. The airplane is perturbed with a small nose-up constant pitch rate. Assume that the horizontal tail does not stall during the perturbation, and unsteady effects are neglected. When compared to steady and level flight condition, which of the following statements is/are true during the perturbed motion?",
+    "options": [
+      "The angle of attack of the horizontal tail increases.",
+      "The contribution of the horizontal tail to the airplane’s pitching moment about the center of gravity is more stabilizing.",
+      "The lift generated by the horizontal tail increases.",
+      "The contribution of the horizontal tail to the airplane’s pitching moment about the center of gravity is less stabilizing."
+    ]
+  },
+  "39": {
+    "question": "A general aviation airplane is gliding with a speed V_{g} at minimum glide angle. Which of the following statements is/are true?",
+    "options": [
+      "V_{g} is equal to the speed corresponding to the maximum lift to drag ratio of the airplane.",
+      "V_{g} increases with decreasing wing loading when all other parameters remain constant.",
+      "V_{g} increases with decreasing altitude when all other parameters remain constant.",
+      "V_{g} increases with increasing altitude when all other parameters remain constant."
+    ]
+  },
+  "40": {
+    "question": "The maximum value of the function f(x) = (x - 1)(x - 2)(x - 3) in the domain [0, 3] occurs at x = ______ (rounded off to two decimal places).",
+    "options": []
+  },
+  "41": {
+    "question": "lim_{x → 0} \\frac{1 - cos(2x)}{x^{2}} = _____ (answer in integer).",
+    "options": []
+  },
+  "42": {
+    "question": "The equation of a closed curve in two-dimensional polar coordinates is given by r = \\frac{2}{√(π)(1 - sin θ)}. The area enclosed by the curve is ________ (answer in integer).",
+    "options": []
+  },
+  "43": {
+    "question": "Consider the ordinary differential equation:n\\frac{1}{2} \\frac{dy}{dx} + \\frac{y}{x} = 1\nIf y = 2/3 at x = 1, then the value of y at x = 3 is ______ (rounded off to the nearest integer).",
+    "options": []
+  },
+  "44": {
+    "question": "An approximate solution of the equation x^{3} - 17 = 0 is to be obtained using the Newton-Raphson method. If the initial guess is x_{0} = 2, the value at the end of the first iteration is x_{1} = _____ (rounded off to two decimal places).",
+    "options": []
+  },
+  "45": {
+    "question": "î and ĵ denote unit vectors in the x and y directions, respectively. The outward flux of the two-dimensional vector field v⃗ = xî + yĵ over the unit circle centered at the origin is ______ (rounded off to two decimal places).",
+    "options": []
+  },
+  "46": {
+    "question": "An aircraft is flying at an altitude of 4500 m above sea level, where the ambient pressure, temperature and density are 57 kPa, 259 K and 0.777 kg/m^{3}, respectively. The speed of the aircraft (V) is 230 m/s. Gas constant R = 287 J/kg/K, and specific heat ratio γ = 1.4. If the stagnation pressure is p_{o}, and static pressure is p, the value of [\\frac{p_{o} - p}{\\frac{1}{2}ρ V^{2}}] is ________ (rounded off to two decimal places).",
+    "options": []
+  },
+  "47": {
+    "question": "A rectangular wing of 1.2 m chord length and aspect ratio 5 is tested in a wind tunnel at an air speed of 60 m/s. The density and the dynamic viscosity of air are 1.3 kg/m^{3} and 1.8 × 10^{-5} kg/m-s, respectively. A second rectangular wing of the same span, but with an aspect ratio of 6, is to be tested in the same tunnel at the same Reynolds number. The air speed at which the second test should be performed is _______ m/s (answer in integer).",
+    "options": []
+  },
+  "48": {
+    "question": "In a low-speed airplane, a venturimeter with 1.3:1 area ratio is used for airspeed measurement. The airplane’s maximum speed at sea level is 90 m/s. If the density of air at sea level is 1.225 kg/m^{3}, the maximum pressure difference between the inlet and the throat of the venturimeter is ________ kPa (rounded off to two decimal places).",
+    "options": []
+  },
+  "49": {
+    "question": "A supersonic stream of an ideal gas at Mach number M_{1} = 5 is turned by a ramp, as shown in the figure. The ramp angle is 20°. The pressure ratio is \\frac{p_{2}}{p_{1}} = 7.125 and the specific heat ratio is γ = 1.4. The pressure coefficient on the ramp surface is _______ (rounded off to two decimal places).",
+    "options": []
+  },
+  "50": {
+    "question": "A perfect gas flows through a frictionless constant-area duct with heat addition. The inlet conditions are as follows: pressure 100 kPa, density 1 kg/m^{3}, and velocity 100 m/s. At a particular downstream location, the gas velocity is 200 m/s. The static pressure at the downstream location is ______ kPa (answer in integer).",
+    "options": []
+  },
+  "51": {
+    "question": "The mass flow rate in a supersonic wind tunnel is 2 kg/s when the stagnation pressure and stagnation temperature are 1 MPa and 800 K, respectively. If the stagnation pressure and stagnation temperature are changed to 3 MPa and 200 K, the mass flow rate in the tunnel changes to _______ kg/s (answer in integer).",
+    "options": []
+  },
+  "52": {
+    "question": "A jet-powered airplane is steadily climbing at a rate of 10 m/s. The air density is 0.8 kg/m^{3}, and the thrust force is aligned with the flight path. Using the information provided in the table below, the airplane’s thrust to weight ratio is ______ (rounded off to one decimal place).",
+    "options": []
+  },
+  "53": {
+    "question": "F and G denote two points on a spacecraft’s orbit around a planet, as indicated in the figure. O is the center of the planet, P is the periapsis, and the angles are as indicated in the figure. If OF = 8000 km, OG = 10000 km, θ_{F} = 0 deg, and θ_{G} = 60 deg, the eccentricity of the spacecraft’s orbit is ____ (rounded off to two decimal places).",
+    "options": []
+  },
+  "54": {
+    "question": "While taking off, the net external force acting on an airplane during the ground roll segment can be assumed to be constant. The airplane starts from rest. S_{LO} and V_{LO} are the ground roll distance and the lift-off speed, respectively. α V_{LO} (α > 0) denotes the airplane speed at 0.5 S_{LO}. Neglecting changes in the airplane mass during the ground roll segment, the value of α is _____ (rounded off to two decimal places).",
+    "options": []
+  },
+  "55": {
+    "question": "A 1 m long rod of 1 cm × 1 cm cross section is subjected to an axial tensile force of 35 kN. The Young’s modulus of the material is 70 GPa. The cross-section of the deformed rod is 0.998 cm × 0.998 cm. The Poisson’s ratio of the material is ________ (rounded off to one decimal place).",
+    "options": []
+  },
+  "56": {
+    "question": "For a three-bar truss loaded as shown in the figure, the magnitude of the force in the horizontal member AB is ___ N (answer in integer).",
+    "options": []
+  },
+  "57": {
+    "question": "A uniform rigid bar of mass 3 kg is hinged at point F, and supported by a spring of stiffness k = 100 N/m, as shown in the figure. The natural frequency of free vibration of the system is ____ rad/s (answer in integer).",
+    "options": []
+  },
+  "58": {
+    "question": "A prismatic vertical column of cross-section a × 0.5a and length l is rigidly fixed at the bottom and free at the top. A compressive force P is applied along the centroidal axis at the top surface. The Young’s modulus of the material is 200 GPa and the uniaxial yield stress is 400 MPa. If the critical value of P for yielding and for buckling of the column are equal, the value of (\\frac{l}{a}) is _____ (rounded off to one decimal place).",
+    "options": []
+  },
+  "59": {
+    "question": "A thin flat plate is subjected to the following stresses:nσ_{xx} = 160 MPa; σ_{yy} = 40 MPa; τ_{xy} = 80 MPa.\nFactor of safety is defined as the ratio of the yield stress to the applied stress. The yield stress of the material under uniaxial tensile load is 250 MPa. The factor of safety for the plate assuming that material failure is governed by the von Mises criterion is _____ (rounded off to two decimal places).",
+    "options": []
+  },
+  "60": {
+    "question": "Two designs A and B, shown in the figure, are proposed for a thin-walled closed section that is expected to carry only torque. Both A and B have a semi-circular nose, and are made of the same material with a wall thickness of 1 mm. With strength as the only criterion for failure, the ratio of maximum torque that B can support to the maximum torque that A can support is __ (rounded off to two decimal places).",
+    "options": []
+  },
+  "61": {
+    "question": "An ideal turbofan with a bypass ratio of 5 has core mass flow rate, dot{m}_{a,c} = 100 kg/s. The core and the fan exhausts are separate and optimally expanded. The core exhaust speed is 600 m/s and the fan exhaust speed is 120 m/s. If the fuel mass flow rate is negligible in comparison to dot{m}_{a,c}, the static specific thrust (T / dot{m}_{a,c}) developed by the engine is ____ Ns/kg (rounded off to the nearest integer).",
+    "options": []
+  },
+  "62": {
+    "question": "Air at temperature 300 K is compressed isentropically from a pressure of 1 bar to 10 bar in a compressor. Eighty percent of the compressed air is supplied to a combustor. In the combustor, 0.88 MJ of heat is added per kg of air. The specific heat at constant pressure is C_{p} = 1005 J/kg/K and the specific heat ratio is γ = 1.4. The temperature of the air leaving the combustor is ___ K (rounded off to one decimal place).",
+    "options": []
+  },
+  "63": {
+    "question": "A monopropellant liquid rocket engine has 800 injectors of diameter 4 mm each, and with a discharge coefficient of 0.65. The liquid propellant of density 1000 kg/m^{3} flows through the injectors. There is a pressure difference of 10 bar across the injectors. The specific impulse of the rocket is 1500 m/s. The thrust generated by the rocket is _____ kN (rounded off to one decimal place).",
+    "options": []
+  },
+  "64": {
+    "question": "An ideal ramjet with an optimally expanded exhaust is travelling at Mach 3. The ambient temperature and pressure are 260 K and 60 kPa, respectively. The inlet air mass flow rate is 50 kg/s. Exit temperature of the exhaust gases is 700 K. Fuel mass flow rate is negligible compared to air mass flow rate. Gas constant is R = 287 J/kg/K, and specific heat ratio is γ = 1.4. The thrust generated by the engine is ___ kN (rounded off to one decimal place).",
+    "options": []
+  },
+  "65": {
+    "question": "A single-stage axial compressor, with a 50% degree of reaction, runs at a mean blade speed of 250 m/s. The overall pressure ratio developed is 1.3. Inlet pressure and temperature are 1 bar and 300 K, respectively. Axial velocity is 200 m/s. Specific heat at constant pressure, C_{p} = 1005 J/kg/K and specific heat ratio, γ = 1.4. The rotor blade angle at the outlet is ___ degrees (rounded off to two decimal places).",
+    "options": []
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "schemaVersion": 1,
+  "day": 16,
+  "year": 2025,
+  "paper": "ME",
+  "title": "GATE 2025 · ME · General Aptitude",
+  "source": "Aptitude Sets/2025/ME.pdf",
+  "answerKeyStatus": "official GATE 2025 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2025-me-ga-01",
+      "number": 1,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Fish : Shoal :: Lion : _______ Select the correct option to complete the analogy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pride"
+        },
+        {
+          "label": "B",
+          "text": "School"
+        },
+        {
+          "label": "C",
+          "text": "Forest"
+        },
+        {
+          "label": "D",
+          "text": "Series"
+        }
+      ],
+      "sourceImage": "figures/day16-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              143.57,
+              565.32,
+              397.85
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The analogy pairs an animal with its collective noun. A group of fish is a shoal; a group of lions is a pride. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-02",
+      "number": 2,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Identify the grammatically correct sentence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is I who am responsible for this fiasco."
+        },
+        {
+          "label": "B",
+          "text": "It is myself who is responsible for this fiasco."
+        },
+        {
+          "label": "C",
+          "text": "It is I who is responsible for this fiasco."
+        },
+        {
+          "label": "D",
+          "text": "It is I who are responsible for this fiasco."
+        }
+      ],
+      "sourceImage": "figures/day16-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              95.33,
+              565.32,
+              323.81
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "In “It is I who am…”, the relative pronoun “who” refers to “I” and takes the first-person singular verb “am”. “Myself” is not the appropriate subject complement here; “is” and “are” do not agree with I in this construction. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-03",
+      "number": 3,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Two cars, P and Q, start from a point X in India at 10 AM. Car P travels North with a speed of 25 km/h and car Q travels East with a speed of 30 km/h. Car P travels continuously but car Q stops for some time after travelling for one hour. If both the cars are at the same distance from X at 11:30 AM, for how long (in minutes) did car Q stop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "12"
+        },
+        {
+          "label": "C",
+          "text": "15"
+        },
+        {
+          "label": "D",
+          "text": "18"
+        }
+      ],
+      "sourceImage": "figures/day16-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              95.33,
+              565.32,
+              379.01
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "By 11:30, P travels 25×1.5=37.5 km. Q must also travel 37.5 km, needing 37.5/30=1.25 hours of motion. Out of the 1.5 elapsed hours, Q therefore stops for 0.25 hours=15 minutes. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-04",
+      "number": 4,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The ceiling function of a real number x, denoted by ce(x), is defined as the smallest integer that is greater than or equal to x. Similarly, the floor function, denoted by fl(x), is defined as the largest integer that is smaller than or equal to x. Which one of the following statements is NOT correct for all possible values of x?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ce(x) ≥ x"
+        },
+        {
+          "label": "B",
+          "text": "fl(x) ≤ x"
+        },
+        {
+          "label": "C",
+          "text": "ce(x) ≥ fl(x)"
+        },
+        {
+          "label": "D",
+          "text": "fl(x) < ce(x)"
+        }
+      ],
+      "sourceImage": "figures/day16-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              95.33,
+              565.32,
+              367.37
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "For any integer x, both floor and ceiling equal x. Consequently fl(x)<ce(x) fails at every integer, although the weak inequality fl(x)≤ce(x) always holds. The other three statements follow directly from the definitions. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-05",
+      "number": 5,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "P and Q play chess frequently against each other. Of these matches, P has won 80% of the matches, drawn 15% of the matches and lost 5% of the matches. If they play 3 more matches, what is the probability of P winning exactly 2 of these 3 matches?",
+      "options": [
+        {
+          "label": "A",
+          "text": "48/125"
+        },
+        {
+          "label": "B",
+          "text": "16/125"
+        },
+        {
+          "label": "C",
+          "text": "16/25"
+        },
+        {
+          "label": "D",
+          "text": "25/48"
+        }
+      ],
+      "sourceImage": "figures/day16-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              118.13,
+              565.32,
+              453.43
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Treating the future matches as independent with the stated win probability, exactly two wins can occur in 3 arrangements. A non-win includes either draw or loss, with probability 0.15+0.05=0.2. Thus probability=3×0.8²×0.2=0.384=48/125, option A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-06",
+      "number": 6,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\nP. At once, without thinking much, people rushed towards the city in hordes with the sole aim of grabbing as much gold as they could.\nQ. However, little did they realize about the impending hardships they would have to face on their way to the city: miles of mud, unfriendly forests, hungry beasts and inimical local lords – all of which would reduce their chances of getting gold to almost zero.\nR. All of them thought that easily they could lay their hands on gold and become wealthy overnight.\nS. About a hundred years ago, the news that gold had been discovered in Kolar spread like wildfire and the whole State was in raptures.",
+      "options": [
+        {
+          "label": "A",
+          "text": "P → Q → R → S"
+        },
+        {
+          "label": "B",
+          "text": "Q → S → R → P"
+        },
+        {
+          "label": "C",
+          "text": "S → Q → P → R"
+        },
+        {
+          "label": "D",
+          "text": "S → P → R → Q"
+        }
+      ],
+      "sourceImage": "figures/day16-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              141.05,
+              565.32,
+              574.87
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "S introduces the gold discovery. P gives the immediate rush toward the city. R explains the crowd’s expectation of easy wealth. Q contrasts that expectation with the impending hardships. Hence S→P→R→Q, option D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-07",
+      "number": 7,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "If HIDE and CAGE are coded as 19-23-7-11 and 5-2-17-11 respectively, then what is the code for HIGH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5-17-1-2"
+        },
+        {
+          "label": "B",
+          "text": "17-19-13-17"
+        },
+        {
+          "label": "C",
+          "text": "13-3-1-2"
+        },
+        {
+          "label": "D",
+          "text": "19-23-17-19"
+        }
+      ],
+      "sourceImage": "figures/day16-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              95.33,
+              565.32,
+              337.61
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The examples supply H→19, I→23, G→17 and E→11 directly. Apply the same substitutions to HIGH: 19-23-17-19. No additional coding rule needs to be guessed. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-08",
+      "number": 8,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The given figure is reflected about the horizontal dashed line and then rotated clockwise by 90° about an axis perpendicular to the plane of the figure. Which one of the following options correctly shows the resultant figure? Note: The figures shown are representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-me-ga-08-option-A.png",
+            "alt": "Option A: transformed arrangement of the four symbols, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/ME.pdf",
+              "page": 8,
+              "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+              "pdfCrop": [
+                116,
+                349,
+                210,
+                435
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-me-ga-08-option-B.png",
+            "alt": "Option B: transformed arrangement of the four symbols, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/ME.pdf",
+              "page": 8,
+              "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+              "pdfCrop": [
+                116,
+                441,
+                210,
+                530
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-me-ga-08-option-C.png",
+            "alt": "Option C: transformed arrangement of the four symbols, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/ME.pdf",
+              "page": 8,
+              "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+              "pdfCrop": [
+                116,
+                537,
+                210,
+                627
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-me-ga-08-option-D.png",
+            "alt": "Option D: transformed arrangement of the four symbols, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/ME.pdf",
+              "page": 8,
+              "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+              "pdfCrop": [
+                116,
+                635,
+                210,
+                721
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day16-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              95.33,
+              565.32,
+              724.9
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Reflection in the horizontal line reverses top and bottom. A subsequent 90° clockwise rotation maps the original top-left to top-left, bottom-left to top-right, top-right to bottom-left and bottom-right to bottom-right, while rotating each reflected symbol. The lightning remains upper-left, the bent arrow moves upper-right, the angular shape moves lower-left, and the crescent is lower-right opening downward. This is B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-me-ga-08-figure-1.png",
+          "alt": "Square with lightning upper-left, angular shape upper-right, bent arrow lower-left, crescent lower-right, and a horizontal reflection line above.",
+          "source": {
+            "file": "Aptitude Sets/2025/ME.pdf",
+            "page": 8,
+            "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f",
+            "pdfCrop": [
+              213,
+              207,
+              384,
+              335
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-me-ga-09",
+      "number": 9,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Which one of the following options has the correct sequence of objects arranged in the increasing number of mirror lines (lines of symmetry)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Circle; Square; Equilateral triangle; Isosceles triangle"
+        },
+        {
+          "label": "B",
+          "text": "Isosceles triangle; Equilateral triangle; Square; Circle"
+        },
+        {
+          "label": "C",
+          "text": "Equilateral triangle; Isosceles triangle; Square; Circle"
+        },
+        {
+          "label": "D",
+          "text": "Isosceles triangle; Square; Equilateral triangle; Circle"
+        }
+      ],
+      "sourceImage": "figures/day16-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              95.33,
+              565.32,
+              337.61
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "A non-equilateral isosceles triangle has 1 mirror line; an equilateral triangle has 3; a square has 4; and a circle has infinitely many. The increasing order is isosceles triangle, equilateral triangle, square, circle: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-me-ga-10",
+      "number": 10,
+      "year": 2025,
+      "paper": "ME",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A final year student appears for placement interview in two companies, S and T. Based on her interview performance, she estimates the probability of receiving job offers from companies S and T to be 0.8 and 0.6, respectively. Let p be the probability that she receives job offers from both the companies. Select the most appropriate option.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0 ≤ p ≤ 0.2"
+        },
+        {
+          "label": "B",
+          "text": "0.4 ≤ p ≤ 0.6"
+        },
+        {
+          "label": "C",
+          "text": "0.2 ≤ p ≤ 0.4"
+        },
+        {
+          "label": "D",
+          "text": "0.6 ≤ p ≤ 1.0"
+        }
+      ],
+      "sourceImage": "figures/day16-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2025/ME.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              423.46,
+              565.32,
+              708.82
+            ]
+          }
+        ],
+        "sha256": "8ebeee660dfd0d312e30a1b91cfc9052cbdbb89ff474d329425e77b2e13e200f"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Let S and T be the offer events. Their intersection cannot exceed the smaller marginal probability, so p≤0.6. Also P(S∪T)=0.8+0.6−p≤1, giving p≥0.4. Thus 0.4≤p≤0.6 (B). Independence is not given, so p need not equal 0.48.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/ME_Keys.pdf",
+        "paper": "ME",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 3,
+        "verifiedOn": "2026-10-05",
+        "sha256": "b434d7c27aef0c6e40f89973ed22cd4e299fab26b5a48f7eaa1fc35df075d3bc",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/ME.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    }
+  ]
+}

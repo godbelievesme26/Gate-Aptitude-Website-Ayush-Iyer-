@@ -1,0 +1,650 @@
+{
+  "source": "Aptitude Sets/2025/CS1.pdf",
+  "sha256": "81a6517cc058c3a471dce9a39a6bb2291f4fff9aa7ebebe6a5f337f61e25ee81",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 436,
+      "questionNumberCandidates": [
+        1,
+        1
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 1 of 64 \n \nGeneral Aptitude \nQ.1 – Q.5 Carry ONE mark Each \nQ.1 Ravi had ______ younger brother who taught at ______ university. He was widely \nregarded as ______ honorable man.  \nSelect the option with the correct sequence of articles to fill in the blanks.   \n  \n(A) a; a; an  \n(B) the; an; a \n(C) a; an; a \n(D) an; an; a \n  \n  "
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 457,
+      "questionNumberCandidates": [
+        2
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 2 of 64 \n \nQ.2 The CEO’s decision to downsize the workforce was considered myopic because it \nsacrificed long-term stability to accommodate short-term gains. \nSelect the most appropriate option that can replace the word “myopic” without \nchanging the meaning of the sentence. \n  \n(A) visionary \n(B) shortsighted \n(C) progressive \n(D) innovative  \n  \n \n \n \n \n \n  "
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 476,
+      "questionNumberCandidates": [
+        3
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 3 of 64 \n \nQ.3 The average marks obtained by a class in an examination were calculated as 30.8. \nHowever, while checking the marks entered, the teacher found that the marks of one \nstudent were entered incorrectly as 24 instead of 42. After correcting the marks, the \naverage becomes 31.4. How many students does the class have? \n  \n(A) 25 \n(B) 28 \n(C) 30 \n(D) 32 \n  \n  "
+    },
+    {
+      "page": 4,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 640,
+      "questionNumberCandidates": [
+        4
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 4 of 64 \n \nQ.4 Consider the relationships among P, Q, R, S, and T: \n• P is the brother of Q.  \n• S is the daughter of Q.  \n• T is the sister of S. \n• R is the mother of Q. \nThe following statements are made based on the relationships given above.  \n(1) R is the grandmother of S. \n(2) P is the uncle of S and T. \n(3) R has only one son. \n(4) Q has only one daughter. \nWhich one of the following options is correct? \n  \n(A) Both (1) and (2) are true. \n(B) Both (1) and (3) are true. \n(C) Only (3) is true. \n(D) Only (4) is true. \n  \n \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 5,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 641,
+      "questionNumberCandidates": [
+        5
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 5 of 64 \n \nQ.5 According to the map shown in the figure, which one of the following statements is \ncorrect?  \nNote: The figure shown is representative. \n  \n(A) The library is located to the northwest of the canteen. \n(B) The hospital is located to the east of the chemistry lab. \n(C) The chemistry lab is to the southeast of physics lab. \n(D) The classrooms and canteen are next to each other. \n  \n \n \n \n \n \n 5th Cross Road \n1st Main Road \nN \nE \nW \nS \nChemistry \nLab \nPhysics Lab \nLibrary \nHostels \nClassrooms \nHospital \nCanteen "
+    },
+    {
+      "page": 6,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1106,
+      "questionNumberCandidates": [
+        6,
+        6
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 6 of 64 \n \n \n \nQ.6 – Q.10 Carry TWO marks Each \nQ.6 “I put the brown paper in my pocket along with the chalks, and possibly other things. \nI suppose every one  must have reflected how primeval and how poetical are the \nthings that one carries in one’s pocket: the pocket-knife, for instance the type of all \nhuman tools, the infant of the sword. Once I planned to write a book of poems \nentirely about the things in my pocket. But I found it would be too long: and the age \nof the great epics is past.”  \n                                                           (From G.K. Chesterton’s “A Piece of Chalk”) \nBased only on the information provided in the above passage, which one of the \nfollowing statements is true? \n  \n(A) The author of the passage carries a mirror in his pocket to reflect upon things. \n(B) The author of the passage had decided to write a poem on epics. \n(C) The pocket-knife is described as the infant of the sword. \n(D) Epics are described as too inconvenient to write. \n  \n  "
+    },
+    {
+      "page": 7,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 501,
+      "questionNumberCandidates": [
+        7
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 7 of 64 \n \nQ.7 In the diagram, the lines QR and ST are parallel to each other. The shortest distance \nbetween these two lines is half the shortest distance between the point P and line \nQR. What is the ratio of the area of the triangle PST to the area of the trapezium \nSQRT? \nNote: The figure shown is representative. \n  \n \n(A) 1\n3 \n(B) 1\n4 \n(C) 2\n5 \n(D) 1\n2 \n  \n \n \n \n  \nP \nQ \n R \nS \n T "
+    },
+    {
+      "page": 8,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 326,
+      "questionNumberCandidates": [
+        8
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 8 of 64 \n \nQ.8 A fair six-faced dice, with the faces labelled ‘1’, ‘2’, ‘3’, ‘4’, ‘5’, and ‘6’, is rolled \nthrice. What is the probability of rolling ‘6’ exactly once? \n  \n(A) 75\n216 \n(B) 1\n6 \n(C) 1\n18 \n(D) 25\n216 \n  \n  "
+    },
+    {
+      "page": 9,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 474,
+      "questionNumberCandidates": [
+        9
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 9 of 64 \n \nQ.9 A square paper, shown in figure (I), is folded along the dotted lines as shown in the \nfigures (II) and (III). Then a few cuts are made as shown in figure (IV). Which one \nof the following patterns will be obtained when the paper is unfolded? \nNote: The figures shown are representative.  \n  \n(A)  \n(B)  \n(C)  \n(D)  \n  \n \n  \n(I) \n (II) (III) (IV) "
+    },
+    {
+      "page": 10,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1153,
+      "questionNumberCandidates": [
+        10,
+        11,
+        11
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 10 of 64 \n \nQ.10 A shop has 4 distinct flavors of ice-cream. One can purchase any number of scoops \nof any flavor. The order in which the scoops are purchased is inconsequential.  \nIf one wants to purchase 3 scoops of ice -cream, in how many ways can one make \nthat purchase?  \n  \n(A) 4 \n(B) 20 \n(C) 24 \n(D) 48 \n  \n \n \nQ.11 – Q.35 Carry ONE mark Each \nQ.11 \n \n \n \nSuppose a program is running on a non-pipelined single processor computer system. \nThe computer is connected to an external device that can interrupt the processor \nasynchronously. The processor needs to execute the interrupt service routine (ISR) \nto serve this interrupt. The following steps (not necessarily in order) are taken b y \nthe processor when the interrupt arrives: \n(i) The processor saves the content of the program counter. \n(ii) The program counter is loaded with the start address of the ISR. \n(iii) The processor finishes the present instruction. \nWhich ONE of the following is the CORRECT sequence of steps? \n  \n(A) (iii),  (i),  (ii) \n(B) (i),  (iii), (ii) "
+    },
+    {
+      "page": 11,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 170,
+      "questionNumberCandidates": [],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 11 of 64 \n \n(C) (i),  (ii),  (iii) \n(D) (iii), (ii),  (i) \n \n  "
+    },
+    {
+      "page": 12,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 474,
+      "questionNumberCandidates": [
+        12
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 12 of 64 \n \nQ.12 Which ONE of the following statements is FALSE regarding the symbol table?  \n  \n(A) Symbol table is responsible for keeping track of the scope of variables. \n(B) Symbol table can be implemented using a binary search tree. \n(C) Symbol table is not required after the parsing phase. \n(D) Symbol table is created during the lexical analysis phase. \n \n  "
+    },
+    {
+      "page": 13,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 359,
+      "questionNumberCandidates": [
+        13
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 13 of 64 \n \nQ.13 Which ONE of the following techniques used in compiler code optimization uses \nlive variable analysis?  \n  \n(A) Run-time function call management \n(B) Register assignment to variables \n(C) Strength reduction \n(D) Constant folding \n \n  "
+    },
+    {
+      "page": 14,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 412,
+      "questionNumberCandidates": [
+        14
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 14 of 64 \n \nQ.14 Consider a demand paging memory management system with 32 -bit logical \naddress, 20-bit physical address, and page size of 2048 bytes. Assuming that the \nmemory is byte addressable , what is the maximum number of entries in the page \ntable? \n  \n(A) 221  \n(B) 220  \n(C) 222  \n(D) 224  \n \n  "
+    },
+    {
+      "page": 15,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 502,
+      "questionNumberCandidates": [
+        15
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 15 of 64 \n \nQ.15 A schedule of  three database transactions 𝑇1, 𝑇2, and 𝑇3 is shown . 𝑅𝑖(𝐴) and \n𝑊𝑖(𝐴) denote read and write of data item 𝐴 by transaction 𝑇𝑖, 𝑖 = 1,2,3. The \ntransaction 𝑇1 aborts at the end. Wh ich other transaction(s) will be required  to be \nrolled back? \n 𝑅1(𝑋)  𝑊1(𝑌)  𝑅2(𝑋)  𝑅2(𝑌)  𝑅3(𝑌) 𝐴𝐵𝑂𝑅𝑇(𝑇1) \n(A) Only 𝑇2 \n(B) Only 𝑇3 \n(C) Both 𝑇2 and 𝑇3 \n(D) Neither 𝑇2 nor 𝑇3 \n \n  "
+    },
+    {
+      "page": 16,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 572,
+      "questionNumberCandidates": [
+        16
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 16 of 64 \n \nQ.16 \n \nIdentify the ONE CORRECT matching between the OSI layers and the ir \ncorresponding functionalities as shown. \n \n  \nOSI Layers             Functionalities \n(a) Network layer (I) Packet routing \n(b) Transport layer (II) Framing and error handling \n(c) Datalink layer (III)  Host to host communication \n \n(A) (a)-(I), (b)-(II), (c)-(III)    \n(B) (a)-(I), (b)-(III), (c)-(II) \n(C) (a)-(II), (b)-(I), (c)-(III) \n(D) (a)-(III), (b)-(II), (c)-(I) \n \n  "
+    },
+    {
+      "page": 17,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 632,
+      "questionNumberCandidates": [
+        17
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 17 of 64 \n \nQ.17 𝑔(. ) is a function from 𝐴 to 𝐵,  𝑓(. ) is a function from 𝐵 to 𝐶, and their \ncomposition defined as 𝑓(𝑔(. )) is a mapping from 𝐴 to 𝐶. \nIf 𝑓(. ) and 𝑓(𝑔(. ))  are onto (surjective) functions, which ONE of the following \nis TRUE about the function 𝑔(. )? \n \n \n(A) 𝑔(. ) must be an onto (surjective) function. \n(B) 𝑔(. ) must be a one-to-one (injective) function. \n(C) 𝑔(. ) must be a bijective function, that is, both one-to-one and onto. \n(D) 𝑔(. ) is not required to be a one-to-one or onto function. \n \n  "
+    },
+    {
+      "page": 18,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 528,
+      "questionNumberCandidates": [
+        18
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 18 of 64 \n \nQ.18 Let 𝐺 be any undirected graph with positive edge weights, and 𝑇 be a minimum \nspanning tree of 𝐺. For any two vertices, 𝑢 and 𝑣, let 𝑑1(𝑢, 𝑣) and 𝑑2(𝑢, 𝑣) be the \nshortest distances between 𝑢 and 𝑣 in 𝐺 and 𝑇, respectively. Which ONE of the \noptions is CORRECT for all possible 𝐺, 𝑇, 𝑢 and 𝑣? \n  \n(A) 𝑑1(𝑢, 𝑣) = 𝑑2(𝑢, 𝑣)  \n(B) 𝑑1(𝑢, 𝑣) ≤ 𝑑2(𝑢, 𝑣)  \n(C) 𝑑1(𝑢, 𝑣) ≥ 𝑑2(𝑢, 𝑣)  \n(D) 𝑑1(𝑢, 𝑣) ≠ 𝑑2(𝑢, 𝑣)  \n \n  "
+    },
+    {
+      "page": 19,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 595,
+      "questionNumberCandidates": [
+        19
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 19 of 64 \n \nQ.19 Consider the following context-free grammar 𝐺, where 𝑆, 𝐴, and 𝐵 are the variables \n(non-terminals), 𝑎 and 𝑏 are the terminal symbols, 𝑆 is the start variable , and the \nrules of 𝐺 are described as: \n𝑆 → 𝑎𝑎𝐵 | 𝐴𝑏𝑏 \n𝐴 → 𝑎 | 𝑎𝐴         \n𝐵 → 𝑏 | 𝑏𝐵         \nWhich ONE of the languages 𝐿(𝐺) is accepted by 𝐺?  \n  \n(A) 𝐿(𝐺)  =  {𝑎2𝑏𝑛 | 𝑛 ≥ 1} ∪ {𝑎𝑛𝑏2 | 𝑛 ≥ 1}  \n(B) 𝐿(𝐺)  =  {𝑎𝑛𝑏2𝑛 | 𝑛 ≥ 1} ∪ {𝑎2𝑛𝑏𝑛 | 𝑛 ≥ 1}  \n(C) 𝐿(𝐺)  =  {𝑎𝑛𝑏𝑛 | 𝑛 ≥ 1}  \n(D) 𝐿(𝐺)  =  {𝑎2𝑛𝑏2𝑛 | 𝑛 ≥ 1}  \n \n  "
+    },
+    {
+      "page": 20,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 361,
+      "questionNumberCandidates": [
+        20
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 20 of 64 \n \nQ.20 \nConsider the following recurrence relation: \n𝑇(𝑛) = 2𝑇(𝑛 − 1) + 𝑛2𝑛 for 𝑛 >  0,    𝑇(0) = 1. \nWhich ONE of the following options is CORRECT?   \n  \n(A) 𝑇(𝑛) =  Θ(𝑛22𝑛) \n(B) 𝑇(𝑛) = Θ(𝑛2𝑛) \n(C) 𝑇(𝑛) = Θ((log 𝑛)2 2𝑛) \n(D) 𝑇(𝑛) = Θ(4𝑛) \n \n  "
+    },
+    {
+      "page": 21,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 502,
+      "questionNumberCandidates": [
+        21
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 21 of 64 \n \nQ.21 Consider the following 𝐵+ tree with 5 nodes, in which a node can store at most 3 key values. \nThe value 23 is now inserted in the 𝐵+ tree. Which of the following options(s) is/are \nCORRECT? \n \n \n(A) None of the nodes will split. \n(B) At least one node will split and redistribute. \n(C) The total number of nodes will remain same. \n(D) The height of the tree will increase. \n \n  \n"
+    },
+    {
+      "page": 22,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 524,
+      "questionNumberCandidates": [
+        22
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 22 of 64 \n \nQ.22 \n \nConsider the 3-way handshaking protocol for TCP connection establishme nt. Let \nthe three packets exchanged during the connection establishment be denoted as P1, \nP2, and P3, in order. Which of the following option(s) is/are TRUE with respect to \nTCP header flags that are set in the packets?  \n  \n(A) P3: SYN = 1, ACK = 1 \n(B) P2: SYN = 1, ACK = 1 \n(C) P2: SYN = 0, ACK = 1 \n(D) P1: SYN = 1 \n \n  "
+    },
+    {
+      "page": 23,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 730,
+      "questionNumberCandidates": [
+        23
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 23 of 64 \n \nQ.23 \nConsider the given system of linear equations  for variables 𝑥 and 𝑦, where 𝑘 is a \nreal-valued constant. Which of the following option(s) is/are CORRECT? \n \n𝑥 + 𝑘𝑦 =     1\n𝑘𝑥 + 𝑦 =  −1 \n(A) There is exactly one value of 𝑘 for which the above system of equations has no \nsolution. \n(B) There exist an infinite number of values of 𝑘 for which the system of equations has \nno solution.  \n(C) There exists exactly one value of 𝑘 for which the system of equations has exactly \none solution. \n(D) There exists exactly one value of 𝑘 for which the system of equations has an infinite \nnumber of solutions.  \n \n  "
+    },
+    {
+      "page": 24,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 545,
+      "questionNumberCandidates": [
+        24
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 24 of 64 \n \nQ.24 Let 𝑋 be a 3-variable Boolean function that produces output as ‘ 1’ when at least \ntwo of the input variables are ‘ 1’. Which of the follo wing statement(s) is/are \nCORRECT, where 𝑎, 𝑏, 𝑐, 𝑑, 𝑒 are Boolean variables? \n  \n(A) 𝑋(𝑎, 𝑏, 𝑋(𝑐, 𝑑, 𝑒)) =  𝑋(𝑋(𝑎, 𝑏, 𝑐), 𝑑, 𝑒)  \n(B) 𝑋(𝑎, 𝑏, 𝑋(𝑎, 𝑏, 𝑐))  =  𝑋(𝑎, 𝑏, 𝑐)  \n(C) 𝑋(𝑎, 𝑏, 𝑋(𝑎, 𝑐, 𝑑))  =  (𝑋(𝑎, 𝑏, 𝑎)  AND 𝑋(𝑐, 𝑑, 𝑐))  \n(D) 𝑋(𝑎, 𝑏, 𝑐) = 𝑋(𝑎, 𝑋(𝑎, 𝑏, 𝑐), 𝑋(𝑎, 𝑐, 𝑐))  \n \n  "
+    },
+    {
+      "page": 25,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 419,
+      "questionNumberCandidates": [
+        25
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 25 of 64 \n \nQ.25 The number −6 can be represented as 1010 in 4-bit 2’s complement representation. \nWhich of the following is/are CORRECT 2’s complement representation(s) of −6?  \n  \n(A) 1000 1010  in 8-bits \n(B) 1111 1010  in 8-bits \n(C) 1000 0000 0000 1010  in 16-bits \n(D) 1111 1111 1111 1010  in 16-bits \n \n  "
+    },
+    {
+      "page": 26,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 502,
+      "questionNumberCandidates": [
+        26
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 26 of 64 \n \nQ.26 Which of the following statement(s) is/are TRUE for any binary search tree (BST) \nhaving 𝑛 distinct integers? \n \n \n(A) The maximum length of a path from the root node to any other node is (𝑛 − 1). \n(B) An inorder traversal will always produce a sorted sequence of elements. \n(C) Finding an element takes 𝑂(log2 𝑛) time in the worst case. \n(D) Every BST is also a Min-Heap. \n \n  "
+    },
+    {
+      "page": 27,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 712,
+      "questionNumberCandidates": [
+        27
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 27 of 64 \n \nQ.27 A partial data path of a processor is given in the figu re, where RA, RB, and RZ are \n32-bit registers. Which option(s) is/are CORRECT related to arithmetic operations \nusing the data path as shown? \n \n \n(A) The data path can implement arithmetic operations involving two registers. \n(B) The data path can implement arithmetic operations involving one register and one \nimmediate value. \n(C) The data path can implement arithmetic operations involving two immediate values. \n(D) The data path can only implement arithmetic operations involving one register and \none immediate value. \n  \n"
+    },
+    {
+      "page": 28,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 482,
+      "questionNumberCandidates": [
+        28
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 28 of 64 \n \nQ.28 A regular language 𝐿 is accepted by a non -deterministic finite automaton (NFA) \nwith 𝑛 states. Which of the following statement(s) is/are FALSE? \n  \n(A) 𝐿 may have an accepting NFA with < 𝑛 states. \n(B) 𝐿 may have an accepting DFA with < 𝑛 states. \n(C) There exists a DFA with ≤ 2𝑛 states that accepts 𝐿. \n(D) Every DFA that accepts 𝐿 has > 2𝑛 states. \n \n  "
+    },
+    {
+      "page": 29,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 803,
+      "questionNumberCandidates": [
+        29
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 29 of 64 \n \nQ.29 \n \nSuppose in a multiprogramming environment, the following C program segment is \nexecuted. A  process goes into I/O queue whenever an I/O related operation is \nperformed. Assume that there will always be a context switch whenever a process \nrequests for an I/O, and also whenever the process returns from an I/O. The number \nof times the process will enter the ready queue during its lifetime (not counting the \ntime the process enters the ready queue when it is run initially) is _______. (Answer \nin integer) \n \n \nint main() \n{ \n    int x=0,i=0; \n    scanf(\"%d\",&x); \n    for(i=0; i<20; i++) \n    { \n        x = x+20; \n        printf(\"%d\\n\",x); \n    } \n    return 0;  \n} \n \n  "
+    },
+    {
+      "page": 30,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 419,
+      "questionNumberCandidates": [
+        30
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 30 of 64 \n \nQ.30 Let 𝑆 be the set of all ternary strings defined over the alphabet {𝑎, 𝑏, 𝑐}. Consider \nall strings in 𝑆 that contain at least one occurrence of two consecutive symbols, that \nis, “aa”, “bb” or “cc”. The number of  such strings of length 5 that are possible is \n_______. (Answer in integer) \n \n \n \n  "
+    },
+    {
+      "page": 31,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 346,
+      "questionNumberCandidates": [
+        31
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 31 of 64 \n \nQ.31 Consider the given function 𝑓(𝑥).  \n𝑓(𝑥) = { 𝑎𝑥 + 𝑏             for 𝑥 < 1\n𝑥3 + 𝑥2 + 1    for 𝑥 ≥ 1 \nIf the function is diff erentiable everywhere, the value of 𝑏 must be ________.  \n(rounded off to one decimal place) \n \n \n \n  "
+    },
+    {
+      "page": 32,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 460,
+      "questionNumberCandidates": [
+        32
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 32 of 64 \n \nQ.32 A box contains 5 coins: 4 regular coins and 1  fake coin. When a regular coin is \ntossed, the probability 𝑃(ℎ𝑒𝑎𝑑) = 0.5 and for a fake coin, 𝑃(ℎ𝑒𝑎𝑑) = 1. You pick \na coin at random and toss it twice, and get two heads. The probability that the coin \nyou have chosen is the fake coin is _______. (rounded off to two decimal places) \n \n  "
+    },
+    {
+      "page": 33,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 563,
+      "questionNumberCandidates": [
+        33
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 33 of 64 \n \nQ.33 \n \nThe pseudocode of a function fun() is given below:  \n \nfun(int A[0,…,n-1]){ \n    for i=0 to n-2 \n        for j=0 to n-i-2 \n            if (A[j]>A[j+1])  \n                then swap A[j] and A[j+1] \n} \nLet 𝐴[0, … ,29] be an array storing 30 distinct integers in descending order. The \nnumber of swap operations that will be performed, if the function fun() is called \nwith 𝐴[0, … ,29] as argument, is __________. (Answer in integer)    \n \n  "
+    },
+    {
+      "page": 34,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 379,
+      "questionNumberCandidates": [
+        34
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 34 of 64 \n \nQ.34 \n \n#include <stdio.h> \nvoid foo(int *p, int x){ \n    *p=x; \n} \nint main(){ \n    int *z; \n    int a = 20, b = 25; \n    z = &a; \n    foo(z,b); \n    printf(\"%d\",a); \n    return 0; \n} \nThe output of the given C program is __________. (Answer in integer) \n \n  "
+    },
+    {
+      "page": 35,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 344,
+      "questionNumberCandidates": [
+        35
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 35 of 64 \n \nQ.35 The height of any rooted tree is defined as the maximum number of edges in the \npath from the root node to any leaf node. \nSuppose a Min-Heap 𝑇 stores 32 keys. The height of 𝑇 is _____________. \n(Answer in integer) \n  \n  "
+    },
+    {
+      "page": 36,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 550,
+      "questionNumberCandidates": [
+        36,
+        36
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 36 of 64 \n \nQ.36 – Q.65 Carry TWO marks Each \nQ.36 Consider a memory system with 1M bytes of main memory and 16K bytes of cache \nmemory. Assume that the processor generates 20-bit memory address, and the cache \nblock size is 16 bytes. If the cache uses direct mapping, how many bits will be \nrequired to store all the tag values? [Assume memory is byte addressable, 1K=2 10, \n1M=220 .] \n  \n(A) 6 × 210  \n(B) 8 × 210   \n(C) 212   \n(D) 214   \n \n  "
+    },
+    {
+      "page": 37,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 432,
+      "questionNumberCandidates": [
+        37
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 37 of 64 \n \nQ.37 A processor has 64 general -purpose registers and 50 distinct instruction types. An \ninstruction is encoded in 32-bits. What is the maximum number of bits that can be \nused to store the immediate operand for the given instruction? \n    ADD R1, #25     // R1 = R1 + 25 \n  \n(A) 16 \n(B) 20 \n(C) 22 \n(D) 24 \n \n  "
+    },
+    {
+      "page": 38,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1138,
+      "questionNumberCandidates": [
+        38
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 38 of 64 \n \nQ.38 \n \nA computer has two processors, 𝑀1 and 𝑀2. Four processes 𝑃1, 𝑃2, 𝑃3, 𝑃4 with CPU \nbursts of 20, 16, 25, and 10 milliseconds, respectively, arrive at the same time and \nthese are the only processes in the system. The scheduler uses non-preemptive \npriority scheduling, with priorities decided as follows: \n• 𝑀1 uses priority of execution for the processes as, 𝑃1 > 𝑃3 > 𝑃2 > 𝑃4, i.e., \n𝑃1 and 𝑃4 have highest and lowest priorities, respectively.  \n• 𝑀2 uses priority of execution for the processes as, 𝑃2 > 𝑃3 > 𝑃4 > 𝑃1, i.e., \n𝑃2 and 𝑃1 have highest and lowest priorities, respectively.  \nA process 𝑃𝑖 is scheduled to a processor 𝑀𝑘, if the processor is free and no other \nprocess 𝑃𝑗 is waiting with higher priority.  At any given point of time, a process can \nbe allocated to any one of the free processors without violating the execution \npriority rules. Ignore the context switch time. What will be the average waiting time \nof the processes in milliseconds?  \n  \n(A) 9.00 \n(B) 8.75 \n(C) 6.50 \n(D) 7.50 \n \n  "
+    },
+    {
+      "page": 39,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 848,
+      "questionNumberCandidates": [
+        39
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 39 of 64 \n \nQ.39 \n \nConsider two relations describing 𝑡𝑒𝑎𝑚𝑠 and 𝑝𝑙𝑎𝑦𝑒𝑟𝑠 in a sports league: \n• 𝑡𝑒𝑎𝑚𝑠(𝑡𝑖𝑑, 𝑡𝑛𝑎𝑚𝑒): 𝑡𝑖𝑑, 𝑡𝑛𝑎𝑚e are team-id and team-name, respectively \n• 𝑝𝑙𝑎𝑦𝑒𝑟𝑠(𝑝𝑖𝑑, 𝑝𝑛𝑎𝑚𝑒, 𝑡𝑖𝑑): 𝑝𝑖𝑑, 𝑝𝑛𝑎𝑚𝑒, and 𝑡𝑖𝑑 denote player -id, player -\nname and the team-id of the player, respectively \nWhich ONE of the following tuple relational calculus queries returns the name of the \nplayers who play for the team having 𝑡𝑛𝑎𝑚𝑒 as ′𝑀𝐼′? \n  \n(A) { 𝑝. 𝑝𝑛𝑎𝑚𝑒 | 𝑝 ∈ 𝑝𝑙𝑎𝑦𝑒𝑟𝑠 ∧ ∃𝑡 (𝑡 ∈ 𝑡𝑒𝑎𝑚𝑠 ∧ 𝑝. 𝑡𝑖𝑑 = 𝑡. 𝑡𝑖𝑑 ∧ 𝑡. 𝑡𝑛𝑎𝑚𝑒 = ′𝑀𝐼′)}  \n(B) { 𝑝. 𝑝𝑛𝑎𝑚𝑒 | 𝑝 ∈ 𝑡𝑒𝑎𝑚𝑠 ∧ ∃𝑡 (𝑡 ∈ 𝑝𝑙𝑎𝑦𝑒𝑟𝑠 ∧ 𝑝. 𝑡𝑖𝑑 = 𝑡. 𝑡𝑖𝑑 ∧ 𝑡. 𝑡𝑛𝑎𝑚𝑒 = ′𝑀𝐼′)}  \n(C) { 𝑝. 𝑝𝑛𝑎𝑚𝑒 | 𝑝 ∈ 𝑝𝑙𝑎𝑦𝑒𝑟𝑠 ∧ ∃𝑡 (𝑡 ∈ 𝑡𝑒𝑎𝑚𝑠 ∧ 𝑡. 𝑡𝑛𝑎𝑚𝑒 = ′𝑀𝐼′)}  \n(D) { 𝑝. 𝑝𝑛𝑎𝑚𝑒 | 𝑝 ∈ 𝑡𝑒𝑎𝑚𝑠 ∧ ∃𝑡 (𝑡 ∈ 𝑝𝑙𝑎𝑦𝑒𝑟𝑠 ∧ 𝑡. 𝑡𝑛𝑎𝑚𝑒 = ′𝑀𝐼′)}  \n \n  "
+    },
+    {
+      "page": 40,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 321,
+      "questionNumberCandidates": [
+        40
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 40 of 64 \n \nQ.40 A packet with the destination IP address 145.36.109.70 arrives at a router wh ose \nrouting table is shown. Which interface will the packet be forwarded to? \n \n \n(A) E3 \n(B) E1 \n(C) E2 \n(D) E5 \n \n  \n"
+    },
+    {
+      "page": 41,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 296,
+      "questionNumberCandidates": [
+        41
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 41 of 64 \n \nQ.41 \nLet 𝐴 be a 2 × 2 matrix as given.  \n𝐴 = [ 1    1\n1 −1 ] \n \nWhat are the eigenvalues of the matrix 𝐴13 ?  \n(A) 1, −1  \n(B) 2√2, −2√2  \n(C) 4√2, −4√2  \n(D) 64√2, −64√2   \n \n  "
+    },
+    {
+      "page": 42,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 671,
+      "questionNumberCandidates": [
+        42
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 42 of 64 \n \nQ.42 Consider the following four variable Boolean function in sum-of-product form \n𝐹(𝑏3, 𝑏2, 𝑏1, 𝑏0) = ∑(0, 2, 4, 8, 10, 11, 12). \nwhere the value of the function is computed by considering 𝑏3𝑏2𝑏1𝑏0 as a 4 -bit \nbinary number, where 𝑏3 denotes the most significant bit and 𝑏0 denotes the least \nsignificant bit. Note that there are no don’t care terms. Which ONE of the following \noptions is the CORRECT minimized Boolean expression for 𝐹? \n  \n(A) 𝑏̅1𝑏̅0 + 𝑏̅2𝑏̅0 + 𝑏1 𝑏̅2𝑏3     \n(B) 𝑏̅1 𝑏̅0 +  𝑏̅2 𝑏̅0 \n(C)   𝑏̅2𝑏̅0 + 𝑏1𝑏2𝑏3  \n(D)   𝑏̅0𝑏̅2 + 𝑏̅3 \n \n  "
+    },
+    {
+      "page": 43,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 618,
+      "questionNumberCandidates": [
+        43
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 43 of 64 \n \nQ.43 Let 𝐺(𝑉, 𝐸) be an undirected and unweighted graph with 100 vertices. Let 𝑑(𝑢, 𝑣) \ndenote the number of edges in a shortest path between vertices 𝑢 and 𝑣 in 𝑉. Let the \nmaximum value of 𝑑(𝑢, 𝑣), 𝑢, 𝑣 ∈ 𝑉 such that 𝑢 ≠ 𝑣, be 30. Let 𝑇 be any breadth-\nfirst-search tree of 𝐺. Which ONE of the given options is CORRECT for every such \ngraph 𝐺? \n  \n(A) The height of 𝑇 is exactly 15. \n(B) The height of 𝑇 is exactly 30. \n(C) The height of 𝑇 is at least 15. \n(D) The height of 𝑇 is at least 30. \n \n  "
+    },
+    {
+      "page": 44,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 556,
+      "questionNumberCandidates": [
+        44
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 44 of 64 \n \nQ.44 Consider the following two languages over the alphabet {𝑎, 𝑏}: \n𝐿1  =  { 𝛼𝛽𝛼 | 𝛼 ∈ {𝑎, 𝑏}+ AND 𝛽 ∈ {𝑎, 𝑏}+ } \n𝐿2  =  { 𝛼𝛽𝛼 | 𝛼 ∈ {𝑎}+ AND 𝛽 ∈ {𝑎, 𝑏}+ }     \nWhich ONE of the following statements is CORRECT? \n  \n(A) Both 𝐿1 and 𝐿2 are regular languages. \n(B) 𝐿1 is a regular language but 𝐿2 is not a regular language. \n(C) 𝐿1 is not a regular language but 𝐿2 is a regular language. \n(D) Neither 𝐿1 nor 𝐿2 is a regular language. \n \n  "
+    },
+    {
+      "page": 45,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 589,
+      "questionNumberCandidates": [
+        45
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 45 of 64 \n \nQ.45 Consider the following two languages over the alphabet {𝑎, 𝑏, 𝑐}, where 𝑚 and 𝑛 \nare natural numbers. \n𝐿1 =  {𝑎𝑚𝑏𝑚𝑐𝑚+𝑛 | 𝑚, 𝑛 ≥ 1} \n𝐿2 = {𝑎𝑚𝑏𝑛𝑐𝑚+𝑛 | 𝑚, 𝑛 ≥ 1} \nWhich ONE of the following statements is CORRECT? \n  \n(A) Both 𝐿1 and 𝐿2 are context-free languages. \n(B) 𝐿1 is a context-free language but 𝐿2 is not a context-free language. \n(C) 𝐿1 is not a context-free language but 𝐿2 is a context-free language. \n(D) Neither 𝐿1 nor 𝐿2 are context-free languages. \n \n  "
+    },
+    {
+      "page": 46,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 582,
+      "questionNumberCandidates": [
+        46
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 46 of 64 \n \nQ.46 Which of the following statement(s) is/are TRUE while computing First and Follow \nduring top down parsing by a compiler?  \n  \n(A) For a production 𝐴 → 𝜖, 𝜖 will be added to 𝐹𝑖𝑟𝑠𝑡(𝐴). \n(B) If there is any input right end marker, it will be added to 𝐹𝑖𝑟𝑠𝑡(𝑆), where 𝑆 is the \nstart symbol. \n(C) For a production 𝐴 → 𝜖, 𝜖 will be added to 𝐹𝑜𝑙𝑙𝑜𝑤(𝐴). \n(D) If there is any input right end marker, it will be added to 𝐹𝑜𝑙𝑙𝑜𝑤(𝑆), where 𝑆 is \nthe start symbol. \n \n  "
+    },
+    {
+      "page": 47,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 556,
+      "questionNumberCandidates": [
+        47
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 47 of 64 \n \nQ.47 Consider a relational schema 𝑡𝑒𝑎𝑚(𝑛𝑎𝑚𝑒, 𝑐𝑖𝑡𝑦, 𝑜𝑤𝑛𝑒𝑟), with functional \ndependencies {𝑛𝑎𝑚𝑒 → 𝑐𝑖𝑡𝑦, 𝑛𝑎𝑚𝑒 → 𝑜𝑤𝑛𝑒𝑟}.  \nThe relation 𝑡𝑒𝑎𝑚 is decomposed into two relations, 𝑡1(𝑛𝑎𝑚𝑒, 𝑐𝑖𝑡𝑦) and \n𝑡2(𝑛𝑎𝑚𝑒, 𝑜𝑤𝑛𝑒𝑟). Which of the following statement(s) is/are TRUE? \n  \n(A) The relation 𝑡𝑒𝑎𝑚 is NOT in BCNF. \n(B) The relations 𝑡1 and 𝑡2 are in BCNF. \n(C) The decomposition constitutes a lossless join. \n(D) The relation 𝑡𝑒𝑎𝑚 is NOT in 3NF. \n \n  "
+    },
+    {
+      "page": 48,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 613,
+      "questionNumberCandidates": [
+        48
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 48 of 64 \n \nQ.48 Which of the following predicate logic formulae/formula is/are CORRECT \nrepresentation(s) of the statement: “Everyone has exactly one mother”? \nThe meanings of the predicates used are: \n• 𝑚𝑜𝑡ℎ𝑒𝑟(𝑦, 𝑥): 𝑦 is the mother of 𝑥 \n• 𝑛𝑜𝑡𝑒𝑞(𝑥, 𝑦): 𝑥 and 𝑦 are not equal \n \n \n(A) ∀𝑥∃𝑦∃𝑧(𝑚𝑜𝑡ℎ𝑒𝑟(𝑦, 𝑥) ∧ ¬𝑚𝑜𝑡ℎ𝑒𝑟(𝑧, 𝑥))  \n(B) ∀𝑥∃𝑦[𝑚𝑜𝑡ℎ𝑒𝑟(𝑦, 𝑥) ∧ ∀𝑧(𝑛𝑜𝑡𝑒𝑞(𝑧, 𝑦) → ¬𝑚𝑜𝑡ℎ𝑒𝑟(𝑧, 𝑥))]  \n(C) ∀𝑥∀𝑦[𝑚𝑜𝑡ℎ𝑒𝑟(𝑦, 𝑥) → ∃𝑧(𝑚𝑜𝑡ℎ𝑒𝑟(𝑧, 𝑥) ∧ ¬𝑛𝑜𝑡𝑒𝑞(𝑧, 𝑦))]  \n(D) ∀𝑥∃𝑦[𝑚𝑜𝑡ℎ𝑒𝑟(𝑦, 𝑥) ∧ ¬∃𝑧(𝑛𝑜𝑡𝑒𝑞(𝑧, 𝑦) ∧ 𝑚𝑜𝑡ℎ𝑒𝑟(𝑧, 𝑥))]  \n \n  "
+    },
+    {
+      "page": 49,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 555,
+      "questionNumberCandidates": [
+        49
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 49 of 64 \n \nQ.49 𝐴 = {0, 1, 2, 3, … } is the set of non-negative integers. Let Ϝ be the set of functions \nfrom 𝐴 to itself. For any two functions, 𝑓1, 𝑓2 ∈ Ϝ, we define \n(𝑓1⨀𝑓2)(𝑛) = 𝑓1(𝑛) + 𝑓2(𝑛) \nfor every number 𝑛 in 𝐴. Which of the following is/are CORRECT about the \nmathematical structure (Ϝ, ⨀)? \n(A) (Ϝ, ⨀) is an Abelian group. \n(B) (Ϝ, ⨀) is an Abelian monoid. \n(C) (Ϝ, ⨀) is a non-Abelian group. \n(D) (Ϝ, ⨀) is a non-Abelian monoid. \n \n  "
+    },
+    {
+      "page": 50,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 547,
+      "questionNumberCandidates": [
+        50
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 50 of 64 \n \nQ.50 Consider the following deterministic finite automaton (DFA) defined over the \nalphabet, Σ = {𝑎, 𝑏}. Identify which of the following language(s) is/are accepted by \nthe given DFA. \n \n \n(A) The set of all strings containing an even number of 𝑏’s. \n(B) The set of all strings containing the pattern 𝑏𝑎𝑏. \n(C) The set of all strings ending with the pattern 𝑏𝑎𝑏. \n(D) The set of all strings not containing the pattern 𝑎𝑏𝑎. \n \n  \n"
+    },
+    {
+      "page": 51,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 631,
+      "questionNumberCandidates": [
+        51
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 51 of 64 \n \nQ.51 A disk of size 512M bytes is divided into blocks of 64K bytes. A file is stored in \nthe disk using linked allocation. In linked allocation, each data block reserves 4 \nbytes to store the pointer to the next data block. The link part of the last data block \ncontains a NULL pointer (also of 4 bytes). Suppose a file of 1M bytes needs to be \nstored in the disk. Assume, 1K = 210 and 1M = 220. The amount of space in bytes \nthat will be wasted due to internal fragmentation is ______. (Answer in integer) \n  \n \n  "
+    },
+    {
+      "page": 52,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 594,
+      "questionNumberCandidates": [
+        52
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 52 of 64 \n \nQ.52 Refer to the given 3-address code sequence. This code sequence is s plit into basic \nblocks. The number of basic blocks is ________. (Answer in integer) \n  \n1001: i = 1 \n1002: j = 1 \n1003: t1 = 10*i \n1004: t2 = t1+j \n1005: t3 = 8*t2 \n1006: t4 = t3-88 \n1007: a[t4] = 0.0 \n1008: j = j+1 \n1009: if j <= 10 goto 1003 \n1010: i = i+1 \n1011: if i <= 10 goto 1002 \n1012: i = 1 \n1013: t5 = i-1 \n1014: t6 = 88*t5 \n1015: a[t6] = 1.0 \n1016: i = i+1 \n1017: if i <= 10 goto 1013 \n \n  \n \n  "
+    },
+    {
+      "page": 53,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 654,
+      "questionNumberCandidates": [
+        53
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 53 of 64 \n \nQ.53 A computer has a memory hierarchy consisting of two-level cache (L1 and L2) and \na main memory. If the processor needs to access data from memory, it first looks \ninto L1 cache. If the data is not found in L1 cache, it goes to L2 cache. If it fails to \nget the data from L2 cache, it goes to main memory, where the data is definitely \navailable. Hit rates and access times of various memory units ar e shown in the \nfigure. The average memory access time in nanoseconds (ns) is ________. (rounded \noff to two decimal places) \n \n \n \n  \n \n  \n"
+    },
+    {
+      "page": 54,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 755,
+      "questionNumberCandidates": [
+        54
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 54 of 64 \n \nQ.54 \n \nIn optimal page replacement algorithm, information about all future page references \nis available to the operating system (OS). A modification of the optimal page \nreplacement algorithm is as follows:  \nThe OS correctly predicts only up to next 4 page references (including the current \npage) at the time of allocating a frame to a page.  \nA process accesses the pages in the following order of page numbers: \n1, 3, 2, 4, 2, 3, 1, 2, 4, 3, 1, 4. \nIf the system has three memory frames that are initially empty, the number of page \nfaults that will occur during execution of the process is ________ .  (A nswer in \ninteger) \n  \n \n  "
+    },
+    {
+      "page": 55,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 732,
+      "questionNumberCandidates": [
+        55
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 55 of 64 \n \nQ.55 Consider the following database tables of a sports league. \nplayer(pid,pname,age) \ncoach(cid,cname) \nteam(tid,tname,city,cid) \nmembers(pid,tid) \nAn instance of the table and an SQL query are given. \n          player                          coach                             team                            members \n \nSELECT MIN(P.age) \nFROM player P \nWHERE P.pid IN ( \n    SELECT M.pid \n    FROM team T, coach C, members M \n    WHERE C.cname = 'Mark' \n          AND T.cid = C.cid  \n          AND M.tid = T.tid           \n    ) \nThe value returned by the given SQL query is ______ . (Answer in integer) \n  \n \n  \n"
+    },
+    {
+      "page": 56,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 500,
+      "questionNumberCandidates": [
+        56
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 56 of 64 \n \nQ.56 \n \n \nSuppose a 5 -bit message is transmitted from a source to a destination through a \nnoisy channel. The probability that a bit of the message gets flipped during \ntransmission is 0.01. Flipping of each bit is indep endent of one another. T he \nprobability that the message is delivered error -free to the destination  is ______ . \n(rounded off to three decimal places) \n  \n \n  "
+    },
+    {
+      "page": 57,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 483,
+      "questionNumberCandidates": [
+        57
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 57 of 64 \n \nQ.57 Suppose a message of size 15000 bytes is transmitted from a source to a destination \nusing IPv4 protocol via two routers as shown in the figure. Each router has a defined \nmaximum transmission unit (MTU) as shown in the figur e, including IP header. \nThe number of  fragments that will be delivered to the destination is ________  . \n(Answer in integer) \n \n \n  \n \n  \n"
+    },
+    {
+      "page": 58,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 372,
+      "questionNumberCandidates": [
+        58
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 58 of 64 \n \nQ.58 Consider a probability distribution given by the density function 𝑃(𝑥). \n𝑃(𝑥) = {𝐶𝑥2, for 1 ≤ 𝑥 ≤ 4\n0, for 𝑥 < 1 or 𝑥 > 4 \nThe probability that 𝑥 lies between 2 and 3, i.e., 𝑃(2 ≤ 𝑥 ≤ 3) is __________.   \n(rounded off to three decimal places) \n \n  "
+    },
+    {
+      "page": 59,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 498,
+      "questionNumberCandidates": [
+        59
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 59 of 64 \n \nQ.59 Consider a finite state machine (FSM) with one input 𝑋 and one output 𝑓, \nrepresented by the given state transit ion table. T he minimum number of states \nrequired to realize this FSM is ________. (Answer in integer) \n  \nPresent state Next state Output 𝑓 \n 𝑋 = 0 𝑋 = 1 𝑋 = 0 𝑋 = 1 \nA F B 0 0 \nB D C 0 0 \nC F E 0 0 \nD G A 1 0 \nE D C 0 0 \nF F B 1 1 \nG G H 0 1 \nH G A 1 0 \n    \n \n  \n \n  "
+    },
+    {
+      "page": 60,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 399,
+      "questionNumberCandidates": [
+        60
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 60 of 64 \n \nQ.60 Consider the given sequential circuit designed using D -Flip-flops. The circuit is \ninitialized with some value (initial state). The number of distinct states the circuit \nwill go through before retu rning back to the initial state is _________ .   (Answer \nin integer) \n \n \n  \n \n  \n"
+    },
+    {
+      "page": 61,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 485,
+      "questionNumberCandidates": [
+        61
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 61 of 64 \n \nQ.61 \n \n#include <stdio.h> \nint foo(int S[],int size){ \n    if(size == 0) return 0; \n    if(size == 1) return 1; \n    if(S[0] != S[1]) return 1+foo(S+1,size-1); \n    return foo(S+1,size-1); \n} \nint main(){ \n    int A[]={0,1,2,2,2,0,0,1,1}; \n    printf(\"%d\",foo(A,9)); \n    return 0; \n} \nThe value printed by the given C program is _______ . (Answer in integer) \n \n  "
+    },
+    {
+      "page": 62,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1094,
+      "questionNumberCandidates": [
+        62
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 62 of 64 \n \nQ.62 Let LIST be a datatype for an implementation of linked list defined as follows: \ntypedef struct list { \n    int data; \n    struct list *next; \n} LIST; \nSuppose a program has created two linked lists, L1 and L2, whose contents are given \nin the figure below (code for creating L1 and L2 is not provided here). L1 contains 9 \nnodes, and L2 contains 7 nodes. \nConsider the following C program segment that modifies the list L1. The number of \nnodes that will be there in L1 aft er the execution of the code segment is ________ .  \n(Answer in integer) \n \n \nint find (int query, LIST *list) { \n    while (list != NULL){ \n        if(list->data == query) return 1; \n        list = list->next; \n    } \n    return 0; \n} \nint main () { \n… … … \n    ptr1=L1; ptr2=L2;  \n    while (ptr1->next != NULL){ \n        query = ptr1->next->data; \n        if (find (query, L2)) \n            ptr1->next = ptr1->next->next; \n        else ptr1 = ptr1->next; \n    } \n… … … \n    return 0; \n}  \n \n  \n"
+    },
+    {
+      "page": 63,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 627,
+      "questionNumberCandidates": [
+        63
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 63 of 64 \n \n \nQ.63 \n \nConsider the following C program: \n \n#include <stdio.h> \nint gate (int n) { \n    int d, t, newnum, turn; \n    newnum = turn = 0; t=1; \n    while (n>=t) t *= 10; \n    t /=10; \n    while (t>0) { \n        d = n/t; \n        n = n%t; \n        t /= 10; \n        if (turn) newnum = 10*newnum + d; \n        turn = (turn + 1) % 2; \n    } \n    return newnum; \n} \nint main () { \n    printf (\"%d\", gate(14362)); \n    return 0; \n} \nThe value printed by the given C program is _______ . (Answer in integer) \n \n  "
+    },
+    {
+      "page": 64,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 705,
+      "questionNumberCandidates": [
+        64,
+        65
+      ],
+      "text": "Computer Science and Information Technology (CS1) \nOrganising Institute: IIT Roorkee                        Page 64 of 64 \n \nQ.64 The maximum value of 𝑥 such that the edge between the nodes B and C is included \nin every minimum spanni ng tree of the given  graph is _________ . (answer in \ninteger) \n \n \n  \n \n \nQ.65  In a double hashing scheme, ℎ1(𝑘) = 𝑘 mod  11 and ℎ2(𝑘) = 1 + (𝑘 mod  7) are \nthe auxiliary hash functions. The size 𝑚 of the hash table is 11. The hash function \nfor the i-th probe in the open address table is [ℎ1(𝑘) + 𝑖 ℎ2(𝑘)] mod  𝑚. The \nfollowing keys are inserted in the given order: 63, 50, 25, 79, 67, 24.  \nThe slot at which key 24 gets stored is ___________. (Answer in integer) \n  \n \n"
+    }
+  ]
+}

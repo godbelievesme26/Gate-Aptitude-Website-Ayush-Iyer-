@@ -1,0 +1,730 @@
+{
+  "schemaVersion": 1,
+  "day": 1,
+  "year": 2026,
+  "paper": "AE",
+  "title": "GATE 2026 · AE · General Aptitude",
+  "source": "Aptitude Sets/2026/AE (1).pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-ae-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "“He often _____ the numbers. False claims are not going to help. Honesty _____ trust”, said the manager.\nChoose the option with the correct order of words to fill the blanks.",
+      "options": [
+        {
+          "label": "A",
+          "text": "exaggerates; engenders"
+        },
+        {
+          "label": "B",
+          "text": "excels; encourages"
+        },
+        {
+          "label": "C",
+          "text": "aggravates; alleviates"
+        },
+        {
+          "label": "D",
+          "text": "diminishes; eliminates"
+        }
+      ],
+      "sourceImage": "figures/day01-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              409.25
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "‘Exaggerates’ means overstates, which fits the false numerical claims. ‘Engenders’ means creates or brings about: honesty creates trust. The correct pair is ‘exaggerates; engenders’ (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ae-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "In the sequence of tiles shown below, the missing tile indicated by the question mark should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ae-ga-02-option-A.png",
+            "alt": "Tile with four dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/AE (1).pdf",
+              "page": 2,
+              "image": "Im2.png",
+              "pixelCrop": null,
+              "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ae-ga-02-option-B.png",
+            "alt": "Tile with five dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/AE (1).pdf",
+              "page": 2,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ae-ga-02-option-C.png",
+            "alt": "Tile with six dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/AE (1).pdf",
+              "page": 2,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2026-ae-ga-02-option-D.png",
+            "alt": "Tile with eight dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/AE (1).pdf",
+              "page": 2,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day01-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              548.23
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Count the dots: 2, 3, ?, 7, 11. These are consecutive prime numbers, so the missing count is 5. Option B has five dots.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ae-ga-02-figure-1.png",
+          "alt": "Tile sequence with 2 dots, 3 dots, a missing tile, 7 dots and 11 dots.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/AE (1).pdf",
+            "page": 2,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ae-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A school has 100 students distributed among 1st to 10th standards.\nBased on this, which one of the following statements is always correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There are at least 10 students who belong to the same standard."
+        },
+        {
+          "label": "B",
+          "text": "There is at least one student in each standard."
+        },
+        {
+          "label": "C",
+          "text": "There are at most 10 students in 10th standard."
+        },
+        {
+          "label": "D",
+          "text": "The total number of students from 1st to 5th standards is at least 50."
+        }
+      ],
+      "sourceImage": "figures/day01-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              372.53
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "There are 10 standards and 100 students. If every standard had at most 9 students, the school would have at most 10 × 9 = 90 students. Therefore at least one standard has at least 10 students (A). Nothing guarantees that every standard is occupied.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ae-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "How many 3-digit numbers can be formed using three distinct single digit prime numbers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "64"
+        },
+        {
+          "label": "B",
+          "text": "24"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "sourceImage": "figures/day01-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              411.7,
+              565.32,
+              654.46
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "The single-digit primes are 2, 3, 5 and 7. Choose the hundreds digit in 4 ways, the tens digit in 3 remaining ways and the units digit in 2 remaining ways. The count is 4 × 3 × 2 = 24 (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ae-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "In a group of students, 10 students like Mathematics, 12 students like English, 4 students like both Mathematics and English, and 6 students like neither Mathematics nor English. The number of students in the group is ____",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "32"
+        }
+      ],
+      "sourceImage": "figures/day01-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              351.41
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Students liking at least one subject = 10 + 12 − 4 = 18; subtract the overlap because it was counted twice. Including the 6 who like neither gives 18 + 6 = 24 students (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ae-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Charity : P :: Retaliation : Q\nChoose the appropriate pair of words P and Q that fit the analogy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "P = Parsimonious; Q = Vengeful"
+        },
+        {
+          "label": "B",
+          "text": "P = Altruistic; Q = Amicable"
+        },
+        {
+          "label": "C",
+          "text": "P = Resentful; Q = Spiteful"
+        },
+        {
+          "label": "D",
+          "text": "P = Magnanimous; Q = Vindictive"
+        }
+      ],
+      "sourceImage": "figures/day01-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              372.53
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "Charity reflects a magnanimous, or generous, attitude. Retaliation reflects a vindictive, or revenge-seeking, attitude. Both relationships match in D. ‘Parsimonious’ means unwilling to spend and ‘amicable’ means friendly, so those alternatives break the analogy.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ae-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A paper shown in Panel I is folded along the dashed lines (- - -) to construct a cube. The shaded regions shown in Panel I appear on the outer surface of the cube. Referring to cubes shown in Panel II, which one of the options is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only (i) can correspond to the unfolded cube in Panel I."
+        },
+        {
+          "label": "B",
+          "text": "Only (ii) can correspond to the unfolded cube in Panel I."
+        },
+        {
+          "label": "C",
+          "text": "Both (i) and (ii) can correspond to the unfolded cube in Panel I."
+        },
+        {
+          "label": "D",
+          "text": "Neither (i) nor (ii) can correspond to the unfolded cube in Panel I."
+        }
+      ],
+      "sourceImage": "figures/day01-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              608.5
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Follow the shared edges when folding; the markings cannot be rotated independently of their faces. For cube (i), the diamond face can be at the front, the half-face triangle at the top and the small square on the right. Their positions agree with the net. In cube (ii), fixing the small corner triangle at the front also fixes the orientation of the adjacent half-shaded face on the right. Its shading should occupy the lower half, not the vertical half shown. Thus only (i) is possible (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ae-ga-07-figure-1.png",
+          "alt": "Panel I: cube net with four squares in a vertical strip. From top: lower-left small shaded triangle, upper-right shaded quarter-square, centered shaded diamond, and lower shaded triangle. An extra square to the right of the top face has its lower half shaded; an extra square to the left of the bottom face is shaded on one side of a diagonal.",
+          "caption": "Panel I",
+          "source": {
+            "file": "Aptitude Sets/2026/AE (1).pdf",
+            "page": 6,
+            "image": "Im1.png",
+            "pixelCrop": [
+              0,
+              55,
+              390,
+              577
+            ],
+            "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+          }
+        },
+        {
+          "src": "figures/gate-2026-ae-ga-07-figure-2.png",
+          "alt": "Panel II, cube (i): diamond on front, half-face triangle on top, small square at the lower corner of the right face.",
+          "caption": "Panel II — (i)",
+          "source": {
+            "file": "Aptitude Sets/2026/AE (1).pdf",
+            "page": 6,
+            "image": "Im1.png",
+            "pixelCrop": [
+              518,
+              229,
+              699,
+              412
+            ],
+            "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+          }
+        },
+        {
+          "src": "figures/gate-2026-ae-ga-07-figure-3.png",
+          "alt": "Panel II, cube (ii): small lower-left triangle on front, small triangle on top, vertical half of right face shaded.",
+          "caption": "Panel II — (ii)",
+          "source": {
+            "file": "Aptitude Sets/2026/AE (1).pdf",
+            "page": 6,
+            "image": "Im1.png",
+            "pixelCrop": [
+              795,
+              230,
+              976,
+              413
+            ],
+            "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ae-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Consider the cube shown below with its 8 corners labelled a, b, c, d, e, f, g, and h. The figure is representative. All corners are to be colored such that any two corners that are connected by an edge must be of different colors. The minimum number of colors required to achieve this is ________",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        }
+      ],
+      "sourceImage": "figures/day01-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              569.71
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "At least two colors are necessary because adjacent vertices cannot share a color. Two are sufficient: color {a, d, f, h} with one color and {b, c, e, g} with the other. Every edge joins the two groups, so the minimum is 2 (D).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ae-ga-08-figure-1.png",
+          "alt": "Cube with vertices a, b, c, d, e, f, g, h. Edges: ab, ac, ae, bd, bh, cd, cf, dg, ef, eh, fg and gh.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/AE (1).pdf",
+            "page": 7,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ae-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Four hills H1, H2, H3, and H4 are present in an area. The following observations are made about them:\ni. Neither H2 nor H3 is the easternmost hill.\nii. Neither H2 nor H3 is the westernmost hill.\niii. Neither the easternmost hill nor the westernmost hill is the southernmost hill.\niv. Two hills are located to the west of H2.\nv. The southernmost hill has at least two hills to its east. The southernmost hill is ________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "H1"
+        },
+        {
+          "label": "B",
+          "text": "H2"
+        },
+        {
+          "label": "C",
+          "text": "H3"
+        },
+        {
+          "label": "D",
+          "text": "H4"
+        }
+      ],
+      "sourceImage": "figures/day01-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              472.03
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "From west to east, H2 is third because exactly two hills are west of it. H2 and H3 cannot be at either end, so H3 is second; H1 and H4 occupy the ends. The southernmost hill cannot be an end and must have at least two hills to its east. H3 is the only possibility (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ae-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "AE",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "As shown in the figure, circle C₁ with center O₁ and radius r₁ touches the square VWXY at points P and Q while circle C₂ with center O₂ and radius r₂ touches the square VWXY at points R and S. The two circles touch each other at T.\nGiven r₁ = 1 cm and \\overline{VY} = \\overline{VW} = 4 cm, r₂ = _____ cm.",
+      "options": [
+        {
+          "label": "A",
+          "text": "4−3√2"
+        },
+        {
+          "label": "B",
+          "text": "1+2√2"
+        },
+        {
+          "label": "C",
+          "text": "7−4√2"
+        },
+        {
+          "label": "D",
+          "text": "5+ 3√2"
+        }
+      ],
+      "sourceImage": "figures/day01-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/AE (1).pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              720.34
+            ]
+          }
+        ],
+        "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Take W as (0, 0) and the sides of the square as coordinate axes. Then O₁ = (1, 1) and O₂ = (4 − r₂, 4 − r₂). External tangency gives O₁O₂ = 1 + r₂.\nThus √2(3 − r₂) = 1 + r₂, so r₂ = (3√2 − 1)/(√2 + 1) = 7 − 4√2 cm ≈ 1.343 cm (C). This radius fits inside the square.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/AE_Keys.pdf",
+        "paper": "AE",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ae-ga-10-figure-1.png",
+          "alt": "Square VWXY: V top-left, W bottom-left, X bottom-right, Y top-right. Circle C1 of radius 1 cm touches the left and bottom sides; C2 touches the top and right sides. The circles touch at T. Each square side is 4 cm.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/AE (1).pdf",
+            "page": 9,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "32bb62a076b6312fa20d0ccfb9fb1cc5e14c6293c17579271d00dd6724066e02"
+          }
+        }
+      ]
+    }
+  ]
+}

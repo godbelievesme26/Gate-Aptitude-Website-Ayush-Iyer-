@@ -1,0 +1,531 @@
+{
+  "exam": "GATE",
+  "year": 2021,
+  "paper": "AE",
+  "source": "internal/ae/AE2021-key.pdf",
+  "sha256": "d655a39342333d1b12a7328073288b0e3fdb4fdf42aa8add0613f9910a3fd377",
+  "totalQuestions": 65,
+  "totalMarks": 100,
+  "rows": [
+    {
+      "number": 1,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 7,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 8,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 9,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 10,
+      "session": 2,
+      "type": "MCQ",
+      "section": "GA",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 11,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 12,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 13,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 14,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "A",
+      "marks": 1
+    },
+    {
+      "number": 15,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 16,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "A",
+      "marks": 1
+    },
+    {
+      "number": 17,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 18,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 19,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 20,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 21,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 1
+    },
+    {
+      "number": 22,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 1
+    },
+    {
+      "number": 23,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 1
+    },
+    {
+      "number": 24,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "A; B; C",
+      "marks": 1
+    },
+    {
+      "number": 25,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "A; B; D",
+      "marks": 1
+    },
+    {
+      "number": 26,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "A; B",
+      "marks": 1
+    },
+    {
+      "number": 27,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0 to 0",
+      "marks": 1
+    },
+    {
+      "number": 28,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.02 to 0.03",
+      "marks": 1
+    },
+    {
+      "number": 29,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "264 to 264 OR 833 to 835",
+      "marks": 1
+    },
+    {
+      "number": 30,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "4 to 4",
+      "marks": 1
+    },
+    {
+      "number": 31,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0 to 0",
+      "marks": 1
+    },
+    {
+      "number": 32,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.2 to 0.2",
+      "marks": 1
+    },
+    {
+      "number": 33,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "64.30 to 64.60",
+      "marks": 1
+    },
+    {
+      "number": 34,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "6.50 to 6.60",
+      "marks": 1
+    },
+    {
+      "number": 35,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "7.75 to 7.77 OR 7750.00 to 7770.00",
+      "marks": 1
+    },
+    {
+      "number": 36,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "A",
+      "marks": 2
+    },
+    {
+      "number": 37,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 38,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "B",
+      "marks": 2
+    },
+    {
+      "number": 39,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "C",
+      "marks": 2
+    },
+    {
+      "number": 40,
+      "session": 2,
+      "type": "MCQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 41,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "B; D",
+      "marks": 2
+    },
+    {
+      "number": 42,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "B; C",
+      "marks": 2
+    },
+    {
+      "number": 43,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "D",
+      "marks": 2
+    },
+    {
+      "number": 44,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "A; C; D",
+      "marks": 2
+    },
+    {
+      "number": 45,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "B; C; D",
+      "marks": 2
+    },
+    {
+      "number": 46,
+      "session": 2,
+      "type": "MSQ",
+      "section": "AE",
+      "rawKey": "A; D",
+      "marks": 2
+    },
+    {
+      "number": 47,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "8 to 8",
+      "marks": 2
+    },
+    {
+      "number": 48,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.66 to 0.68",
+      "marks": 2
+    },
+    {
+      "number": 49,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.41 to 0.43",
+      "marks": 2
+    },
+    {
+      "number": 50,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "98.0 to 98.5",
+      "marks": 2
+    },
+    {
+      "number": 51,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "0.005 to 0.009",
+      "marks": 2
+    },
+    {
+      "number": 52,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "4.8 to 5.2",
+      "marks": 2
+    },
+    {
+      "number": 53,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "605 to 607",
+      "marks": 2
+    },
+    {
+      "number": 54,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "216 to 220",
+      "marks": 2
+    },
+    {
+      "number": 55,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "20 to 22",
+      "marks": 2
+    },
+    {
+      "number": 56,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "274 to 282",
+      "marks": 2
+    },
+    {
+      "number": 57,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "18.0 to 19.5",
+      "marks": 2
+    },
+    {
+      "number": 58,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "2.35 to 2.50",
+      "marks": 2
+    },
+    {
+      "number": 59,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "14.0 to 16.0",
+      "marks": 2
+    },
+    {
+      "number": 60,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "2.1 to 2.5",
+      "marks": 2
+    },
+    {
+      "number": 61,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "2.2 to 2.6",
+      "marks": 2
+    },
+    {
+      "number": 62,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "232 to 238",
+      "marks": 2
+    },
+    {
+      "number": 63,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "14.8 to 15.2",
+      "marks": 2
+    },
+    {
+      "number": 64,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "9787 to 9795",
+      "marks": 2
+    },
+    {
+      "number": 65,
+      "session": 2,
+      "type": "NAT",
+      "section": "AE",
+      "rawKey": "-0.025 to -0.023",
+      "marks": 2
+    }
+  ]
+}

@@ -1,0 +1,5456 @@
+{
+  "schemaVersion": 1,
+  "id": "gate-2019-ae",
+  "exam": "GATE",
+  "year": 2019,
+  "paper": "AE",
+  "title": "GATE Aerospace Engineering 2019",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "sectionOrder": [
+    "GA",
+    "AE"
+  ],
+  "sections": [
+    {
+      "id": "GA",
+      "title": "General Aptitude",
+      "questionIds": [
+        "gate-2019-ae-ga-01",
+        "gate-2019-ae-ga-02",
+        "gate-2019-ae-ga-03",
+        "gate-2019-ae-ga-04",
+        "gate-2019-ae-ga-05",
+        "gate-2019-ae-ga-06",
+        "gate-2019-ae-ga-07",
+        "gate-2019-ae-ga-08",
+        "gate-2019-ae-ga-09",
+        "gate-2019-ae-ga-10"
+      ],
+      "totalMarks": 15
+    },
+    {
+      "id": "AE",
+      "title": "Aerospace Engineering",
+      "questionIds": [
+        "gate-2019-ae-ae-11",
+        "gate-2019-ae-ae-12",
+        "gate-2019-ae-ae-13",
+        "gate-2019-ae-ae-14",
+        "gate-2019-ae-ae-15",
+        "gate-2019-ae-ae-16",
+        "gate-2019-ae-ae-17",
+        "gate-2019-ae-ae-18",
+        "gate-2019-ae-ae-19",
+        "gate-2019-ae-ae-20",
+        "gate-2019-ae-ae-21",
+        "gate-2019-ae-ae-22",
+        "gate-2019-ae-ae-23",
+        "gate-2019-ae-ae-24",
+        "gate-2019-ae-ae-25",
+        "gate-2019-ae-ae-26",
+        "gate-2019-ae-ae-27",
+        "gate-2019-ae-ae-28",
+        "gate-2019-ae-ae-29",
+        "gate-2019-ae-ae-30",
+        "gate-2019-ae-ae-31",
+        "gate-2019-ae-ae-32",
+        "gate-2019-ae-ae-33",
+        "gate-2019-ae-ae-34",
+        "gate-2019-ae-ae-35",
+        "gate-2019-ae-ae-36",
+        "gate-2019-ae-ae-37",
+        "gate-2019-ae-ae-38",
+        "gate-2019-ae-ae-39",
+        "gate-2019-ae-ae-40",
+        "gate-2019-ae-ae-41",
+        "gate-2019-ae-ae-42",
+        "gate-2019-ae-ae-43",
+        "gate-2019-ae-ae-44",
+        "gate-2019-ae-ae-45",
+        "gate-2019-ae-ae-46",
+        "gate-2019-ae-ae-47",
+        "gate-2019-ae-ae-48",
+        "gate-2019-ae-ae-49",
+        "gate-2019-ae-ae-50",
+        "gate-2019-ae-ae-51",
+        "gate-2019-ae-ae-52",
+        "gate-2019-ae-ae-53",
+        "gate-2019-ae-ae-54",
+        "gate-2019-ae-ae-55",
+        "gate-2019-ae-ae-56",
+        "gate-2019-ae-ae-57",
+        "gate-2019-ae-ae-58",
+        "gate-2019-ae-ae-59",
+        "gate-2019-ae-ae-60",
+        "gate-2019-ae-ae-61",
+        "gate-2019-ae-ae-62",
+        "gate-2019-ae-ae-63",
+        "gate-2019-ae-ae-64",
+        "gate-2019-ae-ae-65"
+      ],
+      "totalMarks": 85
+    }
+  ],
+  "questionOrder": [
+    "gate-2019-ae-ga-01",
+    "gate-2019-ae-ga-02",
+    "gate-2019-ae-ga-03",
+    "gate-2019-ae-ga-04",
+    "gate-2019-ae-ga-05",
+    "gate-2019-ae-ga-06",
+    "gate-2019-ae-ga-07",
+    "gate-2019-ae-ga-08",
+    "gate-2019-ae-ga-09",
+    "gate-2019-ae-ga-10",
+    "gate-2019-ae-ae-11",
+    "gate-2019-ae-ae-12",
+    "gate-2019-ae-ae-13",
+    "gate-2019-ae-ae-14",
+    "gate-2019-ae-ae-15",
+    "gate-2019-ae-ae-16",
+    "gate-2019-ae-ae-17",
+    "gate-2019-ae-ae-18",
+    "gate-2019-ae-ae-19",
+    "gate-2019-ae-ae-20",
+    "gate-2019-ae-ae-21",
+    "gate-2019-ae-ae-22",
+    "gate-2019-ae-ae-23",
+    "gate-2019-ae-ae-24",
+    "gate-2019-ae-ae-25",
+    "gate-2019-ae-ae-26",
+    "gate-2019-ae-ae-27",
+    "gate-2019-ae-ae-28",
+    "gate-2019-ae-ae-29",
+    "gate-2019-ae-ae-30",
+    "gate-2019-ae-ae-31",
+    "gate-2019-ae-ae-32",
+    "gate-2019-ae-ae-33",
+    "gate-2019-ae-ae-34",
+    "gate-2019-ae-ae-35",
+    "gate-2019-ae-ae-36",
+    "gate-2019-ae-ae-37",
+    "gate-2019-ae-ae-38",
+    "gate-2019-ae-ae-39",
+    "gate-2019-ae-ae-40",
+    "gate-2019-ae-ae-41",
+    "gate-2019-ae-ae-42",
+    "gate-2019-ae-ae-43",
+    "gate-2019-ae-ae-44",
+    "gate-2019-ae-ae-45",
+    "gate-2019-ae-ae-46",
+    "gate-2019-ae-ae-47",
+    "gate-2019-ae-ae-48",
+    "gate-2019-ae-ae-49",
+    "gate-2019-ae-ae-50",
+    "gate-2019-ae-ae-51",
+    "gate-2019-ae-ae-52",
+    "gate-2019-ae-ae-53",
+    "gate-2019-ae-ae-54",
+    "gate-2019-ae-ae-55",
+    "gate-2019-ae-ae-56",
+    "gate-2019-ae-ae-57",
+    "gate-2019-ae-ae-58",
+    "gate-2019-ae-ae-59",
+    "gate-2019-ae-ae-60",
+    "gate-2019-ae-ae-61",
+    "gate-2019-ae-ae-62",
+    "gate-2019-ae-ae-63",
+    "gate-2019-ae-ae-64",
+    "gate-2019-ae-ae-65"
+  ],
+  "questionRefs": [
+    {
+      "id": "gate-2019-ae-ga-01",
+      "number": 1,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-02",
+      "number": 2,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-03",
+      "number": 3,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-04",
+      "number": 4,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-05",
+      "number": 5,
+      "section": "GA",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-06",
+      "number": 6,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-07",
+      "number": 7,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-08",
+      "number": 8,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-09",
+      "number": 9,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ga-10",
+      "number": 10,
+      "section": "GA",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-11",
+      "number": 11,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-12",
+      "number": 12,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-13",
+      "number": 13,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-14",
+      "number": 14,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-15",
+      "number": 15,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-16",
+      "number": 16,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-17",
+      "number": 17,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-18",
+      "number": 18,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-19",
+      "number": 19,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-20",
+      "number": 20,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-21",
+      "number": 21,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-22",
+      "number": 22,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-23",
+      "number": 23,
+      "section": "AE",
+      "marks": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-24",
+      "number": 24,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-25",
+      "number": 25,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-26",
+      "number": 26,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-27",
+      "number": 27,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-28",
+      "number": 28,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-29",
+      "number": 29,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-30",
+      "number": 30,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-31",
+      "number": 31,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-32",
+      "number": 32,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-33",
+      "number": 33,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-34",
+      "number": 34,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-35",
+      "number": 35,
+      "section": "AE",
+      "marks": 1,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-36",
+      "number": 36,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-37",
+      "number": 37,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-38",
+      "number": 38,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-39",
+      "number": 39,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-40",
+      "number": 40,
+      "section": "AE",
+      "marks": 2,
+      "type": "MCQ"
+    },
+    {
+      "id": "gate-2019-ae-ae-41",
+      "number": 41,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-42",
+      "number": 42,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-43",
+      "number": 43,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-44",
+      "number": 44,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-45",
+      "number": 45,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-46",
+      "number": 46,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-47",
+      "number": 47,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-48",
+      "number": 48,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-49",
+      "number": 49,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-50",
+      "number": 50,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-51",
+      "number": 51,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-52",
+      "number": 52,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-53",
+      "number": 53,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-54",
+      "number": 54,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-55",
+      "number": 55,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-56",
+      "number": 56,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-57",
+      "number": 57,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-58",
+      "number": 58,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-59",
+      "number": 59,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-60",
+      "number": 60,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-61",
+      "number": 61,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-62",
+      "number": 62,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-63",
+      "number": 63,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-64",
+      "number": 64,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    },
+    {
+      "id": "gate-2019-ae-ae-65",
+      "number": 65,
+      "section": "AE",
+      "marks": 2,
+      "type": "NAT"
+    }
+  ],
+  "questionGroups": [],
+  "marking": {
+    "negativeFraction": {
+      "MCQ": 0.3333333333333333,
+      "MSQ": 0.0,
+      "NAT": 0.0
+    }
+  },
+  "questionTypeCounts": {
+    "MCQ": 28,
+    "MSQ": 0,
+    "NAT": 37
+  },
+  "source": {
+    "file": "internal/ae/AE2019.pdf",
+    "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+    "pageCount": 18
+  },
+  "ingestionStatus": "complete",
+  "verificationStatus": "source-verified",
+  "verifiedOn": "2026-10-07",
+  "questions": [
+    {
+      "id": "gate-2019-ae-ga-01",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 1,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The fishermen, ________ the flood victims owed their lives, were rewarded by the government.",
+      "content": [
+        {
+          "type": "text",
+          "text": "The fishermen, ________ the flood victims owed their lives, were rewarded by the government."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 1,
+        "section": "GA",
+        "page": 1,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "whom"
+        },
+        {
+          "label": "B",
+          "text": "to which"
+        },
+        {
+          "label": "C",
+          "text": "to whom"
+        },
+        {
+          "label": "D",
+          "text": "that"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-02",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 2,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Some students were not involved in the strike.\n\nIf the above statement is true, which of the following conclusions is/are logically necessary?\n\n1. Some who were involved in the strike were students.\n2. No student was involved in the strike.\n3. At least one student was involved in the strike.\n4. Some who were not involved in the strike were students.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Some students were not involved in the strike.\n\nIf the above statement is true, which of the following conclusions is/are logically necessary?\n\n1. Some who were involved in the strike were students.\n2. No student was involved in the strike.\n3. At least one student was involved in the strike.\n4. Some who were not involved in the strike were students."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 2,
+        "section": "GA",
+        "page": 1,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "2 and 3"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-03",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 3,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The radius as well as the height of a circular cone increases by 10%. The percentage increase in its volume is ________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "The radius as well as the height of a circular cone increases by 10%. The percentage increase in its volume is ________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 3,
+        "section": "GA",
+        "page": 1,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "17.1"
+        },
+        {
+          "label": "B",
+          "text": "21.0"
+        },
+        {
+          "label": "C",
+          "text": "33.1"
+        },
+        {
+          "label": "D",
+          "text": "72.8"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-04",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 4,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Five numbers 10, 7, 5, 4 and 2 are to be arranged in a sequence from left to right following the directions given below:\n1. No two odd or even numbers are next to each other.\n2. The second number from the left is exactly half of the left-most number.\n3. The middle number is exactly twice the right-most number.\n\nWhich is the second number from the right?",
+      "content": [
+        {
+          "type": "text",
+          "text": "Five numbers 10, 7, 5, 4 and 2 are to be arranged in a sequence from left to right following the directions given below:\n1. No two odd or even numbers are next to each other.\n2. The second number from the left is exactly half of the left-most number.\n3. The middle number is exactly twice the right-most number.\n\nWhich is the second number from the right?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 4,
+        "section": "GA",
+        "page": 1,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-05",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 5,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Until Iran came along, India had never been ________ in kabaddi.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Until Iran came along, India had never been ________ in kabaddi."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 1,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 5,
+        "section": "GA",
+        "page": 1,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "defeated"
+        },
+        {
+          "label": "B",
+          "text": "defeating"
+        },
+        {
+          "label": "C",
+          "text": "defeat"
+        },
+        {
+          "label": "D",
+          "text": "defeatist"
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-06",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 6,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Since the last one year, after a 125 basis point reduction in repo rate by the Reserve Bank of India, banking institutions have been making a demand to reduce interest rates on small saving schemes. Finally, the government announced yesterday a reduction in interest rates on small saving schemes to bring them on par with fixed deposit interest rates.\n\nWhich one of the following statements can be inferred from the given passage?",
+      "content": [
+        {
+          "type": "text",
+          "text": "Since the last one year, after a 125 basis point reduction in repo rate by the Reserve Bank of India, banking institutions have been making a demand to reduce interest rates on small saving schemes. Finally, the government announced yesterday a reduction in interest rates on small saving schemes to bring them on par with fixed deposit interest rates.\n\nWhich one of the following statements can be inferred from the given passage?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 6,
+        "section": "GA",
+        "page": 2,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "Whenever the Reserve Bank of India reduces the repo rate, the interest rates on small saving schemes are also reduced"
+        },
+        {
+          "label": "B",
+          "text": "Interest rates on small saving schemes are always maintained on par with fixed deposit interest rates"
+        },
+        {
+          "label": "C",
+          "text": "The government sometimes takes into consideration the demands of banking institutions before reducing the interest rates on small saving schemes"
+        },
+        {
+          "label": "D",
+          "text": "A reduction in interest rates on small saving schemes follow only after a reduction in repo rate by the Reserve Bank of India"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-07",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 7,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "In a country of 1400 million population, 70% own mobile phones. Among the mobile phone owners, only 294 million access the Internet. Among these Internet users, only half buy goods from e-commerce portals. What is the percentage of these buyers in the country?",
+      "content": [
+        {
+          "type": "text",
+          "text": "In a country of 1400 million population, 70% own mobile phones. Among the mobile phone owners, only 294 million access the Internet. Among these Internet users, only half buy goods from e-commerce portals. What is the percentage of these buyers in the country?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 7,
+        "section": "GA",
+        "page": 2,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "10.50"
+        },
+        {
+          "label": "B",
+          "text": "14.70"
+        },
+        {
+          "label": "C",
+          "text": "15.00"
+        },
+        {
+          "label": "D",
+          "text": "50.00"
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-08",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 8,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "The nomenclature of Hindustani music has changed over the centuries. Since the medieval period dhrupad styles were identified as baanis. Terms like gayaki and baaj were used to refer to vocal and instrumental styles, respectively. With the institutionalization of music education the term gharana became acceptable. Gharana originally referred to hereditary musicians from a particular lineage, including disciples and grand disciples.\n\nWhich one of the following pairings is NOT correct?",
+      "content": [
+        {
+          "type": "text",
+          "text": "The nomenclature of Hindustani music has changed over the centuries. Since the medieval period dhrupad styles were identified as baanis. Terms like gayaki and baaj were used to refer to vocal and instrumental styles, respectively. With the institutionalization of music education the term gharana became acceptable. Gharana originally referred to hereditary musicians from a particular lineage, including disciples and grand disciples.\n\nWhich one of the following pairings is NOT correct?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 8,
+        "section": "GA",
+        "page": 2,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "dhrupad, baani"
+        },
+        {
+          "label": "B",
+          "text": "gayaki, vocal"
+        },
+        {
+          "label": "C",
+          "text": "baaj, institution"
+        },
+        {
+          "label": "D",
+          "text": "gharana, lineage"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-09",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 9,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Two trains started at 7AM from the same point. The first train travelled north at a speed of 80km/h and the second train travelled south at a speed of 100 km/h. The time at which they were 540 km apart is ________ AM.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Two trains started at 7AM from the same point. The first train travelled north at a speed of 80km/h and the second train travelled south at a speed of 100 km/h. The time at which they were 540 km apart is ________ AM."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 2,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 9,
+        "section": "GA",
+        "page": 2,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "9"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "11"
+        },
+        {
+          "label": "D",
+          "text": "11.30"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ga-10",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 10,
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "\"I read somewhere that in ancient times the prestige of a kingdom depended upon the number of taxes that it was able to levy on its people. It was very much like the prestige of a head-hunter in his own community.\"\n\nBased on the paragraph above, the prestige of a head-hunter depended upon ________",
+      "content": [
+        {
+          "type": "text",
+          "text": "\"I read somewhere that in ancient times the prestige of a kingdom depended upon the number of taxes that it was able to levy on its people. It was very much like the prestige of a head-hunter in his own community.\"\n\nBased on the paragraph above, the prestige of a head-hunter depended upon ________"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 3,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 10,
+        "section": "GA",
+        "page": 3,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "D",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "the prestige of the kingdom"
+        },
+        {
+          "label": "B",
+          "text": "the prestige of the heads"
+        },
+        {
+          "label": "C",
+          "text": "the number of taxes he could levy"
+        },
+        {
+          "label": "D",
+          "text": "the number of heads he could gather"
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-11",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 11,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The maximum value of the function $f(x) = x e^{-x}$ (where $x$ is real) is",
+      "content": [
+        {
+          "type": "text",
+          "text": "The maximum value of the function $f(x) = x e^{-x}$ (where $x$ is real) is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 11,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$1/e$"
+        },
+        {
+          "label": "B",
+          "text": "$2/e^2$"
+        },
+        {
+          "label": "C",
+          "text": "$(e^{-1/2})/2$"
+        },
+        {
+          "label": "D",
+          "text": "$\\infty$"
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-12",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 12,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Vector $\\vec{b}$ is obtained by rotating $\\vec{a} = \\hat{\\imath} + \\hat{\\jmath}$ by $90^\\circ$ about $\\hat{k}$, where $\\hat{\\imath}, \\hat{\\jmath}$ and $\\hat{k}$ are unit vectors along the $x, y$ and $z$ axes, respectively. $\\vec{b}$ is given by",
+      "content": [
+        {
+          "type": "text",
+          "text": "Vector $\\vec{b}$ is obtained by rotating $\\vec{a} = \\hat{\\imath} + \\hat{\\jmath}$ by $90^\\circ$ about $\\hat{k}$, where $\\hat{\\imath}, \\hat{\\jmath}$ and $\\hat{k}$ are unit vectors along the $x, y$ and $z$ axes, respectively. $\\vec{b}$ is given by"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 12,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\hat{\\imath} - \\hat{\\jmath}$"
+        },
+        {
+          "label": "B",
+          "text": "$-\\hat{\\imath} + \\hat{\\jmath}$"
+        },
+        {
+          "label": "C",
+          "text": "$\\hat{\\imath} + \\hat{\\jmath}$"
+        },
+        {
+          "label": "D",
+          "text": "$-\\hat{\\imath} - \\hat{\\jmath}$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-13",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 13,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "A scalar function is given by $f(x, y) = x^2 + y^2$. Take $\\hat{\\imath}$ and $\\hat{\\jmath}$ as unit vectors along the $x$ and $y$ axes, respectively. At $(x, y) = (3, 4)$, the direction along which $f$ increases the fastest is",
+      "content": [
+        {
+          "type": "text",
+          "text": "A scalar function is given by $f(x, y) = x^2 + y^2$. Take $\\hat{\\imath}$ and $\\hat{\\jmath}$ as unit vectors along the $x$ and $y$ axes, respectively. At $(x, y) = (3, 4)$, the direction along which $f$ increases the fastest is"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 13,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\frac{1}{5}(4\\hat{\\imath} - 3\\hat{\\jmath})$"
+        },
+        {
+          "label": "B",
+          "text": "$\\frac{1}{5}(3\\hat{\\imath} - 4\\hat{\\jmath})$"
+        },
+        {
+          "label": "C",
+          "text": "$\\frac{1}{5}(3\\hat{\\imath} + 4\\hat{\\jmath})$"
+        },
+        {
+          "label": "D",
+          "text": "$\\frac{1}{5}(4\\hat{\\imath} + 3\\hat{\\jmath})$"
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-14",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 14,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The dimensions of kinematic viscosity of a fluid (where $L$ is length, $T$ is time) are",
+      "content": [
+        {
+          "type": "text",
+          "text": "The dimensions of kinematic viscosity of a fluid (where $L$ is length, $T$ is time) are"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 14,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$L T^{-1}$"
+        },
+        {
+          "label": "B",
+          "text": "$L^2 T^{-1}$"
+        },
+        {
+          "label": "C",
+          "text": "$L T^{-2}$"
+        },
+        {
+          "label": "D",
+          "text": "$L^2 T$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-15",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 15,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "$\\phi(x, y)$ represents the velocity potential of a two-dimensional flow with velocity field $\\vec{V} = u(x, y)\\hat{\\imath} + v(x, y)\\hat{\\jmath}$, where $\\hat{\\imath}$ and $\\hat{\\jmath}$ are unit vectors along the $x$ and $y$ axes, respectively. Which of the following is necessarily true?",
+      "content": [
+        {
+          "type": "text",
+          "text": "$\\phi(x, y)$ represents the velocity potential of a two-dimensional flow with velocity field $\\vec{V} = u(x, y)\\hat{\\imath} + v(x, y)\\hat{\\jmath}$, where $\\hat{\\imath}$ and $\\hat{\\jmath}$ are unit vectors along the $x$ and $y$ axes, respectively. Which of the following is necessarily true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 15,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\nabla^2 \\phi = 0$"
+        },
+        {
+          "label": "B",
+          "text": "$\\nabla \\times \\vec{V} = 0$"
+        },
+        {
+          "label": "C",
+          "text": "$\\nabla \\cdot \\vec{V} = 0$"
+        },
+        {
+          "label": "D",
+          "text": "$u = -\\partial\\phi/\\partial y, v = \\partial\\phi/\\partial x$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-16",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 16,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "For a quasi-one-dimensional isentropic supersonic flow through a diverging duct, which of the following is true in the direction of the flow?",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a quasi-one-dimensional isentropic supersonic flow through a diverging duct, which of the following is true in the direction of the flow?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 16,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "Both the Mach number and the static temperature increase."
+        },
+        {
+          "label": "B",
+          "text": "The Mach number increases and the static temperature decreases."
+        },
+        {
+          "label": "C",
+          "text": "The Mach number decreases and the static temperature increases."
+        },
+        {
+          "label": "D",
+          "text": "Both the Mach number and the static temperature decrease."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-17",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 17,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "For a NACA2415 airfoil of chord length $c$, which of the following is true?",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a NACA2415 airfoil of chord length $c$, which of the following is true?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 17,
+        "section": "AE",
+        "page": 4,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "Maximum camber is located at $0.2c$ from the leading edge."
+        },
+        {
+          "label": "B",
+          "text": "Maximum thickness is located at $0.15c$ from the leading edge."
+        },
+        {
+          "label": "C",
+          "text": "Maximum camber is $0.02c$."
+        },
+        {
+          "label": "D",
+          "text": "Maximum thickness is $0.05c$."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-18",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 18,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "When a propeller airplane in ground-roll during take-off experiences headwind, which of the following statements is FALSE?",
+      "content": [
+        {
+          "type": "text",
+          "text": "When a propeller airplane in ground-roll during take-off experiences headwind, which of the following statements is FALSE?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 18,
+        "section": "AE",
+        "page": 5,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "D",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "The drag on the airplane increases."
+        },
+        {
+          "label": "B",
+          "text": "The thrust from the propellers decreases."
+        },
+        {
+          "label": "C",
+          "text": "The wing lift increases."
+        },
+        {
+          "label": "D",
+          "text": "The ground-roll distance increases."
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-19",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 19,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "Which of the following graphs represents the response of a dynamically unstable airplane?",
+      "content": [
+        {
+          "type": "text",
+          "text": "Which of the following graphs represents the response of a dynamically unstable airplane?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 19,
+        "section": "AE",
+        "page": 5,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [
+        {
+          "label": "A",
+          "text": "Response curve A",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-19-option-A.png",
+            "alt": "Dynamically unstable response curve A",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        },
+        {
+          "label": "B",
+          "text": "Response curve B",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-19-option-B.png",
+            "alt": "Dynamically stable response curve B",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        },
+        {
+          "label": "C",
+          "text": "Response curve C",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-19-option-C.png",
+            "alt": "Dynamically stable response curve C",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        },
+        {
+          "label": "D",
+          "text": "Response curve D",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-19-option-D.png",
+            "alt": "Oscillatory response curve D",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 5,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-20",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 20,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "The propulsive efficiency of a ramjet engine is lower than that of a low bypass turbofan engine operating under the same conditions and producing the same thrust, primarily because the ramjet engine",
+      "content": [
+        {
+          "type": "text",
+          "text": "The propulsive efficiency of a ramjet engine is lower than that of a low bypass turbofan engine operating under the same conditions and producing the same thrust, primarily because the ramjet engine"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 20,
+        "section": "AE",
+        "page": 5,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "has larger kinetic energy lost in the exhaust jet."
+        },
+        {
+          "label": "B",
+          "text": "has lower thrust power."
+        },
+        {
+          "label": "C",
+          "text": "is not self-starting."
+        },
+        {
+          "label": "D",
+          "text": "has higher thrust to weight ratio."
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-21",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 21,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "While flying at Mach 2.0, 11 km altitude and producing the same thrust, what is the correct order from the lowest thrust specific fuel consumption (tsfc) to the highest tsfc?",
+      "content": [
+        {
+          "type": "text",
+          "text": "While flying at Mach 2.0, 11 km altitude and producing the same thrust, what is the correct order from the lowest thrust specific fuel consumption (tsfc) to the highest tsfc?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 21,
+        "section": "AE",
+        "page": 5,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "Turbofan, Ramjet, Turbojet"
+        },
+        {
+          "label": "B",
+          "text": "Turbofan, Turbojet, Ramjet"
+        },
+        {
+          "label": "C",
+          "text": "Ramjet, Turbojet, Turbofan"
+        },
+        {
+          "label": "D",
+          "text": "Turbojet, Turbofan, Ramjet"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-22",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 22,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "For a single stage subsonic compressor, which of the following statements about the highest possible compressor pressure ratio (CPR) is correct?",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a single stage subsonic compressor, which of the following statements about the highest possible compressor pressure ratio (CPR) is correct?"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 22,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "CPR of an axial compressor > CPR of centrifugal compressor."
+        },
+        {
+          "label": "B",
+          "text": "CPR of an axial compressor < CPR of centrifugal compressor."
+        },
+        {
+          "label": "C",
+          "text": "CPR of an axial compressor = CPR of centrifugal compressor."
+        },
+        {
+          "label": "D",
+          "text": "CPR of any value can be attained with either an axial or a centrifugal compressor."
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-23",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 23,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "question": "For a beam subjected to a transverse shear load through its shear center,",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a beam subjected to a transverse shear load through its shear center,"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 23,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.3333333333333333,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "the twist per unit length is zero."
+        },
+        {
+          "label": "B",
+          "text": "the shear stress is uniform throughout the cross-section."
+        },
+        {
+          "label": "C",
+          "text": "the bending stresses in the cross section are zero."
+        },
+        {
+          "label": "D",
+          "text": "the shear strain is zero at the shear center."
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-24",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 24,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "A function $f(x)$ is defined by $f(x) = \\frac{1}{2}(x + |x|)$. The value of\n$$\\int_{-1}^{1} f(x)\\, dx$$\nis ________ (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A function $f(x)$ is defined by $f(x) = \\frac{1}{2}(x + |x|)$. The value of\n$$\\int_{-1}^{1} f(x)\\, dx$$\nis ________ (round off to 1 decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 24,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.5,
+        0.5
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-25",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 25,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The value of the following limit is ________ (round off to 2 decimal places).\n$$\\lim_{\\theta \\to 0} \\frac{\\theta - \\sin\\theta}{\\theta^3}$$",
+      "content": [
+        {
+          "type": "text",
+          "text": "The value of the following limit is ________ (round off to 2 decimal places).\n$$\\lim_{\\theta \\to 0} \\frac{\\theta - \\sin\\theta}{\\theta^3}$$"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 25,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.16,
+        0.17
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.16,
+            0.17
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-26",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 26,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "To simulate the aerodynamic forces on a cylinder of 1 m diameter due to a uniform air flow of 1 m/s at standard temperature and pressure (STP), low-speed wind tunnel experiments at STP are conducted on a 0.1 m diameter cylinder. The free stream air speed in the wind tunnel experiments should be ________ m/s (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "To simulate the aerodynamic forces on a cylinder of 1 m diameter due to a uniform air flow of 1 m/s at standard temperature and pressure (STP), low-speed wind tunnel experiments at STP are conducted on a 0.1 m diameter cylinder. The free stream air speed in the wind tunnel experiments should be ________ m/s (round off to the nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 26,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        10.0,
+        10.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            10.0,
+            10.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-27",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 27,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The power-off glide range for an airplane with a maximum Lift to Drag ratio of 18, when the glide starts at an altitude of 4 km, is ________ km (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The power-off glide range for an airplane with a maximum Lift to Drag ratio of 18, when the glide starts at an altitude of 4 km, is ________ km (round off to the nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 27,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        72.0,
+        72.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            72.0,
+            72.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-28",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 28,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "For an airplane flying in a vertical plane, the angle of attack is $3^\\circ$, the horizontal and vertical components of velocity in wind axis are $300\\text{ km/h}$ and $15.72\\text{ km/h}$, respectively. The pitch attitude of the airplane is ________ degrees (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "For an airplane flying in a vertical plane, the angle of attack is $3^\\circ$, the horizontal and vertical components of velocity in wind axis are $300\\text{ km/h}$ and $15.72\\text{ km/h}$, respectively. The pitch attitude of the airplane is ________ degrees (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 28,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        5.98,
+        6.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            5.98,
+            6.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-29",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 29,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "An airplane is in steady level flight with a true air speed of 50 m/s. The ambient air density and ambient pressure at the flight altitude are $0.91\\text{ kg/m}^3$ and $7\\times 10^4\\text{ N/m}^2$, respectively. At sea level, air density is $1.225\\text{ kg/m}^3$ and ambient pressure is $1.01\\times 10^5\\text{ N/m}^2$. The equivalent or indicated air speed of the airplane is ________ m/s (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "An airplane is in steady level flight with a true air speed of 50 m/s. The ambient air density and ambient pressure at the flight altitude are $0.91\\text{ kg/m}^3$ and $7\\times 10^4\\text{ N/m}^2$, respectively. At sea level, air density is $1.225\\text{ kg/m}^3$ and ambient pressure is $1.01\\times 10^5\\text{ N/m}^2$. The equivalent or indicated air speed of the airplane is ________ m/s (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 29,
+        "section": "AE",
+        "page": 6,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        43.05,
+        43.15
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            43.05,
+            43.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-30",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 30,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "For the complete combustion of 1 mole of ethanol ($\\text{C}_2\\text{H}_5\\text{OH}$), the required number of moles of oxygen is ________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "For the complete combustion of 1 mole of ethanol ($\\text{C}_2\\text{H}_5\\text{OH}$), the required number of moles of oxygen is ________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 30,
+        "section": "AE",
+        "page": 7,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        3.0,
+        3.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            3.0,
+            3.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-31",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 31,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "One kg of diatomic gas is heated and its temperature increases from 100 K to 600 K. The energy added at constant pressure during this process is 500 kJ. The specific heat at constant volume for the gas is ________ kJ/kgK. (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "One kg of diatomic gas is heated and its temperature increases from 100 K to 600 K. The energy added at constant pressure during this process is 500 kJ. The specific heat at constant volume for the gas is ________ kJ/kgK. (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 31,
+        "section": "AE",
+        "page": 7,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.7,
+        0.72
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.7,
+            0.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-32",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 32,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "The number of independent elastic constants for a homogeneous isotropic linear elastic material is ________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "The number of independent elastic constants for a homogeneous isotropic linear elastic material is ________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 32,
+        "section": "AE",
+        "page": 7,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        2.0,
+        2.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            2.0,
+            2.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-33",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 33,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "A thin plate with Young's modulus 210 GPa and Poisson's ratio 0.3 is loaded as shown in the figure. The change in length along the $y$-direction is ________ mm (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A thin plate with Young's modulus 210 GPa and Poisson's ratio 0.3 is loaded as shown in the figure. The change in length along the $y$-direction is ________ mm (round off to 1 decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-33-figure-1.png",
+            "alt": "Thin plate with biaxial loading",
+            "page": 7,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 7,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-33-figure-1.png",
+          "alt": "Thin plate with biaxial loading",
+          "page": 7,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 7,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 33,
+        "section": "AE",
+        "page": 7,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.2,
+        0.2
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.2,
+            0.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-34",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 34,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "For the state of stress shown in the figure, the normal stress, $\\sigma_n$, on a plane inclined at 45 degrees to the $x$-axis is ________ MPa (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "For the state of stress shown in the figure, the normal stress, $\\sigma_n$, on a plane inclined at 45 degrees to the $x$-axis is ________ MPa (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-34-figure-1.png",
+            "alt": "Stress element inclined at 45 degrees",
+            "page": 7,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 7,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-34-figure-1.png",
+          "alt": "Stress element inclined at 45 degrees",
+          "page": 7,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 7,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 34,
+        "section": "AE",
+        "page": 7,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        247.0,
+        255.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            247.0,
+            255.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-35",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 35,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "question": "In the spring-mass system, shown in the figure, mass $m = 3\\text{ kg}$ and the spring stiffness $k = 20\\text{ kN/m}$. The natural frequency of the system is ________ Hz (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "In the spring-mass system, shown in the figure, mass $m = 3\\text{ kg}$ and the spring stiffness $k = 20\\text{ kN/m}$. The natural frequency of the system is ________ Hz (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-35-figure-1.png",
+            "alt": "Spring mass system with three springs",
+            "page": 8,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 8,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-35-figure-1.png",
+          "alt": "Spring mass system with three springs",
+          "page": 8,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 8,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 35,
+        "section": "AE",
+        "page": 8,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        16.0,
+        16.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            16.0,
+            16.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-36",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 36,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "The following system of equations\n\n2x - y - z = 0\n-x + 2y - z = 0\n-x - y + 2z = 0",
+      "content": [
+        {
+          "type": "text",
+          "text": "The following system of equations\n\n2x - y - z = 0\n-x + 2y - z = 0\n-x - y + 2z = 0"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 36,
+        "section": "AE",
+        "page": 9,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "D",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "has no solution."
+        },
+        {
+          "label": "B",
+          "text": "has a unique solution."
+        },
+        {
+          "label": "C",
+          "text": "has three solutions."
+        },
+        {
+          "label": "D",
+          "text": "has an infinite number of solutions."
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-37",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 37,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "A supersonic flow in a constant area duct at Mach number $M_1$ encounters a ramp of angle $\\theta_1$ (see Figure 1). The resulting oblique shock with shock angle $\\beta_1$ is then reflected from the top wall. For the reflected shock, the turn angle is $\\theta_2$ and the shock angle is $\\beta_2$.\n\nUse the weak shock solution from the $\\theta-\\beta-M$ plot shown in Figure 2 to choose the correct option from the following.",
+      "content": [
+        {
+          "type": "text",
+          "text": "A supersonic flow in a constant area duct at Mach number $M_1$ encounters a ramp of angle $\\theta_1$ (see Figure 1). The resulting oblique shock with shock angle $\\beta_1$ is then reflected from the top wall. For the reflected shock, the turn angle is $\\theta_2$ and the shock angle is $\\beta_2$.\n\nUse the weak shock solution from the $\\theta-\\beta-M$ plot shown in Figure 2 to choose the correct option from the following."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-37-figure-1.png",
+            "alt": "Supersonic flow in duct with ramp shock reflection and theta-beta-M plot",
+            "page": 9,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 9,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-37-figure-1.png",
+          "alt": "Supersonic flow in duct with ramp shock reflection and theta-beta-M plot",
+          "page": 9,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 9,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 37,
+        "section": "AE",
+        "page": 9,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "B",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [
+        {
+          "label": "A",
+          "text": "$\\beta_1 > \\beta_2$"
+        },
+        {
+          "label": "B",
+          "text": "$\\beta_1 < \\beta_2$"
+        },
+        {
+          "label": "C",
+          "text": "$\\theta_1 > \\theta_2$"
+        },
+        {
+          "label": "D",
+          "text": "$\\theta_1 < \\theta_2$"
+        }
+      ],
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-38",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 38,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "Which of the following statements about adverse yaw of an airplane is/are correct?\nP. It is caused by flow separation resulting from large rudder deflection.\nQ. It is caused by dissimilar drag forces acting on the two halves of the wing resulting from aileron deflections of same magnitude.\nR. It can be eliminated by ensuring that the upward deflection of one aileron is greater than the downward deflection of the opposite aileron.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Which of the following statements about adverse yaw of an airplane is/are correct?\nP. It is caused by flow separation resulting from large rudder deflection.\nQ. It is caused by dissimilar drag forces acting on the two halves of the wing resulting from aileron deflections of same magnitude.\nR. It can be eliminated by ensuring that the upward deflection of one aileron is greater than the downward deflection of the opposite aileron."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 38,
+        "section": "AE",
+        "page": 9,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "D",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "P only"
+        },
+        {
+          "label": "B",
+          "text": "Q only"
+        },
+        {
+          "label": "C",
+          "text": "P and R"
+        },
+        {
+          "label": "D",
+          "text": "Q and R"
+        }
+      ],
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-39",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 39,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "In a turbojet engine, the compressor outlet temperature increases with decreasing efficiency of the compressor. If the turbine inlet temperature remains constant, with decreasing efficiency of the compressor, the thrust specific fuel consumption of the engine",
+      "content": [
+        {
+          "type": "text",
+          "text": "In a turbojet engine, the compressor outlet temperature increases with decreasing efficiency of the compressor. If the turbine inlet temperature remains constant, with decreasing efficiency of the compressor, the thrust specific fuel consumption of the engine"
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 39,
+        "section": "AE",
+        "page": 9,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "C",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [
+        {
+          "label": "A",
+          "text": "decreases, as the heat input is lower."
+        },
+        {
+          "label": "B",
+          "text": "remains unchanged."
+        },
+        {
+          "label": "C",
+          "text": "increases, as the compressor needs more work input from the turbine."
+        },
+        {
+          "label": "D",
+          "text": "decreases, as the thrust produced is higher."
+        }
+      ],
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-40",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 40,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "question": "For a 1 m long simply supported beam with a concentrated vertical load of 200 N and a concentrated bending moment of 100 Nm at the center as shown in the figure, the correct bending moment diagram is:",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a 1 m long simply supported beam with a concentrated vertical load of 200 N and a concentrated bending moment of 100 Nm at the center as shown in the figure, the correct bending moment diagram is:"
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-40-figure-1.png",
+            "alt": "Simply supported beam with point load and moment",
+            "page": 10,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 10,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-40-figure-1.png",
+          "alt": "Simply supported beam with point load and moment",
+          "page": 10,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 10,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 40,
+        "section": "AE",
+        "page": 10,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": "A",
+      "negativeMarks": 0.6666666666666666,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [
+        {
+          "label": "A",
+          "text": "Bending moment diagram A",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-40-option-A.png",
+            "alt": "Bending moment diagram A",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 10,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        },
+        {
+          "label": "B",
+          "text": "Bending moment diagram B",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-40-option-B.png",
+            "alt": "Bending moment diagram B",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 10,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        },
+        {
+          "label": "C",
+          "text": "Bending moment diagram C",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-40-option-C.png",
+            "alt": "Bending moment diagram C",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 10,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        },
+        {
+          "label": "D",
+          "text": "Bending moment diagram D",
+          "figure": {
+            "src": "figures/gate-2019-ae-ae-40-option-D.png",
+            "alt": "Bending moment diagram D",
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 10,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-41",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 41,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "For real $x$, the number of points of intersection between the curves $y = x$ and $y = \\cos x$ is ________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "For real $x$, the number of points of intersection between the curves $y = x$ and $y = \\cos x$ is ________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 41,
+        "section": "AE",
+        "page": 10,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        1.0,
+        1.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-42",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 42,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "One of the eigenvalues of the following matrix is 1.\n$$\\begin{pmatrix} x & 2 \\\\ -1 & 3 \\end{pmatrix}$$\nThe other eigenvalue is ________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "One of the eigenvalues of the following matrix is 1.\n$$\\begin{pmatrix} x & 2 \\\\ -1 & 3 \\end{pmatrix}$$\nThe other eigenvalue is ________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 42,
+        "section": "AE",
+        "page": 10,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        2.0,
+        2.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            2.0,
+            2.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-43",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 43,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The curve $y = f(x)$ is such that its slope is equal to $y^2$ for all real $x$. If the curve passes through $(1, -1)$, the value of $y$ at $x = -2$ is ________ (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The curve $y = f(x)$ is such that its slope is equal to $y^2$ for all real $x$. If the curve passes through $(1, -1)$, the value of $y$ at $x = -2$ is ________ (round off to 1 decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 43,
+        "section": "AE",
+        "page": 10,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.5,
+        0.5
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-44",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 44,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The inviscid, incompressible flow field resulting from a uniform flow past a circular cylinder of radius $R$ centered at the origin is given by:\n$$u_r = U\\left(1 - \\frac{R^2}{r^2}\\right)\\cos\\theta \\qquad u_\\theta = -U\\left(1 + \\frac{R^2}{r^2}\\right)\\sin\\theta$$\nwhere $u_r$ and $u_\\theta$ are the radial and azimuthal velocity components in polar coordinates, $(r, \\theta)$, as shown in the figure. $U$ is the free stream speed. Ignore the effects of gravity. The azimuthal location (in the first quadrant) on the cylinder at which the pressure coefficient is zero is ________ degrees (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The inviscid, incompressible flow field resulting from a uniform flow past a circular cylinder of radius $R$ centered at the origin is given by:\n$$u_r = U\\left(1 - \\frac{R^2}{r^2}\\right)\\cos\\theta \\qquad u_\\theta = -U\\left(1 + \\frac{R^2}{r^2}\\right)\\sin\\theta$$\nwhere $u_r$ and $u_\\theta$ are the radial and azimuthal velocity components in polar coordinates, $(r, \\theta)$, as shown in the figure. $U$ is the free stream speed. Ignore the effects of gravity. The azimuthal location (in the first quadrant) on the cylinder at which the pressure coefficient is zero is ________ degrees (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-44-figure-1.png",
+            "alt": "Flow past a cylinder in polar coordinates",
+            "page": 11,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 11,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-44-figure-1.png",
+          "alt": "Flow past a cylinder in polar coordinates",
+          "page": 11,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 11,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 44,
+        "section": "AE",
+        "page": 11,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        30.0,
+        30.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            30.0,
+            30.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-45",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 45,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A cylindrical container of radius $R = 50\\text{ cm}$ is filled with water up to a height $h_0$. Upon rotating the cylinder about its central axis at a constant angular speed, the free surface takes a parabolic shape (see figure), and is displaced upwards by $h_1 = 10\\text{ cm}$ at $r = R$. The magnitude of the downward displacement $h_2$ of the free surface at $r = 0$ is ________ cm (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A cylindrical container of radius $R = 50\\text{ cm}$ is filled with water up to a height $h_0$. Upon rotating the cylinder about its central axis at a constant angular speed, the free surface takes a parabolic shape (see figure), and is displaced upwards by $h_1 = 10\\text{ cm}$ at $r = R$. The magnitude of the downward displacement $h_2$ of the free surface at $r = 0$ is ________ cm (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-45-figure-1.png",
+            "alt": "Rotating cylindrical container with free surface",
+            "page": 11,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 11,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-45-figure-1.png",
+          "alt": "Rotating cylindrical container with free surface",
+          "page": 11,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 11,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 45,
+        "section": "AE",
+        "page": 11,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        10.0,
+        10.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            10.0,
+            10.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-46",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 46,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A two-dimensional, incompressible fluid flow is described by the stream function $\\Psi = xy^3\\text{ m}^2\\text{/s}$ on the Cartesian $x$-$y$ plane. If the density and dynamic viscosity of the fluid are $1\\text{ kg/m}^3$ and $0.1\\text{ kg/m-s}$, respectively, the magnitude of the pressure gradient in the $x$ direction at $x=1\\text{ m}$ and $y=1\\text{ m}$ is ________ $\\text{N/m}^3$ (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A two-dimensional, incompressible fluid flow is described by the stream function $\\Psi = xy^3\\text{ m}^2\\text{/s}$ on the Cartesian $x$-$y$ plane. If the density and dynamic viscosity of the fluid are $1\\text{ kg/m}^3$ and $0.1\\text{ kg/m-s}$, respectively, the magnitude of the pressure gradient in the $x$ direction at $x=1\\text{ m}$ and $y=1\\text{ m}$ is ________ $\\text{N/m}^3$ (round off to 1 decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 46,
+        "section": "AE",
+        "page": 11,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        [
+          3.5,
+          3.7
+        ],
+        [
+          2.3,
+          2.5
+        ]
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            3.5,
+            3.7
+          ]
+        },
+        {
+          "range": [
+            2.3,
+            2.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-47",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 47,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The static pressure ratio across a stationary normal shock is given by\n$$\\frac{p_2}{p_1} = 1 + \\frac{2\\gamma}{\\gamma + 1}(\\text{M}_1^2 - 1),$$\nwhere $\\text{M}_1$ is the upstream Mach number. For a stationary normal shock in air ($\\gamma = 1.4, R = 287\\text{ J/kg-K}$) with upstream flow conditions given by: speed $800\\text{ m/s}$, static temperature $300\\text{ K}$ and static pressure $1\\text{ atm.}$, the static pressure downstream of the shock is ________ atm. (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The static pressure ratio across a stationary normal shock is given by\n$$\\frac{p_2}{p_1} = 1 + \\frac{2\\gamma}{\\gamma + 1}(\\text{M}_1^2 - 1),$$\nwhere $\\text{M}_1$ is the upstream Mach number. For a stationary normal shock in air ($\\gamma = 1.4, R = 287\\text{ J/kg-K}$) with upstream flow conditions given by: speed $800\\text{ m/s}$, static temperature $300\\text{ K}$ and static pressure $1\\text{ atm.}$, the static pressure downstream of the shock is ________ atm. (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 47,
+        "section": "AE",
+        "page": 12,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        5.95,
+        6.1
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            5.95,
+            6.1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-48",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 48,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "For a symmetric airfoil at an angle of attack of $10^\\circ$, assuming thin airfoil theory, the magnitude of the pitching moment coefficient about the leading edge is ________ (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a symmetric airfoil at an angle of attack of $10^\\circ$, assuming thin airfoil theory, the magnitude of the pitching moment coefficient about the leading edge is ________ (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 48,
+        "section": "AE",
+        "page": 12,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.24,
+        0.3
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.24,
+            0.3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-49",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 49,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The span-wise distribution of circulation over a finite wing of span $b = 10\\text{ m}$ is\n$$\\Gamma(y) = \\Gamma_0\\sqrt{1 - \\left(\\frac{2y}{b}\\right)^2}$$\nIf $\\Gamma_0 = 20\\text{ m}^2\\text{/s}$ and the free stream density and speed are $1.2\\text{ kg/m}^3$ and $100\\text{ m/s}$, respectively, the total lift is ________ kN (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The span-wise distribution of circulation over a finite wing of span $b = 10\\text{ m}$ is\n$$\\Gamma(y) = \\Gamma_0\\sqrt{1 - \\left(\\frac{2y}{b}\\right)^2}$$\nIf $\\Gamma_0 = 20\\text{ m}^2\\text{/s}$ and the free stream density and speed are $1.2\\text{ kg/m}^3$ and $100\\text{ m/s}$, respectively, the total lift is ________ kN (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 49,
+        "section": "AE",
+        "page": 12,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        18.0,
+        19.2
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            18.0,
+            19.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-50",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 50,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The airplane shown in figure starts executing a symmetric pull-up maneuver from steady level attitude with a constant nose-up pitch acceleration of $20\\text{ deg/s}^2$. The vertical load factor measured at this instant at the centre of gravity (CG) is 2. Given that the acceleration due to gravity is $9.81\\text{ m/s}^2$, the vertical load factor measured at point P on the nose of the airplane, which is 2 m ahead of the CG, is ________ (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The airplane shown in figure starts executing a symmetric pull-up maneuver from steady level attitude with a constant nose-up pitch acceleration of $20\\text{ deg/s}^2$. The vertical load factor measured at this instant at the centre of gravity (CG) is 2. Given that the acceleration due to gravity is $9.81\\text{ m/s}^2$, the vertical load factor measured at point P on the nose of the airplane, which is 2 m ahead of the CG, is ________ (round off to 2 decimal places)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-50-figure-1.png",
+            "alt": "Airplane pull up maneuver geometry",
+            "page": 12,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 12,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-50-figure-1.png",
+          "alt": "Airplane pull up maneuver geometry",
+          "page": 12,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 12,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 50,
+        "section": "AE",
+        "page": 12,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        2.06,
+        2.08
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            2.06,
+            2.08
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-51",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 51,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "Consider an airplane with a weight of $8000\\text{ N}$, wing area of $16\\text{ m}^2$, wing zero-lift drag coefficient of $0.02$, Oswald's efficiency factor of $0.8$, and wing aspect ratio of $6$, in steady level flight with wing lift coefficient of $0.375$. Considering the same flight speed and ambient density, the ratio of the induced drag coefficient during steady level flight to that during a $30^\\circ$ climb is ________ (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "Consider an airplane with a weight of $8000\\text{ N}$, wing area of $16\\text{ m}^2$, wing zero-lift drag coefficient of $0.02$, Oswald's efficiency factor of $0.8$, and wing aspect ratio of $6$, in steady level flight with wing lift coefficient of $0.375$. Considering the same flight speed and ambient density, the ratio of the induced drag coefficient during steady level flight to that during a $30^\\circ$ climb is ________ (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 51,
+        "section": "AE",
+        "page": 12,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        1.32,
+        1.35
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.32,
+            1.35
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-52",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 52,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The product of earth's mass ($M$) and the universal gravitational constant ($G$) is $GM = 3.986\\times 10^{14}\\text{ m}^3\\text{/s}^2$. The radius of earth is $6371\\text{ km}$. The minimum increment in the velocity to be imparted to a spacecraft flying in a circular orbit around the earth at an altitude of $4000\\text{ km}$ to make it exit earth's gravitational field is ________ km/s (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The product of earth's mass ($M$) and the universal gravitational constant ($G$) is $GM = 3.986\\times 10^{14}\\text{ m}^3\\text{/s}^2$. The radius of earth is $6371\\text{ km}$. The minimum increment in the velocity to be imparted to a spacecraft flying in a circular orbit around the earth at an altitude of $4000\\text{ km}$ to make it exit earth's gravitational field is ________ km/s (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 52,
+        "section": "AE",
+        "page": 12,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        2.54,
+        2.62
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            2.54,
+            2.62
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-53",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 53,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A propeller driven airplane has a gross take-off weight of 4905 N with a wing area of $6.84\\text{ m}^2$. Assume that the wings are operating at the maximum $C_L^{3/2}/C_D$ of 13, the propeller efficiency is 0.9 and the specific fuel consumption of the engine is $0.76\\text{ kg/kW-hr}$. Given that the density of air at sea level is $1.225\\text{ kg/m}^3$ and the acceleration due to gravity is $9.81\\text{ m/s}^2$, the weight of the fuel required for an endurance of 18 hours at sea level is ________ N (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A propeller driven airplane has a gross take-off weight of 4905 N with a wing area of $6.84\\text{ m}^2$. Assume that the wings are operating at the maximum $C_L^{3/2}/C_D$ of 13, the propeller efficiency is 0.9 and the specific fuel consumption of the engine is $0.76\\text{ kg/kW-hr}$. Given that the density of air at sea level is $1.225\\text{ kg/m}^3$ and the acceleration due to gravity is $9.81\\text{ m/s}^2$, the weight of the fuel required for an endurance of 18 hours at sea level is ________ N (round off to the nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 53,
+        "section": "AE",
+        "page": 13,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        1440.0,
+        1490.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1440.0,
+            1490.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-54",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 54,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The design of an airplane is modified to increase the vertical tail area by 20% and decrease the moment arm from the aerodynamic centre of the vertical tail to the airplane centre of gravity by 20%. Assuming all other factors remain unchanged, the ratio of the modified to the original directional static stability ($C_{N_\\beta}$ due to tail fin) is ________ (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The design of an airplane is modified to increase the vertical tail area by 20% and decrease the moment arm from the aerodynamic centre of the vertical tail to the airplane centre of gravity by 20%. Assuming all other factors remain unchanged, the ratio of the modified to the original directional static stability ($C_{N_\\beta}$ due to tail fin) is ________ (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 54,
+        "section": "AE",
+        "page": 13,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        0.96,
+        0.96
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            0.96,
+            0.96
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-55",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 55,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "For a rocket engine, the velocity ratio $r$ is $V_a/V_e$, where $V_a$ is the vehicle velocity and $V_e$ is the exit velocity of the exhaust gases. Assume the flow to be optimally expanded through the nozzle. For $r = 2$, if $F$ is the thrust produced and $\\dot{m}$ is the mass flow rate of exhaust gases, then, $F/(\\dot{m}V_e)$ is ________.",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a rocket engine, the velocity ratio $r$ is $V_a/V_e$, where $V_a$ is the vehicle velocity and $V_e$ is the exit velocity of the exhaust gases. Assume the flow to be optimally expanded through the nozzle. For $r = 2$, if $F$ is the thrust produced and $\\dot{m}$ is the mass flow rate of exhaust gases, then, $F/(\\dot{m}V_e)$ is ________."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 55,
+        "section": "AE",
+        "page": 13,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        1.0,
+        1.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-56",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 56,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The specific impulse of a rocket engine is $3000\\text{ Ns/kg}$. The mass of the rocket at burnout is $1000\\text{ kg}$. The propellant consumed in the process is $720\\text{ kg}$. Assume all factors contributing to velocity loss to be negligible. The change in vehicle velocity $\\Delta u$ is ________ km/s (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The specific impulse of a rocket engine is $3000\\text{ Ns/kg}$. The mass of the rocket at burnout is $1000\\text{ kg}$. The propellant consumed in the process is $720\\text{ kg}$. Assume all factors contributing to velocity loss to be negligible. The change in vehicle velocity $\\Delta u$ is ________ km/s (round off to 2 decimal places)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 56,
+        "section": "AE",
+        "page": 13,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        1.6,
+        1.65
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.6,
+            1.65
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-57",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 57,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The combustion products of a gas turbine engine can be assumed to be a calorically perfect gas with $\\gamma = 1.2$. The pressure ratio across the turbine stage is 0.14. The measured turbine inlet and exit stagnation temperatures are 1200 K and 900 K, respectively. The total-to-total turbine efficiency is ________ % (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The combustion products of a gas turbine engine can be assumed to be a calorically perfect gas with $\\gamma = 1.2$. The pressure ratio across the turbine stage is 0.14. The measured turbine inlet and exit stagnation temperatures are 1200 K and 900 K, respectively. The total-to-total turbine efficiency is ________ % (round off to the nearest integer)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 57,
+        "section": "AE",
+        "page": 13,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        88.0,
+        90.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            88.0,
+            90.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-58",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 58,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "The figure shows the velocity triangles for an axial compressor stage. The specific work input to the compressor stage is ________ kJ/kg (round off to 2 decimal places).",
+      "content": [
+        {
+          "type": "text",
+          "text": "The figure shows the velocity triangles for an axial compressor stage. The specific work input to the compressor stage is ________ kJ/kg (round off to 2 decimal places)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-58-figure-1.png",
+            "alt": "Velocity triangles for axial compressor stage",
+            "page": 13,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 13,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-58-figure-1.png",
+          "alt": "Velocity triangles for axial compressor stage",
+          "page": 13,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 13,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 58,
+        "section": "AE",
+        "page": 13,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        2.5,
+        2.6
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            2.5,
+            2.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-59",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 59,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "As shown in the figure, a rigid slab CD of weight $W$ (distributed uniformly along its length) is hung from a ceiling using three cables of identical length and cross-sectional area. The central cable is made of steel (Young's modulus = 3E) and the other two cables are made of aluminium (Young's modulus = E). The percentage of the total weight taken by the central cable is ________ % (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "As shown in the figure, a rigid slab CD of weight $W$ (distributed uniformly along its length) is hung from a ceiling using three cables of identical length and cross-sectional area. The central cable is made of steel (Young's modulus = 3E) and the other two cables are made of aluminium (Young's modulus = E). The percentage of the total weight taken by the central cable is ________ % (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-59-figure-1.png",
+            "alt": "Rigid slab suspended by three cables",
+            "page": 14,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 14,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-59-figure-1.png",
+          "alt": "Rigid slab suspended by three cables",
+          "page": 14,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 14,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 59,
+        "section": "AE",
+        "page": 14,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        60.0,
+        60.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            60.0,
+            60.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-60",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 60,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "All the bars in the given truss are elastic with Young's modulus 200 GPa, and have identical cross-sections with moment of inertia $0.1\\text{ cm}^4$. The lowest value of the load $P$ at which the truss fails due to buckling is ________ kN (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "All the bars in the given truss are elastic with Young's modulus 200 GPa, and have identical cross-sections with moment of inertia $0.1\\text{ cm}^4$. The lowest value of the load $P$ at which the truss fails due to buckling is ________ kN (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-60-figure-1.png",
+            "alt": "Triangular truss structure under load P",
+            "page": 14,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 14,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-60-figure-1.png",
+          "alt": "Triangular truss structure under load P",
+          "page": 14,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 14,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 60,
+        "section": "AE",
+        "page": 14,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        550.0,
+        570.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            550.0,
+            570.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-61",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 61,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A solid circular shaft is designed to transmit a torque $T$ with a factor of safety of 2. It is proposed to replace the solid shaft by a hollow shaft of the same material and identical outer radius. If the inner radius is half the outer radius, the factor of safety for the hollow shaft is ________ (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A solid circular shaft is designed to transmit a torque $T$ with a factor of safety of 2. It is proposed to replace the solid shaft by a hollow shaft of the same material and identical outer radius. If the inner radius is half the outer radius, the factor of safety for the hollow shaft is ________ (round off to 1 decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-61-figure-1.png",
+            "alt": "Cross sections of solid and hollow shafts",
+            "page": 14,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 14,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-61-figure-1.png",
+          "alt": "Cross sections of solid and hollow shafts",
+          "page": 14,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 14,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 61,
+        "section": "AE",
+        "page": 14,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        1.8,
+        1.9
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            1.8,
+            1.9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-62",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 62,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "In the structure shown in the figure, bars AB and BC are made of identical material and have circular cross-sections of 10 mm radii. The yield stress of the material under uniaxial tension is 280 MPa. Using the von Mises yield criterion, the maximum load along the $z$-direction (perpendicular to the plane of paper) that can be applied at C, such that AB does not yield is ________ N (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "In the structure shown in the figure, bars AB and BC are made of identical material and have circular cross-sections of 10 mm radii. The yield stress of the material under uniaxial tension is 280 MPa. Using the von Mises yield criterion, the maximum load along the $z$-direction (perpendicular to the plane of paper) that can be applied at C, such that AB does not yield is ________ N (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-62-figure-1.png",
+            "alt": "L-shaped bar structure ABC fixed at A",
+            "page": 15,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 15,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-62-figure-1.png",
+          "alt": "L-shaped bar structure ABC fixed at A",
+          "page": 15,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 15,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 62,
+        "section": "AE",
+        "page": 15,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        310.0,
+        320.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            310.0,
+            320.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-63",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 63,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "A thin-walled tube, with the cross-section shown in the figure, is subjected to a torque of $T = 1\\text{ kN-m}$. The walls have uniform thickness $t = 1\\text{ mm}$ and shear modulus $G = 26\\text{ GPa}$. Assume that the curved portion is semi-circular. The shear stress in the wall is ________ MPa (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "A thin-walled tube, with the cross-section shown in the figure, is subjected to a torque of $T = 1\\text{ kN-m}$. The walls have uniform thickness $t = 1\\text{ mm}$ and shear modulus $G = 26\\text{ GPa}$. Assume that the curved portion is semi-circular. The shear stress in the wall is ________ MPa (round off to 1 decimal place)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-63-figure-1.png",
+            "alt": "Cross section of thin walled tube",
+            "page": 15,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 15,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-63-figure-1.png",
+          "alt": "Cross section of thin walled tube",
+          "page": 15,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 15,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 63,
+        "section": "AE",
+        "page": 15,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        17.0,
+        17.5
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            17.0,
+            17.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-64",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 64,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "For a damped spring-mass system, mass $m = 10\\text{ kg}$, stiffness $k = 10^3\\text{ N/m}$, and damping coefficient $c = 20\\text{ kg/s}$. The ratio of the amplitude of oscillation of the first cycle to that of the fifth cycle is ________ (round off to 1 decimal place).",
+      "content": [
+        {
+          "type": "text",
+          "text": "For a damped spring-mass system, mass $m = 10\\text{ kg}$, stiffness $k = 10^3\\text{ N/m}$, and damping coefficient $c = 20\\text{ kg/s}$. The ratio of the amplitude of oscillation of the first cycle to that of the fifth cycle is ________ (round off to 1 decimal place)."
+        }
+      ],
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 64,
+        "section": "AE",
+        "page": 15,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        12.3,
+        12.6
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": false,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            12.3,
+            12.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gate-2019-ae-ae-65",
+      "exam": "GATE",
+      "year": 2019,
+      "paper": "AE",
+      "number": 65,
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "question": "For the system of springs and masses shown below, $k = 1250\\text{ N/m}$ and $m = 10\\text{ kg}$. The highest natural frequency, $\\omega$, of the system is ________ radians/s (round off to the nearest integer).",
+      "content": [
+        {
+          "type": "text",
+          "text": "For the system of springs and masses shown below, $k = 1250\\text{ N/m}$ and $m = 10\\text{ kg}$. The highest natural frequency, $\\omega$, of the system is ________ radians/s (round off to the nearest integer)."
+        },
+        {
+          "type": "figure",
+          "asset": {
+            "src": "figures/gate-2019-ae-ae-65-figure-1.png",
+            "alt": "System of two masses and three springs",
+            "page": 15,
+            "source": {
+              "file": "internal/ae/AE2019.pdf",
+              "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+              "page": 15,
+              "verificationStatus": "source-verified",
+              "verifiedOn": "2026-10-07"
+            },
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          }
+        }
+      ],
+      "figures": [
+        {
+          "src": "figures/gate-2019-ae-ae-65-figure-1.png",
+          "alt": "System of two masses and three springs",
+          "page": 15,
+          "source": {
+            "file": "internal/ae/AE2019.pdf",
+            "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+            "page": 15,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-07"
+          },
+          "verificationStatus": "source-verified",
+          "verifiedOn": "2026-10-07"
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "file": "internal/ae/AE2019.pdf",
+        "sha256": "0cdd918d7107844a23e1e99b69e6a095657de67f75c47335c8507336d3c7c43a",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-07"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "official key verified",
+      "answerSource": {
+        "url": "https://gate.iitm.ac.in/",
+        "paper": "AE",
+        "questionNumber": 65,
+        "section": "AE",
+        "page": 15,
+        "sha256": "d24a13e2a2c161a176034475e986700a0d10e05bf7fcff856a44d70af21fbfa4",
+        "verifiedOn": "2026-10-07"
+      },
+      "answer": [
+        25.0,
+        25.0
+      ],
+      "negativeMarks": 0.0,
+      "markingRule": "gate-2019-official",
+      "hasFigure": true,
+      "options": [],
+      "acceptedAnswers": [
+        {
+          "range": [
+            25.0,
+            25.0
+          ]
+        }
+      ]
+    }
+  ]
+}

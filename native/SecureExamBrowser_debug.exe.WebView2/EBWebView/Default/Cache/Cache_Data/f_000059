@@ -1,0 +1,862 @@
+{
+  "schemaVersion": 1,
+  "day": 6,
+  "year": 2026,
+  "paper": "CS2",
+  "title": "GATE 2026 · CS2 · General Aptitude",
+  "source": "Aptitude Sets/2026/CS2.pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-cs2-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Expedite, Hasten, Hurry, __________ Fill the blank by choosing a word with a meaning similar to that of the words given above.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accelerate"
+        },
+        {
+          "label": "B",
+          "text": "Retard"
+        },
+        {
+          "label": "C",
+          "text": "Provide"
+        },
+        {
+          "label": "D",
+          "text": "Disable"
+        }
+      ],
+      "sourceImage": "figures/day06-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              409.25
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Expedite, hasten and hurry all mean to make something happen faster. ‘Accelerate’ has the same meaning (A). ‘Retard’ means to slow down.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs2-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A black square PQRS has been cut into two parts. One part of it is shown in Panel I. Which one of the shapes in Panel II is the other part?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-02-option-A.png",
+            "alt": "Shape i: first stepped black candidate.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 2,
+              "image": "Im1.png",
+              "pixelCrop": [
+                480,
+                81,
+                707,
+                265
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "(ii)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-02-option-B.png",
+            "alt": "Shape ii: second stepped black candidate.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 2,
+              "image": "Im1.png",
+              "pixelCrop": [
+                790,
+                82,
+                1013,
+                265
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "(iii)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-02-option-C.png",
+            "alt": "Shape iii: third stepped black candidate.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 2,
+              "image": "Im1.png",
+              "pixelCrop": [
+                480,
+                364,
+                707,
+                546
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "(iv)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-02-option-D.png",
+            "alt": "Shape iv: fourth stepped black candidate.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 2,
+              "image": "Im1.png",
+              "pixelCrop": [
+                790,
+                364,
+                1013,
+                546
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day06-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              616.06
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Trace the unfilled part inside square PQRS, including the opening on its right edge. Its stepped boundary matches shape (iii) in the orientation shown. The other candidates have an extra or missing block along the lower branch and cannot fill the square without overlap or a gap. Thus C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs2-ga-02-figure-1.png",
+          "alt": "Panel I: square PQRS, P bottom-left, Q bottom-right, R top-right, S top-left. A stepped part is missing from the black square, opening at its right edge.",
+          "caption": "Panel I",
+          "source": {
+            "file": "Aptitude Sets/2026/CS2.pdf",
+            "page": 2,
+            "image": "Im1.png",
+            "pixelCrop": [
+              12,
+              181,
+              298,
+              490
+            ],
+            "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs2-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A day can only be cloudy or sunny. The probability of a day being cloudy is 0.5, independent of the condition on other days. What is the probability that in any given four days, there will be three cloudy days and one sunny day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/4"
+        },
+        {
+          "label": "B",
+          "text": "3/4"
+        },
+        {
+          "label": "C",
+          "text": "2/3"
+        },
+        {
+          "label": "D",
+          "text": "3/8"
+        }
+      ],
+      "sourceImage": "figures/day06-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              377.21
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Choose the sunny day in 4 ways. Any specified sequence of three cloudy days and one sunny day has probability (1/2)⁴ = 1/16 by independence. Total probability = 4/16 = 1/4 (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs2-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The values of Stock A and Stock B on a particular day are Rs. 50 and Rs. 80, respectively. An investor invests Rs. 100 in Stock A and Rs. 80 in Stock B. He sells all the stocks the next day when the value of Stock A is Rs. 55 and Stock B is Rs. 70. The profit made by the investor is Rs. ________",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        }
+      ],
+      "sourceImage": "figures/day06-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              365.21
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Rs. 100 buys 2 units of A at Rs. 50, and Rs. 80 buys 1 unit of B. The next-day proceeds are 2×55 + 70 = Rs. 180, equal to the original Rs. 180 investment. Profit = Rs. 0 (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs2-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘When it is raining, peacocks dance.’\nBased only on this sentence, which one of the following options is necessarily true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peacocks dance only when it is raining."
+        },
+        {
+          "label": "B",
+          "text": "When peacocks dance, it is raining."
+        },
+        {
+          "label": "C",
+          "text": "When peacocks are not dancing, it is not raining."
+        },
+        {
+          "label": "D",
+          "text": "When it is not raining, peacocks do not dance."
+        }
+      ],
+      "sourceImage": "figures/day06-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              404.5,
+              565.32,
+              672.94
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The statement is rain ⇒ dancing. Its logically equivalent contrapositive is not dancing ⇒ no rain (C). The converse and inverse are not guaranteed; peacocks might dance for another reason.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs2-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Water : P :: Food : Q\nChoose the P and Q combination from the options below to form a meaningful analogy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "P = Thirst; Q = Hunger"
+        },
+        {
+          "label": "B",
+          "text": "P = Drink; Q = Hunger"
+        },
+        {
+          "label": "C",
+          "text": "P = Thirst; Q = Satiated"
+        },
+        {
+          "label": "D",
+          "text": "P = Wet; Q = Critic"
+        }
+      ],
+      "sourceImage": "figures/day06-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              386.33
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Water satisfies thirst, just as food satisfies hunger. Keeping the same relationship on both sides gives P = Thirst and Q = Hunger (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-cs2-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Two tiles are missing in Panel I. Which one of the options in Panel II is the appropriate choice for the missing tiles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-07-option-A.png",
+            "alt": "Tile i: seven filled dots above two filled dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                489,
+                115,
+                611,
+                325
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "(ii)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-07-option-B.png",
+            "alt": "Tile ii: six filled dots above two filled dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                786,
+                115,
+                908,
+                325
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "(iii)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-07-option-C.png",
+            "alt": "Tile iii: seven filled dots above three filled dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                489,
+                444,
+                611,
+                655
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "(iv)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-07-option-D.png",
+            "alt": "Tile iv: six filled dots above three filled dots.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 6,
+              "image": "Im1.png",
+              "pixelCrop": [
+                786,
+                444,
+                908,
+                655
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day06-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              672.94
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Count filled dots in each tile. The grid is 8, 1, 6 / 3, 5, ? / 4, 9, ?. The completed row and columns each sum to 15. The missing middle-right value is 15 − 3 − 5 = 7; the bottom-right is 15 − 4 − 9 = 2. Option (i) has seven filled dots above two, so A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs2-ga-07-figure-1.png",
+          "alt": "Panel I: three-by-three grid of dot tiles. Filled-dot counts by row: 8, 1, 6; 3, 5, missing; 4, 9, missing.",
+          "caption": "Panel I",
+          "source": {
+            "file": "Aptitude Sets/2026/CS2.pdf",
+            "page": 6,
+            "image": "Im1.png",
+            "pixelCrop": [
+              0,
+              227,
+              339,
+              535
+            ],
+            "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs2-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Figures (i) and (ii) represent intercity highway systems. The black dots represent cities and the line segments between them represent intercity highways. A salesperson needs to make a trip. She needs to start from a city, visit each of the remaining cities exactly once, and finally return to the same city from which she started.\nWhich one of the following options is then true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Such a trip is possible for (i), but not for (ii)."
+        },
+        {
+          "label": "B",
+          "text": "Such a trip is possible for (ii), but not for (i)."
+        },
+        {
+          "label": "C",
+          "text": "Such a trip is possible for both (i) and (ii)."
+        },
+        {
+          "label": "D",
+          "text": "Such a trip is possible neither for (i) nor for (ii)."
+        }
+      ],
+      "sourceImage": "figures/day06-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              598.9
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "This asks for a cycle that visits every vertex exactly once. In (i), the 4×4 grid admits one: reserve the leftmost column for the return and snake through the other three columns, joining back across the top and bottom. In (ii), the graph is bipartite with groups of sizes 2 and 3. Any cycle must alternate groups and therefore contain equally many vertices from each. It cannot include all five cities. Only (i) allows the trip (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs2-ga-08-figure-1.png",
+          "alt": "Graph i: four-by-four rectangular grid of cities with horizontal and vertical highways between immediate neighbors. Graph ii: two cities each connected to the same three intermediate cities; no other highways.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/CS2.pdf",
+            "page": 7,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs2-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The figure in Panel I below is a grid of cells with four rows and four columns.\nThe numbers on the top and on the left represent the number of cells that are to be shaded in that column and row, respectively. Which one of the options shown in Panel II below represents the grid shaded correctly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-09-option-A.png",
+            "alt": "Grid i: shaded columns by row are 1,3,4 / 2,4 / 3 / 1,2.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 8,
+              "image": "Im1.png",
+              "pixelCrop": [
+                388,
+                55,
+                677,
+                343
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "(ii)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-09-option-B.png",
+            "alt": "Grid ii: shaded columns by row are 1,3,4 / 2 / 3,4 / 1,2.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 8,
+              "image": "Im1.png",
+              "pixelCrop": [
+                733,
+                55,
+                1019,
+                343
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "(iii)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-09-option-C.png",
+            "alt": "Grid iii: shaded columns by row are 1,3,4 / 2,3 / 3 / 1,2.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 8,
+              "image": "Im1.png",
+              "pixelCrop": [
+                388,
+                410,
+                677,
+                699
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "(iv)",
+          "figure": {
+            "src": "figures/gate-2026-cs2-ga-09-option-D.png",
+            "alt": "Grid iv: shaded columns by row are 1,3,4 / 2 / 3 / 1,2,4.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/CS2.pdf",
+              "page": 8,
+              "image": "Im1.png",
+              "pixelCrop": [
+                733,
+                410,
+                1019,
+                699
+              ],
+              "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day06-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              662.74
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "The required row counts, top to bottom, are 3, 1, 2, 2, and every column must contain 2 shaded cells. In (ii), the shaded columns by row are {1, 3, 4}, {2}, {3, 4}, {1, 2}. These satisfy all eight totals. The other options fail a row total. Hence B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-cs2-ga-09-figure-1.png",
+          "alt": "Panel I: four-by-four grid. Required row totals, top to bottom: 3, 1, 2, 2. Required column totals, left to right: 2, 2, 2, 2.",
+          "caption": "Panel I",
+          "source": {
+            "file": "Aptitude Sets/2026/CS2.pdf",
+            "page": 8,
+            "image": "Im1.png",
+            "pixelCrop": [
+              15,
+              213,
+              329,
+              531
+            ],
+            "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-cs2-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "CS2",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "An unbiased six-faced dice whose faces are marked with numbers 1, 2, 3, 4, 5, and 6 is rolled twice in succession and the number on the top face is recorded each time. The probability that the sum of the two recorded numbers is a prime number is ________",
+      "options": [
+        {
+          "label": "A",
+          "text": "3/36"
+        },
+        {
+          "label": "B",
+          "text": "13/36"
+        },
+        {
+          "label": "C",
+          "text": "15/36"
+        },
+        {
+          "label": "D",
+          "text": "19/36"
+        }
+      ],
+      "sourceImage": "figures/day06-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/CS2.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              163.61,
+              565.32,
+              487.27
+            ]
+          }
+        ],
+        "sha256": "5016950bc4e5c96676fb526e3247bab243a3dde422b6cb40a8531cc9b45f36ff"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Possible prime sums are 2, 3, 5, 7 and 11. They occur in 1, 2, 4, 6 and 2 ordered outcomes respectively. There are 15 favorable outcomes out of 36 equally likely ones. Probability = 15/36 (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/CS2_Keys.pdf",
+        "paper": "CS2",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    }
+  ]
+}

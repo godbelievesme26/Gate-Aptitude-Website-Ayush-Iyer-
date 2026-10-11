@@ -1,0 +1,90 @@
+[
+  {
+    "theme": "light",
+    "width": 1440,
+    "height": 900,
+    "continueBottom": 646.8021240234375,
+    "continueVisible": true,
+    "dialogWidth": 999,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 999
+  },
+  {
+    "theme": "light",
+    "width": 768,
+    "height": 1024,
+    "continueBottom": 710.5625,
+    "continueVisible": true,
+    "dialogWidth": 703,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 703
+  },
+  {
+    "theme": "light",
+    "width": 390,
+    "height": 844,
+    "continueBottom": 757.3646240234375,
+    "continueVisible": true,
+    "dialogWidth": 357,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 357
+  },
+  {
+    "theme": "light",
+    "width": 320,
+    "height": 740,
+    "continueBottom": 719.3333740234375,
+    "continueVisible": true,
+    "dialogWidth": 287,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 287
+  },
+  {
+    "theme": "dark",
+    "width": 1440,
+    "height": 900,
+    "continueBottom": 646.8021240234375,
+    "continueVisible": true,
+    "dialogWidth": 999,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 999
+  },
+  {
+    "theme": "dark",
+    "width": 768,
+    "height": 1024,
+    "continueBottom": 710.5625,
+    "continueVisible": true,
+    "dialogWidth": 703,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 703
+  },
+  {
+    "theme": "dark",
+    "width": 390,
+    "height": 844,
+    "continueBottom": 757.3646240234375,
+    "continueVisible": true,
+    "dialogWidth": 357,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 357
+  },
+  {
+    "theme": "dark",
+    "width": 320,
+    "height": 740,
+    "continueBottom": 719.3333740234375,
+    "continueVisible": true,
+    "dialogWidth": 287,
+    "newNumberAnimation": "none",
+    "oldNumberDisplay": "none",
+    "scrollWidth": 287
+  }
+]

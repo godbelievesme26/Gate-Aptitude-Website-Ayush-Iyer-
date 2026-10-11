@@ -1,0 +1,1260 @@
+{
+  "2": {
+    "1": {
+      "question": "Courage : Bravery :: Yearning : __________ Select the most appropriate option to complete the analogy.",
+      "options": [
+        "Longing",
+        "Yelling",
+        "Yawning",
+        "Glaring"
+      ],
+      "solution": "Both pairs are synonyms. Courage means bravery; yearning means a strong longing for something. Thus Longing (A) completes the analogy."
+    },
+    "2": {
+      "question": "We __________ tennis in the lawn when it suddenly started to rain. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "have been playing",
+        "had been playing",
+        "would have been playing",
+        "could be playing"
+      ],
+      "solution": "The rain began at a past time, interrupting an activity already in progress. Among these choices, “had been playing” supplies the appropriate past perfect continuous form. The present perfect “have been playing” does not fit that past reference. Answer: B."
+    },
+    "3": {
+      "question": "A 4 × 4 digital image has pixel intensities (U) as shown in the figure. The number of pixels with U ≤ 4 is:",
+      "options": [
+        "3",
+        "8",
+        "11",
+        "9"
+      ],
+      "solution": "Count the entries no greater than 4 row by row: (0,1,0,2) contributes 4; (4,7,3,3) contributes 3; (5,5,4,4) contributes 2; (6,7,3,2) contributes 2. Total = 4+3+2+2 = 11 pixels, option C.",
+      "table": {
+        "label": "Pixel intensities U",
+        "rows": [
+          [
+            0,
+            1,
+            0,
+            2
+          ],
+          [
+            4,
+            7,
+            3,
+            3
+          ],
+          [
+            5,
+            5,
+            4,
+            4
+          ],
+          [
+            6,
+            7,
+            3,
+            2
+          ]
+        ]
+      }
+    },
+    "4": {
+      "question": "In the given figure, the numbers associated with the rectangle, triangle, and ellipse are 1, 2, and 3, respectively. Which one among the given options is the most appropriate combination of P, Q, and R ?",
+      "options": [
+        "P = 6; Q = 5; R = 3",
+        "P = 5; Q = 6; R = 3",
+        "P = 3; Q = 6; R = 6",
+        "P = 5; Q = 3; R = 6"
+      ],
+      "solution": "The number in each region is the sum of the numbers of the shapes containing it. P lies in all three shapes, so P=1+2+3=6. Q lies in the triangle and ellipse only, so Q=2+3=5. R lies in the rectangle and triangle only, so R=1+2=3. This is A.",
+      "figureAlts": [
+        "Overlapping rectangle, triangle and ellipse: P is common to all three, Q to triangle and ellipse, R to triangle and rectangle; regions 1 to 4 label the other areas."
+      ]
+    },
+    "5": {
+      "question": "A rectangle has a length L and a width W, where L > W. If the width, W, is increased by 10%, which one of the following statements is correct for all values of L and W?",
+      "options": [
+        "Perimeter increases by 10%.",
+        "Length of the diagonals increases by 10%.",
+        "Area increases by 10%.",
+        "The rectangle becomes a square."
+      ],
+      "solution": "The original area is LW. With width 1.1W and unchanged length L, the area becomes 1.1LW: exactly a 10% increase. The perimeter increase is only 0.2W/[2(L+W)], and the diagonal increase depends on L/W. A square is not guaranteed. Answer: C."
+    },
+    "6": {
+      "question": "Column-I has statements made by Shanthala; and, Column-II has responses given by Kanishk.",
+      "options": [
+        "P – 2; Q – 3; R – 1; S – 4",
+        "P – 3; Q – 4; R – 1; S – 2",
+        "P – 4; Q – 1; R – 2; S – 3",
+        "P – 1; Q – 2; R – 4; S – 3"
+      ],
+      "solution": "A messy house calls for “clear it up” (P–3). Disputed marks call for taking the matter up with the teacher (Q–4). Avoiding politics calls for not bringing it up (R–1). An unfamiliar word can be looked up (S–2). Hence P–3, Q–4, R–1, S–2: B.",
+      "table": {
+        "headers": [
+          "Column-I",
+          "Column-II"
+        ],
+        "rows": [
+          [
+            "P. This house is in a mess.",
+            "1. Alright, I won’t bring it up during our conversations."
+          ],
+          [
+            "Q. I am not happy with the marks given to me.",
+            "2. Well, you can easily look it up."
+          ],
+          [
+            "R. Politics is a subject I avoid talking about.",
+            "3. No problem, let me clear it up for you."
+          ],
+          [
+            "S. I don’t know what this word means.",
+            "4. Don’t worry, I will take it up with your teacher."
+          ]
+        ]
+      },
+      "afterTable": "Identify the option that has the correct match between Column-I and Column-II."
+    },
+    "7": {
+      "question": "Weight of a person can be expressed as a function of their age. The function usually varies from person to person. Suppose this function is identical for two brothers, and it monotonically increases till the age of 50 years and then it monotonically decreases. Let a_{1} and a_{2} (in years) denote the ages of the brothers and a_{1} < a_{2}.\nWhich one of the following statements is correct about their age on the day when they attain the same weight?",
+      "options": [
+        "a_{1} < a_{2} < 50",
+        "a_{1} < 50 < a_{2}",
+        "50 < a_{1} < a_{2}",
+        "Either a_{1} = 50 or a_{2} = 50"
+      ],
+      "solution": "On the increasing side of the weight–age curve, two different ages have different weights; the same holds on the decreasing side. To have equal weights at distinct ages, the brothers must lie on opposite sides of the maximum at age 50. Thus a₁<50<a₂, option B."
+    },
+    "8": {
+      "question": "A regular dodecagon (12-sided regular polygon) is inscribed in a circle of radius r cm as shown in the figure. The side of the dodecagon is d cm. All the triangles (numbered 1 to 12) in the figure are used to form squares of side r cm and each numbered triangle is used only once to form a square. The number of squares that can be formed and the number of triangles required to form each square, respectively, are: Note: The figure shown is representative.",
+      "options": [
+        "3; 4",
+        "4; 3",
+        "3; 3",
+        "3; 2"
+      ],
+      "solution": "Join the center of the regular dodecagon to all twelve vertices. Each resulting central triangle has area (1/2)r² sin 30° = r²/4, so the polygon has area 12 × r²/4 = 3r². Rearranging all the given pieces preserves this area. Each square has area r², so exactly three squares can be formed. There are twelve numbered pieces; four pieces per square use all twelve. Of the given choices, only 3 squares with 4 triangles each satisfies both the area and piece-count requirements. Choose A.",
+      "figureAlts": [
+        "A circle partitioned into twelve numbered triangles, including three small triangles outside the circle."
+      ]
+    },
+    "9": {
+      "question": "If a real variable x satisfies 3^{x²} = 27 × 9^{x}, then the value of 2^{x²}/(2^{x})² is:",
+      "options": [
+        "2^{−1}",
+        "2^{0}",
+        "2^{3}",
+        "2^{15}"
+      ],
+      "solution": "Write 27×9^{x}=3^{3+2x}. Equality of powers of 3 gives x²=3+2x, so x²−2x=3 (indeed x=3 or −1). The required quotient is 2^{x²}/(2^{x})²=2^{x²−2x}=2³. Both roots give option C."
+    },
+    "10": {
+      "question": "The number of patients per shift (X) consulting Dr. Gita in her past 100 shifts is shown in the figure. If the amount she earns is ₹ 1000(X−0.2), what is the average amount (in ₹) she has earned per shift in the past 100 shifts? Note: The figure shown is representative.",
+      "options": [
+        "6,100",
+        "6,300",
+        "6,000",
+        "6,500"
+      ],
+      "solution": "The chart gives 20, 40, 30 and 10 shifts with 5, 6, 7 and 8 patients, respectively. Mean X=(20×5+40×6+30×7+10×8)/100=6.3. Since earnings are linear in X, mean earnings=1000(6.3−0.2)=₹6,100. Answer: A.",
+      "figureAlts": [
+        "Bar chart of patients per shift: 5 patients for 20 shifts, 6 for 40 shifts, 7 for 30 shifts and 8 for 10 shifts."
+      ]
+    }
+  },
+  "9": {
+    "1": {
+      "question": "Suresh said, “I did it yesterday.” Which one of the following options is the correct form of this sentence in indirect speech?",
+      "options": [
+        "Suresh said that I did it yesterday.",
+        "Suresh says I did it yesterday.",
+        "Suresh says that he did it the day before.",
+        "Suresh said that he had done it the day before."
+      ],
+      "solution": "With the past reporting verb “said”, “I” becomes “he”, “did” becomes “had done”, and “yesterday” becomes “the day before”. The resulting sentence is “Suresh said that he had done it the day before.” Answer: D."
+    },
+    "2": {
+      "question": "To continue the sequence of tiles shown, the tile indicated by the question mark should be",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "The tiles contain 0, 1, 1, 2, 3 and 5 dots. Each count is the sum of the previous two, so the next count is 3+5=8. Option C contains eight dots.",
+      "figureAlts": [
+        "Sequence of squares containing 0, 1, 1, 2, 3 and 5 dots, followed by an unknown square."
+      ],
+      "optionAlts": [
+        "Four dots at the corners.",
+        "Six dots in two columns of three.",
+        "Eight dots around the perimeter of a square.",
+        "Nine dots in a three-by-three grid."
+      ]
+    },
+    "3": {
+      "question": "Consider an art gallery whose walkways are shown as lines in the diagram. A black dot represents a junction of two walkways. A guard may be placed at a junction to watch over the walkways that join at that junction. The minimum number of guards needed to watch all the walkways is ________.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "solution": "The walkways form a five-edge cycle. One guard covers the two edges meeting at that junction. Two guards cover at most four distinct edges, so at least three are needed. Three suitably alternating junctions cover all five edges. The minimum is 3, option B.",
+      "figureAlts": [
+        "Five junctions connected in a closed cycle of five walkways."
+      ]
+    },
+    "4": {
+      "question": "The 2nd of June is a Thursday in a certain year. Which day of the week is the 3rd of July in that year?",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "solution": "From 2 June to 2 July is 30 days; 3 July is one more day later. Thus the shift is 31 mod 7=3 weekdays. Three days after Thursday is Sunday, option D."
+    },
+    "5": {
+      "question": "A coin with heads facing up is shown as Ⓗ and a coin with tails facing up is shown as Ⓣ. Six coins are placed in the Starting Arrangement, as shown in the figure below. A “step” is defined as interchanging a pair of adjacent coins without flipping them. The minimum number of steps needed to go from the Starting Arrangement to the Final Arrangement, as shown in the figure, is ________.",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "solution": "The starting order is HHHTTT and the target is TTTHHH. Each of the three H coins must pass each of the three T coins. One adjacent interchange resolves exactly one such H–T pair. Therefore at least 3×3=9 swaps are needed, and moving each T left achieves that bound. Answer: C.",
+      "figureAlts": [
+        "Starting arrangement H H H T T T; final arrangement T T T H H H."
+      ]
+    },
+    "6": {
+      "question": "Exacerbate : Mitigate :: ___________ Choose the option with the correct pair of words to fill the blank.",
+      "options": [
+        "Aggravate : Alleviate",
+        "Alleviate : Precipitate",
+        "Aggravate : Precipitate",
+        "Emancipate : Exonerate"
+      ],
+      "solution": "Exacerbate means make worse; mitigate means make less severe. Aggravate and alleviate reproduce that ordered opposition. “Precipitate” means cause to happen, and the other pairs do not express the same relationship. Answer: A."
+    },
+    "7": {
+      "question": "A paper shown in Panel I is folded along the dashed lines (- - -) to construct a cube. The shaded regions shown in Panel I appear on the outer surface of the cube. Referring to cubes shown in Panel II, which one of the options is correct?",
+      "options": [
+        "Only (i) can correspond to the unfolded cube in Panel I.",
+        "Only (ii) can correspond to the unfolded cube in Panel I.",
+        "Both (i) and (ii) can correspond to the unfolded cube in Panel I.",
+        "Neither (i) nor (ii) can correspond to the unfolded cube in Panel I."
+      ],
+      "solution": "Only cube (ii) can be formed, so choose B. Fold around the dashed central face: the vertical-stripe face is opposite the half-shaded face; the triangular patch is opposite the horizontal-stripe face; and the L-shaped patch is opposite the small square patch. In cube (i), the top stripe cannot be the central stripe because the half-shaded face is adjacent. It would have to be the other striped face, whose stripe must run perpendicular to its shared edge with the L-shaped face. The drawing instead shows it parallel. Cube (ii) preserves both the face adjacencies and the patch orientations.",
+      "figureAlts": [
+        "Cube net with a central vertical stripe, upper triangular patch, left L-shaped patch, right square patch, lower horizontal stripe and bottom half-shaded face.",
+        "Cube (i): L-shaped front, narrow striped top, and half-shaded right face.",
+        "Cube (ii): triangular patch on front, half-shaded top, and square patch on right."
+      ]
+    },
+    "8": {
+      "question": "In a population, patients who have high cholesterol also have high blood-pressure (BP). Some patients with high BP also have diabetes. There are no patients who have both high cholesterol and diabetes. Furthermore,\n1. the total number of patients with at least one of these conditions is 75,\n2. the number of patients with high cholesterol is 10,\n3. the number of patients with high BP is 45, and\n4. the number of patients with only high BP and no other conditions is 20. Then the number of patients who have both diabetes and high BP is _______",
+      "options": [
+        "0",
+        "15",
+        "20",
+        "10"
+      ],
+      "solution": "All 10 high-cholesterol patients are among the 45 high-BP patients, and none has diabetes. The high-BP group therefore splits into 20 BP-only, 10 BP-and-cholesterol, and x BP-and-diabetes patients. Hence 20+10+x=45, giving x=15. Answer: B."
+    },
+    "9": {
+      "question": "Four people P, Q, R, and S, of different ages, make the following observations. P – I am younger than S. Q – I am neither the youngest nor the oldest. R – P is older than me. Based on these observations, the youngest person is ______.",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "solution": "P is younger than S and older than R, so R<P<S. Q cannot be the youngest. P and S also cannot be the youngest because R is younger than both. Therefore R is the youngest, option C."
+    },
+    "10": {
+      "question": "Circles C_{1}, C_{2}, and C_{3}, with centers O_{1}, O_{2}, and O_{3}, and radii r_{1}, r_{2}, and r_{3}, respectively, touch each other as shown in the following figure. Given r_{1} = 2 cm, r_{2} = 1 cm and the angle ∠O_{1}O_{3}O_{2} is 90°, r_{3} = _____ cm.",
+      "options": [
+        "(−3+√17)/2",
+        "(3+√17)/2",
+        "(−2+√17)/2",
+        "(−3+2√17)/2"
+      ],
+      "solution": "External tangency gives O₁O₂=2+1=3, O₁O₃=2+r₃ and O₂O₃=1+r₃. The right angle is at O₃, so (2+r₃)²+(1+r₃)²=3². This simplifies to r₃²+3r₃−2=0. The positive root is (−3+√17)/2 cm, option A.",
+      "figureAlts": [
+        "Three externally tangent circles with center O3 forming a right angle between the segments to centers O1 and O2."
+      ]
+    }
+  },
+  "10": {
+    "1": {
+      "question": "Is there any good show _______ television tonight? Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "in",
+        "at",
+        "within",
+        "on"
+      ],
+      "solution": "The standard expression is “on television”. “In”, “at” and “within” do not describe a show being broadcast in this sentence. Answer: D."
+    },
+    "2": {
+      "question": "As the police officer was found guilty of embezzlement, he was _______ dismissed from the service in accordance with the Service Rules. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "sumptuously",
+        "brazenly",
+        "unintentionally",
+        "summarily"
+      ],
+      "solution": "“Summarily dismissed” means dismissed directly or without delay, a conventional expression for removal from service. “Sumptuously” concerns luxury, “brazenly” describes shameless conduct, and “unintentionally” contradicts deliberate disciplinary action. Answer: D."
+    },
+    "3": {
+      "question": "The sum of the following infinite series is:\n1/1! + 1/2! + 1/3! + 1/4! + 1/5! +⋯",
+      "options": [
+        "π",
+        "1+e",
+        "e−1",
+        "e"
+      ],
+      "solution": "The exponential series is e=1+1/1!+1/2!+1/3!+⋯. Removing the initial 1 leaves the stated sum e−1. Answer: C."
+    },
+    "4": {
+      "question": "A thin wire is used to construct all the edges of a cube of 1 m side by bending, cutting and soldering the wire. If the wire is 12 m long, what is the minimum number of cuts required to construct the wire frame to form the cube?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "12"
+      ],
+      "solution": "Each of the cube’s eight vertices has odd degree 3. A continuous wire trail can have only two odd-degree endpoints, so covering every edge exactly once needs at least 8/2=4 wire pieces. Such a four-trail decomposition exists. Cutting a single wire into four pieces requires 3 cuts. Answer: A."
+    },
+    "5": {
+      "question": "The figures I, II and III are parts of a sequence. Which one of the following options comes next in the sequence at IV?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "The shaded sector grows from 90° to 135° to 180°: an increase of 45° each time. Its starting radius also advances a quarter-turn clockwise. The next sector is 225°, starting at the downward radius and continuing clockwise through the left and top of the circle. Option B has this sector and orientation.",
+      "figureAlts": [
+        "Sequence of circular shaded sectors I, II, III, followed by the missing fourth sector."
+      ],
+      "optionAlts": [
+        "Option A: shaded sector pattern, reproduced from the source paper.",
+        "Option B: shaded sector pattern, reproduced from the source paper.",
+        "Option C: shaded sector pattern, reproduced from the source paper.",
+        "Option D: shaded sector pattern, reproduced from the source paper."
+      ]
+    },
+    "6": {
+      "question": "“Why do they pull down and do away with crooked streets, I wonder, which are my delight, and hurt no man living? Every day the wealthier nations are pulling down one or another in their capitals and their great towns: they do not know why they do it; neither do I. It ought to be enough, surely, to drive the great broad ways which commerce needs and which are the life-channels of a modern city, without destroying all history and all the humanity in between: the islands of the past.” (From Hilaire Belloc’s “The Crooked Streets”) Based only on the information provided in the above passage, which one of the following statements is true?",
+      "options": [
+        "The author of the passage takes delight in wondering.",
+        "The wealthier nations are pulling down the crooked streets in their capitals.",
+        "In the past, crooked streets were only built on islands.",
+        "Great broad ways are needed to protect commerce and history."
+      ],
+      "solution": "The passage explicitly says that wealthier nations are pulling down crooked streets in their capitals and great towns. That is statement B. The “islands of the past” are a metaphor for surviving history, not a claim that the streets were built on islands."
+    },
+    "7": {
+      "question": "Rohit goes to a restaurant for lunch at about 1 PM. When he enters the restaurant, he notices that the hour and minute hands on the wall clock are exactly coinciding. After about an hour, when he leaves the restaurant, he notices that the clock hands are again exactly coinciding. How much time (in minutes) did Rohit spend at the restaurant?",
+      "options": [
+        "64 6/11",
+        "66 5/13",
+        "65 5/11",
+        "66 6/13"
+      ],
+      "solution": "The minute hand gains on the hour hand at 6−0.5=5.5 degrees per minute. Between consecutive coincidences it must gain 360°. Time=360/5.5=720/11=65 5/11 minutes. Answer: C."
+    },
+    "8": {
+      "question": "A color model is shown in the figure with color codes: Yellow (Y), Magenta (M), Cyan (Cy), Red (R), Blue (Bl), Green (G), and Black (K). Which one of the following options displays the color codes that are consistent with the color model?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "Treat the three primary-color shapes as sets: Y∩M is R, M∩Cy is Bl, Y∩Cy is G, and the triple overlap is K. In option A every region follows these assignments, including the two separated triple-overlap regions. The other options mislabel at least one overlap. Answer: A.",
+      "figureAlts": [
+        "Subtractive color overlaps: yellow, magenta and cyan; pairwise overlaps red, green and blue; central overlap black."
+      ],
+      "optionAlts": [
+        "Option A: overlapping color-labelled regions, reproduced from the source paper.",
+        "Option B: overlapping color-labelled regions, reproduced from the source paper.",
+        "Option C: overlapping color-labelled regions, reproduced from the source paper.",
+        "Option D: overlapping color-labelled regions, reproduced from the source paper."
+      ]
+    },
+    "9": {
+      "question": "A circle with center at (x,y) = (0.5, 0) and radius = 0.5 intersects with another circle with center at (x,y) = (1,1) and radius = 1 at two points. One of the points of intersection (x,y) is:",
+      "options": [
+        "(0,0)",
+        "(0.2,0.4)",
+        "(0.5,0.5)",
+        "(1,2)"
+      ],
+      "solution": "For (0.2,0.4), distance squared from (0.5,0) is (−0.3)²+0.4²=0.25=0.5². Distance squared from (1,1) is (−0.8)²+(−0.6)²=1. Both circle equations hold. The other listed points fail at least one equation. Answer: B."
+    },
+    "10": {
+      "question": "An object is said to have an n-fold rotational symmetry if the object, rotated by an angle of 2π/n, is identical to the original.\nWhich one of the following objects exhibits 4-fold rotational symmetry about an axis perpendicular to the plane of the screen?\nNote: The figures shown are representative.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "Four-fold rotational symmetry requires the complete marked shape to match after each 90° turn. In B, the dot at the top arm’s upper-right corner rotates to the right arm’s lower-right, then the bottom arm’s lower-left, then the left arm’s upper-left. All four marked corners agree. Other options break this cycle. Answer: B.",
+      "optionAlts": [
+        "Option A: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+        "Option B: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+        "Option C: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+        "Option D: cross-shaped arrangement with corner dots, reproduced from the source paper."
+      ]
+    }
+  },
+  "11": {
+    "1": {
+      "question": "Even though I had planned to go skiing with my friends, I had to __________ at the last moment because of an injury. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "back up",
+        "back of",
+        "back on",
+        "back out"
+      ],
+      "solution": "“Back out” means withdraw from an arrangement or plan. The injury makes the speaker withdraw from the skiing plan. The other phrasal forms do not convey that meaning here. Answer: D."
+    },
+    "2": {
+      "question": "The President, along with the Council of Ministers, ___________ to visit India next week. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "wish",
+        "wishes",
+        "will wish",
+        "is wishing"
+      ],
+      "solution": "The subject is the singular “President”. The phrase “along with the Council of Ministers” does not make that subject plural. The present-tense singular verb is “wishes”. Answer: B."
+    },
+    "3": {
+      "question": "An electricity utility company charges ₹ 7 per kWh (kilo watt-hour). If a 40-watt desk light is left on for 10 hours each night for 180 days, what would be the cost of energy consumption? If the desk light is on for 2 more hours each night for the 180 days, what would be the percentage-increase in the cost of energy consumption?",
+      "options": [
+        "₹ 604.8; 10%",
+        "₹ 504; 20%",
+        "₹ 604.8; 12%",
+        "₹ 720; 15%"
+      ],
+      "solution": "Power=40 W=0.04 kW. Energy over 180 nights=0.04×10×180=72 kWh. Cost=72×₹7=₹504. Increasing nightly hours from 10 to 12 raises the cost by (12−10)/10×100=20%. Answer: B."
+    },
+    "4": {
+      "question": "In the context of the given figure, which one of the following options correctly represents the entries in the blocks labelled (i), (ii), (iii), and (iv), respectively?",
+      "options": [
+        "Q, M, 12, and 8",
+        "K, L, 10 and 14",
+        "I, J, 10, and 8",
+        "L, K, 12 and 8"
+      ],
+      "solution": "Within each 2×2 block, the number below each letter is the alphabetical position of the other letter in that block. N=14 and U=21 explain the first block. Thus (i)=I (9), (ii)=J (10), (iii)=10, and (iv)=H’s position 8. Answer: C.",
+      "table": {
+        "label": "Four blocks of letters and numbers",
+        "grouped": true,
+        "rows": [
+          [
+            "N",
+            "U",
+            "F",
+            "(i)"
+          ],
+          [
+            "21",
+            "14",
+            "9",
+            "6"
+          ],
+          [
+            "H",
+            "L",
+            "(ii)",
+            "O"
+          ],
+          [
+            "12",
+            "(iv)",
+            "15",
+            "(iii)"
+          ]
+        ]
+      }
+    },
+    "5": {
+      "question": "A bag contains Violet (V), Yellow (Y), Red (R), and Green (G) balls. On counting them, the following results are obtained:\n(i) The sum of Yellow balls and twice the number of Violet balls is 50.\n(ii) The sum of Violet and Green balls is 50.\n(iii) The sum of Yellow and Red balls is 50.\n(iv) The sum of Violet and twice the number of Red balls is 50. Which one of the following Pie charts correctly represents the balls in the bag?",
+      "options": [
+        "V 10% G R 40% 20% Y 30%",
+        "G 30% V 40% Y 20% R 10%",
+        "G 20% V 30% Y 10% R 40%",
+        "G 10% V 20% Y 40% R 30%"
+      ],
+      "solution": "Let V,Y,R,G be the counts. From Y+2V=50 and Y+R=50, R=2V. Substituting into V+2R=50 gives 5V=50, so V=10, R=20, Y=30, G=40. The total is 100, so the percentages are 10%,20%,30%,40% respectively. Only chart A matches.",
+      "optionAlts": [
+        "Pie chart: V 10%, R 20%, Y 30%, G 40%.",
+        "Pie chart: V 40%, R 10%, Y 20%, G 30%.",
+        "Pie chart: V 30%, R 40%, Y 10%, G 20%.",
+        "Pie chart: V 20%, R 30%, Y 40%, G 10%."
+      ]
+    },
+    "6": {
+      "question": "“His life was divided between the books, his friends, and long walks. A solitary man, he worked at all hours without much method, and probably courted his fatal illness in this way. To his own name there is not much to show; but such was his liberality that he was continually helping others, and fruits of his erudition are widely scattered, and have gone to increase many a comparative stranger’s reputation.” (From E.V. Lucas’s “A Funeral”) Based only on the information provided in the above passage, which one of the following statements is true?",
+      "options": [
+        "The solitary man described in the passage is dead.",
+        "Strangers helped create a grand reputation for the solitary man described in the passage.",
+        "The solitary man described in the passage found joy in scattering fruits.",
+        "The solitary man worked in a court where he fell ill."
+      ],
+      "solution": "The passage refers to the man’s “fatal illness”; fatal means causing death. The title “A Funeral” is consistent with this. The claim supported by the passage is that he is dead (A). His learning helped others’ reputations, not the reverse."
+    },
+    "7": {
+      "question": "For the clock shown in the figure, if\nO^{*} = O Q S Z P R T, and\nX^{*} = X Z P W Y O Q,\nthen which one among the given options is most appropriate for P^{*}?",
+      "options": [
+        "P U W R T V X",
+        "P R T O Q S U",
+        "P T V Q S U W",
+        "P S U P R T V"
+      ],
+      "solution": "Use the displayed 12-letter clock, O through Z. Each code follows offsets 0,+2,+4,−1,+1,+3,+5 from its initial letter, wrapping around the clock. For P these give P,R,T,O,Q,S,U. This matches B.",
+      "figureAlts": [
+        "Clock face labelled clockwise O, P, Q, R, S, T, U, V, W, X, Y, Z."
+      ]
+    },
+    "8": {
+      "question": "Consider a five-digit number PQRST that has distinct digits P,Q,R,S,and T, and satisfies the following conditions: P < Q S > P > T R < T If integers 1 through 5 are used to construct such a number, the value of P is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "solution": "The inequalities imply R<T<P, while both Q and S exceed P. Among the digits 1–5, exactly two are below P and two above it, so P is the middle digit 3. Answer: C."
+    },
+    "9": {
+      "question": "A business person buys potatoes of two different varieties P and Q, mixes them in a certain ratio and sells them at ₹ 192 per kg. The cost of the variety P is ₹ 800 for 5 kg. The cost of the variety Q is ₹ 800 for 4 kg. If the person gets 8% profit, what is the P:Q ratio (by weight)?",
+      "options": [
+        "5:4",
+        "3:4",
+        "3:2",
+        "1:1"
+      ],
+      "solution": "P costs ₹800/5=₹160 per kg and Q costs ₹800/4=₹200 per kg. An 8% profit at selling price ₹192 requires cost 192/1.08=₹1600/9 per kg. If weights are p and q, (160p+200q)/(p+q)=1600/9, hence 160p=200q and p:q=5:4. Answer: A."
+    },
+    "10": {
+      "question": "Three villages P, Q, and R are located in such a way that the distance PQ = 13 km, QR = 14 km, and RP = 15 km, as shown in the figure. A straight road joins Q and\nR. It is proposed to connect P to this road QR by constructing another road. What is the minimum possible length (in km) of this connecting road? Note: The figure shown is representative.",
+      "options": [
+        "10.5",
+        "11.0",
+        "12.0",
+        "12.5"
+      ],
+      "solution": "The shortest connection is the perpendicular from P to QR. The triangle’s semiperimeter is (13+14+15)/2=21. By Heron’s formula its area is √(21×8×7×6)=84 km². Thus height=2×84/14=12 km; its foot lies on QR. Answer: C.",
+      "figureAlts": [
+        "Triangle PQR with PQ 13 km, PR 15 km and QR 14 km."
+      ]
+    }
+  },
+  "12": {
+    "1": {
+      "question": "Ravi had ______ younger brother who taught at ______ university. He was widely regarded as ______ honorable man. Select the option with the correct sequence of articles to fill in the blanks.",
+      "options": [
+        "a; a; an",
+        "the; an; a",
+        "a; an; a",
+        "an; an; a"
+      ],
+      "solution": "“Younger” begins with a consonant sound, so use “a”. “University” begins with the consonant sound /y/, also requiring “a”. The h in “honorable” is silent, so its initial vowel sound takes “an”. The sequence is a; a; an (A)."
+    },
+    "2": {
+      "question": "The CEO’s decision to downsize the workforce was considered myopic because it sacrificed long-term stability to accommodate short-term gains. Select the most appropriate option that can replace the word “myopic” without changing the meaning of the sentence.",
+      "options": [
+        "visionary",
+        "shortsighted",
+        "progressive",
+        "innovative"
+      ],
+      "solution": "“Myopic” here means considering only immediate effects rather than the long term. “Shortsighted” preserves that meaning. The other choices imply forward thinking or novelty and do not fit the stated criticism. Answer: B."
+    },
+    "3": {
+      "question": "The average marks obtained by a class in an examination were calculated as 30.8. However, while checking the marks entered, the teacher found that the marks of one student were entered incorrectly as 24 instead of 42. After correcting the marks, the average becomes 31.4. How many students does the class have?",
+      "options": [
+        "25",
+        "28",
+        "30",
+        "32"
+      ],
+      "solution": "The correction raises the total by 42−24=18 marks. The average rises by 31.4−30.8=0.6. If n is the class size, 0.6n=18, giving n=30. Answer: C."
+    },
+    "4": {
+      "question": "Consider the relationships among P, Q, R, S, and T:\n• P is the brother of Q.\n• S is the daughter of Q.\n• T is the sister of S.\n• R is the mother of Q. The following statements are made based on the relationships given above.\n(1) R is the grandmother of S.\n(2) P is the uncle of S and T.\n(3) R has only one son.\n(4) Q has only one daughter. Which one of the following options is correct?",
+      "options": [
+        "Both (1) and (2) are true.",
+        "Both (1) and (3) are true.",
+        "Only (3) is true.",
+        "Only (4) is true."
+      ],
+      "solution": "R is Q’s mother and S is Q’s daughter, so R is S’s grandmother. P is Q’s brother, making him the uncle of both S and her sister T. Statements (1) and (2) follow. Nothing establishes that R has only one son, and Q has at least the two daughters S and T. Answer: A."
+    },
+    "5": {
+      "question": "According to the map shown in the figure, which one of the following statements is correct? Note: The figure shown is representative.",
+      "options": [
+        "The library is located to the northwest of the canteen.",
+        "The hospital is located to the east of the chemistry lab.",
+        "The chemistry lab is to the southeast of physics lab.",
+        "The classrooms and canteen are next to each other."
+      ],
+      "solution": "The compass places north upward and east rightward. The chemistry lab lies below and to the right of the physics lab, hence southeast. The library is west of the canteen, the hospital is north of the chemistry lab, and classrooms are not next to the canteen. Answer: C.",
+      "figureAlts": [
+        "Campus map: library and physics lab northwest of the crossroads, canteen and hospital northeast, hostels and classrooms southwest, chemistry lab southeast; north points upward."
+      ]
+    },
+    "6": {
+      "question": "“I put the brown paper in my pocket along with the chalks, and possibly other things. I suppose every one must have reflected how primeval and how poetical are the things that one carries in one’s pocket: the pocket-knife, for instance the type of all human tools, the infant of the sword. Once I planned to write a book of poems entirely about the things in my pocket. But I found it would be too long: and the age of the great epics is past.” (From G.K. Chesterton’s “A Piece of Chalk”) Based only on the information provided in the above passage, which one of the following statements is true?",
+      "options": [
+        "The author of the passage carries a mirror in his pocket to reflect upon things.",
+        "The author of the passage had decided to write a poem on epics.",
+        "The pocket-knife is described as the infant of the sword.",
+        "Epics are described as too inconvenient to write."
+      ],
+      "solution": "The passage directly calls the pocket-knife “the infant of the sword”. Thus C repeats an explicit statement. “Reflected” means thought about, not used a mirror; the proposed poems concerned pocket contents, not epics."
+    },
+    "7": {
+      "question": "In the diagram, the lines QR and ST are parallel to each other. The shortest distance between these two lines is half the shortest distance between the point P and line QR. What is the ratio of the area of the triangle PST to the area of the trapezium SQRT? Note: The figure shown is representative.",
+      "options": [
+        "1/3",
+        "1/4",
+        "2/5",
+        "1/2"
+      ],
+      "solution": "Let the altitude from P to QR be h. Since the gap between ST and QR is h/2, the altitude from P to ST is also h/2. Similar triangles PST and PQR have scale 1/2 and area ratio 1/4. The trapezium is the remaining 3/4, so the requested ratio is (1/4)/(3/4)=1/3. Answer: A.",
+      "figureAlts": [
+        "Triangle PQR with S on PQ and T on PR; ST parallel to QR."
+      ]
+    },
+    "8": {
+      "question": "A fair six-faced dice, with the faces labelled ‘1’, ‘2’, ‘3’, ‘4’, ‘5’, and ‘6’, is rolled thrice. What is the probability of rolling ‘6’ exactly once?",
+      "options": [
+        "75/216",
+        "1/6",
+        "1/18",
+        "25/216"
+      ],
+      "solution": "Choose which one of the three rolls is a six: 3 choices. The probability for each such arrangement is (1/6)(5/6)². Total=3×(1/6)×(25/36)=75/216. Answer: A."
+    },
+    "9": {
+      "question": "A square paper, shown in figure (I), is folded along the dotted lines as shown in the figures (II) and (III). Then a few cuts are made as shown in figure (IV). Which one of the following patterns will be obtained when the paper is unfolded? Note: The figures shown are representative.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "Undo each diagonal fold by reflecting every cut across that fold. The cut at the folded edge produces four triangular notches at the four side midpoints. The two other cuts produce a pair of axis-aligned square holes at opposite corners and a pair of mirrored L-shaped cuts at the other two corners. Pattern A has these positions and notch directions; B rotates the square holes, C reverses the top/bottom notches, and D substitutes a central hole. Answer: A.",
+      "figureAlts": [
+        "Square folding stages I to IV, with two diagonal folds and three cut shapes shown on the final triangle."
+      ],
+      "optionAlts": [
+        "Option A: unfolded paper with geometric cutouts, reproduced from the source paper.",
+        "Option B: unfolded paper with geometric cutouts, reproduced from the source paper.",
+        "Option C: unfolded paper with geometric cutouts, reproduced from the source paper.",
+        "Option D: unfolded paper with geometric cutouts, reproduced from the source paper."
+      ]
+    },
+    "10": {
+      "question": "A shop has 4 distinct flavors of ice-cream. One can purchase any number of scoops of any flavor. The order in which the scoops are purchased is inconsequential. If one wants to purchase 3 scoops of ice-cream, in how many ways can one make that purchase?",
+      "options": [
+        "4",
+        "20",
+        "24",
+        "48"
+      ],
+      "solution": "This counts multisets of 3 scoops from 4 flavors. Equivalently solve n₁+n₂+n₃+n₄=3 with nonnegative integers. Stars and bars gives C(3+4−1,4−1)=C(6,3)=20. Alternatively: 4 all-same, 12 two-of-one-plus-one, and 4 all-distinct. Answer: B."
+    }
+  },
+  "13": {
+    "1": {
+      "question": "Despite his initial hesitation, Rehman’s _________ to contribute to the success of the project never wavered. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "ambivalence",
+        "satisfaction",
+        "resolve",
+        "revolve"
+      ],
+      "solution": "“Resolve” means firm determination, which can remain unwavering despite initial hesitation. “Ambivalence” means mixed feelings, “satisfaction” does not express commitment, and “revolve” is a verb. Answer: C."
+    },
+    "2": {
+      "question": "Bird : Nest :: Bee : _______ Select the correct option to complete the analogy.",
+      "options": [
+        "Kennel",
+        "Hammock",
+        "Hive",
+        "Lair"
+      ],
+      "solution": "The relation is an animal and its dwelling: a bird lives in a nest and a bee in a hive. Kennel and lair belong to other animals; a hammock is not a bee’s dwelling. Answer: C."
+    },
+    "3": {
+      "question": "If Pe^{x} = Qe^{−x} for all real values of x, which one of the following statements is true?",
+      "options": [
+        "P = Q = 0",
+        "P = Q = 1",
+        "P = 1; Q = −1",
+        "P/Q = 0"
+      ],
+      "solution": "Set x=0 to obtain P=Q. Set x=1, giving Pe=Pe^{−1}; because e≠e^{−1}, P must be 0 and hence Q=0. These values satisfy the equality for every real x. P/Q is then undefined, not zero. Answer: A."
+    },
+    "4": {
+      "question": "The paper as shown in the figure is folded to make a cube where each square corresponds to a particular face of the cube. Which one of the following options correctly represents the cube? Note: The figures shown are representative.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "In the net, the filled and hollow circles fold onto opposite faces. The filled and hollow triangles are another opposite pair, and the two blank faces form the third pair. A shows one face from each pair meeting at a corner. B and D put opposite triangles together; C puts both opposite blank faces together. Answer: A.",
+      "figureAlts": [
+        "Cube net: hollow triangle in the center, solid circle above, hollow circle below, blank faces to left and right, solid triangle on the far right."
+      ],
+      "optionAlts": [
+        "Hollow triangle front, solid circle top, blank right.",
+        "Hollow triangle front, blank top, solid triangle right.",
+        "Hollow triangle front, blank top and right.",
+        "Hollow triangle front, solid triangle top, solid circle right."
+      ]
+    },
+    "5": {
+      "question": "Let p_{1} and p_{2} denote two arbitrary prime numbers. Which one of the following statements is correct for all values of p_{1} and p_{2}?",
+      "options": [
+        "p_{1} + p_{2} is not a prime number.",
+        "p_{1}p_{2} is not a prime number.",
+        "p_{1} + p_{2} + 1 is a prime number.",
+        "p_{1}p_{2} + 1 is a prime number."
+      ],
+      "solution": "The product p₁p₂ has the prime factor p₁ and exceeds it because p₂≥2, so it is always composite, including p₁=p₂. The sum can be prime (2+3=5), the sum-plus-one can be composite (2+3+1=6), and the product-plus-one can be composite (3×5+1=16). Answer: B."
+    },
+    "6": {
+      "question": "Based only on the conversation below, identify the logically correct inference: “Even if I had known that you were in the hospital, I would not have gone there to see you”, Ramya told Josephine.",
+      "options": [
+        "Ramya knew that Josephine was in the hospital.",
+        "Ramya did not know that Josephine was in the hospital.",
+        "Ramya and Josephine were once close friends; but now, they are not.",
+        "Josephine was in the hospital due to an injury to her leg."
+      ],
+      "solution": "The counterfactual past form “Even if I had known” presents knowing as contrary to what happened: Ramya did not know that Josephine was in hospital. It does not establish their earlier friendship or the reason for hospitalization. The intended inference is B."
+    },
+    "7": {
+      "question": "If IMAGE and FIELD are coded as FHBNJ and EMFJG respectively then, which one among the given options is the most appropriate code for BEACH ?",
+      "options": [
+        "CEADP",
+        "IDBFC",
+        "JGIBC",
+        "IBCEC"
+      ],
+      "solution": "Reverse the word, then advance each letter by one: IMAGE→EGAMI→FHBNJ and FIELD→DLEIF→EMFJG. Therefore BEACH→HCAEB→IDBFC. Answer: B."
+    },
+    "8": {
+      "question": "Which one of the following options is correct for the given data in the table?",
+      "options": [
+        "X(i) = X(i −1)+I(i); Y(i) = Y(i −1)I(i); i > 0",
+        "X(i) = X(i −1)I(i); Y(i) = Y(i −1)+I(i); i > 0",
+        "X(i) = X(i −1)I(i); Y(i) = Y(i −1)I(i); i > 0",
+        "X(i) = X(i −1)+I(i); Y(i) = Y(i −1)I(i−1); i > 0"
+      ],
+      "solution": "X is a running sum: 20+(−4)=16, 16+10=26, 26+15=41. Y is a running product: 20×(−4)=−80, −80×10=−800, −800×15=−12000. Hence X(i)=X(i−1)+I(i) and Y(i)=Y(i−1)I(i), for i>0. Answer: A.",
+      "table": {
+        "headers": [
+          "Iteration (i)",
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "rows": [
+          [
+            "Input (I)",
+            "20",
+            "−4",
+            "10",
+            "15"
+          ],
+          [
+            "Output (X)",
+            "20",
+            "16",
+            "26",
+            "41"
+          ],
+          [
+            "Output (Y)",
+            "20",
+            "−80",
+            "−800",
+            "−12000"
+          ]
+        ]
+      }
+    },
+    "9": {
+      "question": "In the given figure, PQRS is a square of side 2 cm and PLMN is a rectangle. The corner L of the rectangle is on the side QR. Side MN of the rectangle passes through the corner S of the square. What is the area (in cm2) of the rectangle PLMN? Note: The figure shown is representative.",
+      "options": [
+        "2√2",
+        "2",
+        "8",
+        "4"
+      ],
+      "solution": "Triangle PLS has base PS=2 cm and perpendicular height 2 cm because L lies on QR. Its area is therefore 2 cm². In rectangle PLMN, S lies on the side MN parallel to PL, so triangle PLS has the rectangle’s full base PL and full height, and occupies half its area. Rectangle area=2×2=4 cm². Answer: D.",
+      "figureAlts": [
+        "Overlapping square PQRS and rectangle PLMN; L lies on QR and S lies on NM."
+      ]
+    },
+    "10": {
+      "question": "The diagram below shows a river system consisting of 7 segments, marked P, Q, R, S, T, U, and V. It splits the land into 5 zones, marked Z1, Z2, Z3, Z4, and Z5. We need to connect these zones using the least number of bridges. Out of the following options, which one is correct? Note: The figure shown is representative.",
+      "options": [
+        "Bridges on P, Q, and T",
+        "Bridges on P, Q, S, and T",
+        "Bridges on Q, R, T, and V",
+        "Bridges on P, Q, S, U, and V"
+      ],
+      "solution": "Connecting five zones requires at least four bridges. Q joins Z1–Z3, R joins Z2–Z3, T joins Z3–Z5, and V joins Z3–Z4. These four bridges connect all five zones, meeting the lower bound. A has only three bridges; B leaves Z4 disconnected; D uses five. Answer: C.",
+      "figureAlts": [
+        "Five zones Z1 to Z5 divided by rivers with seven bridges P, Q, R, S, T, U, V."
+      ]
+    }
+  },
+  "14": {
+    "1": {
+      "question": "Here are two analogous groups, Group-I and Group-II, that list words in their decreasing order of intensity. Identify the missing word in Group-II. Group-I: Abuse → Insult → Ridicule Group-II: ________ → Praise → Appreciate",
+      "options": [
+        "Extol",
+        "Prize",
+        "Appropriate",
+        "Espouse"
+      ],
+      "solution": "“Extol” means praise enthusiastically or highly, stronger than ordinary praise; appreciate is milder. Thus Extol→Praise→Appreciate mirrors the descending intensity in Abuse→Insult→Ridicule. Answer: A."
+    },
+    "2": {
+      "question": "Had I learnt acting as a child, I ________ a famous film star. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "will be",
+        "can be",
+        "am going to be",
+        "could have been"
+      ],
+      "solution": "“Had I learnt” is an inverted past counterfactual condition (“If I had learnt”). Its hypothetical past result takes “could have been”. The other options refer to present or future possibility. Answer: D."
+    },
+    "3": {
+      "question": "The 12 musical notes are given as C, C#, D, D#, E, F, F#, G, G#, A, A#, and B. Frequency of each note is 2^{1/12} times the frequency of the previous note. If the frequency of the note C is 130.8 Hz, then the ratio of frequencies of notes F# and C is:",
+      "options": [
+        "2^{1/6}",
+        "√2",
+        "2^{1/4}",
+        "2"
+      ],
+      "solution": "F# is six semitone steps above C: C#,D,D#,E,F,F#. Each step multiplies the frequency by 2^{1/12}, so f(F#)/f(C)=(2^{1/12})⁶=2^{1/2}=√2. The starting value 130.8 Hz cancels. Answer: B."
+    },
+    "4": {
+      "question": "The following figures show three curves generated using an iterative algorithm. The total length of the curve generated after ‘Iteration n’ is: Note: The figures shown are representative.",
+      "options": [
+        "(5/3)^{n/2}",
+        "(5/3)^{n}",
+        "(5/3)^{2n}",
+        "(5/3)^{n(2n−1)}"
+      ],
+      "solution": "Each segment is replaced by five segments each one-third as long. Therefore total length is multiplied by 5/3 each iteration. Starting from length 1 at iteration 0 gives Lₙ=(5/3)ⁿ. This is B.",
+      "figureAlts": [
+        "Iteration 0: one straight segment of length 1.",
+        "Iteration 1: five segments form a square bump; each has length one-third.",
+        "Iteration 2: the bump rule repeated on each segment; segment length one-ninth."
+      ]
+    },
+    "5": {
+      "question": "Which one of the following plots represents f(x) = −|x|/x, where x is a non-zero real number?\nNote: The figures shown are representative.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "For x>0, |x|=x and −|x|/x=−1. For x<0, |x|=−x and −|x|/x=+1. Thus the graph is horizontal at +1 on the negative-x side and at −1 on the positive-x side; x=0 is excluded. Option A shows this.",
+      "optionAlts": [
+        "Graph: f(x)=1 left of zero and -1 right of zero.",
+        "Graph: f(x)=-1 left of zero and 1 right of zero.",
+        "Vertical lines at x=-1 above the axis and x=1 below the axis.",
+        "Two curved branches, positive at negative x and negative at positive x."
+      ]
+    },
+    "6": {
+      "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\nP. Over time, such adaptations lead to significant evolutionary changes with the potential to shape the development of new species.\nQ. In natural world, organisms constantly adapt to their environments in response to challenges and opportunities.\nR. This process of adaptation is driven by the principle of natural selection, where favorable traits increase an organism’s chances of survival and reproduction.\nS. As environments change, organisms that can adapt their behavior, structure and physiology to such changes are more likely to survive.",
+      "options": [
+        "P → Q → R → S",
+        "Q → S → R → P",
+        "R → S → Q → P",
+        "S → P → R → Q"
+      ],
+      "solution": "Q introduces adaptation in the natural world. S explains why adaptation helps survival as environments change. R identifies natural selection as the mechanism, and P describes its long-term evolutionary consequence. Hence Q→S→R→P, option B."
+    },
+    "7": {
+      "question": "A stick of length one meter is broken at two locations at distances of b_{1} and b_{2} from the origin (0), as shown in the figure. Note that 0 < b_{1} < b_{2} < 1. Which one of the following is NOT a necessary condition for forming a triangle using the three pieces?\nNote: All lengths are in meter. The figure shown is representative.",
+      "options": [
+        "b_{1} < 0.5",
+        "b_{2} > 0.5",
+        "b_{2} < b_{1} + 0.5",
+        "b_{1} + b_{2} < 1"
+      ],
+      "solution": "The pieces have lengths b₁, b₂−b₁ and 1−b₂ and total length 1. A nondegenerate triangle requires each piece to be less than 1/2, giving b₁<0.5, b₂<b₁+0.5 and b₂>0.5. The sum b₁+b₂<1 is not necessary: b₁=0.4,b₂=0.7 yields sides 0.4,0.3,0.3. Answer: D.",
+      "figureAlts": [
+        "A unit stick cut at b1 and b2, ordered from 0 through b1 and b2 to 1."
+      ]
+    },
+    "8": {
+      "question": "Eight students (P, Q, R, S, T, U, V, and W) are playing musical chairs. The figure indicates their order of position at the start of the game. They play the game by moving forward in a circle in the clockwise direction. After the 1st round, 4th student behind P leaves the game. After 2nd round, 5th student behind Q leaves the game. After 3rd round, 3rd student behind V leaves the game. After 4th round, 4th student behind U leaves the game. Who all are left in the game after the 4th round? Note: The figure shown is representative.",
+      "options": [
+        "P; T; Q; S",
+        "V; P; T; Q",
+        "W; R; Q; V",
+        "Q; T; V; W"
+      ],
+      "solution": "The final official key awards marks to all for this question; no A–D option is designated correct. The diagram’s clockwise order is P,R,T,Q,S,V,U,W. Counting behind opposite the direction of motion removes S in round 1 and U in round 2. Yet round 4 asks for a position behind U, who has already left. This makes the stated procedure ill-defined. Preserve the official MTA ruling: award 2 marks regardless of response, without treating an option as a verified answer.",
+      "figureAlts": [
+        "Eight chairs clockwise: P, R, T, Q, S, V, U, W around a circular table."
+      ]
+    },
+    "9": {
+      "question": "The table lists the top 5 nations according to the number of gold medals won in a tournament; also included are the number of silver and the bronze medals won by them. Based only on the data provided in the table, which one of the following statements is INCORRECT?",
+      "options": [
+        "France will occupy the third place if the list were made on the basis of the total number of medals won.",
+        "The order of the top two nations will not change even if the list is made on the basis of the total number of medals won.",
+        "USA and Canada together have less than 50% of the medals awarded to the nations in the above table.",
+        "Canada has won twice as many total medals as Japan."
+      ],
+      "solution": "Total medals are USA=125, Canada=90, Japan=45, Australia=52 and France=64; the total is 376. USA and Canada together have 215/376≈57.18%, which is more than 50%, so C is incorrect. France is third by total, the top two stay unchanged, and 90=2×45.",
+      "table": {
+        "headers": [
+          "Nation",
+          "Gold",
+          "Silver",
+          "Bronze"
+        ],
+        "rows": [
+          [
+            "USA",
+            40,
+            44,
+            41
+          ],
+          [
+            "Canada",
+            39,
+            27,
+            24
+          ],
+          [
+            "Japan",
+            20,
+            12,
+            13
+          ],
+          [
+            "Australia",
+            17,
+            19,
+            16
+          ],
+          [
+            "France",
+            16,
+            26,
+            22
+          ]
+        ]
+      }
+    },
+    "10": {
+      "question": "An organization allows its employees to work independently on consultancy projects but charges an overhead on the consulting fee. The overhead is 20% of the consulting fee, if the fee is up to ₹ 5,00,000. For higher fees, the overhead is ₹ 1,00,000 plus 10% of the amount by which the fee exceeds ₹ 5,00,000. The government charges a Goods and Services Tax of 18% on the total amount (the consulting fee plus the overhead). An employee of the organization charges this entire amount, i.e., the consulting fee, overhead, and tax, to the client. If the client cannot pay more than ₹ 10,00,000, what is the maximum consulting fee that the employee can charge?",
+      "options": [
+        "₹ 7,01,438",
+        "₹ 7,24,961",
+        "₹ 7,51,232",
+        "₹ 7,75,784"
+      ],
+      "solution": "For fee F>₹5,00,000, overhead=1,00,000+0.1(F−5,00,000)=0.1F+50,000. Including GST, the bill is 1.18(1.1F+50,000). Setting it to ₹10,00,000 gives F=(10,00,000/1.18−50,000)/1.1≈₹7,24,961.48. Thus the largest listed whole-rupee fee within the budget is ₹7,24,961 (B)."
+    }
+  },
+  "15": {
+    "1": {
+      "question": "Kavya _________ go to work yesterday as she __________ feeling well. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        "didn’t; isn’t",
+        "wouldn’t; wasn’t",
+        "wasn’t; wasn’t",
+        "couldn’t; wasn’t"
+      ],
+      "solution": "The sentence describes inability to go yesterday because of illness. “Couldn’t” expresses that inability and “wasn’t feeling well” supplies the matching past tense. “Wouldn’t” would suggest unwillingness, not the stated inability. Answer: D."
+    },
+    "2": {
+      "question": "Good : Evil :: Genuine : _______ Select the most appropriate option to complete the analogy.",
+      "options": [
+        "Counterfeit",
+        "Contraband",
+        "Counterfoil",
+        "Counterpart"
+      ],
+      "solution": "The analogy uses opposites: good versus evil, and genuine versus counterfeit. “Counterfeit” means fake; the other alternatives do not mean the opposite of genuine. Answer: A."
+    },
+    "3": {
+      "question": "The relationship between two variables x and y is given by x+py+q = 0 and is shown in the figure. Find the values of p and q. Note: The figure shown is representative.",
+      "options": [
+        "p = −1/2; q = 2",
+        "p = 2; q = −2",
+        "p = 1/2; q = 4",
+        "p = 2; q = 4"
+      ],
+      "solution": "The graph passes through (0,4) and (−2,0). In x+py+q=0, the second point gives q=2. The first then gives 4p+2=0, so p=−1/2. Answer: A.",
+      "figureAlts": [
+        "Straight line through the graph points (-2,0), (0,4) and (3,10)."
+      ]
+    },
+    "4": {
+      "question": "Each row of Column-I has three items and each item is represented by a circle in Column-II. The arrangement of circles in Column-II represents the relationship among the items in Column-I. Identify the option that has the most appropriate match between Column-I and Column-II. Note: The figures shown are representative.",
+      "options": [
+        "(1) – (Q); (2) – (P); (3) – (S); (4) – (R)",
+        "(1) – (Q); (2) – (R); (3) – (S); (4) – (P)",
+        "(1) – (S); (2) – (P); (3) – (R); (4) – (Q)",
+        "(1) – (R); (2) – (S); (3) – (Q); (4) – (P)"
+      ],
+      "solution": "Zebra and giraffe are disjoint subsets of animals: Q. Director, producer and actor may overlap without any category containing all the others: R. Words sit within sentences and sentences within novels: S. Pianists and guitarists are potentially overlapping subsets of instrumentalists: P. Hence (1)–Q,(2)–R,(3)–S,(4)–P, option B.",
+      "table": {
+        "headers": [
+          "Column-I"
+        ],
+        "rows": [
+          [
+            "(1) Animals, Zebra, Giraffe"
+          ],
+          [
+            "(2) Director, Producer, Actor"
+          ],
+          [
+            "(3) Word, Sentence, Novel"
+          ],
+          [
+            "(4) Pianist, Guitarist, Instrumentalist"
+          ]
+        ]
+      },
+      "figureAlts": [
+        "Diagram P: two overlapping small circles inside a larger circle.",
+        "Diagram Q: two disjoint small circles inside a larger circle.",
+        "Diagram R: three overlapping circles with a common central region.",
+        "Diagram S: three nested circles."
+      ]
+    },
+    "5": {
+      "question": "What is the value of (3^{81}/27^{4})^{1/3}?",
+      "options": [
+        "3^{13}",
+        "3^{96}",
+        "3^{23}",
+        "3^{69}"
+      ],
+      "solution": "Write every term as a power of 3: 27 = 3³, so 27⁴ = 3¹². Dividing powers with the same base subtracts exponents: 3⁸¹/3¹² = 3⁶⁹. Taking the cube root divides the exponent by 3, giving 3²³. Choose C; 3⁶⁹ is the value before taking the cube root."
+    },
+    "6": {
+      "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\nP. It is because deer, like most of the animals that tigers normally prey on, run much faster! It simply means, another day of empty stomach for the big cats.\nQ. Tigers spend most of their life searching for food.\nR. If they trace the scent of deer, tigers follow the trail, chase the deer for a mile or two in the dark, and yet may not catch them.\nS. For several nights, they relentlessly prowl through the forest, hunting for a trail that may lead to their prey.",
+      "options": [
+        "S → P → R → Q",
+        "R → P → S → Q",
+        "Q → S → R → P",
+        "P → Q → S → R"
+      ],
+      "solution": "Q introduces the tigers’ search for food. S describes their repeated nightly search. R gives the pursuit of a deer as an example, and P explains why that pursuit may fail. Hence Q→S→R→P, option C."
+    },
+    "7": {
+      "question": "In the given figure, EF and HJ are coded as 30 and 80, respectively. Which one among the given options is most appropriate for the entries marked (i) and (ii) ?",
+      "options": [
+        "(i) EH; (ii) 40",
+        "(i) JK; (ii) 36",
+        "(i) EG; (ii) 42",
+        "(i) PS; (ii) 14"
+      ],
+      "solution": "Each letter pair is coded by multiplying its alphabetical positions, with the code in the opposite sector: EF=5×6=30 and HJ=8×10=80. The pair opposite 35 must be EG=5×7, and FG gives 6×7=42. Thus (i)=EG and (ii)=42, option C.",
+      "figureAlts": [
+        "Eight sectors show clockwise from top: HIJ, (i), (ii), 30, 80, 35, FG, EF."
+      ]
+    },
+    "8": {
+      "question": "Scores obtained by two students P and Q in seven courses are given in the table below. Based on the information given in the table, which one of the following statements is INCORRECT?",
+      "options": [
+        "Average score of P is less than the average score of Q.",
+        "Median score of P is same as the median score of Q.",
+        "Difference between the maximum and minimum scores of P is greater than the difference between the maximum and minimum scores of Q.",
+        "Median score and the average score of Q are same."
+      ],
+      "solution": "Sorted P scores are 22,39,45,50,60,78,89, giving median 50 and mean 383/7≈54.71. Sorted Q scores are 35,45,50,56,60,65,81, giving median 56 and mean 392/7=56. The medians differ, so B is incorrect. P’s range is 67 versus Q’s 46, and the other statements hold.",
+      "table": {
+        "label": "Scores in seven courses",
+        "rowHeaders": true,
+        "rows": [
+          [
+            "P",
+            22,
+            89,
+            50,
+            45,
+            78,
+            60,
+            39
+          ],
+          [
+            "Q",
+            35,
+            65,
+            60,
+            56,
+            81,
+            45,
+            50
+          ]
+        ]
+      }
+    },
+    "9": {
+      "question": "Spheres of unit diameter are centered at (l,m,n) where l, m, and n take every possible integer values.\nThe distance between two spheres is computed from the center of one sphere to the center of the other sphere. For a given sphere, x is the distance to its nearest sphere and y is the distance to its next nearest sphere. The value of y/x is:",
+      "options": [
+        "2√2",
+        "1/√2",
+        "√2",
+        "2"
+      ],
+      "solution": "The nearest centers differ by one unit along one coordinate axis, so x=1. The next-nearest centers differ by one unit along two axes, so y=√(1²+1²)=√2. Since distances are center-to-center, the sphere diameter does not need to be subtracted. Thus y/x=√2, option C."
+    },
+    "10": {
+      "question": "In the triangle PQR, the lengths of PT and TR are in the ratio of 3:2. ST is parallel to QR. Two semicircles are drawn with PS and PQ as diameters, as shown in the figure. Which one of the following statements is true about the shaded area PQS? Note: The figure shown is representative.",
+      "options": [
+        "The shaded area is 16/9 times the area of the semicircle with the diameter PS.",
+        "The shaded area is equal to the area of the semicircle with the diameter PS.",
+        "The shaded area is 14/9 times the area of the semicircle with the diameter PS.",
+        "The shaded area is 14/25 times the area of the semicircle with the diameter PQ."
+      ],
+      "solution": "Since ST∥QR, triangles PST and PQR are similar. PT/PR=3/(3+2)=3/5, hence PS/PQ=3/5. Semicircle areas scale with the square of their diameters, so the small area is 9/25 of the large. Shaded area=(25−9)/25=16/25 of the large, or 16/9 of the small. Answer: A.",
+      "figureAlts": [
+        "Triangle PQR with S on PQ and T on PR; ST parallel to QR, a large semicircle on PQ and a smaller semicircle on PS; difference shaded."
+      ]
+    }
+  },
+  "16": {
+    "1": {
+      "question": "Fish : Shoal :: Lion : _______ Select the correct option to complete the analogy.",
+      "options": [
+        "Pride",
+        "School",
+        "Forest",
+        "Series"
+      ],
+      "solution": "The analogy pairs an animal with its collective noun. A group of fish is a shoal; a group of lions is a pride. Answer: A."
+    },
+    "2": {
+      "question": "Identify the grammatically correct sentence:",
+      "options": [
+        "It is I who am responsible for this fiasco.",
+        "It is myself who is responsible for this fiasco.",
+        "It is I who is responsible for this fiasco.",
+        "It is I who are responsible for this fiasco."
+      ],
+      "solution": "In “It is I who am…”, the relative pronoun “who” refers to “I” and takes the first-person singular verb “am”. “Myself” is not the appropriate subject complement here; “is” and “are” do not agree with I in this construction. Answer: A."
+    },
+    "3": {
+      "question": "Two cars, P and Q, start from a point X in India at 10 AM. Car P travels North with a speed of 25 km/h and car Q travels East with a speed of 30 km/h. Car P travels continuously but car Q stops for some time after travelling for one hour. If both the cars are at the same distance from X at 11:30 AM, for how long (in minutes) did car Q stop?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "solution": "By 11:30, P travels 25×1.5=37.5 km. Q must also travel 37.5 km, needing 37.5/30=1.25 hours of motion. Out of the 1.5 elapsed hours, Q therefore stops for 0.25 hours=15 minutes. Answer: C."
+    },
+    "4": {
+      "question": "The ceiling function of a real number x, denoted by ce(x), is defined as the smallest integer that is greater than or equal to x. Similarly, the floor function, denoted by fl(x), is defined as the largest integer that is smaller than or equal to x. Which one of the following statements is NOT correct for all possible values of x?",
+      "options": [
+        "ce(x) ≥ x",
+        "fl(x) ≤ x",
+        "ce(x) ≥ fl(x)",
+        "fl(x) < ce(x)"
+      ],
+      "solution": "For any integer x, both floor and ceiling equal x. Consequently fl(x)<ce(x) fails at every integer, although the weak inequality fl(x)≤ce(x) always holds. The other three statements follow directly from the definitions. Answer: D."
+    },
+    "5": {
+      "question": "P and Q play chess frequently against each other. Of these matches, P has won 80% of the matches, drawn 15% of the matches and lost 5% of the matches. If they play 3 more matches, what is the probability of P winning exactly 2 of these 3 matches?",
+      "options": [
+        "48/125",
+        "16/125",
+        "16/25",
+        "25/48"
+      ],
+      "solution": "Treating the future matches as independent with the stated win probability, exactly two wins can occur in 3 arrangements. A non-win includes either draw or loss, with probability 0.15+0.05=0.2. Thus probability=3×0.8²×0.2=0.384=48/125, option A."
+    },
+    "6": {
+      "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\nP. At once, without thinking much, people rushed towards the city in hordes with the sole aim of grabbing as much gold as they could.\nQ. However, little did they realize about the impending hardships they would have to face on their way to the city: miles of mud, unfriendly forests, hungry beasts and inimical local lords – all of which would reduce their chances of getting gold to almost zero.\nR. All of them thought that easily they could lay their hands on gold and become wealthy overnight.\nS. About a hundred years ago, the news that gold had been discovered in Kolar spread like wildfire and the whole State was in raptures.",
+      "options": [
+        "P → Q → R → S",
+        "Q → S → R → P",
+        "S → Q → P → R",
+        "S → P → R → Q"
+      ],
+      "solution": "S introduces the gold discovery. P gives the immediate rush toward the city. R explains the crowd’s expectation of easy wealth. Q contrasts that expectation with the impending hardships. Hence S→P→R→Q, option D."
+    },
+    "7": {
+      "question": "If HIDE and CAGE are coded as 19-23-7-11 and 5-2-17-11 respectively, then what is the code for HIGH?",
+      "options": [
+        "5-17-1-2",
+        "17-19-13-17",
+        "13-3-1-2",
+        "19-23-17-19"
+      ],
+      "solution": "The examples supply H→19, I→23, G→17 and E→11 directly. Apply the same substitutions to HIGH: 19-23-17-19. No additional coding rule needs to be guessed. Answer: D."
+    },
+    "8": {
+      "question": "The given figure is reflected about the horizontal dashed line and then rotated clockwise by 90° about an axis perpendicular to the plane of the figure. Which one of the following options correctly shows the resultant figure? Note: The figures shown are representative.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "solution": "Reflection in the horizontal line reverses top and bottom. A subsequent 90° clockwise rotation maps the original top-left to top-left, bottom-left to top-right, top-right to bottom-left and bottom-right to bottom-right, while rotating each reflected symbol. The lightning remains upper-left, the bent arrow moves upper-right, the angular shape moves lower-left, and the crescent is lower-right opening downward. This is B.",
+      "figureAlts": [
+        "Square with lightning upper-left, angular shape upper-right, bent arrow lower-left, crescent lower-right, and a horizontal reflection line above."
+      ],
+      "optionAlts": [
+        "Option A: transformed arrangement of the four symbols, reproduced from the source paper.",
+        "Option B: transformed arrangement of the four symbols, reproduced from the source paper.",
+        "Option C: transformed arrangement of the four symbols, reproduced from the source paper.",
+        "Option D: transformed arrangement of the four symbols, reproduced from the source paper."
+      ]
+    },
+    "9": {
+      "question": "Which one of the following options has the correct sequence of objects arranged in the increasing number of mirror lines (lines of symmetry)?",
+      "options": [
+        "Circle; Square; Equilateral triangle; Isosceles triangle",
+        "Isosceles triangle; Equilateral triangle; Square; Circle",
+        "Equilateral triangle; Isosceles triangle; Square; Circle",
+        "Isosceles triangle; Square; Equilateral triangle; Circle"
+      ],
+      "solution": "A non-equilateral isosceles triangle has 1 mirror line; an equilateral triangle has 3; a square has 4; and a circle has infinitely many. The increasing order is isosceles triangle, equilateral triangle, square, circle: B."
+    },
+    "10": {
+      "question": "A final year student appears for placement interview in two companies, S and T. Based on her interview performance, she estimates the probability of receiving job offers from companies S and T to be 0.8 and 0.6, respectively. Let p be the probability that she receives job offers from both the companies. Select the most appropriate option.",
+      "options": [
+        "0 ≤ p ≤ 0.2",
+        "0.4 ≤ p ≤ 0.6",
+        "0.2 ≤ p ≤ 0.4",
+        "0.6 ≤ p ≤ 1.0"
+      ],
+      "solution": "Let S and T be the offer events. Their intersection cannot exceed the smaller marginal probability, so p≤0.6. Also P(S∪T)=0.8+0.6−p≤1, giving p≥0.4. Thus 0.4≤p≤0.6 (B). Independence is not given, so p need not equal 0.48."
+    }
+  }
+}

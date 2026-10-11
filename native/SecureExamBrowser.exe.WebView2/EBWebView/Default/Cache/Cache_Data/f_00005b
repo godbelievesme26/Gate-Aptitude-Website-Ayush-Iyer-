@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "day": 8,
+  "year": 2026,
+  "paper": "EC",
+  "title": "GATE 2026 · EC · General Aptitude",
+  "source": "Aptitude Sets/2026/EC.pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-ec-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Among the following options, the antonym of the word ‘nocturnal’ is _________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "normal"
+        },
+        {
+          "label": "B",
+          "text": "diurnal"
+        },
+        {
+          "label": "C",
+          "text": "abnormal"
+        },
+        {
+          "label": "D",
+          "text": "exceptional"
+        }
+      ],
+      "sourceImage": "figures/day08-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              369.65
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Nocturnal means active at night; diurnal means active during the day. Thus ‘diurnal’ is the antonym (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The statements (S1), (S2), and (S3) pertain to the scores obtained by students in an exam. The maximum possible marks in the exam is 150.\n(S1) The highest score is 100.\n(S2) The fourth highest score is 76.\n(S3) There are at least four students whose scores are within 25 of each other.\nWhich one of the following options is necessarily correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(S1) and (S2) together imply (S3)"
+        },
+        {
+          "label": "B",
+          "text": "(S1) and (S3) together imply (S2)"
+        },
+        {
+          "label": "C",
+          "text": "(S2) and (S3) together imply (S1)"
+        },
+        {
+          "label": "D",
+          "text": "(S1) implies (S3)"
+        }
+      ],
+      "sourceImage": "figures/day08-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              440.83
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "With highest score 100 and fourth-highest score 76, the four highest scores all lie in [76, 100]. Their greatest difference is 24, which is within 25. Therefore S1 and S2 imply S3 (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The figure below has exactly three intersecting line segments with a rectangular portion WXYZ missing. Which one of the following options P, Q, R, and S is the missing portion WXYZ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-03-option-A.png",
+            "alt": "Candidate P: three segments with two descending slopes and one ascending slope.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 3,
+              "image": "Im2.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "Q",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-03-option-B.png",
+            "alt": "Candidate Q: three segments, all ascending left to right.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 3,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "R",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-03-option-C.png",
+            "alt": "Candidate R: three segments intersecting near the right side.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 3,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "S",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-03-option-D.png",
+            "alt": "Candidate S: three segments forming three distinct interior intersections.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 3,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day08-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              730.78
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "Continue each of the three straight segments through the missing rectangle without changing its direction. Their entry points, exit points and intersections must align with the visible pieces outside WXYZ. Only S continues all three straight lines correctly, so D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ec-ga-03-figure-1.png",
+          "alt": "Three intersecting straight segments with central rectangle WXYZ missing. W and X mark its upper corners; Z and Y its lower corners. Visible segments extend through different edges of the rectangle.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/EC.pdf",
+            "page": 3,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ec-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Real numbers y, p, and n (all greater than 1) satisfy\n(log_{p^{1/n}} y)(log_{y^{1/n}} p) = 16,\nwhere the logarithms are taken to the bases p^{1/n} and y^{1/n}.\nThe value of n is ________",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "16"
+        }
+      ],
+      "sourceImage": "figures/day08-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              117.41,
+              565.32,
+              429.07
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "By change of base, log_{p^{1/n}} y = n(ln y)/(ln p) and log_{y^{1/n}} p = n(ln p)/(ln y). Multiplying cancels the logarithms and gives n² = 16. Since n > 1, n = 4 (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The following observation is made about the scores obtained by 100 students in an exam: ‘For each student, there exists another student in the class such that their scores are at most ten marks away.’ If the above statement is false, which one of the following statements is necessarily true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "For each student, the scores of all the other students are more than 10 marks away."
+        },
+        {
+          "label": "B",
+          "text": "There exists at least one student in the class for whom the scores of all the other students are more than 10 marks away."
+        },
+        {
+          "label": "C",
+          "text": "There is exactly one student in the class for whom the scores of some students are more than 10 marks away."
+        },
+        {
+          "label": "D",
+          "text": "For each student, the score of exactly one other student is more than 10 marks away."
+        }
+      ],
+      "sourceImage": "figures/day08-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              458.23
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Negate the quantifiers in order: ‘for every student, there exists another within 10 marks’ becomes ‘there exists a student for whom every other student is more than 10 marks away’. This is B. ‘At most 10’ includes equality, so its negation is strictly more than 10.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Each one of the following clues contains a keyword that is partially filled.\nClue 1: Synonym of recognize (8 letters): _ D _ NT_ FY\nClue 2: A story long enough to fill a book (5 letters): _ _ _ EL\nClue 3: Two of something (6 letters): _ _ _ PLE\nClue 4: A fraction of something, split equally into two parts (4 letters): _ _ _ F The first letter of each of the keywords can be rearranged to form a four-letter word.\nWhich one of the options below is a possible choice for the four-letter word?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CHIN"
+        },
+        {
+          "label": "B",
+          "text": "COIN"
+        },
+        {
+          "label": "C",
+          "text": "ITCH"
+        },
+        {
+          "label": "D",
+          "text": "NOSE"
+        }
+      ],
+      "sourceImage": "figures/day08-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              515.35
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "The keywords are IDENTIFY, NOVEL, COUPLE and HALF. Their first letters are I, N, C and H, which can be rearranged into CHIN (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Three children P, Q, R and two grown-ups X, Y play a badminton doubles tournament. X and Y are parents to two of the children playing. The child of X is not the same as the child of Y. Exactly one of the children does not have a parent playing in the tournament. The following rules are followed:\n(i) A parent and his/her child cannot be on the same team.\n(ii) A match can feature at most one parent and his/her child, that is, a maximum of one parent-child pair can play in a match.\nThe following matches were played:",
+      "options": [
+        {
+          "label": "A",
+          "text": "P does not have any parent playing"
+        },
+        {
+          "label": "B",
+          "text": "Q does not have any parent playing"
+        },
+        {
+          "label": "C",
+          "text": "R does not have any parent playing"
+        },
+        {
+          "label": "D",
+          "text": "X does not have a child playing"
+        }
+      ],
+      "sourceImage": "figures/day08-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              186.53,
+              565.32,
+              727.54
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "table": {
+        "headers": [
+          "",
+          "TEAM 1",
+          "TEAM 2"
+        ],
+        "rows": [
+          [
+            "MATCH 1",
+            "P and X",
+            "Q and R"
+          ],
+          [
+            "MATCH 2",
+            "P and R",
+            "X and Y"
+          ],
+          [
+            "MATCH 3",
+            "R and X",
+            "Q and Y"
+          ]
+        ]
+      },
+      "afterTable": "Which one of the following options is correct?",
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "X cannot be P’s parent (same team in match 1) or R’s parent (same team in match 3), so X is Q’s parent. Y cannot be Q’s parent. If Y were R’s parent, match 3 would contain both parent-child pairs, violating rule (ii). Thus Y is P’s parent, leaving R without a parent playing (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Let P_{k} represent the perimeter of a square with sides of length k. The value of the expression P₁ + P₂ + P₃ + ⋯ + P₁₀ is __________",
+      "options": [
+        {
+          "label": "A",
+          "text": "55"
+        },
+        {
+          "label": "B",
+          "text": "110"
+        },
+        {
+          "label": "C",
+          "text": "220"
+        },
+        {
+          "label": "D",
+          "text": "440"
+        }
+      ],
+      "sourceImage": "figures/day08-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              352.01
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "A square of side k has perimeter P_{k} = 4k. Therefore P₁ + ⋯ + P₁₀ = 4(1 + ⋯ + 10) = 4×10×11/2 = 220 (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-ec-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "The city of Atlantis was crafted by the God of the seas, Poseidon. It was made of alternating concentric circular rings of land (shaded) and water (not shaded) as represented in the figure (not to scale). The radius of Inner Island was 2.5 stades (a unit of length used in ancient Greece). The water surrounding Inner Island was one stade wide (length AB). This was surrounded by two pairs of alternating rings of land and water. The first pair of land and water was two stades wide each (lengths BC and CD), and the outer pair is three stades wide each (lengths DE and EF). The ratio of the surface area of the land to that of the water in the city of Atlantis is _________ (round off to two decimal places).",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.45"
+        },
+        {
+          "label": "B",
+          "text": "0.60"
+        },
+        {
+          "label": "C",
+          "text": "0.75"
+        },
+        {
+          "label": "D",
+          "text": "0.90"
+        }
+      ],
+      "sourceImage": "figures/day08-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 9,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              704.74
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The successive radii are 2.5, 3.5, 5.5, 7.5, 10.5 and 13.5 stades. Land area = π[2.5² + (5.5² − 3.5²) + (10.5² − 7.5²)] = 78.25π square stades. Water area = π[(3.5² − 2.5²) + (7.5² − 5.5²) + (13.5² − 10.5²)] = 104π square stades. Ratio = 78.25/104 ≈ 0.7524, which rounds to 0.75 (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ec-ga-09-figure-1.png",
+          "alt": "Alternating concentric land and water regions. The center island is land. Points A through F mark successive boundaries along the radius, with water AB, land BC, water CD, land DE, water EF.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/EC.pdf",
+            "page": 9,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-ec-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "EC",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "If\nThen",
+      "options": [
+        {
+          "label": "A",
+          "text": "P",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-10-option-A.png",
+            "alt": "P: inverted Test Aptitude above inverted GATE - 2026.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 10,
+              "image": "Im3.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "Q",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-10-option-B.png",
+            "alt": "Q: inverted Aptitude Test above inverted 2026 - GATE.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 10,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "R",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-10-option-C.png",
+            "alt": "R: inverted Aptitude Test above inverted GATE - 2026.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 10,
+              "image": "Im4.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "S",
+          "figure": {
+            "src": "figures/gate-2026-ec-ga-10-option-D.png",
+            "alt": "S: inverted Test Aptitude above inverted 2026 - GATE.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/EC.pdf",
+              "page": 10,
+              "image": "Im6.png",
+              "pixelCrop": null,
+              "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day08-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/EC.pdf",
+        "pages": [
+          {
+            "page": 10,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              677.62
+            ]
+          }
+        ],
+        "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The example reflects the entire figure about a horizontal axis: top and bottom exchange places, while left and right remain fixed. Apply that same reflection to the second figure, including the orientation of the letters and digits. The result is R (C), not a 180° rotation or a left-right reflection.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+        "paper": "EC",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-ec-ga-10-figure-1.png",
+          "alt": "Transformation example: the two-line inscription Ref Fig / 12 34 is transformed to the inverted lettering shown after the arrow.",
+          "caption": "If",
+          "source": {
+            "file": "Aptitude Sets/2026/EC.pdf",
+            "page": 10,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+          }
+        },
+        {
+          "src": "figures/gate-2026-ec-ga-10-figure-2.png",
+          "alt": "Apply the illustrated transformation to the two-line inscription GATE - 2026 / Aptitude Test.",
+          "caption": "Then",
+          "source": {
+            "file": "Aptitude Sets/2026/EC.pdf",
+            "page": 10,
+            "image": "Im2.png",
+            "pixelCrop": null,
+            "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+          }
+        }
+      ],
+      "figureSequence": true
+    }
+  ]
+}

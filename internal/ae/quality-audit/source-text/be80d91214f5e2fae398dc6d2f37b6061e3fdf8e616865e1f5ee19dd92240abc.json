@@ -1,0 +1,453 @@
+{
+  "source": "internal/ae/AE2022.pdf",
+  "sha256": "be80d91214f5e2fae398dc6d2f37b6061e3fdf8e616865e1f5ee19dd92240abc",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 292,
+      "questionNumberCandidates": [
+        1,
+        1
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 1 of 42 \n \nGATE 2022 General Aptitude  \nQ.1 – Q.5  Carry ONE mark each. \n \nQ.1 Writing too many things on the ________ while teaching could make the \nstudents get _________. \n(A) bored / board \n(B) board / bored \n(C) board / board \n(D) bored / bored \n  "
+    },
+    {
+      "page": 2,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 254,
+      "questionNumberCandidates": [
+        2
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 2 of 42 \n \n  \n \nQ.2 Which one of the following is a representation (not to scale and in bold) of all \nvalues of 𝑥 satisfying the inequality 2 − 5𝑥 ≤ −\n଺௫ିହ\nଷ   on the real number \nline? \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n  \n"
+    },
+    {
+      "page": 3,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 187,
+      "questionNumberCandidates": [
+        3
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 3 of 42 \n \nQ.3 If 𝑓(𝑥) = 2 ln൫√𝑒௫ ൯, what is the area bounded by 𝑓(𝑥) for the interval [0, 2]      \non the 𝑥-axis? \n(A) 1\n2 \n(B) 1 \n(C) 2 \n(D) 4 \n  "
+    },
+    {
+      "page": 4,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 441,
+      "questionNumberCandidates": [
+        4
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 4 of 42 \n \n  \n \nQ.4 A person was born on the fifth Monday of February in a particular year.  \nWhich one of the following statements is correct based on the above \ninformation? \n(A) The 2nd February of that year is a Tuesday \n(B) There will be five Sundays in the month of February in that year \n(C) The 1st February of that year is a Sunday \n(D) All Mondays of February in that year have even dates \n  \n \n \n \n \n  "
+    },
+    {
+      "page": 5,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 293,
+      "questionNumberCandidates": [
+        5
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 5 of 42 \n \nQ.5 \n \nWhich one of the groups given below can be assembled to get the shape that is \nshown above using each piece only once without overlapping with each other? \n(rotation and translation operations may be used). \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n \n  \n"
+    },
+    {
+      "page": 6,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 879,
+      "questionNumberCandidates": [
+        6,
+        6
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 6 of 42 \n \n \nQ. 6 – Q. 10  Carry TWO marks each. \n \n \n \nQ.6 Fish belonging to species S in the deep sea have skins that are extremely black \n(ultra-black skin). This helps them not only to avoid predators but also sneakily \nattack their prey. However, having this extra layer of black pigment results in \nlower collagen on their skin, making their skin more fragile.   \nWhich one of the following is the CORRECT logical inference based on the \ninformation in the above passage? \n(A) Having ultra-black skin is only advantageous to species S \n(B) Species S with lower collagen in their skin are at an advantage because it helps \nthem avoid predators \n(C) Having ultra-black skin has both advantages and disadvantages to species S \n(D) Having ultra-black skin is only disadvantageous to species S but advantageous \nonly to their predators \n \n \n \n \n \n  "
+    },
+    {
+      "page": 7,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 281,
+      "questionNumberCandidates": [
+        7
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 7 of 42 \n \n \nQ.7 For the past 𝑚 days, the average daily production at a company was 100 units \nper day.  \nIf today’s production of 180 units changes the average to 110 units per day, \nwhat is the value of 𝑚?  \n(A) 18 \n(B) 10 \n(C) 7 \n(D) 5 \n \n \n \n  "
+    },
+    {
+      "page": 8,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 455,
+      "questionNumberCandidates": [
+        8
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 8 of 42 \n \n \n \nQ.8 Consider the following functions for non-zero positive integers, 𝑝 and 𝑞.  \n 𝑓(𝑝, 𝑞) = 𝑝 × 𝑝 × 𝑝 × … … … × 𝑝ᇣ ᇧ ᇧ ᇧ ᇧ ᇧ ᇧ ᇤ ᇧ ᇧ ᇧ ᇧ ᇧ ᇧ ᇥ\n௤ terms\n= 𝑝 ௤ ;      𝑓(𝑝, 1) = 𝑝 \n𝑔(𝑝, 𝑞) = 𝑝 ௣ ௣ ௣ ௣ ⫶⫶⫶(౫౦ ౪౥ ೜ ౪౛౨ౣ౩ )\n;      𝑔(𝑝, 1) = 𝑝 \nWhich one of the following options is correct based on the above? \n(A) 𝑓(2,2) = 𝑔(2,2) \n(B) 𝑓(𝑔(2,2), 2) < 𝑓൫2, 𝑔(2,2)൯ \n(C) 𝑔(2,1) ≠ 𝑓(2,1) \n(D) 𝑓(3,2) > 𝑔(3,2) \n \n \n \n \n \n  "
+    },
+    {
+      "page": 9,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 781,
+      "questionNumberCandidates": [
+        9
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 9 of 42 \n \n \n \nQ.9 Four cities P, Q, R and S are connected through one-way routes as shown in the \nfigure. The travel time between any two connected cities is one hour. The boxes \nbeside each city name describe the starting time of first train of the day and their \nfrequency of operation. For example, from city P, the first trains of the day start \nat 8 AM with a frequency of 90 minutes to each of R and S. A person does not \nspend additional time at any city other than the waiting time for the next \nconnecting train. \nIf the person starts from R at 7 AM and is required to visit S and return to R, \nwhat is the minimum time required?  \n \n(A) 6 hours 30 minutes \n(B) 3 hours 45 minutes \n(C) 4 hours 30 minutes \n(D) 5 hours 15 minutes \n \n  \n"
+    },
+    {
+      "page": 10,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 547,
+      "questionNumberCandidates": [
+        10
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 10 of 42 \n \n \n \nQ.10 Equal sized circular regions are shaded in a square sheet of paper of 1 cm side \nlength.  Two cases, case M and case N, are considered as shown in the figures \nbelow.  In the case M, four circles are shaded in the square sheet and in the case \nN, nine circles are shaded in the square sheet as shown.   \nWhat is the ratio of the areas of unshaded regions of case M to that of case N?  \n \n             \ncase M                         case N \n(A) 2 : 3 \n(B) 1 : 1 \n(C) 3 : 2 \n(D) 2 : 1 \n \n \n \n \n  \n"
+    },
+    {
+      "page": 11,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 483,
+      "questionNumberCandidates": [
+        11,
+        11,
+        12
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 11 of 42 \n \nQ.11 – Q.35 Carry ONE mark Each \n \nQ.11 The equation of the straight line representing the tangent to the curve 𝑦 = 𝑥ଶ  at \nthe point (1,1) is  \n(A) 𝑦 = 2𝑥 − 2 \n(B) 𝑥 = 2𝑦 − 1 \n(C) 𝑦 − 1 = 2(𝑥 − 1) \n(D) 𝑥 − 1 = 2(𝑦 − 1) \n  \n \nQ.12 Let  𝚤̂, 𝚥̂, and 𝑘෠ be the unit vectors in the x, y and z directions, respectively. If the \nvector 𝚤̂ + 𝚥̂ is rotated about positive 𝑘෠ by 135o, one gets \n(A) −𝚤̂ \n(B) −𝚥̂ \n(C) − 1\n√2\n𝚥̂ \n(D) −√2𝚤̂  \n  \n \n  "
+    },
+    {
+      "page": 12,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 404,
+      "questionNumberCandidates": [
+        13,
+        14
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 12 of 42 \n \n \nQ.13 Let 𝑥 be a real number and 𝑖 = √−1. Then the real part of cos(𝑖𝑥) is \n(A) sinh 𝑥 \n(B) cosh 𝑥 \n(C) cos 𝑥  \n(D) sin 𝑥 \n  \n \n \nQ.14 The point of maximum entropy on a Fanno-curve in a Temperature-Entropy (T-s) \ndiagram represents the \n(A) maximum flow Mach number \n(B) minimum flow Mach number \n(C) sonic Mach number \n(D) normal shock in the flow \n  \n \n  "
+    },
+    {
+      "page": 13,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 243,
+      "questionNumberCandidates": [
+        15
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 13 of 42 \n \n \nQ.15 Consider a two-dimensional potential flow over a cylinder. If the freestream speed \nis 𝑈ஶ , the maximum speed on the cylinder surface is  \n(A) 𝑈ஶ\n2  \n(B) 3𝑈ஶ\n2  \n(C) 2𝑈ஶ  \n(D) 4𝑈ஶ\n3  \n  \n  "
+    },
+    {
+      "page": 14,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 501,
+      "questionNumberCandidates": [
+        16
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 14 of 42 \n \n \nQ.16 Consider steady, two-dimensional, incompressible flow over a non-porous flat \nplate as shown in the figure. For the control volume PQRS, the speed, 𝑢ஶ , at \nsection PQ is uniform and the speed at section RS is given by 𝑢(𝑦) = 𝐴଴ ቀ\n௬\n௛ ቁ\n௡\n, \nwhere 𝑛 is a positive integer. The value of 𝐴଴  for which the flow through section \nPS will vanish is: \nu 0( )\nn\nyu y A h\n    \nh\n \n(A) 𝑢ஶ\n𝑛 + 1 \n(B) 𝑢ஶ (𝑛 + 1) \n(C) 𝑢ஶ\n𝑛 − 1 \n(D) 𝑢ஶ (𝑛 − 1) \n  \n \n  "
+    },
+    {
+      "page": 15,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 293,
+      "questionNumberCandidates": [
+        17
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 15 of 42 \n \n \nQ.17 Consider the velocity distribution, 𝑢(𝑦) shown in the figure. For two adjacent fluid \nlayers L1 and L2, the viscous force exerted by L1 on L2 is \n \n(A) to the right \n(B) to the left \n(C) vertically upwards \n(D) vertically downwards \n \n  \n"
+    },
+    {
+      "page": 16,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 565,
+      "questionNumberCandidates": [
+        18,
+        19
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 16 of 42 \n \nQ.18 The service ceiling of an airplane is the altitude  \n(A) at which maximum rate of climb is 100 m/min \n(B) beyond which theoretically the airplane cannot sustain level flight \n(C) at which maximum power is required for flight \n(D) at which maximum rate of climb is 100 ft/min \n  \n \nQ.19 Regarding the horizontal tail of a conventional airplane, which one of the \nfollowing statements is true? \n(A) It contributes to 𝐶௠ ഀ < 0 \n(B) It makes 𝐶௠ ഀ = 0 \n(C) It makes 𝐶௠ ഀ > 0 \n(D) It makes 𝐶௠ ଴ > 0 and 𝐶௠ ഀ > 0 \n  \n \n  "
+    },
+    {
+      "page": 17,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 442,
+      "questionNumberCandidates": [
+        20
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 17 of 42 \n \n \nQ.20 A beam with a symmetrical T-shaped cross-section, as shown in the figure, is \nsubjected to pure bending. The maximum magnitude of the normal stress is realised: \n \n(A) only at the top fibres of the cross-section  \n(B) only at the bottom fibres of the cross-section \n(C) both at the top and bottom fibres of the cross-section \n(D) only at the centroidal fibres of the cross-section \n \n  \n"
+    },
+    {
+      "page": 18,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 264,
+      "questionNumberCandidates": [
+        21
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 18 of 42 \n \n \nQ.21 A three-member truss is simply supported at Q and R, and loaded at P by a \nhorizontal force 𝐹 as shown. The force in QR is \n \n(A) 0 \n(B) 𝐹 (tensile) \n(C)  \nி\n√ଶ   (compressive)       \n(D) √2𝐹  (tensile) \n \n  \n"
+    },
+    {
+      "page": 19,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 829,
+      "questionNumberCandidates": [
+        22,
+        23
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 19 of 42 \n \n \nQ.22 The closed thin-walled rectangular channel shown in figure (i) is opened by \nintroducing a sharp cut at the center of the bottom edge, as shown in figure (ii). \nWhich one of the following statements is correct? \n \n(A) Centroids of (i) and (ii) coincide while shear centers do not \n(B) Shear centers of (i) and (ii) coincide while centroids do not \n(C) Both centroids and shear centers of (i) and (ii) coincide \n(D) Neither centroids nor shear centers of (i) and (ii) coincide \n \nQ.23 The region of highest static temperature in a rocket engine and the region of \nhighest heat flux are ____________, respectively. \n(A) nozzle throat and nozzle entry \n(B) combustion chamber and nozzle throat \n(C) nozzle exit and nozzle throat \n(D) nozzle throat and combustion chamber \n  \n  \n"
+    },
+    {
+      "page": 20,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 415,
+      "questionNumberCandidates": [
+        24,
+        25
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 20 of 42 \n \n \nQ.24 If 𝑎ො, 𝑏෠, 𝑐̂  are three mutually perpendicular unit vectors, then 𝑎ො ⋅ ൫ 𝑏෠ × 𝑐̂൯ can take \nthe value(s) \n(A) 0 \n(B) 1 \n(C) -1 \n(D) ∞ \n  \n \n \nQ.25 Across an oblique shock wave in a calorifically perfect gas, \n(A) the stagnation enthalpy changes \n(B) the stagnation entropy changes \n(C) the stagnation temperature changes \n(D) the speed of sound changes \n \n  "
+    },
+    {
+      "page": 21,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 628,
+      "questionNumberCandidates": [
+        26,
+        27
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 21 of 42 \n \n \nQ.26 NACA 2412 airfoil has \n(A) 4% maximum camber with respect to chord \n(B) maximum camber at 40% chord \n(C) 12% maximum thickness to chord ratio \n(D) maximum camber at 20% chord \n \n \nQ.27 For International Standard Atmosphere (ISA) up to 11 km, which of the following \nstatement(s) is/are true?  \n(A) The hydrostatic/ aerostatic equation is used  \n(B) The temperature lapse rate is taken as −10ି ଶ  𝐾/𝑚 \n(C) The sea level conditions are taken as: pressure, 𝑝௦ = 1.01325 × 10ହ 𝑃𝑎; \ntemperature, 𝑇௦ = 300 𝐾; density, 𝜌௦ = 1.225 𝑘𝑔/𝑚ଷ  \n(D) Air is treated as a perfect gas  \n  \n \n \n  "
+    },
+    {
+      "page": 22,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 315,
+      "questionNumberCandidates": [
+        28
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 22 of 42 \n \n \nQ.28 Let 𝜎 and 𝜏 represent the normal stress and shear stress on a plane, respectively. \nThe Mohr circle(s) that may possibly represent the state of stress at points in a beam \nof rectangular cross-section under pure bending is/are: \n(A) \n \n(B) \n \n(C) \n \n(D) \n \n \n  \n"
+    },
+    {
+      "page": 23,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 619,
+      "questionNumberCandidates": [
+        29,
+        30
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 23 of 42 \n \n \nQ.29 An isotropic linear elastic material point under plane strain condition in the x-y \nplane always obeys: \n(A) out-of-plane normal strain, 𝜖௭௭ = 0 \n(B) out-of-plane normal stress, 𝜎௭௭ = 0 \n(C) out-of-plane shear stress, 𝜏௫௭ = 0 \n(D) out-of-plane shear strain,𝛾௫௭ = 0 \n  \n \n \nQ.30 A high-pressure-ratio multistage axial compressor encounters an extreme loading \nmismatch during starting. Which of the following technique(s) can be used to \nalleviate this problem? \n(A) Blade cooling \n(B) Variable angle stator vanes \n(C) Blow-off valves \n(D) Multi-spool shaft \n  \n \n  "
+    },
+    {
+      "page": 24,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 616,
+      "questionNumberCandidates": [
+        31,
+        32,
+        33
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 24 of 42 \n \n \nQ.31 The arc length of the parametric curve:  𝑥 = cos 𝜃 , 𝑦 = sin 𝜃 , 𝑧 = 𝜃 from 𝜃 = 0 \nto 𝜃 = 2𝜋 is equal to ________ (round off to one decimal place). \n  \n \n \nQ.32 An unpowered glider is flying at a glide angle of 10 degrees. Its lift-to-drag ratio \nis                                    (round off to two decimal places). \n  \n \n \nQ.33 The two-dimensional plane-stress state at a point is:  \n𝜎௫௫ = 110 𝑀𝑃𝑎; 𝜎 ௬௬ = 30 𝑀𝑃𝑎; 𝜏௫௬ = 40 𝑀𝑃𝑎. \nThe normal stress, 𝜎௡  , on a plane inclined 45o as shown in the figure is ____ MPa \n(round off to the nearest integer). \n \n  \n \n  \n"
+    },
+    {
+      "page": 25,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 742,
+      "questionNumberCandidates": [
+        34,
+        35
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 25 of 42 \n \n \nQ.34 In a static test, a turbofan engine with bypass ratio of 9 has core hot exhaust speed \n1.5 times that of fan exhaust speed. The engine is operated at a fuel to air ratio of \n𝑓 = 0.03. Both the fan and the core streams have no pressure thrust. The ratio of \nfan thrust to thrust from the core engine is _____ (round off to one decimal place). \n  \n \nQ.35 In a single stage turbine, the hot gases come out of stator/ nozzle at a speed of 500 \nm/s and at an angle of 70 degrees with the turbine axis as shown. The design \nspeed of the rotor blade is 250 m/s at the mean blade radius. The rotor blade angle, \n𝛽, at the leading edge is ________ degrees (round off to one decimal place). \n \n  \n \n  \n"
+    },
+    {
+      "page": 26,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 458,
+      "questionNumberCandidates": [
+        36,
+        36,
+        37
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 26 of 42 \n \nQ.36 – Q.65 Carry TWO marks Each \n \nQ.36 The height of a right circular cone of maximum volume that can be enclosed \nwithin a hollow sphere of radius 𝑅 is \n(A) 𝑅 \n(B) 5\n4 𝑅 \n(C) 4\n3 𝑅 \n(D) 3\n2 𝑅 \n \nQ.37 Consider the differential equation  \nd2௬\nd௫ మ − 2\nd௬\nd௫ + 𝑦 = 0.  \nThe boundary conditions are 𝑦 = 0  and \nௗ௬\nௗ௫ = 1 at 𝑥 = 0 .  \nThen the value of 𝑦 at 𝑥 = 1/2 is \n(A) 0 \n(B) √𝑒 \n(C) √𝑒\n2  \n(D) ට 𝑒\n2 \n \n  "
+    },
+    {
+      "page": 27,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 1021,
+      "questionNumberCandidates": [
+        38,
+        39
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 27 of 42 \n \n \nQ.38 Consider the partial differential equation \nப మ ௙\nப௫ మ +\nப మ ௙\nப௬ మ = 0 where 𝑥, 𝑦 are real.  \nIf 𝑓(𝑥, 𝑦) = 𝑎(𝑥)𝑏(𝑦), where 𝑎(𝑥) and 𝑏(𝑦) are real functions, which one of the \nfollowing statements can be true? \n(A) 𝑎(𝑥) is a periodic function and 𝑏(𝑦) is a linear function \n(B) both 𝑎(𝑥) and 𝑏(𝑦) are exponential functions \n(C) 𝑎(𝑥) is a periodic function and 𝑏(𝑦) is an exponential function \n(D) both 𝑎(𝑥) and 𝑏(𝑦) are periodic functions \n  \n \n \nQ.39 A cylindrical object of diameter 900 mm is designed to move axially in air at      \n60 m/s. Its drag is estimated on a geometrically half-scaled model in water, \nassuming flow similarity.  \nCoefficients of dynamic viscosity and densities for air and water are \n1.86 × 10ିହ  Pa-s, 1.2 kg/m3 and 1.01 × 10ିଷ  Pa-s, 1000 kg/m3 respectively.  \nDrag measured for the model is 2280 N. Drag experienced by the full-scale object \nis ____ N (rounded off to the nearest integer). \n(A) 322 \n(B) 644 \n(C) 1288 \n(D) 2576 \n "
+    },
+    {
+      "page": 28,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 355,
+      "questionNumberCandidates": [
+        40
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 28 of 42 \n \nQ.40 Consider a conventional subsonic fixed-wing airplane. 𝑒 is the Oswald efficiency \nfactor and 𝐴𝑅 is the aspect ratio. Corresponding to the minimum ൬\n஼ ವ\n஼ ಽ\nయ మ⁄ ൰, which of \nthe following relations is true?  \n(A) 𝐶஽\n𝐶௅\nଶ = 1\n𝜋𝑒𝐴𝑅 \n(B) 𝐶஽\n𝐶௅\nଶ = 4\n3𝜋𝑒𝐴𝑅 \n(C) 𝐶஽\n𝐶௅\n= 1\n𝜋𝑒𝐴𝑅 \n(D) 𝐶஽\nඥ 𝐶௅\n= 1\n√𝜋𝑒𝐴𝑅\n \n  \n \n  "
+    },
+    {
+      "page": 29,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 366,
+      "questionNumberCandidates": [
+        41
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 29 of 42 \n \n \nQ.41 A horizontal load 𝐹 is applied at point R on a two-member truss, as shown in the \nfigure. Both the members are prismatic with cross-sectional area, 𝐴଴ , and made of \nthe same material with Young’s modulus 𝐸.  \nThe horizontal displacement of point R is: \n \n(A) 0 \n(B) 𝐹𝑙\n𝐸𝐴଴\n \n(C) √2 𝐹𝑙\n𝐸𝐴଴\n \n(D) 2 𝐹𝑙\n𝐸𝐴଴\n \n  \n \n \n  \n"
+    },
+    {
+      "page": 30,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 500,
+      "questionNumberCandidates": [
+        42,
+        43
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 30 of 42 \n \nQ.42 Which of the following is NOT always true for a combustion process taking place \nin a closed system? \n(A) Total number of atoms is conserved \n(B) Total number of molecules is conserved  \n(C) Total number of atoms of each element is conserved \n(D) Total mass is conserved  \n  \n \n \nQ.43 The real function 𝑦 = sinଶ (|𝑥|) is \n(A) continuous for all 𝑥 \n(B) differentiable for all 𝑥 \n(C) not continuous at 𝑥 =  0 \n(D) not differentiable at 𝑥 =  0 \n  \n \n  "
+    },
+    {
+      "page": 31,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 611,
+      "questionNumberCandidates": [
+        44
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 31 of 42 \n \n \nQ.44 A convergent nozzle fed from a constant pressure, constant temperature reservoir, \nis discharging air to atmosphere at 1 bar (absolute) with choked flow at the exit \n(marked as 𝑄).  \nFlow through the nozzle can be assumed to be isentropic.  \nIf the exit area of the nozzle is increased while all the reservoir parameters and \nambient conditions remain the same, then at steady state \n \n(A) the nozzle will remain choked \n(B) the nozzle will be un-choked \n(C) the Mach number at section P will increase \n(D) the Mach number at section P will decrease \n  \n  "
+    },
+    {
+      "page": 32,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 1091,
+      "questionNumberCandidates": [
+        45,
+        46
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 32 of 42 \n \nQ.45 For a conventional airplane in straight, level, constant velocity flight condition, \nwhich of the following condition(s) is/are possible on Euler angles (𝜙, 𝜃, 𝜓), angle \nof attack (𝛼) and the sideslip angle (𝛽)? \n(A) 𝜙 = 0௢ , 𝜃 = 2௢ , 𝜓 = 0௢ , 𝛼 = 2௢ , 𝛽 = 0௢  \n(B) 𝜙 = 5௢ , 𝜃 = 0௢ , 𝜓 = 0௢ , 𝛼 = 2௢ , 𝛽 = 0௢  \n(C) 𝜙 = 0௢ , 𝜃 = 3௢ , 𝜓 = 0௢ , 𝛼 = 3௢ , 𝛽 = 5௢  \n(D) 𝜙 = 0௢ , 𝜃 = 5௢ , 𝜓 = 0௢ , 𝛼 = 2௢ , 𝛽 = 5௢  \n  \n \nQ.46 Consider a high Earth-orbiting satellite of angular momentum per unit mass ℎሬ⃗ and \neccentricity 𝑒.  \nThe mass of the Earth is 𝑀 and 𝐺 is the universal gravitational constant.  \nThe distance between the satellite’s center of mass and the Earth’s center of mass \nis 𝑟,  the true anomaly is 𝜃, and the phase angle is zero.  \nWhich of the following statements is/are true? \n(A) The trajectory equation is 𝑟 = 𝑟(𝜃) =\nห௛ሬሬ⃗ห\nீெ (ଵ ା ௘ ௖௢௦ ఏ ) \n(B) The trajectory equation is 𝑟 = 𝑟(𝜃) =\nห௛ሬሬ⃗ห\nమ\nீெ (ଵ ା ௘ ௖௢௦ ఏ ) \n(C) ℎሬ⃗ is conserved \n(D) The sum of potential energy and kinetic energy of the satellite is conserved  \n \n  "
+    },
+    {
+      "page": 33,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 933,
+      "questionNumberCandidates": [
+        47,
+        48
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 33 of 42 \n \n \nQ.47 A rocket operates at an absolute chamber pressure of 20 bar to produce thrust, 𝐹ଵ .  \nThe hot exhaust is optimally expanded to 1 bar (absolute pressure) using a \nconvergent-divergent nozzle with exit to throat area ratio ቀ\n஺ ೐\n஺ ೟\nቁ of 3.5 and thrust \ncoefficient, 𝐶ி,ଵ =1.42.  \nThe same rocket when operated at an absolute chamber pressure of 50 bar \nproduces thrust 𝐹ଶ  and the thrust coefficient is 𝐶ி,ଶ .  \nWhich of the following statement(s) is/are correct? \n(A) 𝐹ଶ\n𝐹ଵ\n= 2.5 \n(B) 𝐹ଶ\n𝐹ଵ\n> 2.5 \n(C) 𝐶ி ,ଶ\n𝐶ி ,ଵ\n= 1 \n(D) 𝐶ி ,ଶ\n𝐶ி ,ଵ\n> 1 \n  \n \nQ.48 𝑣⃗ = 𝑥ଷ 𝚤̂ + 𝑦ଷ 𝚥̂ + 𝑧ଷ 𝑘෠ is a vector field where 𝚤̂, 𝚥̂, 𝑘෠ are the base vectors of a \ncartesian coordinate system.  \nUsing the Gauss divergence theorem, the value of the outward flux of the vector \nfield over the surface of a sphere of unit radius centered at the origin is________ \n(rounded off to one decimal place).  \n \n  "
+    },
+    {
+      "page": 34,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 827,
+      "questionNumberCandidates": [
+        49,
+        50,
+        51
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 34 of 42 \n \n \nQ.49 The largest eigenvalue of the given matrix is _____. \n൥\n0 1 1\n1 0 1\n1 1 0\n൩ \n  \n \nQ.50 A rotational velocity field in an air flow is given as ˆ ˆV ayi bxj \n\n, with 𝑎 = 10 s-1, \n𝑏 = 20 s-1.   \nThe air density is 1.0 kg/m3 and the pressure at (𝑥, 𝑦) = (0 m, 0 m) is 100 kPa.  \nNeglecting gravity, the pressure at (𝑥, 𝑦) = (6 m, 8 m) is _____ kPa (rounded off \nto nearest integer). \n  \n \nQ.51 Consider a circulation distribution over a finite wing given by the equation below. \nΓ(𝑦) = ൞\nΓ଴ ൬1 − 2𝑦\n𝑏 ൰    𝑖𝑓      0 ≤ 𝑦 ≤ 𝑏\n2\nΓ଴ ൬1 + 2𝑦\n𝑏 ൰   𝑖𝑓  − 𝑏\n2 ≤ 𝑦 ≤ 0\n \nThe wingspan 𝑏 is 10 m, the maximum circulation Γ଴  is 20 m2/s, density of air is \n1.2 kg/m3 and the free stream speed is 80 m/s.  \nThe lift over the wing is ______N (rounded off to the nearest integer).  \n  \n \n  "
+    },
+    {
+      "page": 35,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 675,
+      "questionNumberCandidates": [
+        52
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 35 of 42 \n \n \nQ.52 Consider a solid cylinder housed inside another cylinder as shown in the figure. \nRadius of the inner cylinder is 1 m and its height is 2 m. The gap between the \ncylinders is 5 mm and is filled with a fluid of viscosity 10-4 Pa-s.  \nThe inner cylinder is rotating at a constant angular speed of 5 rad/s while the outer \ncylinder is stationary. Friction at the bottom surfaces can be ignored. Velocity \nprofile in the vertical gap between the cylinders can be assumed to be linear.  \nThe driving moment required for the rotating motion of the inner cylinder is \n____________ Nm (rounded off to two decimal places).  \n \n  \n \n  "
+    },
+    {
+      "page": 36,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 741,
+      "questionNumberCandidates": [
+        53,
+        54
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 36 of 42 \n \n \nQ.53 In a converging duct, area and velocity at section P are 1 m 2 and 15 m/s, \nrespectively. The temperature of the fluid is 300 K.  \nAir flow through the nozzle can be assumed to be inviscid and isothermal. \nCharacteristic gas constant is 287 J/(kg-K) and ratio of specific heats is for air. \nTo ensure that the air flow remains incompressible (Mach number, 𝑀 ≤ 0.3 ) in the \nduct, the minimum area required at section Q is _____ m 2 (rounded off to two \ndecimal places). \n \n \nQ.54 Consider a thin symmetric airfoil at 2 degree angle of attack in a uniform flow at \n50 m/s. The pitching moment coefficient about its leading edge is _____ (rounded \noff to three decimal places). \n  \n \n  "
+    },
+    {
+      "page": 37,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 911,
+      "questionNumberCandidates": [
+        55,
+        56
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 37 of 42 \n \n \nQ.55 A convergent-divergent nozzle with adiabatic walls is designed for an exit Mach \nnumber of 2.3. It is discharging air to atmosphere under the conditions indicated in \nthe figure.  \nFlow through the nozzle is inviscid, the characteristic gas constant for air is 287 \nJ/(kg-K), and 𝛾 =1.4.  \nWhen the reservoir pressure is 25 bar (absolute), and temperature is 300 K, Prandtl-\nMeyer expansion waves appear at the nozzle exit as shown.  \nThe minimum percentage change in the reservoir pressure required to eliminate the \nwave system at the nozzle exit under steady state is _______%.  \n \n  \n \nQ.56 A conventional airplane of mass 5000 kg is doing a level turn of radius 1000 m at a \nconstant speed of 100 m/s at sea level.  \nTaking the acceleration due to gravity as 10 m/s2, the bank angle of the airplane is \n                                 degrees. \n  \n \n \n  "
+    },
+    {
+      "page": 38,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 940,
+      "questionNumberCandidates": [
+        57,
+        58
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 38 of 42 \n \n \nQ.57 Given: The tip deflection and tip slope for a tip loaded cantilever of length 𝐿 are: \nே௅ య\nଷாூ   and  \nே௅ మ\nଶாூ , respectively, where N is the tip force and EI is the flexural rigidity.  \nA cantilever 𝑃𝑄 of rectangular cross-section is subjected to transverse load, 𝐹, at \nits mid-point. Two cases are considered as shown in the figure. In Case I, the end \n𝑄 is free and in Case II, 𝑄 is simply supported.  \nThe ratio of the magnitude of the maximum bending stress at 𝑃 in Case I to that in \nCase II is ________ (rounded off to one decimal place). \n \n  \n \n \nQ.58 A simply supported Aluminium column of length 1 m and rectangular cross-\nsection 𝑤 × 𝑡 with 𝑡 ≤ 𝑤, is subjected to axial compressive loading.  \nYoung’s modulus is 70 GPa. Yield stress under uniaxial compression is 120 MPa.  \nThe value of 𝑡 at which the failure load for yielding and buckling coincide is \n_______mm. \n  \n \n  \n"
+    },
+    {
+      "page": 39,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 800,
+      "questionNumberCandidates": [
+        59,
+        60
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 39 of 42 \n \n \nQ.59 A 0.5 m long thin-walled circular shaft of radius 2 cm is to be designed for an \naxial load of 7.4 kN and a torque of 148 Nm applied at its tip, as shown in the \nfigure.  \nThe allowable stress under uniaxial tension is 100 MPa.  \nUsing maximum principal stress criterion, the minimum thickness, 𝑡, of the shaft \nso that it does not fail is _____ mm (rounded off to the nearest integer). \n \n  \n \n \nQ.60 A 10 kN axial load is applied eccentrically on a rod of square cross-section (1 cm \n× 1 cm) as shown in the figure.  \nThe strains measured by the two strain gages attached to the top and bottom \nsurfaces at a distance of 0.5 m from the tip are 𝜖ଵ = 0.0016 and 𝜖ଶ = 0.0004, \nrespectively.  \nThe eccentricity in loading, 𝑒 is _________mm. \n \n  \n \n  \n"
+    },
+    {
+      "page": 40,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 629,
+      "questionNumberCandidates": [
+        61,
+        62
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 40 of 42 \n \n \nQ.61 For a thin-walled I section, the width of the two flanges as well as the web height \nare the same, i.e., 2𝑏 = 20 mm. Thickness is 0.6 mm.  \nThe second moment of area about a horizontal axis passing through the centroid is \n______ mm4. \n \n  \n \n \nQ.62 A damper with damping coefficient, 𝑐,  is attached to a mass of 5 kg and spring of \nstiffness 5 kN/m as shown in figure. The system undergoes under-damped \noscillations.  \nIf the ratio of the 3rd amplitude to the 4th amplitude of oscillations is 1.5, the value \nof 𝑐 is ____ Ns/m (rounded off to the nearest integer). \n \n  \n \n  \n"
+    },
+    {
+      "page": 41,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 772,
+      "questionNumberCandidates": [
+        63,
+        64
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 41 of 42 \n \n \nQ.63 A uniform rigid prismatic bar of total mass 𝑚 is suspended from a ceiling by two \nidentical springs as shown in figure.  \nLet 𝜔ଵ  and 𝜔ଶ  be the natural frequencies of mode I and mode II respectively \n(𝜔ଵ < 𝜔ଶ ).  \nThe value of 𝜔ଶ /𝜔ଵ  is _________ (rounded off to one decimal place). \n \n  \n \nQ.64 An ideal ramjet is to operate with exhaust gases optimally expanded to ambient \npressure at an altitude where temperature is 220 K. The exhaust speed at the nozzle \nexit is 1200 m/s at a temperature of 1100 K.  \nGiven: 𝛾 = 1.4 at 220 K; 𝑅 = 287 J/(kg-K) for air \n           𝛾 = 1.33 at 1100 K; 𝑅 = 287 J/(kg-K) for exhaust gases. \nThe cruise speed of this ramjet is ________ m/s (rounded off to nearest integer).  \n  \n \n  \n"
+    },
+    {
+      "page": 42,
+      "width": 595.32001,
+      "height": 841.92004,
+      "textCharacters": 438,
+      "questionNumberCandidates": [
+        65
+      ],
+      "text": "GATE 2022 Aerospace Engineering (AE) \nPage 42 of 42 \n \n \nQ.65 A multistage axial compressor takes in air at 1 atm, 300 K and compresses it to a \nminimum of 5 atm.  \nThe mean blade speed is 245 m/s and work coefficient, \n∆஼ ഇ\n௎  is 0.55 for each stage. \nFor air, use 𝐶௣ =1005 J/(kg-K), 𝑅 = 287 J/(kg-K) and γ = 1.4.  \nIf the compression is isentropic, the number of stages required is ___________ \n(rounded off to the next higher integer). \n "
+    }
+  ]
+}

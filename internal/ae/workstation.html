@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forensic Review Workstation</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; padding: 0; display: flex; height: 100vh; overflow: hidden; background: #f4f4f5; }
+  .sidebar { width: 300px; background: #fff; border-right: 1px solid #ddd; display: flex; flex-direction: column; }
+  .sidebar-header { padding: 15px; border-bottom: 1px solid #ddd; background: #fafafa; }
+  .queue-list { overflow-y: auto; flex: 1; }
+  .queue-item { padding: 10px 15px; border-bottom: 1px solid #eee; cursor: pointer; }
+  .queue-item:hover { background: #f9f9f9; }
+  .queue-item.active { background: #e0f2fe; border-left: 4px solid #0284c7; }
+  
+  .main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+  .toolbar { padding: 10px; background: #fff; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: center; }
+  
+  .content { display: flex; flex: 1; overflow: hidden; }
+  .source-pane { flex: 1; border-right: 1px solid #ddd; display: flex; flex-direction: column; background: #e5e5e5; }
+  .source-pane iframe { flex: 1; border: none; width: 100%; }
+  
+  .review-pane { width: 600px; background: #fff; display: flex; flex-direction: column; overflow-y: auto; }
+  
+  .comparison { display: flex; flex-direction: column; padding: 15px; gap: 20px; }
+  .col { border: 1px solid #ddd; padding: 10px; border-radius: 6px; background: #fafafa; }
+  .col h3 { margin-top: 0; font-size: 14px; text-transform: uppercase; color: #555; }
+  
+  .field-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #eee; }
+  .field-label { font-weight: bold; width: 120px; }
+  .field-actions button { margin-left: 5px; padding: 4px 8px; cursor: pointer; }
+  .btn-match { background: #dcfce7; border: 1px solid #22c55e; color: #166534; }
+  .btn-correct { background: #fef08a; border: 1px solid #eab308; color: #854d0e; }
+  .btn-uncertain { background: #fee2e2; border: 1px solid #ef4444; color: #991b1b; }
+  
+  .uncertain-flag { background: #fef08a; border-bottom: 2px solid #ef4444; font-weight: bold; padding: 0 2px; }
+  
+  .editor { display: none; margin-top: 10px; }
+  .editor textarea { width: 100%; height: 80px; font-family: monospace; }
+  
+  .figure-tools { margin-top: 10px; padding: 10px; border: 1px dashed #ccc; background: #fff; }
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <div class="sidebar-header">
+    <h2>Forensic Queue</h2>
+    <div id="queue-stats">Loading...</div>
+  </div>
+  <div class="queue-list" id="queue-list"></div>
+</div>
+
+<div class="main">
+  <div class="toolbar">
+    <div>
+      <button id="btn-prev">&larr; Previous</button>
+      <button id="btn-next">Next &rarr;</button>
+    </div>
+    <div id="current-id" style="font-weight:bold; font-size: 18px;"></div>
+    <div>
+      <select id="overall-state">
+        <option value="UNREVIEWED">UNREVIEWED</option>
+        <option value="AI_CANDIDATE_READY">AI_CANDIDATE_READY</option>
+        <option value="HUMAN_REVIEWED">HUMAN_REVIEWED</option>
+        <option value="CORRECTION_REQUIRED">CORRECTION_REQUIRED</option>
+        <option value="SOURCE_UNCLEAR">SOURCE_UNCLEAR</option>
+      </select>
+      <button id="btn-save-state">Save State</button>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="source-pane">
+      <div style="padding: 5px; background: #fff; font-weight: bold;">SOURCE PDF</div>
+      <iframe id="pdf-viewer"></iframe>
+    </div>
+    
+    <div class="review-pane">
+      <div class="comparison">
+        <div class="col" id="col-json">
+          <h3>CURRENT JSON</h3>
+          <pre id="json-content" style="white-space: pre-wrap; word-wrap: break-word; font-size: 13px;"></pre>
+        </div>
+        <div class="col" id="col-ocr">
+          <h3>OCR/AI CANDIDATE</h3>
+          <button id="btn-gen-ai">Generate OCR Candidate</button>
+          <div id="ocr-content" style="margin-top: 10px; white-space: pre-wrap; font-size: 13px;"></div>
+        </div>
+        
+        <div class="col">
+          <h3>STRUCTURED VERIFICATION</h3>
+          <div id="fields-container"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  let queue = [];
+  let state = {};
+  let currentIndex = -1;
+  let currentJson = {};
+  
+  const fieldsToVerify = ['question', 'math', 'options', 'type', 'marks', 'groups', 'answer', 'solution', 'figure'];
+  
+  function getRequiredFields(q, json) {
+    let req = ['question', 'math', 'options', 'type', 'marks', 'answer', 'solution'];
+    
+    // figure requirement
+    let hasFig = false;
+    if (json.figures && json.figures.length > 0) hasFig = true;
+    if (json.content && json.content.some(c => c.type === 'figure' || c.src)) hasFig = true;
+    if (q.status === 'REQUIRES_HUMAN_REVIEW') hasFig = true; // explicitly for bbox queue
+    if (hasFig) req.push('figure');
+    
+    // groups requirement
+    if (json.commonData || json.linkedAnswer) req.push('groups');
+    
+    return req;
+  }
+  
+  async function init() {
+    const res = await fetch('/api/queue');
+    const data = await res.json();
+    queue = data.queue;
+    state = data.state;
+    
+    renderQueue();
+    
+    const resumeIdx = queue.findIndex(q => !state[q.id] || state[q.id].state !== 'HUMAN_REVIEWED');
+    selectQuestion(resumeIdx >= 0 ? resumeIdx : 0);
+  }
+  
+  function renderQueue() {
+    const list = document.getElementById('queue-list');
+    list.innerHTML = queue.map((q, i) => {
+      const s = state[q.id]?.state || 'UNREVIEWED';
+      let icon = '';
+      if (q.status === 'REQUIRES_HUMAN_REVIEW') icon = '??? ';
+      if (q.status === 'UNVERIFIABLE') icon = '?? ';
+      return \<div class="queue-item \" onclick="selectQuestion(\)">
+        \\ <br><small>\</small>
+      </div>\;
+    }).join('');
+    
+    const reviewed = queue.filter(q => state[q.id]?.state === 'HUMAN_REVIEWED').length;
+    document.getElementById('queue-stats').innerText = \\ / \ reviewed\;
+  }
+  
+  async function selectQuestion(index) {
+    if (index < 0 || index >= queue.length) return;
+    currentIndex = index;
+    renderQueue();
+    
+    const q = queue[index];
+    document.getElementById('current-id').innerText = q.id;
+    document.getElementById('overall-state').value = state[q.id]?.state || 'UNREVIEWED';
+    
+    const res = await fetch('/api/question/' + q.id);
+    currentJson = await res.json();
+    document.getElementById('json-content').innerText = JSON.stringify(currentJson, null, 2);
+    
+    let page = 1;
+    if (currentJson.source?.pages?.[0]?.page) {
+       page = currentJson.source.pages[0].page;
+    }
+    document.getElementById('pdf-viewer').src = \/internal/ae/AE\.pdf#page=\\;
+    
+    document.getElementById('ocr-content').innerHTML = '';
+    renderFields(q.id);
+  }
+  
+  function renderFields(id) {
+    const container = document.getElementById('fields-container');
+    const qState = state[id]?.fields || {};
+    
+    const reqFields = getRequiredFields(queue[currentIndex], currentJson);
+    
+    container.innerHTML = fieldsToVerify.map(f => {
+      if (!reqFields.includes(f)) return ''; 
+      
+      let extra = '';
+      if (f === 'figure') {
+        extra = \<div class="figure-tools">
+           <input type="text" id="bbox-input" placeholder="[x0, y0, x1, y1]" style="width:200px;">
+           <button onclick="previewCrop()">Preview Crop</button>
+           <div id="crop-preview" style="margin-top:10px;"></div>
+        </div>\;
+      }
+      return \
+      <div class="field-row">
+        <div class="field-label">\</div>
+        <div class="field-actions">
+          <span style="font-size:12px;color:#666;margin-right:10px;">\</span>
+          <button class="btn-match" onclick="setField('\', 'MATCH')">MATCH</button>
+          <button class="btn-correct" onclick="toggleEdit('\')">CORRECT</button>
+          <button class="btn-uncertain" onclick="setField('\', 'UNCERTAIN')">UNCERTAIN</button>
+        </div>
+      </div>
+      \
+      <div class="editor" id="edit-\">
+        <textarea id="val-\">\</textarea>
+        <button onclick="saveCorrection('\')">Save to Canonical JSON</button>
+      </div>
+    \}).join('');
+  }
+  
+  window.previewCrop = async function() {
+    const bboxStr = document.getElementById('bbox-input').value;
+    try {
+       const bbox = JSON.parse(bboxStr);
+       const q = queue[currentIndex];
+       let page = 1;
+       if (currentJson.source?.pages?.[0]?.page) page = currentJson.source.pages[0].page;
+       
+       document.getElementById('crop-preview').innerHTML = 'Rendering...';
+       const res = await fetch('/api/render-crop', {
+         method: 'POST',
+         body: JSON.stringify({ year: q.year, page, bbox })
+       });
+       const data = await res.json();
+       if (data.ok) {
+         document.getElementById('crop-preview').innerHTML = \<img src="\" style="max-width:100%; border:1px solid #f00;">\;
+       } else {
+         document.getElementById('crop-preview').innerHTML = 'Failed to render';
+       }
+    } catch (e) {
+       alert("Invalid bbox format. Use [x0, y0, x1, y1]");
+    }
+  }
+  
+  window.toggleEdit = function(f) {
+    const el = document.getElementById('edit-' + f);
+    el.style.display = el.style.display === 'block' ? 'none' : 'block';
+  }
+  
+  window.setField = async function(f, status) {
+    const id = queue[currentIndex].id;
+    if (!state[id]) state[id] = { state: 'UNREVIEWED', fields: {} };
+    state[id].fields[f] = status;
+    
+    await fetch('/api/state', {
+      method: 'POST',
+      body: JSON.stringify({ id, state: state[id].state, fields: state[id].fields })
+    });
+    renderFields(id);
+  }
+  
+  window.saveCorrection = async function(f) {
+    const id = queue[currentIndex].id;
+    let newVal = document.getElementById('val-' + f).value;
+    try { newVal = JSON.parse(newVal); } catch(e) {}
+    
+    let sourcePage = 1;
+    if (currentJson.source?.pages?.[0]?.page) sourcePage = currentJson.source.pages[0].page;
+
+    const res = await fetch('/api/update-canonical', {
+      method: 'POST',
+      body: JSON.stringify({
+        id, field: f, previousValue: currentJson[f], newValue: newVal,
+        reviewerAction: 'HUMAN_CORRECTED', sourcePage
+      })
+    });
+    
+    if (res.ok) {
+      currentJson[f] = newVal;
+      document.getElementById('json-content').innerText = JSON.stringify(currentJson, null, 2);
+      setField(f, 'CORRECT');
+      toggleEdit(f);
+    }
+  }
+  
+  document.getElementById('btn-prev').onclick = () => selectQuestion(currentIndex - 1);
+  document.getElementById('btn-next').onclick = () => selectQuestion(currentIndex + 1);
+  
+  document.getElementById('btn-save-state').onclick = async () => {
+    const id = queue[currentIndex].id;
+    const val = document.getElementById('overall-state').value;
+    
+    // Integrity check
+    if (val === 'HUMAN_REVIEWED') {
+       const qState = state[id]?.fields || {};
+       const q = queue[currentIndex];
+       const reqFields = getRequiredFields(q, currentJson);
+       
+       const missing = reqFields.filter(f => !qState[f] || qState[f] === 'UNREVIEWED');
+       if (missing.length > 0) {
+         alert("Cannot mark HUMAN_REVIEWED. Missing review for fields: " + missing.join(', '));
+         return;
+       }
+    }
+    
+    if (!state[id]) state[id] = { fields: {} };
+    state[id].state = val;
+    await fetch('/api/state', {
+      method: 'POST',
+      body: JSON.stringify({ id, state: val, fields: state[id].fields })
+    });
+    renderQueue();
+  }
+  
+  document.getElementById('btn-gen-ai').onclick = () => {
+    const text = (currentJson.question || '') + " " + JSON.stringify(currentJson.options||[]);
+    const flagged = text.replace(/([0-9]+\.[0-9]+|-|\^|\\alpha|\\beta)/g, '<span class="uncertain-flag" title="AI Uncertain">\</span>');
+    document.getElementById('ocr-content').innerHTML = 
+      \<em>(Simulated OCR Candidate - Waiting for Vision API integration)</em><br><br>\<br><br><span class="uncertain-flag">Flags indicate decimals, signs, exponents, etc.</span>\;
+  }
+  
+  init();
+</script>
+
+</body>
+</html>

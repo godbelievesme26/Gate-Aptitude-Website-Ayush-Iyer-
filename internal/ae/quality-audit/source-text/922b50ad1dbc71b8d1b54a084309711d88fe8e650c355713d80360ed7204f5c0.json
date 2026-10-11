@@ -1,0 +1,243 @@
+{
+  "source": "internal/ae/AE2013.pdf",
+  "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2266,
+      "questionNumberCandidates": [],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 1/19\nAE:AEROSPACE ENGINEERING \n \nDuration:  T h r e e  H o u r s         Maximum Marks:100 \n \nPlease read the following instructions carefully: \n \nGeneral Instructions:\n \n \n1. Total duration of examination is 180 minutes (3 hours).  \n \n2. The clock will be set at the server.  The countdown ti mer in the top right corner of screen will display \nthe remaining time available for you to complete the examination. When the timer reaches zero, the \nexamination will end by itself. You will not be required to end or submit your examination.  \n \n3. The Question Palette displayed on the right side of  screen will show the status of each question using \none of the following symbols:  \n  \n You have not visited the question yet. \n \nYou have not answered the question. \n \nYou have answered the question.  \n \nYou have NOT answered the question, but have marked the \nquestion for review. \n \nYou have answered the question, but marked it for review.  \n \nThe Marked for Review status for a question simply  indicates that you would like to look at that \nquestion again. If a question is answered and  Marked for Review, your answer for that question \nwill be considered in the evaluation. \n \nNavigating to a Question \n \n4. To answer a question, do the following: \n \na. Click on the question number in the Question Palette to go to that question directly.  \nb. Select an answer for a multiple choice type qu estion. Use the virtual numeric keypad to enter \na number as answer for a numerical type question.  \nc. Click on Save and Next to save your answer for the current question and then go to the next \nquestion.  \nd. Click on Mark for Review and Next to save your answer for the  current question, mark it \nfor review, and then go to the next question. \ne. Caution: Note that your answer for the current question will not be saved, if you \nnavigate to another question directly by clicking on its question number.  \n \n5. You can view all the questions by clicking on the Question Paper button. Note that the options for \nmultiple choice type questions will not be shown.  \n \n  "
+    },
+    {
+      "page": 2,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1719,
+      "questionNumberCandidates": [],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 2/19\nAnswering a Question \n \n6. Procedure for answering a multiple choice type question: \na. To select your answer, click on the button of one of  the options \nb. To deselect your chosen answer, click on the bu tton of the chosen option again or click on the \nClear Response button  \nc. To change your chosen answer, click on the button of  another option \nd. To save your answer, you MUST click on the Save and Next button \ne. To mark the question for review, click on the Mark for Review and Next button. If an \nanswer is selected for a question that is Mark ed for Review, that answer will be considered \nin the evaluation. \n \n7. Procedure for answering a numerical answer type question: \na. To enter a number as your answer, use the virtual numerical keypad \nb. A fraction (eg.,-0.3 or -.3) can be entered as an answer with or without ‘0’ before the decimal \npoint \nc. To clear your answer, click on the Clear Response button \nd. To save your answer, you MUST click on the Save and Nextbutton \ne. To mark the question for review, click on the Mark for Review and Next button. If an \nanswer is entered for a question that is Marked  for Review, that answer will be considered \nin the evaluation. \n \n8. To change your answer to a question that has alre ady been answered, first select that question for \nanswering and then follow the procedure for answering that type of question.  \n \n9. Note that ONLY Questions for which answers  are saved or marked for review after answering will be \nconsidered for evaluation. \n \n \n \n \n \n  "
+    },
+    {
+      "page": 3,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2015,
+      "questionNumberCandidates": [],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 3/19\nPaper specific instructions: \n \n \n1. There are a total of 65 questions carrying 100 mark s. Questions are of multiple choice type or \nnumerical answer type. A multiple choice type ques tion will have four choices for the answer with \nonly one correct choice. For numerical answer type qu estions, the answer is a number and no choices \nwill be given. A number as the answer should be entered using the virtual keyboard on the monitor. \n \n2. Questions Q.1 – Q.25 carry 1mark each. Questions Q.26 – Q.55 carry 2marks each. The 2marks \nquestions include two pairs of common data questio ns and two pairs of linked answer questions. The \nanswer to the second question of the linked answer questions depends on the answer to the first \nquestion of the pair. If the first question in the linke d pair is wrongly answered or is not attempted, \nthen the answer to the second question in the pair will not be evaluated. \n \n3. Questions Q.56 – Q.65 belong to General Aptitude ( GA) section and carry a total of 15 marks. \nQuestions Q.56 – Q.60 carry 1mark each, and questions Q.61 – Q.65 carry 2marks each.   \n \n4. Questions not attempted will result in zero mark. Wrong answers for multiple choice type questions \nwill result in NEGATIVE marks.  For all 1 mark questions, ⅓ mark will be deducted for each wrong \nanswer. For all 2 marks questions, ⅔ mark will be deducted for each wrong answer.  However, in the \ncase of the linked answer question pair, there will be negative marks only for wrong answer to the \nfirst question and no negative marks for wrong answer  to the second question. There is no negative \nmarking for questions of numerical answer type. \n \n5. Calculator is allowed. Charts, graph sheets or tables are NOT allowed in the examination hall.  \n \n6. Do the rough work in the Scribble Pad provided. \n \n \n \n "
+    },
+    {
+      "page": 4,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1167,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 4/19\nQ. 1 – Q. 25 carry one mark each. \nQ.1 \nThe directional derivative of the function \n22\n(, )\n5\nx xyfx y  in the direction ˆˆ24ija \nat \n(, ) ( 1 , 1 )xy   is \n \n(A)  1\n5\n  (B)  2\n5\n  (C)  0  (D)  1\n5   \n \n     \n \nQ.2 \nThe value of \n5\n2\n4\n2\n42 1\nx dxxx\n\n is \n(A) ln 24 11  (B) ln 12 11  (C)  ln 2  (D) ln 12 11    \n \n \nQ.3 At 0x  , the function y x  is \n(A)  continuous but not differentiable \n(B)  continuous and differentiable \n(C)  not continuous but differentiable \n(D)  not continuous and not differentiable \n \n \nQ.4\n One of the eigenvectors of the matrix \n \n11 0\n01 1\n10 1\nA\n\n\n is \n1\n1\n1\nv\n\n \n\n.  \n \nThe corresponding eigenvalue is ____________ \n \n    \n \n \nQ.5\n Which one of the following is the most stable configuration of an airplane in roll? \n(A)  Sweep back, anhedral and low wing \n(B)  Sweep forward, dihedral and low wing  \n(C)  Sweep forward, anhedral and high wing \n(D)  Sweep back, dihedral and high wing \n \n \n \n \n "
+    },
+    {
+      "page": 5,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1762,
+      "questionNumberCandidates": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 5/19\nQ.6 Which one of the following flight instruments is used on an aircraft to determine its attitude in \nflight? \n \n(A)  Vertical speed indicator \n(B)  Altimeter \n(C)  Artificial Horizon \n(D)  Turn-bank indicator \n \n \n \nQ.7\n A supersonic airplane is expected to fly at both subsonic and supersonic speeds during its whole \nflight course. Which one of the following statements is TRUE? \n \n(A)  Airplane will experience less stability in pitch at supersonic speeds than at subsonic speeds \n(B)  Airplane will feel no change in pitch stability \n(C)  Airplane will experience more stability in pitch at supersonic speeds than at subsonic speeds \n(D)  Pitch stability cannot be inferred from the information given \n \n \nQ.8 Which one of the following is favorable for an airplane operation? \n(A)  Tail wind in cruise and head wind in landing  \n(B)  Tail wind both in cruise and landing  \n(C)  Head wind both in cruise and landing \n(D)  Head wind in cruise and tail wind in landing \n \n \nQ.9\n Which one of the following is TRUE with respect to Phugoid mode of an aircraft? \n(A)  Frequency is directly proportional to flight speed \n(B)  Frequency is inversely proportional to flight speed \n(C)  Frequency is directly proportional to the square root of flight speed \n(D)  Frequency is inversely proportional to the square root of flight speed \n \n \nQ.10\n The x and y velocity components of a two dimensional flow field are,  \n2222 , yx\ncxvyx\ncyu  , where c is a constant. The streamlines are a family of \n \n(A) hyperbolas (B) parabolas  (C) ellipses   (D) circles   \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 6,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1360,
+      "questionNumberCandidates": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 6/19\nQ.11 Which one of the following statements is NOT TRUE for a supersonic flow? \n \n(A)  Over a gradual expansion, entropy remains constant \n(B)  Over a sharp expansion corner, entropy can increase  \n(C)  Over a gradual compression, entropy can remain constant \n(D)  Over a sharp compression corner, entropy increases \n \n \nQ.12\n Consider a compressible flow where an elemental volume of the fluid is  , moving with velocity \nV\n\n. Which one of the following expressions is TRUE? \n \n(A)  1 DV Dt\n\n \n\n \n(B)  1() DV Dt\n\n  \n\n \n(C)  1DV D\nDt Dt\n\n \n\n \n(D)  1() DVV Dt\n\n  \n\n \n \n \nQ.13 Consider a thin flat plate airfoil at a small angle  to an oncoming supersonic stream of air. \nAssuming the flow to be inviscid, 2\nd\nl\nC\nC\n is \n(A)  zero \n(B)  independent of    \n(C)  proportional to   \n(D)  proportional to 2  \n \n \nQ.14 The critical Mach number for a flat plate of zero thickness, at zero angle of attack, is _________ \n \n    \n \n \nQ.15 A damped single degree-of-freedom system is vibrating under a harmonic excitation with an \namplitude ratio of 2.5 at resonance. The damping ratio of the system is ______________ \n \n    \n "
+    },
+    {
+      "page": 7,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 865,
+      "questionNumberCandidates": [
+        16,
+        17
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 7/19\nQ.16 The cross-section of a long thin-walled member is as shown in the figure. When subjected to pure \ntwist, point A \n \n \n \n \n \n \n \n \n(A)  does not move horizontally or axially, but moves vertically \n(B)  does not move axially, but moves both vertically and horizontally \n(C)  does not move horizontally, vertically or axially \n(D)  does not move vertically or axially, but moves horizontally \n \nQ.17\n The channel section of uniform thickness 2mm shown in the figure is subjected to a torque of  \n10 Nm. If it is made of a material with shear m odulus of 25 GPa, the twist per unit length in \nradians/m is _________ \n \n \n \n \n    \n \n \n300mm \n600mm \n300mm \nA "
+    },
+    {
+      "page": 8,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1810,
+      "questionNumberCandidates": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 8/19\nQ.18 The stiffened cross-section of a long slender uniform structural member is idealized as shown in the \nfigure below. The lumped areas at A, B, C and D have equal cross-sectional area of 3 cmଶ. The \nwebs AB, BC, CD and DA are each 5 mm thick. The structural member is subjected to a twisting \nmoment of 10 kNm. The magnitudes of the shear flow in the webs, qAB, qBC, qCD, and qDA in kN/m \nare, respectively \n \n \n \n \n(A)  20, 20, 20, 20  \n(B)\n  0, 0, 50, 50 \n(C)  40, 40, 0, 0 \n(D)  50, 50, 50, 50  \n \n \nQ.19 Consider two engines P and Q. In P, the high pressu re turbine blades are cooled with a bleed of 5% \nfrom the compressor after the compression process and in Q the turbine blades are not cooled. \nComparing engine P with engine Q, which one of the following is NOT TRUE? \n \n(A)  Turbine inlet temperature is higher for engine P \n(B)  Specific thrust is higher for engine P \n(C)  Compressor work is the same for both P and Q \n(D)  Fuel flow rate is lower for engine P \n \nQ.20 The mass flow rate of air through an aircraft e ngine is 10 kg/s. The compressor outlet temperature \nis 400 K and the turbine inlet temperature is 1800 K. The heating value of the fuel is 42 MJ/kg and \nthe specific heat at constant pressure is 1 kJ/kg- K. The mass flow rate of the fuel in kg/s is \napproximately ___________ \n \n    \n \nQ.21\n For a given inlet condition, if the turbine inlet temperature is fixed, what value of compressor \nefficiency given below leads to the lowest amount of fuel added in the combustor of a gas turbine \nengine? \n \n(A)  1 (B)  0.95 (C)   0.85 (D)   0.8 \n \n \n \nA \nB C \nD \n200mm \n500mm "
+    },
+    {
+      "page": 9,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1544,
+      "questionNumberCandidates": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 9/19\nQ.22 A gas turbine engine is mounted on an aircraft which can attain a maximum altitude of 11 km from \nsea level. The combustor volume of this engine is decided based on conditions at \n \n(A)  sea level (B)  8 km altitude (C )  5.5 km altitude (D)  11 km altitude \n \n \n \nQ.23\n Consider the low earth orbit (LEO) and the geo synchronous orbit (GSO). Then \n(A) V requirement for launch to LEO is greater than that for GSO, and altitude of LEO is \nlower than that of GSO \n(B) V requirement for launch to LEO is lower than that for GSO, and altitude of LEO is  \nlower than that of GSO \n(C) V requirement for launch to LEO is greater than that for GSO, and altitude of LEO is \ngreater than that of GSO \n(D) V requirement for launch to LEO is lower than that for GSO, and altitude of LEO is \ngreater than that of GSO \n \nQ.24 Which one of the following shows the CORRECT variation of stagnation temperature along the \naxis of an ideal ram jet engine? \n \n \n(A)   \n \n(B)      \n \n(C)  (D)      \n \n \n \nQ.25\n A rocket motor has a chamber pressure of 100 bar and chamber temperature of 3000 K. The \nambient pressure is 1 bar. Assume that the specifi c heat at constant pressure is 1 kJ/kg-K. Also \nassume that the flow in the nozzle is isentropic and optimally expanded. The exit static temperature \nin K is \n \n(A)  805 (B)  845 (C)  905 (D)  945 \n \n"
+    },
+    {
+      "page": 10,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1137,
+      "questionNumberCandidates": [
+        26,
+        26,
+        27,
+        28,
+        29
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 10/19\n \nQ. 26 to Q. 55 carry two marks each. \nQ.26 Let 22 2 ˆˆˆˆ ˆ ˆ() ( )\nS\nI yz i zx j xy k x i y j z kd S    \u0000 , where S denotes the surface of the sphere of unit \nradius centered at the origin. Here ˆˆˆ, a n d  ij k denote three orthogonal unit vectors. The value of I is \n ____________ \n    \n \n \nQ.27\n \nGiven that the Laplace transform,  ࣦ1() ate s a   then  ࣦ \n53s i n h 5tet = \n(A)  2\n3\n10\ns\ns s  (B)  2\n15\n10s s  (C)   2\n3\n10\ns\ns s  (D)   2\n15\n10s s  \n \n \nQ.28 Values of a, b and c, which render the matrix  \n \n11\n32\n1 0\n3\n11\n32\na\nQb\nc\n\n\n\n \n\n \n   \n \northonormal are, respectively \n(A)  11, , 0\n22\n \n(B)  12 1, - , \n66 6\n \n(C)  11 1, , \n33 3\n  \n(D)  12 1, , -\n66 6\n  \n \n \nQ.29 \nA function ሻ satisfies the differential equation \n2\n2 20dy d y ydt dt   and is subject to the initial \nconditions (0 ) 0yt   and (0 ) 1dy tdt   . The value of (1 )yt  is \n \n(A)  e (B)  0 (C)   1 (D)   -1 \n \n "
+    },
+    {
+      "page": 11,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2018,
+      "questionNumberCandidates": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 11/19\nQ.30 A glider is launched from a 500m high hilltop. Following data is available for the glider: Zero lift \ndrag coefficient 0 0.02DC  , aspect ratio 10AR   and Oswald efficiency factor e = 0.95. The \nmaximum range of the glider in km is _________ \n \n    \nQ.31 Which one of the following criteria leads to maximum turn rate and minimum radius in a level turn \nflight? \n(A)  Highest possible load factor and highest possible velocity \n(B)  Lowest possible load factor and lowest possible velocity \n(C)  Highest possible load factor and lowest possible velocity \n(D)  Lowest possible load factor and highest possible velocity \n \nQ.32\n Consider an airplane with rectangular straight wing at dihedral angle 010 . Lift curve slope of \nwing airfoil section (constant over the whole span of the wing) is 5.4 / .lcr a d   The roll stability \nderivative, lC  in per radian is __________ \n \n    \nQ.33 Consider one-dimensional isentropic flow at a Mach number of 0.5. If the area of cross-section of a \nstreamtube increases by 3% somewhere along the flow, the corresponding percentage change in \ndensity is ________ \n \n    \nQ.34 The potential flow model for a storm is represented by the superposition of a sink and a vortex. The \nstream function can be written in the ( ,r ) system as ln22 r  \n  , where \n2100 m /s . Assume a constant air density of 1.2 kg/m 3. The gauge pressure at a distance of \n100 m  from the storm eye is  \n \n(A)    (B)  2\n1.2\n  (C)   2\n1.2\n2  (D)   2\n1.2\n4  \n \nQ.35 Three identical eagles of wing span s are flying side by side in a straight line with no gap between \ntheir wing tips. Assume a single horse shoe vortex model (of equal strength Γ) for each bird. The \nnet downwash experienced by the middle bird is \n(A)  s\n  (B)  2 s\n  (C)   3 s\n  (D)   4\n3 s\n  \n \n "
+    },
+    {
+      "page": 12,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 929,
+      "questionNumberCandidates": [
+        36,
+        37
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 12/19\nQ.36 Streamline pattern of flow past a cylinder is s hown in the figure below. The oncoming flow is \nsteady, irrotational and incompressible. The flow is from left to right. Bernoulli’s equation \nCANNOT\n be applied between the points \n \n \n(A)  1 and 2 (B)  1 and 5 (C )   3 and 4 (D)   5 and 6 \n \n \n \nQ.37\n Consider a supersonic stream at a Mach number M=2, undergoing a gradual expansion. The stream \nis turned by an angle of 3 degrees due to the expansion. The following data is given. \n \nM  (Prandtl-Meyer function) \n1.8 20.73 \n1.9 23.59 \n2.0 26.38 \n2.1 29.10 \n2.2 31.73 \n2.3 34.28 \n2.4 36.75 \n         \nThe Mach number downstream of the expansion is  \n(A)  1.88 (B)  2.00 (C )   2.11 (D)   2.33 \n \n \n1 2 \n3 \n4 \n5 \n6 "
+    },
+    {
+      "page": 13,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1405,
+      "questionNumberCandidates": [
+        38,
+        39,
+        40
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 13/19\nQ.38 The idealized cross-section of a beam is compri sed of four identical booms connected by shear \nwebs. The beam is subjected to a bending moment ܯas shown in the figure. The inclination of the \nneutral axis to the x-axis in degrees is \n \n \n \n \n(A)  45 CW (B)  45 CCW (C)   26.6 CW (D)   63.4 CCW \n \n \nQ.39\n A composite circular shaft is comprised of a steel core surrounded by an aluminum annulus, \nperfectly bonded to each other as shown in the fi gure. If it subjected to a pure torque, which one of \nthe following statements is TRUE? \n \n \n \n(A)  Only shear stress is continuous across the steel–aluminum interface \n(B)  Only shear strain is continuous across the steel–aluminum interface \n(C)  Both shear stress and shear strain are continuous across the steel–aluminum interface \n(D)  Both shear stress and shear strain are discontinuous across the steel–aluminum interface \n \nQ.40\n A horizontal rectangular plate ABCD is hinged at points A, B and C. AC and BD are diagonals of \nthe plate. Downward force P is applied at D. The upward reactions RA, RB, and RC at points A, B \nand C, respectively, are \n(A)  indeterminate \n(B)  P, -P, P \n(C)  0, P, 0 \n(D)  P/3, P/3, P/3 \n \n2a M \na a \nx \ny "
+    },
+    {
+      "page": 14,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1120,
+      "questionNumberCandidates": [
+        41,
+        42,
+        43
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 14/19\nQ.41 In the steel structure (Young’s modulus = 200 GPa) shown in the figure, all members have a \ncircular cross-section of radius 10 mm. Column BD is pinned at B and D. The support at A is \nhinged. The minimum value of load ܲat which the column BD may buckle in Newtons is \napproximately ____________ \n \n    \nQ.42 The thin rectangular plate has dimensions L×b×t. It develops a stress field corresponding to an \napplied bending moment M as shown in the figure.  A valid Airy’s stress function is \n \n \n \n(A)  3\n3\n2M xtb  (B)  3\n3\n2M ytb  (C)   \n33\n3\n2M x ytb   (D)   4\n3\n2M ytb  \n \n \nQ.43 A cantilever beam of negligible mass is 0.6 m long.  It has a rectangular cross-section of width  \n8 mm and thickness 6 mm and carries a tip mass of 1.4 kg. If the natural frequency of this system  \nis 10 rad/s, Young’s modulus of the material of the beam in GPa is ________ \n \n    \n \n \nx\nM M\nL\nb \n2m \nD \n1m 1m A B C \nP\ny"
+    },
+    {
+      "page": 15,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2084,
+      "questionNumberCandidates": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 15/19\nQ.44 A simply supported beam with overhang is loaded by uniformly distributed load of intensity q as \nshown in the figure. The bending moment at the mid-point of AB is \n \n \n(A) \n2\n sagging16\nqL  (B) \n2\n hogging16\nqL  (C)  \n23 hogging16\nqL  (D)  \n23 sagging16\nqL  \n \nQ.45 Thrust of liquid oxygen - liquid hydrogen rocket engine is 300 kN. The O/F ratio used is 5. If the \nfuel mass flow rate is 12.5 kg/s, the specific impulse of the rocket motor in Ns/kg is \n(A)  3800 (B)  4000 (C)  4200 (D)  4400 \n \n \nQ.46\n In a 50 % reaction axial compressor stage, the local blade velocity is 300 m/s and the axial \ncomponent of velocity is 100 m/s. If the absolute inlet flow angle α1 =  45o, the work per unit mass \ndone on the fluid by the stage in kJ/kg is \n(A)  30 (B)  40 (C)  50 (D)  60 \n \nQ.47 Consider two rockets P and Q fired vertically up wi th identical specific impulse and a payload of  \n2 kg. Rocket P has 2 identical stages, and each stage has 200 kg of propellant and 20 kg of \nstructural weight. Rocket Q has a single stage with 400 kg of propellant and 40 kg of structural \nweight. Neglecting drag and gravity effects, the ratio of the change in velocity of P to that attained \nby Q is \n(A) 1.13 (B) 1.23 (C )  1.33 (D)  1.43 \nCommon Data Questions \nCommon Data for Questions 48 and 49: Data for an airplane are given as follows: weight 30Wk N , \nthrust available at sea-level 0 4000TN , wing planform area 230Sm , maximum lift coefficient \nmax 1.4LC  , and drag coefficient 20.015 0.024 .D LCC   Assume air density at sea-level 31.22 /kg m  . \n \nQ.48 Stall speed of the airplane in m/s is \n \n(A) 17.36 (B)  34.22 (C)  45.52 (D)  119.46 \n \n \nQ.49\n Minimum and maximum speeds of the airplane in level flight condition at sea-level in m/s are \nrespectively \n \n(A)  17.36 and 180 (B)  17.36 and 34.22 \n(C)  34.22 and 119.46 (D)  17.36 and 119.46 \n \nL L/2 \nA B q "
+    },
+    {
+      "page": 16,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1743,
+      "questionNumberCandidates": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 16/19\n \nCommon Data for Questions 50 and 51:  An aircraft is flying at Mach number M = 1.5, where the \nambient temperature is 250 K. The stagnation temperatur e of gases at the entry to the nozzle is 800 K. The \nnozzle is choked and always under expanded. Assume the molecular weight of the exhaust gases to be 29, \nthe ratio of specific heats to be 1.4 and the universal gas constant is 8314 J/kmol-K. \n \nQ.50 For which one of the nozzle exit Mach numbers given below is the propulsive efficiency highest?  \n \n(A)  1  \n(B)  1.5  \n(C)  2  \n(D)  2.5  \n \nQ.51\n For which one of the nozzle exit Mach numbers given below is the thrust highest? \n(A)  1  \n(B)  1.5  \n(C)  2  \n(D)  2.5  \n \n \n \nLinked Answer Questions \nStatement for Linked Answer Questions 52 and 53: Circulation theory of lift is assumed for a thin \nsymmetric airfoil at an angle of attack α.  Free stream velocity is U.  \n \nQ.52 If the circulation at the quarter chord (c/4) of the airfoil is 1 , the normal velocity is zero at \n \n(A)  c/4 (B)  c/2 (C)  3 c/4 (D)  all points on the chord \n \n \n \n \n \n \n \nQ.53\n A second identical airfoil is placed behind the first one at a distance of c/2 from the trailing edge of \nthe first. The second airfoil has an unknown circulation 2  placed at its quarter chord. The normal \nvelocity becomes zero at the same chord-wise locati ons of the respective airfoils as in the previous \nquestion. The values of 1  and 2  are respectively \n(A)\n \n42 ,33 cU cU    (B)\n \n22 ,33 cU cU    \n(C)\n \n21 ,33 cU cU   (D)\n \n44 ,33 cU cU    \n "
+    },
+    {
+      "page": 17,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1589,
+      "questionNumberCandidates": [
+        54,
+        55,
+        56,
+        56,
+        57,
+        58
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 17/19\nStatement for Linked Answer Questions 54 and 55:  A wing-body alone configuration airplane with a \nwing loading of 21000 /W N mS  is flying in cruise condition at a speed V = 90m/s at sea-level (air density \nat sea-level 31.22 /kg m  ). The zero lift pitching moment coefficient of the airplane is \n0 0.06wb\nmac mCC    and the location of airplane aerodynamic center from the wing leading edge is \n0.25 .acXc  Here c is the chord length. \n \nQ.54 The airplane trim lift coefficient  L trimC is \n \n \n(A)  0.502 (B)  0.402 (C)  0.302 (D)  0.202 \n \nQ.55\n Distance of center of gravity of the aircraft ( CGX ) from the wing leading edge is \n(A) 0.447c  (B) 0.547c  (C)  0.547c  (D)  0.25c  \n \n \nGeneral Aptitude (GA) Questions \nQ. 56 – Q. 60 carry one mark each. \nQ.56 If ൑ 5 and  ൑1 1 then which of the following options is TRUE? \n(A) \nଷ\nହ൑\n௑\n௒\t൑\n଼\nହ\n \n \n(B) \nଷ\nଵଵ൑\n௑\n௒\t൑\nହ\n଼\n \n \n(C) \nଷ\nଵଵ൑\n௑\n௒\t൑\n଼\nହ\n \n \n(D) \nଷ\nହ൑\n௑\n௒\t൑\n଼\nଵଵ \n \nQ.57 The Headmaster ___________ to speak to you. \n \nWhich of the following options is incorrect to complete the above sentence?\n \n(A) is wanting \n \n(B) wants \n \n(C) want \n  \n(D) was wanting \n \nQ.58\n Mahatama Gandhi was known for his humility as \n(A) he played an important role in humiliating exit of British from India. \n \n(B) he worked for humanitarian causes. \n \n(C) he displayed modesty in his interactions. \n \n(D) he was a fine human being. \n "
+    },
+    {
+      "page": 18,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1777,
+      "questionNumberCandidates": [
+        59,
+        60,
+        61,
+        61,
+        62,
+        63
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 18/19\nQ.59 All engineering students should learn mechanics, mathematics and how to do computation. \n                   I                                  II                                  III                            IV \nWhich of the above underlined parts of the sentence is not appropriate? \n(A) I (B) II (C)  III (D)  IV \n \nQ.60 Select the pair that best expresses a relationship similar to that expressed in the pair: \nwater: pipe:: \n(A) cart: road (B) electricity: wire \n(C) sea: beach (D) music: instrument \n \nQ. 61 to Q. 65 carry two marks each. \nQ.61 Velocity of an object fired directly in upward direction is given by ݐwhere ݐtime) \nis in seconds. When will the velocity be between 32 m/sec  and 64 m/sec? \n(A) (1, 3/2) (B) (1/2, 1) \n \n(C) (1/2, 3/2) (D) (1, 3) \n \nQ.62 In a factory, two machines M1 and M2 manufacture 60% and 40% of the autocomponents \nrespectively. Out of the total production, 2% of M1  and 3% of M2 are found to be defective. If a \nrandomly drawn autocomponent from the combined lo t is found defective, what is the probability \nthat it was manufactured by M2?  \n(A) 0.35 (B)  0.45 (C) 0.5 (D)  0.4 \n \nQ.63 Following table gives data on tourists from different countries visiting India in the year 2011. \n \nCountry Number of \nTourists \nUSA 2000 \nEngland 3500 \nGermany 1200 \nItaly 1100 \nJapan 2400 \nAustralia 2300 \nFrance 1000 \n \nWhich two countries contributed to the one third of the total number of tourists who visited India in \n2011?  \n(A) USA and Japan \n \n(B) \nUSA and Australia  \n \n(C) \nEngland and France \n \n(D) \nJapan and Australia  \n \n  "
+    },
+    {
+      "page": 19,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 645,
+      "questionNumberCandidates": [
+        64,
+        65
+      ],
+      "text": "2013                                                                                                                                                                       AEROSPACE ENGINEERING –  AE \nAE 19/19\n \nQ.64 If ൅ 9| ൌ3 then the possible value of ଶ would be: \n(A)  30 (B)  -30 (C)  -42 (D)  42 \n \n \nQ.65 All professors are researchers \nSome scientists are professors \n \nWhich of the given conclusions is logically valid and is inferred from the above arguments:\n \n(A) All scientists are researchers \n \n(B) All  professors are scientists  \n \n(C) Some researchers are scientists \n \n(D) No conclusion follows \n \n \n \nEND OF THE QUESTION PAPER \n "
+    }
+  ]
+}

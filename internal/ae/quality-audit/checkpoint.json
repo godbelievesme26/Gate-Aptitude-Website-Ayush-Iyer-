@@ -1,0 +1,294 @@
+{
+  "updatedAt": "2026-10-11T04:12:31.274Z",
+  "phase": "Full initial baseline - incomplete; canonical repairs not started",
+  "uniqueLoadedQuestions": 1475,
+  "sourceComparisonRecords": 845,
+  "sourceYearsCompleted": [
+    2026,
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014
+  ],
+  "nextSourceQuestion": "gate-2013-ae-ga-01",
+  "sourceIssues": 238,
+  "nextSteps": [
+    "Continue all source questions from AE2013 Q1 through AE2007, then remaining GA papers.",
+    "Finish per-question complex browser visual review and classify mobile overflow findings.",
+    "After complete baseline, repair shared rendering/data/assets with old/new evidence, then repeat full independent audit."
+  ],
+  "browserReports": [
+    {
+      "file": "initial-browser-1440-light.json",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "light",
+      "questions": 1475,
+      "views": 5900,
+      "recordsWithFindings": 1269,
+      "errors": 0
+    },
+    {
+      "file": "initial-browser-390-light.json",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "light",
+      "questions": 1475,
+      "views": 5900,
+      "recordsWithFindings": 2323,
+      "errors": 0
+    },
+    {
+      "file": "initial-browser-390-dark.json",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "theme": "dark",
+      "questions": 1475,
+      "views": 5900,
+      "recordsWithFindings": 2323,
+      "errors": 0
+    },
+    {
+      "file": "initial-browser-1440-dark.json",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "theme": "dark",
+      "questions": 1475,
+      "views": 5900,
+      "recordsWithFindings": 1269,
+      "errors": 0
+    }
+  ],
+  "years": [
+    {
+      "year": 2026,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 14,
+      "sourceAffectedQuestions": 14,
+      "automatedVisibleMarkupIssues": 0,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2025,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 21,
+      "sourceAffectedQuestions": 20,
+      "automatedVisibleMarkupIssues": 4,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2024,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 85,
+      "sourceAffectedQuestions": 51,
+      "automatedVisibleMarkupIssues": 0,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2023,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 28,
+      "sourceAffectedQuestions": 27,
+      "automatedVisibleMarkupIssues": 0,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2022,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 10,
+      "sourceAffectedQuestions": 10,
+      "automatedVisibleMarkupIssues": 73,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2021,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 5,
+      "sourceAffectedQuestions": 5,
+      "automatedVisibleMarkupIssues": 68,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2020,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 8,
+      "sourceAffectedQuestions": 8,
+      "automatedVisibleMarkupIssues": 77,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2019,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 6,
+      "sourceAffectedQuestions": 6,
+      "automatedVisibleMarkupIssues": 43,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2018,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 4,
+      "sourceAffectedQuestions": 4,
+      "automatedVisibleMarkupIssues": 44,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2017,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 4,
+      "sourceAffectedQuestions": 4,
+      "automatedVisibleMarkupIssues": 46,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2016,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 2,
+      "sourceAffectedQuestions": 2,
+      "automatedVisibleMarkupIssues": 53,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2015,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 11,
+      "sourceAffectedQuestions": 9,
+      "automatedVisibleMarkupIssues": 32,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2014,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 65,
+      "recordedSourceIssues": 40,
+      "sourceAffectedQuestions": 39,
+      "automatedVisibleMarkupIssues": 14,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2013,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 10,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2012,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 27,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2011,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 84,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2010,
+      "canonicalAndLoadedUniqueRecords": 65,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 110,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2009,
+      "canonicalAndLoadedUniqueRecords": 60,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 98,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2008,
+      "canonicalAndLoadedUniqueRecords": 85,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 62,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    },
+    {
+      "year": 2007,
+      "canonicalAndLoadedUniqueRecords": 85,
+      "sourceCompared": 0,
+      "recordedSourceIssues": 0,
+      "sourceAffectedQuestions": 0,
+      "automatedVisibleMarkupIssues": 99,
+      "fixes": 0,
+      "postRepairAudit": "NOT YET AUDITED"
+    }
+  ],
+  "protection": {
+    "checkedAt": "2026-10-10T16:58:15.005Z",
+    "protectedFiles": 1067,
+    "changes": [
+      "tests/verification.test.js"
+    ]
+  },
+  "qualifications": [
+    "No final source or rendering pass is claimed.",
+    "Local key comparisons cover 845 rows: 841 PASS, 1 FAIL, 3 UNVERIFIABLE; remote publication not re-fetched.",
+    "A passing load/DOM check is not source fidelity.",
+    "Source statuses are agent audit evidence, never user manual verification.",
+    "Additional browser inspection is pending: selecting the audit tab was rejected by browser URL security policy on 2026-10-11; no alternative control path was used. Existing browser reports remain preserved."
+  ]
+}

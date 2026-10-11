@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "day": 7,
+  "year": 2026,
+  "paper": "DA",
+  "title": "GATE 2026 · DA · General Aptitude",
+  "source": "Aptitude Sets/2026/DA.pdf",
+  "answerKeyStatus": "official GATE 2026 key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2026-da-ga-01",
+      "number": 1,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Verbosity : Brevity :: Insolence :___________\nChoose the word that best fills the blank.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Innocence"
+        },
+        {
+          "label": "B",
+          "text": "Respect"
+        },
+        {
+          "label": "C",
+          "text": "Solace"
+        },
+        {
+          "label": "D",
+          "text": "Wealth"
+        }
+      ],
+      "sourceImage": "figures/day07-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              395.45
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Verbosity (wordiness) and brevity (conciseness) are opposites. Insolence means disrespectful behavior, so its opposite is respect (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 1,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-02",
+      "number": 2,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The product of the digits of a three-digit number is 70. The sum of the digits of this three-digit number is _____",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "14"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "18"
+        }
+      ],
+      "sourceImage": "figures/day07-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              434.62,
+              565.32,
+              678.46
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Factor 70 = 2 × 5 × 7. A single digit cannot combine 2 with 5 or 7, and neither 5 nor 7 can combine into a single digit with another non-unit factor. The three digits must be 2, 5 and 7, in any order. Their sum is 14 (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 2,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-03",
+      "number": 3,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The four pieces of a puzzle are shown in the figure below.\nWhich one of the figures labelled as P, Q, R, and S can be constructed by using each of the four pieces only once without overlaps?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P",
+          "figure": {
+            "src": "figures/gate-2026-da-ga-03-option-A.png",
+            "alt": "P: white silhouette with rounded head, right-pointing beak and angled diamond-shaped lower body.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/DA.pdf",
+              "page": 2,
+              "image": "Im5.png",
+              "pixelCrop": null,
+              "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "Q",
+          "figure": {
+            "src": "figures/gate-2026-da-ga-03-option-B.png",
+            "alt": "Q: white silhouette with rounded head, no long beak and angled lower body.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/DA.pdf",
+              "page": 2,
+              "image": "Im7.png",
+              "pixelCrop": null,
+              "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "R",
+          "figure": {
+            "src": "figures/gate-2026-da-ga-03-option-C.png",
+            "alt": "R: white silhouette with rounded head, right-pointing beak and flattened lower edge.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/DA.pdf",
+              "page": 2,
+              "image": "Im6.png",
+              "pixelCrop": null,
+              "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "S",
+          "figure": {
+            "src": "figures/gate-2026-da-ga-03-option-D.png",
+            "alt": "S: white silhouette with an angular notch in its head, right-pointing beak and angled lower body.",
+            "caption": "",
+            "source": {
+              "file": "Aptitude Sets/2026/DA.pdf",
+              "page": 2,
+              "image": "Im8.png",
+              "pixelCrop": null,
+              "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day07-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              720.58
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "Superimpose the four pieces in their shown orientations: one supplies the left edge of the square, one the top, one the right and one the bottom. They meet without overlap and leave a white silhouette with a rounded head, a right-pointing beak and an angled diamond-shaped lower body. This is P (A). Q lacks the beak, R changes the lower body, and S changes the head.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 3,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-da-ga-03-figure-1.png",
+          "alt": "Puzzle piece supplying the left boundary, with a curved and stepped inner edge.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/DA.pdf",
+            "page": 2,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+          }
+        },
+        {
+          "src": "figures/gate-2026-da-ga-03-figure-2.png",
+          "alt": "Puzzle piece supplying the top boundary, with a curved inner edge.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/DA.pdf",
+            "page": 2,
+            "image": "Im2.png",
+            "pixelCrop": null,
+            "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+          }
+        },
+        {
+          "src": "figures/gate-2026-da-ga-03-figure-3.png",
+          "alt": "Puzzle piece supplying the right boundary, with a pointed opening and stepped inner edge.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/DA.pdf",
+            "page": 2,
+            "image": "Im3.png",
+            "pixelCrop": null,
+            "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+          }
+        },
+        {
+          "src": "figures/gate-2026-da-ga-03-figure-4.png",
+          "alt": "Puzzle piece supplying the bottom boundary, with two upward triangular projections.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/DA.pdf",
+            "page": 2,
+            "image": "Im4.png",
+            "pixelCrop": null,
+            "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2026-da-ga-04",
+      "number": 4,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Consider two distinct positive real numbers m, n, with m > n.\nLet x = n^{log₁₀(m)} and y = m^{log₁₀(n)}. The relation between x and y is _______.",
+      "options": [
+        {
+          "label": "A",
+          "text": "x > y"
+        },
+        {
+          "label": "B",
+          "text": "x < y"
+        },
+        {
+          "label": "C",
+          "text": "x = y"
+        },
+        {
+          "label": "D",
+          "text": "x = log₁₀(y)"
+        }
+      ],
+      "sourceImage": "figures/day07-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              340.37
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "Take base-10 logarithms: log₁₀ x = log₁₀(m) × log₁₀(n), and log₁₀ y = log₁₀(n) × log₁₀(m). These are equal. Since the logarithm is one-to-one for positive values, x = y (C), even though m and n are distinct.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 4,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-05",
+      "number": 5,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "‘If his latest movie had been a commercial success, the actor would have made enough money to sponsor his next movie.’\nBased only on the above sentence, which one of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The actor will certainly sponsor his next movie."
+        },
+        {
+          "label": "B",
+          "text": "His latest movie was a commercial success."
+        },
+        {
+          "label": "C",
+          "text": "The actor made enough money from his latest movie."
+        },
+        {
+          "label": "D",
+          "text": "His latest movie was not commercially successful."
+        }
+      ],
+      "sourceImage": "figures/day07-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              402.94,
+              565.32,
+              671.5
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "The construction ‘if … had been … would have …’ describes an unreal past condition. It conveys that the latest movie was not commercially successful (D). It does not establish whether the actor can finance the next movie through some other source.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 5,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-06",
+      "number": 6,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "‘My friend and I parted __ the door __ the cabin that I had rented __ the night.’\nChoose the option with the correct sequence of words to fill the blanks.",
+      "options": [
+        {
+          "label": "A",
+          "text": "at; of; for"
+        },
+        {
+          "label": "B",
+          "text": "for; at; of"
+        },
+        {
+          "label": "C",
+          "text": "of; for; in"
+        },
+        {
+          "label": "D",
+          "text": "in; of; for"
+        }
+      ],
+      "sourceImage": "figures/day07-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              140.69,
+              565.32,
+              395.45
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "A",
+      "type": "MCQ",
+      "solution": "The location is ‘at the door’; the door belongs to the cabin, so ‘of the cabin’; the rental duration is ‘for the night’. The correct sequence is at; of; for (A).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 6,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-07",
+      "number": 7,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Five integers are picked from 0 to 20, with possible repetitions, such that their mean is 12, median is 18, and they have a single mode of 20. Ignoring permutations, the number of ways to pick these five integers is _____",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "sourceImage": "figures/day07-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              434.62,
+              565.32,
+              703.18
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "B",
+      "type": "MCQ",
+      "solution": "Write the sorted integers as a ≤ b ≤ 18 ≤ c ≤ d. For 20 to be the unique mode, both c and d must be 20. The total is 5×12 = 60, so a + b = 60 − 18 − 40 = 2. The possibilities are (0, 2) and (1, 1). The latter makes 1 and 20 tied modes and is invalid. Only {0, 2, 18, 20, 20} works: one way (B).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 7,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-08",
+      "number": 8,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Rishi and Swathi are students of Class 5. Pavan and Tanvi are students of Class 4. Rishi and Pavan are boys. Swathi and Tanvi are girls. The four students played a total of three games of chess. The games were played one after another. A player who lost a game did not participate in any more games. It was observed that:\n(i) the first game was the only game where two students of the same class played against each other,\n(ii) the students of Class 5 won more games than the students of Class 4, and\n(iii) the boys won two games and the girls won one game.\nThe student who did not lose any game is __________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pavan"
+        },
+        {
+          "label": "B",
+          "text": "Rishi"
+        },
+        {
+          "label": "C",
+          "text": "Swathi"
+        },
+        {
+          "label": "D",
+          "text": "Tanvi"
+        }
+      ],
+      "sourceImage": "figures/day07-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              472.03
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "D",
+      "type": "MCQ",
+      "solution": "Class 5 must win two games and Class 4 one. The first game cannot be between the Class 4 students: eliminating one would leave only one Class 4 student, and obtaining two later Class 5 wins would require another same-class match. Thus the first game is Rishi versus Swathi. Its winner must also win the second game against a Class 4 student, before losing the final cross-class game. Since boys win twice, that first winner is Rishi. The final winner must be the Class 4 girl, Tanvi (D).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 8,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-09",
+      "number": 9,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "P, Q, R, S, X, and Y are distinct single-digit whole numbers taking values from 0 to 9.\nPQ is a two-digit number with Q being in the units place and P in the tens place. Similarly, RS is a two-digit number.\nIt is known that PQ and RS are consecutive numbers and\n(PQ)² + (RS)² = XYP, with XYP being a three-digit number.\nThe value of Y is __________",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        }
+      ],
+      "sourceImage": "figures/day07-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              94.97,
+              565.32,
+              444.67
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The distinct tens digits P and R mean the consecutive numbers must cross a decade boundary. Their squared sum is three digits, so the only possible pair is 19 and 20: 29² + 30² already exceeds 999. Now 19² + 20² = 361 + 400 = 761. The final digit is P = 1, fixing PQ = 19 and RS = 20. The six digits 1, 9, 2, 0, 7, 6 are distinct. Hence Y = 6 (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 9,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2026-da-ga-10",
+      "number": 10,
+      "year": 2026,
+      "paper": "DA",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "In the given figure, P, Q, and R are three points on a circle of radius 10 cm with O as its center, \\overline{PQ} = \\overline{RQ}, and ∠PQR = 45°. The figure is representative.\nThe area of the shaded region PQRO is ______________ cm².",
+      "options": [
+        {
+          "label": "A",
+          "text": "50"
+        },
+        {
+          "label": "B",
+          "text": "25√2"
+        },
+        {
+          "label": "C",
+          "text": "50√2"
+        },
+        {
+          "label": "D",
+          "text": "100"
+        }
+      ],
+      "sourceImage": "figures/day07-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2026/DA.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              117.77,
+              565.32,
+              591.22
+            ]
+          }
+        ],
+        "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "answer": "C",
+      "type": "MCQ",
+      "solution": "The minor central angle ∠POR is twice the inscribed angle ∠PQR, hence 90°. If M is the midpoint of PR, then PM = OM = 10/√2 = 5√2 cm and PR = 10√2 cm. Symmetry gives QM = QO + OM = 10 + 5√2 cm.\nArea(PQR) = ½(10√2)(10 + 5√2) = 50√2 + 50 cm². Area(POR) = ½×10×10 = 50 cm². The shaded area is their difference, 50√2 cm² (C).",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "answerSource": {
+        "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf",
+        "paper": "DA",
+        "questionNumber": 10,
+        "section": "GA",
+        "verifiedOn": "2026-10-04"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2026-da-ga-10-figure-1.png",
+          "alt": "Circle of radius 10 cm with Q at the top and P, R below. PQ equals RQ; angle PQR is 45 degrees. O is the center. Shading fills triangle PQR except for triangle POR.",
+          "caption": "",
+          "source": {
+            "file": "Aptitude Sets/2026/DA.pdf",
+            "page": 7,
+            "image": "Im1.png",
+            "pixelCrop": null,
+            "sha256": "4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3"
+          }
+        }
+      ]
+    }
+  ]
+}

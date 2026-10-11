@@ -1,0 +1,28 @@
+[
+  {
+    "questionId": "gate-2015-ae-ga-03",
+    "at": "2026-10-11T04:09:28.037Z",
+    "productionHTML": "<div class=\"question-content\"><p class=\"question-stem\">Choose the statement where underlined word is used correctly.</p></div>",
+    "optionHTML": [
+      "<span class=\"option-copy\"><span>When the teacher eludes to different authors, he is being &lt;u&gt;elusive&lt;/u&gt;.</span></span>",
+      "<span class=\"option-copy\"><span>When the thief keeps eluding the police, he is being &lt;u&gt;elusive&lt;/u&gt;.</span></span>",
+      "<span class=\"option-copy\"><span>Matters that are difficult to understand, identify or remember are &lt;u&gt;allusive&lt;/u&gt;.</span></span>",
+      "<span class=\"option-copy\"><span>Mirages can be &lt;u&gt;allusive&lt;/u&gt;, but a better way to express them is illusory.</span></span>"
+    ],
+    "status": "FAIL",
+    "method": "Production renderer output inspection, not browser screenshot"
+  },
+  {
+    "questionId": "gate-2015-ae-ga-06",
+    "at": "2026-10-11T04:09:28.037Z",
+    "productionHTML": "<div class=\"question-content\"><p class=\"question-stem\">Select the appropriate option in place of underlined part of the sentence.\n\n&lt;u&gt;Increased productivity necessary&lt;/u&gt; reflects greater efforts made by the employees.</p></div>",
+    "optionHTML": [
+      "<span class=\"option-copy\"><span>Increase in productivity necessary</span></span>",
+      "<span class=\"option-copy\"><span>Increase productivity is necessary</span></span>",
+      "<span class=\"option-copy\"><span>Increase in productivity necessarily</span></span>",
+      "<span class=\"option-copy\"><span>No improvement required</span></span>"
+    ],
+    "status": "FAIL",
+    "method": "Production renderer output inspection, not browser screenshot"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "theme": "light",
+    "width": 1440,
+    "height": 900,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      }
+    ],
+    "clientWidth": 1425,
+    "rows": 4,
+    "scrollWidth": 1425
+  },
+  {
+    "theme": "light",
+    "width": 1024,
+    "height": 900,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      }
+    ],
+    "clientWidth": 1009,
+    "rows": 4,
+    "scrollWidth": 1009
+  },
+  {
+    "theme": "light",
+    "width": 768,
+    "height": 1024,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      }
+    ],
+    "clientWidth": 753,
+    "rows": 4,
+    "scrollWidth": 753
+  },
+  {
+    "theme": "light",
+    "width": 390,
+    "height": 844,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      }
+    ],
+    "clientWidth": 375,
+    "rows": 4,
+    "scrollWidth": 375
+  },
+  {
+    "theme": "light",
+    "width": 375,
+    "height": 812,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 324
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      }
+    ],
+    "clientWidth": 360,
+    "rows": 4,
+    "scrollWidth": 360
+  },
+  {
+    "theme": "light",
+    "width": 320,
+    "height": 740,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 268.66668701171875
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      }
+    ],
+    "clientWidth": 305,
+    "rows": 4,
+    "scrollWidth": 305
+  },
+  {
+    "theme": "dark",
+    "width": 1440,
+    "height": 900,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      }
+    ],
+    "clientWidth": 1425,
+    "rows": 4,
+    "scrollWidth": 1425
+  },
+  {
+    "theme": "dark",
+    "width": 1024,
+    "height": 900,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      }
+    ],
+    "clientWidth": 1009,
+    "rows": 4,
+    "scrollWidth": 1009
+  },
+  {
+    "theme": "dark",
+    "width": 768,
+    "height": 1024,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      },
+      {
+        "height": 44,
+        "width": 120
+      }
+    ],
+    "clientWidth": 753,
+    "rows": 4,
+    "scrollWidth": 753
+  },
+  {
+    "theme": "dark",
+    "width": 390,
+    "height": 844,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 108.36458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      }
+    ],
+    "clientWidth": 375,
+    "rows": 4,
+    "scrollWidth": 375
+  },
+  {
+    "theme": "dark",
+    "width": 375,
+    "height": 812,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 324
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      }
+    ],
+    "clientWidth": 360,
+    "rows": 4,
+    "scrollWidth": 360
+  },
+  {
+    "theme": "dark",
+    "width": 320,
+    "height": 740,
+    "buttons": [
+      {
+        "height": 46,
+        "width": 268.66668701171875
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      },
+      {
+        "height": 44,
+        "width": 77.86458587646484
+      }
+    ],
+    "clientWidth": 305,
+    "rows": 4,
+    "scrollWidth": 305
+  }
+]

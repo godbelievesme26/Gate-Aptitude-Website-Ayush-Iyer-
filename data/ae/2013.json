@@ -1,0 +1,4304 @@
+{
+  "schemaVersion": 1,
+  "id": "gate-2013-ae",
+  "exam": "GATE",
+  "year": 2013,
+  "paper": "AE",
+  "title": "GATE Aerospace Engineering 2013",
+  "durationMinutes": 180,
+  "totalMarks": 100,
+  "totalQuestions": 65,
+  "sectionOrder": [
+    "AE",
+    "GA"
+  ],
+  "sections": [
+    {
+      "id": "AE",
+      "title": "Aerospace Engineering",
+      "questionIds": [
+        "gate-2013-ae-ae-01",
+        "gate-2013-ae-ae-02",
+        "gate-2013-ae-ae-03",
+        "gate-2013-ae-ae-04",
+        "gate-2013-ae-ae-05",
+        "gate-2013-ae-ae-06",
+        "gate-2013-ae-ae-07",
+        "gate-2013-ae-ae-08",
+        "gate-2013-ae-ae-09",
+        "gate-2013-ae-ae-10",
+        "gate-2013-ae-ae-11",
+        "gate-2013-ae-ae-12",
+        "gate-2013-ae-ae-13",
+        "gate-2013-ae-ae-14",
+        "gate-2013-ae-ae-15",
+        "gate-2013-ae-ae-16",
+        "gate-2013-ae-ae-17",
+        "gate-2013-ae-ae-18",
+        "gate-2013-ae-ae-19",
+        "gate-2013-ae-ae-20",
+        "gate-2013-ae-ae-21",
+        "gate-2013-ae-ae-22",
+        "gate-2013-ae-ae-23",
+        "gate-2013-ae-ae-24",
+        "gate-2013-ae-ae-25",
+        "gate-2013-ae-ae-26",
+        "gate-2013-ae-ae-27",
+        "gate-2013-ae-ae-28",
+        "gate-2013-ae-ae-29",
+        "gate-2013-ae-ae-30",
+        "gate-2013-ae-ae-31",
+        "gate-2013-ae-ae-32",
+        "gate-2013-ae-ae-33",
+        "gate-2013-ae-ae-34",
+        "gate-2013-ae-ae-35",
+        "gate-2013-ae-ae-36",
+        "gate-2013-ae-ae-37",
+        "gate-2013-ae-ae-38",
+        "gate-2013-ae-ae-39",
+        "gate-2013-ae-ae-40",
+        "gate-2013-ae-ae-41",
+        "gate-2013-ae-ae-42",
+        "gate-2013-ae-ae-43",
+        "gate-2013-ae-ae-44",
+        "gate-2013-ae-ae-45",
+        "gate-2013-ae-ae-46",
+        "gate-2013-ae-ae-47",
+        "gate-2013-ae-ae-48",
+        "gate-2013-ae-ae-49",
+        "gate-2013-ae-ae-50",
+        "gate-2013-ae-ae-51",
+        "gate-2013-ae-ae-52",
+        "gate-2013-ae-ae-53",
+        "gate-2013-ae-ae-54",
+        "gate-2013-ae-ae-55"
+      ],
+      "totalMarks": 85
+    },
+    {
+      "id": "GA",
+      "title": "General Aptitude",
+      "questionIds": [
+        "gate-2013-ae-ga-56",
+        "gate-2013-ae-ga-57",
+        "gate-2013-ae-ga-58",
+        "gate-2013-ae-ga-59",
+        "gate-2013-ae-ga-60",
+        "gate-2013-ae-ga-61",
+        "gate-2013-ae-ga-62",
+        "gate-2013-ae-ga-63",
+        "gate-2013-ae-ga-64",
+        "gate-2013-ae-ga-65"
+      ],
+      "totalMarks": 15
+    }
+  ],
+  "questionOrder": [
+    "gate-2013-ae-ae-01",
+    "gate-2013-ae-ae-02",
+    "gate-2013-ae-ae-03",
+    "gate-2013-ae-ae-04",
+    "gate-2013-ae-ae-05",
+    "gate-2013-ae-ae-06",
+    "gate-2013-ae-ae-07",
+    "gate-2013-ae-ae-08",
+    "gate-2013-ae-ae-09",
+    "gate-2013-ae-ae-10",
+    "gate-2013-ae-ae-11",
+    "gate-2013-ae-ae-12",
+    "gate-2013-ae-ae-13",
+    "gate-2013-ae-ae-14",
+    "gate-2013-ae-ae-15",
+    "gate-2013-ae-ae-16",
+    "gate-2013-ae-ae-17",
+    "gate-2013-ae-ae-18",
+    "gate-2013-ae-ae-19",
+    "gate-2013-ae-ae-20",
+    "gate-2013-ae-ae-21",
+    "gate-2013-ae-ae-22",
+    "gate-2013-ae-ae-23",
+    "gate-2013-ae-ae-24",
+    "gate-2013-ae-ae-25",
+    "gate-2013-ae-ae-26",
+    "gate-2013-ae-ae-27",
+    "gate-2013-ae-ae-28",
+    "gate-2013-ae-ae-29",
+    "gate-2013-ae-ae-30",
+    "gate-2013-ae-ae-31",
+    "gate-2013-ae-ae-32",
+    "gate-2013-ae-ae-33",
+    "gate-2013-ae-ae-34",
+    "gate-2013-ae-ae-35",
+    "gate-2013-ae-ae-36",
+    "gate-2013-ae-ae-37",
+    "gate-2013-ae-ae-38",
+    "gate-2013-ae-ae-39",
+    "gate-2013-ae-ae-40",
+    "gate-2013-ae-ae-41",
+    "gate-2013-ae-ae-42",
+    "gate-2013-ae-ae-43",
+    "gate-2013-ae-ae-44",
+    "gate-2013-ae-ae-45",
+    "gate-2013-ae-ae-46",
+    "gate-2013-ae-ae-47",
+    "gate-2013-ae-ae-48",
+    "gate-2013-ae-ae-49",
+    "gate-2013-ae-ae-50",
+    "gate-2013-ae-ae-51",
+    "gate-2013-ae-ae-52",
+    "gate-2013-ae-ae-53",
+    "gate-2013-ae-ae-54",
+    "gate-2013-ae-ae-55",
+    "gate-2013-ae-ga-56",
+    "gate-2013-ae-ga-57",
+    "gate-2013-ae-ga-58",
+    "gate-2013-ae-ga-59",
+    "gate-2013-ae-ga-60",
+    "gate-2013-ae-ga-61",
+    "gate-2013-ae-ga-62",
+    "gate-2013-ae-ga-63",
+    "gate-2013-ae-ga-64",
+    "gate-2013-ae-ga-65"
+  ],
+  "questionRefs": [
+    {
+      "id": "gate-2013-ae-ae-01",
+      "number": 1,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-02",
+      "number": 2,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-03",
+      "number": 3,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-04",
+      "number": 4,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-05",
+      "number": 5,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-06",
+      "number": 6,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-07",
+      "number": 7,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-08",
+      "number": 8,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-09",
+      "number": 9,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-10",
+      "number": 10,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-11",
+      "number": 11,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-12",
+      "number": 12,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-13",
+      "number": 13,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-14",
+      "number": 14,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-15",
+      "number": 15,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-16",
+      "number": 16,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-17",
+      "number": 17,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-18",
+      "number": 18,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-19",
+      "number": 19,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-20",
+      "number": 20,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-21",
+      "number": 21,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-22",
+      "number": 22,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-23",
+      "number": 23,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-24",
+      "number": 24,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-25",
+      "number": 25,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-26",
+      "number": 26,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-27",
+      "number": 27,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-28",
+      "number": 28,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-29",
+      "number": 29,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-30",
+      "number": 30,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-31",
+      "number": 31,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-32",
+      "number": 32,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-33",
+      "number": 33,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-34",
+      "number": 34,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-35",
+      "number": 35,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-36",
+      "number": 36,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-37",
+      "number": 37,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-38",
+      "number": 38,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-39",
+      "number": 39,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-40",
+      "number": 40,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-41",
+      "number": 41,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-42",
+      "number": 42,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-43",
+      "number": 43,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-44",
+      "number": 44,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-45",
+      "number": 45,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-46",
+      "number": 46,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-47",
+      "number": 47,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-48",
+      "number": 48,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-49",
+      "number": 49,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-50",
+      "number": 50,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-51",
+      "number": 51,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-52",
+      "number": 52,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-53",
+      "number": 53,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-54",
+      "number": 54,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ae-55",
+      "number": 55,
+      "section": "AE"
+    },
+    {
+      "id": "gate-2013-ae-ga-56",
+      "number": 56,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-57",
+      "number": 57,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-58",
+      "number": 58,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-59",
+      "number": 59,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-60",
+      "number": 60,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-61",
+      "number": 61,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-62",
+      "number": 62,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-63",
+      "number": 63,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-64",
+      "number": 64,
+      "section": "GA"
+    },
+    {
+      "id": "gate-2013-ae-ga-65",
+      "number": 65,
+      "section": "GA"
+    }
+  ],
+  "questionGroups": [],
+  "marking": {
+    "negativeFraction": {
+      "MCQ": 0.3333333333333333,
+      "MSQ": 0,
+      "NAT": 0
+    }
+  },
+  "source": {
+    "file": "internal/ae/AE2013.pdf",
+    "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+    "pageCount": 19
+  },
+  "questions": [
+    {
+      "id": "gate-2013-ae-ae-01",
+      "number": 1,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "The directional derivative of the function f(x, y, z) = 2x^2 + 3y^2 + z^2 at the point P:(2, 1, 3) in the direction of the vector a = i - 2k is",
+      "options": [
+        {
+          "label": "A",
+          "text": "-4/\\sqrt{5}"
+        },
+        {
+          "label": "B",
+          "text": "-2/\\sqrt{5}"
+        },
+        {
+          "label": "C",
+          "text": "2/\\sqrt{5}"
+        },
+        {
+          "label": "D",
+          "text": "4/\\sqrt{5}"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 1,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-02",
+      "number": 2,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "The evaluation of the integral \\int_C \\frac{e^z}{z^2 + π^2} dz along the counter-clockwise contour C: |z| = 4 yields",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "2i"
+        },
+        {
+          "label": "C",
+          "text": "-2i"
+        },
+        {
+          "label": "D",
+          "text": "4π i"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 2,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-03",
+      "number": 3,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "One of the eigenvalues of the matrix A = \\matrix{1 & 2 & 1; 2 & 1 & 0; -1 & 0 & 1} is -1. The sum of the other two eigenvalues is",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 3,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-04",
+      "number": 4,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "negativeMarks": 0,
+      "question": "The line integral \\int_C (y^2 dx + 2xy dy) over the curve C: x^2 + y^2 = 1 from (1, 0) to (0, 1) in the counter-clockwise direction is ________.",
+      "options": [],
+      "answer": [
+        0,
+        0
+      ],
+      "acceptedAnswers": [
+        0,
+        0
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 4,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-05",
+      "number": 5,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "An aircraft is flying at a constant altitude in a horizontal circle at a speed of 120 m/s. If the bank angle is 60°, the radius of the circle (in meters) is (take g = 9.81 m/s^2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "848"
+        },
+        {
+          "label": "B",
+          "text": "1468"
+        },
+        {
+          "label": "C",
+          "text": "2544"
+        },
+        {
+          "label": "D",
+          "text": "848.3"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 5,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 4,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-06",
+      "number": 6,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "Which one of the following flight instruments is used on an aircraft to determine its attitude in roll and pitch?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Altimeter"
+        },
+        {
+          "label": "B",
+          "text": "Turn and slip indicator"
+        },
+        {
+          "label": "C",
+          "text": "Artificial horizon"
+        },
+        {
+          "label": "D",
+          "text": "Rate of climb indicator"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 6,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-07",
+      "number": 7,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "An aircraft has a zero-lift drag coefficient C_{D0} = 0.02, wing aspect ratio AR = 8, and Oswald efficiency factor e = 0.8. The lift coefficient C_L for the maximum lift-to-drag ratio is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.40"
+        },
+        {
+          "label": "B",
+          "text": "0.50"
+        },
+        {
+          "label": "C",
+          "text": "0.63"
+        },
+        {
+          "label": "D",
+          "text": "0.75"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 7,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-08",
+      "number": 8,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "Which one of the following statements is TRUE for an airplane in steady, level flight at a constant altitude?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maximum range occurs at a higher speed than maximum endurance"
+        },
+        {
+          "label": "B",
+          "text": "Maximum range occurs at a lower speed than maximum endurance"
+        },
+        {
+          "label": "C",
+          "text": "Maximum range and maximum endurance occur at the same speed"
+        },
+        {
+          "label": "D",
+          "text": "Maximum range speed is independent of weight"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 8,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-09",
+      "number": 9,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "The primary control surface used to control the yawing motion of an aircraft is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aileron"
+        },
+        {
+          "label": "B",
+          "text": "Rudder"
+        },
+        {
+          "label": "C",
+          "text": "Elevator"
+        },
+        {
+          "label": "D",
+          "text": "Flap"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 9,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-10",
+      "number": 10,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "An airfoil with a positive camber at zero angle of attack produces",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive lift and negative pitching moment about the quarter chord"
+        },
+        {
+          "label": "B",
+          "text": "Negative lift and positive pitching moment about the quarter chord"
+        },
+        {
+          "label": "C",
+          "text": "Zero lift and zero pitching moment about the quarter chord"
+        },
+        {
+          "label": "D",
+          "text": "Positive lift and positive pitching moment about the quarter chord"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 10,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 5,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-11",
+      "number": 11,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "Which one of the following statements is NOT TRUE for a supersonic flow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Over an expansion corner, static temperature decreases"
+        },
+        {
+          "label": "B",
+          "text": "Across an oblique shock wave, total pressure increases"
+        },
+        {
+          "label": "C",
+          "text": "Across a normal shock wave, Mach number decreases"
+        },
+        {
+          "label": "D",
+          "text": "In a convergent-divergent nozzle with supersonic flow at the exit, Mach number increases in the divergent portion"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 11,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-12",
+      "number": 12,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "In a 2-D potential flow, a source of strength m and a sink of strength m placed at a distance d apart form a doublet as d → 0 such that md remains constant. The streamlines around the doublet are",
+      "options": [
+        {
+          "label": "A",
+          "text": "Concentric circles tangent to the doublet axis"
+        },
+        {
+          "label": "B",
+          "text": "Radial straight lines"
+        },
+        {
+          "label": "C",
+          "text": "Concentric circles with center at the doublet"
+        },
+        {
+          "label": "D",
+          "text": "Hyperbolas"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 12,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-13",
+      "number": 13,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "A laminar boundary layer develops over a flat plate of length L. If the freestream velocity is doubled, the skin friction drag force on the plate will",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase by a factor of 2"
+        },
+        {
+          "label": "B",
+          "text": "Increase by a factor of \\sqrt{2}"
+        },
+        {
+          "label": "C",
+          "text": "Increase by a factor of 2\\sqrt{2}"
+        },
+        {
+          "label": "D",
+          "text": "Remain unchanged"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 13,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-14",
+      "number": 14,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "negativeMarks": 0,
+      "question": "Consider a velocity field given by u = 2x, v = -2y in a 2-D flow field. The magnitude of the circulation along a circle of radius R = 1 centered at the origin is ________.",
+      "options": [],
+      "answer": [
+        1,
+        1
+      ],
+      "acceptedAnswers": [
+        1,
+        1
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 14,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-15",
+      "number": 15,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "negativeMarks": 0,
+      "question": "A flat plate of chord c = 1 m is placed in an incompressible flow of air (density 1.2 kg/m^3, kinematic viscosity 1.5 × 10^{-5} m^2/s) at a freestream speed of 30 m/s. The Reynolds number based on the chord is Re = 2 × 10^6. The boundary layer thickness (in mm) at x = 0.1 m from the leading edge is ________ (assume laminar boundary layer with δ = 5x/\\sqrt{Re_x}).",
+      "options": [],
+      "answer": [
+        0.2,
+        0.2
+      ],
+      "acceptedAnswers": [
+        0.2,
+        0.2
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 15,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 6,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-16",
+      "number": 16,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "The cross-section of a long thin-walled member is as shown in the figure. When subjected to pure twist, point A",
+      "options": [
+        {
+          "label": "A",
+          "text": "does not move horizontally or axially, but moves vertically"
+        },
+        {
+          "label": "B",
+          "text": "does not move axially, but moves both vertically and horizontally"
+        },
+        {
+          "label": "C",
+          "text": "does not move horizontally, vertically or axially"
+        },
+        {
+          "label": "D",
+          "text": "does not move vertically or axially, but moves horizontally"
+        }
+      ],
+      "answer": "MTA",
+      "acceptedAnswers": [
+        "MTA"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-16-figure-1.png",
+          "alt": "Thin-walled open section with point A at corner",
+          "page": 7,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 7,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 16,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "gradingRule": "marks-to-all"
+    },
+    {
+      "id": "gate-2013-ae-ae-17",
+      "number": 17,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "negativeMarks": 0,
+      "question": "The channel section of uniform thickness 2mm shown in the figure is subjected to a torque of 10 Nm. If it is made of a material with shear modulus of 25 GPa, the twist per unit length in radians/m is ________.",
+      "options": [],
+      "answer": [
+        0.12,
+        0.13
+      ],
+      "acceptedAnswers": [
+        0.12,
+        0.13
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-17-figure-1.png",
+          "alt": "Channel section with flange lengths 300mm and web height 600mm",
+          "page": 7,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 7,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 17,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 7,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-18",
+      "number": 18,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "The stiffened cross-section of a long slender uniform structural member is idealized as four concentrated corner booms carrying direct stresses and thin skin panels carrying shear stresses only, as shown in the figure. If the member is subjected to a vertical shear force V_y = 10 kN through the shear center, the shear flow in web 1-2 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 N/mm"
+        },
+        {
+          "label": "B",
+          "text": "100 N/mm"
+        },
+        {
+          "label": "C",
+          "text": "25 N/mm"
+        },
+        {
+          "label": "D",
+          "text": "0 N/mm"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-18-figure-1.png",
+          "alt": "Idealized 4-boom cross section with dimensions and booms 1, 2, 3, 4",
+          "page": 8,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 8,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 18,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-19",
+      "number": 19,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "A solid circular shaft of radius R is subjected to a torque T. If the maximum shear stress induced is τ_max, the ratio of torque carried by the outer core (from r = R/2 to r = R) to the total torque T is",
+      "options": [
+        {
+          "label": "A",
+          "text": "3/4"
+        },
+        {
+          "label": "B",
+          "text": "7/8"
+        },
+        {
+          "label": "C",
+          "text": "1/2"
+        },
+        {
+          "label": "D",
+          "text": "15/16"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 19,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-20",
+      "number": 20,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 1,
+      "negativeMarks": 0,
+      "question": "A thin-walled cylindrical pressure vessel of internal diameter 1 m and wall thickness 5 mm is subjected to an internal gauge pressure of 2 MPa. The maximum in-plane shear stress (in MPa) in the wall of the vessel is ________.",
+      "options": [],
+      "answer": [
+        0.3,
+        0.35
+      ],
+      "acceptedAnswers": [
+        0.3,
+        0.35
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 20,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-21",
+      "number": 21,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "For a linear elastic isotropic material, which of the following relationships between Young’s modulus E, Shear modulus G, Bulk modulus K and Poisson’s ratio ν is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "E = 2G(1 + ν)"
+        },
+        {
+          "label": "B",
+          "text": "E = 3K(1 - 2ν)"
+        },
+        {
+          "label": "C",
+          "text": "G = \\frac{3K(1 - 2ν)}{2(1 + ν)}"
+        },
+        {
+          "label": "D",
+          "text": "E = \\frac{9KG}{3K + 2G}"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 21,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 8,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-22",
+      "number": 22,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "A gas turbine engine is mounted on an aircraft which can attain a maximum altitude of 15 km. As altitude increases in the troposphere, the thrust produced by the engine",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases continuously"
+        },
+        {
+          "label": "B",
+          "text": "Remains constant"
+        },
+        {
+          "label": "C",
+          "text": "First decreases then increases"
+        },
+        {
+          "label": "D",
+          "text": "Decreases continuously"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 22,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-23",
+      "number": 23,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "In a gas turbine combustor, the primary zone air-fuel mixture is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Extremely lean to minimize emissions"
+        },
+        {
+          "label": "B",
+          "text": "Nearly stoichiometric to sustain stable combustion"
+        },
+        {
+          "label": "C",
+          "text": "Extremely rich to maximize temperature"
+        },
+        {
+          "label": "D",
+          "text": "Completely unmixed"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 23,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-24",
+      "number": 24,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "For an ideal ramjet engine operating at supersonic flight speed, the net thrust is maximum when the flight Mach number is such that",
+      "options": [
+        {
+          "label": "A",
+          "text": "Combustion chamber temperature is equal to ambient temperature"
+        },
+        {
+          "label": "B",
+          "text": "Total temperature rise in the intake equals temperature rise in the combustor"
+        },
+        {
+          "label": "C",
+          "text": "Combustor exit velocity is sonic"
+        },
+        {
+          "label": "D",
+          "text": "Intake pressure ratio is minimum"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 24,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-25",
+      "number": 25,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "Which one of the following rocket propellant combinations is cryogenic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liquid Oxygen (LOX) + Liquid Hydrogen (LH2)"
+        },
+        {
+          "label": "B",
+          "text": "UDMH + N2O4"
+        },
+        {
+          "label": "C",
+          "text": "Kerosene + Liquid Oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Solid propellant HTPB + AP"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 25,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 9,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-26",
+      "number": 26,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "negativeMarks": 0,
+      "question": "Let S be the closed surface of the unit sphere x^2 + y^2 + z^2 = 1. The value of the surface integral \\iint_S (y^2 z i + z^2 x j + x^2 y k) · n dS, where n is the outward unit normal, is ________.",
+      "options": [],
+      "answer": [
+        0,
+        0
+      ],
+      "acceptedAnswers": [
+        0,
+        0
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 26,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-27",
+      "number": 27,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "The solution of the initial value problem \\frac{d^2 y}{dx^2} - 2 \\frac{dy}{dx} + y = e^x with y(0) = 1, y'(0) = 2 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "y = (1 + x + \\frac{x^2}{2}) e^x"
+        },
+        {
+          "label": "B",
+          "text": "y = (1 + x) e^x + \\frac{x^2}{2} e^x"
+        },
+        {
+          "label": "C",
+          "text": "y = (1 + 2x) e^x"
+        },
+        {
+          "label": "D",
+          "text": "y = (1 - x + x^2) e^x"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 27,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-28",
+      "number": 28,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "The value of the integral \\oint_C \\frac{\\cos(π z)}{z(z-1)} dz around the contour C: |z| = 1.5 in the counter-clockwise direction is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "2π i"
+        },
+        {
+          "label": "C",
+          "text": "-2π i"
+        },
+        {
+          "label": "D",
+          "text": "-4π i"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 28,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-29",
+      "number": 29,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A fair coin is tossed 4 times. The probability of getting at least 3 heads is",
+      "options": [
+        {
+          "label": "A",
+          "text": "5/16"
+        },
+        {
+          "label": "B",
+          "text": "1/4"
+        },
+        {
+          "label": "C",
+          "text": "3/8"
+        },
+        {
+          "label": "D",
+          "text": "7/16"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 29,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 10,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-30",
+      "number": 30,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "negativeMarks": 0,
+      "question": "A glider is launched from a 500m high hilltop. Following data is available for the glider: Wing area S = 15 m^2, Aspect ratio AR = 8, Weight W = 3000 N, Zero-lift drag coefficient C_{D0} = 0.015, Oswald efficiency factor e = 0.85, Air density ρ = 1.2 kg/m^3. The maximum distance (in km) that the glider can cover in still air is ________.",
+      "options": [],
+      "answer": [
+        9,
+        10
+      ],
+      "acceptedAnswers": [
+        9,
+        10
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 30,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-31",
+      "number": 31,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "An airplane has a wing loading W/S = 2500 N/m^2, zero-lift drag coefficient C_{D0} = 0.02, aspect ratio AR = 8 and Oswald efficiency factor e = 0.8. In steady level flight at sea-level (ρ = 1.225 kg/m^3), the minimum thrust required (in N per unit weight) is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.035"
+        },
+        {
+          "label": "B",
+          "text": "0.040"
+        },
+        {
+          "label": "C",
+          "text": "0.056"
+        },
+        {
+          "label": "D",
+          "text": "0.070"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 31,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-32",
+      "number": 32,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "negativeMarks": 0,
+      "question": "For a symmetric airfoil of chord c = 1.5 m with a 20% plain flap, the lift curve slope is C_{Lα} = 2π rad^{-1}. If flap deflection δ_f = 10° produces a lift increment Δ C_L = 0.35, the flap effectiveness parameter τ = (∂α/∂δ_f) is ________.",
+      "options": [],
+      "answer": [
+        -0.24,
+        -0.23
+      ],
+      "acceptedAnswers": [
+        -0.24,
+        -0.23
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 32,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-33",
+      "number": 33,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "negativeMarks": 0,
+      "question": "An airplane has a neutral point located at 0.45 c and center of gravity at 0.30 c. The static margin (as a fraction of mean aerodynamic chord c) is ________.",
+      "options": [],
+      "answer": [
+        1,
+        1
+      ],
+      "acceptedAnswers": [
+        1,
+        1
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 33,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-34",
+      "number": 34,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A jet transport airplane of weight W = 500 kN is in steady coordinated turn at an altitude of 10 km. If the bank angle is 45° and maximum available thrust is 150 kN, the maximum load factor n that can be sustained is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.0"
+        },
+        {
+          "label": "B",
+          "text": "1.2"
+        },
+        {
+          "label": "C",
+          "text": "1.3"
+        },
+        {
+          "label": "D",
+          "text": "1.414"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 34,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-35",
+      "number": 35,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Consider the longitudinal dynamic equations of motion for an aircraft. If the short-period mode has undamped natural frequency ω_n = 3.0 rad/s and damping ratio ζ = 0.6, the time (in seconds) to damp to half amplitude is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.23"
+        },
+        {
+          "label": "B",
+          "text": "0.31"
+        },
+        {
+          "label": "C",
+          "text": "0.385"
+        },
+        {
+          "label": "D",
+          "text": "0.55"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 35,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 11,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-36",
+      "number": 36,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Streamline pattern of flow past a cylinder is shown in the figure below. The oncoming uniform flow velocity is V_∞. If the circulation is Γ in the clockwise direction, the lift force experienced by the cylinder per unit span is given by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero"
+        },
+        {
+          "label": "B",
+          "text": "\\frac{1}{2} ρ_∞ V_∞^2 (2R)"
+        },
+        {
+          "label": "C",
+          "text": "ρ_∞ V_∞ Γ (acting upward)"
+        },
+        {
+          "label": "D",
+          "text": "ρ_∞ V_∞ Γ (acting downward)"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-36-figure-1.png",
+          "alt": "Streamlines past a cylinder with circulation showing upward displaced stagnation points",
+          "page": 12,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 12,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 36,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-37",
+      "number": 37,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A finite wing with span b = 10 m and chord c = 1.5 m has an elliptic lift distribution. The trailing vortex wake rollup is as shown in the figure. If the total circulation at mid-span is Γ_0 = 40 m^2/s and freestream speed is V_∞ = 50 m/s, the downwash velocity w_0 (in m/s) at the wing is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.0"
+        },
+        {
+          "label": "B",
+          "text": "1.5"
+        },
+        {
+          "label": "C",
+          "text": "2.0"
+        },
+        {
+          "label": "D",
+          "text": "2.5"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-37-figure-1.png",
+          "alt": "Finite wing with span b and trailing vortex wake rollup",
+          "page": 12,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 12,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 37,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 12,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-38",
+      "number": 38,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "The idealized cross-section of a beam is comprised of four identical booms connected by thin webs as shown in the figure. If each boom area is B = 100 mm^2 and the cross-section is subjected to a bending moment M_x = 10 kN·m, the normal stress (in MPa) in boom 1 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "250"
+        },
+        {
+          "label": "B",
+          "text": "-250"
+        },
+        {
+          "label": "C",
+          "text": "125"
+        },
+        {
+          "label": "D",
+          "text": "-125"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-38-figure-1.png",
+          "alt": "Idealized beam cross section with 4 booms of area B and dimensions 200mm x 100mm",
+          "page": 13,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 13,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 38,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-39",
+      "number": 39,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A cantilever beam of span L and uniform flexural rigidity EI has an end moment M_0 applied at the free end. The strain energy U stored in the beam is",
+      "options": [
+        {
+          "label": "A",
+          "text": "\\frac{M_0^2 L}{EI}"
+        },
+        {
+          "label": "B",
+          "text": "\\frac{M_0^2 L}{2EI}"
+        },
+        {
+          "label": "C",
+          "text": "\\frac{M_0^2 L}{3EI}"
+        },
+        {
+          "label": "D",
+          "text": "\\frac{M_0^2 L}{6EI}"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 39,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-40",
+      "number": 40,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A column of length L and uniform flexural rigidity EI is pinned at both ends. An additional elastic torsional spring of stiffness K_t is attached at one end. The critical buckling load P_{cr} satisfies",
+      "options": [
+        {
+          "label": "A",
+          "text": "P_{cr} = \\frac{π^2 EI}{L^2}"
+        },
+        {
+          "label": "B",
+          "text": "\\tan(k L) = \\frac{k L}{1 - \\frac{K_t L}{EI}} where k = \\sqrt{P_{cr}/EI}"
+        },
+        {
+          "label": "C",
+          "text": "P_{cr} = \\frac{4π^2 EI}{L^2}"
+        },
+        {
+          "label": "D",
+          "text": "P_{cr} = \\frac{π^2 EI}{4L^2}"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 40,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 13,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-41",
+      "number": 41,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "negativeMarks": 0,
+      "question": "In the steel structure (Young’s modulus = 200 GPa) shown in the figure, all members are pin-jointed with cross-sectional area A = 100 mm^2. Under the applied load P = 10 kN at joint B, the vertical downward deflection (in mm × 10^{-3}) at joint B is ________.",
+      "options": [],
+      "answer": [
+        1900,
+        2000
+      ],
+      "acceptedAnswers": [
+        1900,
+        2000
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-41-figure-1.png",
+          "alt": "Truss structure ABC with pin joints and downward load P at joint B",
+          "page": 14,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 14,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 41,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-42",
+      "number": 42,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A single degree of freedom system with mass m = 2 kg and stiffness k = 800 N/m is subjected to a harmonic force F(t) = F_0 \\cos(ω t). If the amplitude of steady-state response at resonance (ω = ω_n) is 10 times the static deflection, the damping ratio ζ of the system is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.02"
+        },
+        {
+          "label": "B",
+          "text": "0.05"
+        },
+        {
+          "label": "C",
+          "text": "0.10"
+        },
+        {
+          "label": "D",
+          "text": "0.20"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 42,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-43",
+      "number": 43,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "NAT",
+      "marks": 2,
+      "negativeMarks": 0,
+      "question": "A thin-walled single-cell closed tube of non-circular cross-section of mean enclosed area A_m = 0.05 m^2 and uniform wall thickness t = 2 mm is subjected to a torque T = 14 kN·m. The shear stress (in MPa) developed in the wall is ________.",
+      "options": [],
+      "answer": [
+        70,
+        70
+      ],
+      "acceptedAnswers": [
+        70,
+        70
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 43,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 14,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-44",
+      "number": 44,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A simply supported beam with overhang is loaded by uniformly distributed load of intensity q as shown in the figure. The bending moment at the mid-point of AB is",
+      "options": [
+        {
+          "label": "A",
+          "text": "\\frac{qL^2}{16} sagging"
+        },
+        {
+          "label": "B",
+          "text": "\\frac{qL^2}{16} hogging"
+        },
+        {
+          "label": "C",
+          "text": "\\frac{3qL^2}{16} hogging"
+        },
+        {
+          "label": "D",
+          "text": "\\frac{3qL^2}{16} sagging"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": true,
+      "figures": [
+        {
+          "src": "figures/gate-2013-ae-ae-44-figure-1.png",
+          "alt": "Simply supported beam AB with overhang L/2 under uniform load q",
+          "page": 15,
+          "source": {
+            "file": "internal/ae/AE2013.pdf",
+            "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+            "page": 15,
+            "verificationStatus": "source-verified",
+            "verifiedOn": "2026-10-08"
+          }
+        }
+      ],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 44,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-45",
+      "number": 45,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Thrust of liquid oxygen - liquid hydrogen rocket engine is 300 kN. The O/F ratio used is 5. If the fuel mass flow rate is 12.5 kg/s, the specific impulse of the rocket motor in Ns/kg is",
+      "options": [
+        {
+          "label": "A",
+          "text": "3800"
+        },
+        {
+          "label": "B",
+          "text": "4000"
+        },
+        {
+          "label": "C",
+          "text": "4200"
+        },
+        {
+          "label": "D",
+          "text": "4400"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 45,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-46",
+      "number": 46,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "In a 50 % reaction axial compressor stage, the local blade velocity is 300 m/s and the axial component of velocity is 100 m/s. If the absolute inlet flow angle α_1 = 45°, the work per unit mass done on the fluid by the stage in kJ/kg is",
+      "options": [
+        {
+          "label": "A",
+          "text": "30"
+        },
+        {
+          "label": "B",
+          "text": "40"
+        },
+        {
+          "label": "C",
+          "text": "50"
+        },
+        {
+          "label": "D",
+          "text": "60"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 46,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-47",
+      "number": 47,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Consider two rockets P and Q fired vertically up with identical specific impulse and a payload of 2 kg. Rocket P has 2 identical stages, and each stage has 200 kg of propellant and 20 kg of structural weight. Rocket Q has a single stage with 400 kg of propellant and 40 kg of structural weight. Neglecting drag and gravity effects, the ratio of the change in velocity of P to that attained by Q is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.13"
+        },
+        {
+          "label": "B",
+          "text": "1.23"
+        },
+        {
+          "label": "C",
+          "text": "1.33"
+        },
+        {
+          "label": "D",
+          "text": "1.43"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 47,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-48",
+      "number": 48,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Common Data for Questions 48 and 49: Data for an airplane are given as follows: weight W = 30kN, thrust available at sea-level T_0 = 4000N, wing planform area S = 30m^2, maximum lift coefficient C_{L max} = 1.4, and drag coefficient C_D = 0.015 + 0.024 C_L^2. Assume air density at sea-level ρ_∞ = 1.22kg/m^3.\n\nStall speed of the airplane in m/s is",
+      "options": [
+        {
+          "label": "A",
+          "text": "17.36"
+        },
+        {
+          "label": "B",
+          "text": "34.22"
+        },
+        {
+          "label": "C",
+          "text": "45.52"
+        },
+        {
+          "label": "D",
+          "text": "119.46"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 48,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-49",
+      "number": 49,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Common Data for Questions 48 and 49: Data for an airplane are given as follows: weight W = 30kN, thrust available at sea-level T_0 = 4000N, wing planform area S = 30m^2, maximum lift coefficient C_{L max} = 1.4, and drag coefficient C_D = 0.015 + 0.024 C_L^2. Assume air density at sea-level ρ_∞ = 1.22kg/m^3.\n\nMinimum and maximum speeds of the airplane in level flight condition at sea-level in m/s are respectively",
+      "options": [
+        {
+          "label": "A",
+          "text": "17.36 and 180"
+        },
+        {
+          "label": "B",
+          "text": "17.36 and 34.22"
+        },
+        {
+          "label": "C",
+          "text": "34.22 and 119.46"
+        },
+        {
+          "label": "D",
+          "text": "17.36 and 119.46"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 49,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 15,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-50",
+      "number": 50,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Common Data for Questions 50 and 51: An aircraft is flying at Mach number M = 1.5, where the ambient temperature is 250 K. The stagnation temperature of gases at the entry to the nozzle is 800 K. The nozzle is choked and always under expanded. Assume the molecular weight of the exhaust gases to be 29, the ratio of specific heats to be 1.4 and the universal gas constant is 8314 J/kmol-K.\n\nFor which one of the nozzle exit Mach numbers given below is the propulsive efficiency highest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "1.5"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "2.5"
+        }
+      ],
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 50,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 16,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-51",
+      "number": 51,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Common Data for Questions 50 and 51: An aircraft is flying at Mach number M = 1.5, where the ambient temperature is 250 K. The stagnation temperature of gases at the entry to the nozzle is 800 K. The nozzle is choked and always under expanded. Assume the molecular weight of the exhaust gases to be 29, the ratio of specific heats to be 1.4 and the universal gas constant is 8314 J/kmol-K.\n\nFor which one of the nozzle exit Mach numbers given below is the thrust highest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "1.5"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "2.5"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 51,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 16,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-52",
+      "number": 52,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Statement for Linked Answer Questions 52 and 53: Circulation theory of lift is assumed for a thin symmetric airfoil at an angle of attack α. Free stream velocity is U.\n\nIf the circulation at the quarter chord (c/4) of the airfoil is Γ_1, the normal velocity is zero at",
+      "options": [
+        {
+          "label": "A",
+          "text": "c/4"
+        },
+        {
+          "label": "B",
+          "text": "c/2"
+        },
+        {
+          "label": "C",
+          "text": "3c/4"
+        },
+        {
+          "label": "D",
+          "text": "all points on the chord"
+        }
+      ],
+      "answer": "MTA",
+      "acceptedAnswers": [
+        "MTA"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 52,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 16,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "gradingRule": "marks-to-all"
+    },
+    {
+      "id": "gate-2013-ae-ae-53",
+      "number": 53,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Statement for Linked Answer Questions 52 and 53: Circulation theory of lift is assumed for a thin symmetric airfoil at an angle of attack α. Free stream velocity is U.\n\nA second identical airfoil is placed behind the first one at a distance of c/2 from the trailing edge of the first. The second airfoil has an unknown circulation Γ_2 placed at its quarter chord. The normal velocity becomes zero at the same chord-wise locations of the respective airfoils as in the previous question. The values of Γ_1 and Γ_2 are respectively",
+      "options": [
+        {
+          "label": "A",
+          "text": "\\frac{4}{3} π c U α, \\frac{2}{3} π c U α"
+        },
+        {
+          "label": "B",
+          "text": "\\frac{2}{3} π c U α, \\frac{2}{3} π c U α"
+        },
+        {
+          "label": "C",
+          "text": "\\frac{2}{3} π c U α, \\frac{1}{3} π c U α"
+        },
+        {
+          "label": "D",
+          "text": "\\frac{4}{3} π c U α, \\frac{4}{3} π c U α"
+        }
+      ],
+      "answer": "MTA",
+      "acceptedAnswers": [
+        "MTA"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 53,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 16,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null,
+      "gradingRule": "marks-to-all"
+    },
+    {
+      "id": "gate-2013-ae-ae-54",
+      "number": 54,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Statement for Linked Answer Questions 54 and 55: A wing-body alone configuration airplane with a wing loading of W/S = 1000 N/m^2 is flying in cruise condition at a speed V = 90m/s at sea-level (air density at sea-level ρ_∞ = 1.22 kg/m^3). The zero lift pitching moment coefficient of the airplane is C_{mac}^{wb} = C_{m0} = -0.06 and the location of airplane aerodynamic center from the wing leading edge is X_{ac} = 0.25c. Here c is the chord length.\n\nThe airplane trim lift coefficient C_{L trim} is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.502"
+        },
+        {
+          "label": "B",
+          "text": "0.402"
+        },
+        {
+          "label": "C",
+          "text": "0.302"
+        },
+        {
+          "label": "D",
+          "text": "0.202"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 54,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 17,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ae-55",
+      "number": 55,
+      "year": 2013,
+      "paper": "AE",
+      "section": "AE",
+      "subject": "Aerospace Engineering",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Statement for Linked Answer Questions 54 and 55: A wing-body alone configuration airplane with a wing loading of W/S = 1000 N/m^2 is flying in cruise condition at a speed V = 90m/s at sea-level (air density at sea-level ρ_∞ = 1.22 kg/m^3). The zero lift pitching moment coefficient of the airplane is C_{mac}^{wb} = C_{m0} = -0.06 and the location of airplane aerodynamic center from the wing leading edge is X_{ac} = 0.25c. Here c is the chord length.\n\nDistance of center of gravity of the aircraft (X_{CG}) from the wing leading edge is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.447c"
+        },
+        {
+          "label": "B",
+          "text": "-0.547c"
+        },
+        {
+          "label": "C",
+          "text": "0.547c"
+        },
+        {
+          "label": "D",
+          "text": "-0.25c"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 55,
+        "section": "AE",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 17,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-56",
+      "number": 56,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "If 3 ≤ X ≤ 5 and 8 ≤ Y ≤ 11 then which of the following options is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\\frac{3}{5} ≤ \\frac{X}{Y} ≤ \\frac{8}{5}"
+        },
+        {
+          "label": "B",
+          "text": "\\frac{3}{11} ≤ \\frac{X}{Y} ≤ \\frac{5}{8}"
+        },
+        {
+          "label": "C",
+          "text": "\\frac{3}{11} ≤ \\frac{X}{Y} ≤ \\frac{8}{5}"
+        },
+        {
+          "label": "D",
+          "text": "\\frac{3}{5} ≤ \\frac{X}{Y} ≤ \\frac{8}{11}"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 1,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 17,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-57",
+      "number": 57,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "The Headmaster ____________ to speak to you.\n\nWhich of the following options is incorrect to complete the above sentence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "is wanting"
+        },
+        {
+          "label": "B",
+          "text": "wants"
+        },
+        {
+          "label": "C",
+          "text": "want"
+        },
+        {
+          "label": "D",
+          "text": "was wanting"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 2,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 17,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-58",
+      "number": 58,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "Mahatama Gandhi was known for his humility as",
+      "options": [
+        {
+          "label": "A",
+          "text": "he played an important role in humiliating exit of British from India."
+        },
+        {
+          "label": "B",
+          "text": "he worked for humanitarian causes."
+        },
+        {
+          "label": "C",
+          "text": "he displayed modesty in his interactions."
+        },
+        {
+          "label": "D",
+          "text": "he was a fine human being."
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 3,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 17,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-59",
+      "number": 59,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "All engineering students should learn mechanics, mathematics and how to do computation.\n\nWhich of the following options is the most grammatically correct rewrite of the sentence above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All engineering students should learn mechanics, mathematics and how to compute."
+        },
+        {
+          "label": "B",
+          "text": "All engineering students should learn mechanics, mathematics and computation."
+        },
+        {
+          "label": "C",
+          "text": "All engineering students should learn how to do mechanics, mathematics and computation."
+        },
+        {
+          "label": "D",
+          "text": "All engineering students should learn mechanics, mathematics and how to do computation."
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 4,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 18,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-60",
+      "number": 60,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 1,
+      "negativeMarks": 0.3333333333333333,
+      "question": "Which of the following options is the closest in meaning to the word underlined in the sentence below?\n\n\"The teacher was <u>appalled</u> by the student's misconduct.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "pleased"
+        },
+        {
+          "label": "B",
+          "text": "shocked"
+        },
+        {
+          "label": "C",
+          "text": "confused"
+        },
+        {
+          "label": "D",
+          "text": "amused"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 5,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 18,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-61",
+      "number": 61,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A student is required to solve 8 out of 10 questions in an exam. The questions are divided into two parts containing 5 questions each. If the student must choose at least 3 questions from each part, the number of possible ways in which the student can choose the questions is",
+      "options": [
+        {
+          "label": "A",
+          "text": "30"
+        },
+        {
+          "label": "B",
+          "text": "40"
+        },
+        {
+          "label": "C",
+          "text": "45"
+        },
+        {
+          "label": "D",
+          "text": "50"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 6,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 18,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-62",
+      "number": 62,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A square pyramid has a base perimeter of 40 cm and a slant height of 13 cm. The volume of the pyramid (in cm^3) is",
+      "options": [
+        {
+          "label": "A",
+          "text": "300"
+        },
+        {
+          "label": "B",
+          "text": "360"
+        },
+        {
+          "label": "C",
+          "text": "400"
+        },
+        {
+          "label": "D",
+          "text": "480"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 7,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 18,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-63",
+      "number": 63,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "A car travels from A to B at an average speed of 60 km/h and returns from B to A along the same route at an average speed of 40 km/h. The average speed (in km/h) for the entire journey is",
+      "options": [
+        {
+          "label": "A",
+          "text": "50"
+        },
+        {
+          "label": "B",
+          "text": "45"
+        },
+        {
+          "label": "C",
+          "text": "48"
+        },
+        {
+          "label": "D",
+          "text": "52"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 8,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 19,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-64",
+      "number": 64,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "If |-2X + 9| = 3 then the possible value of |-X| - X^2 would be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30"
+        },
+        {
+          "label": "B",
+          "text": "-30"
+        },
+        {
+          "label": "C",
+          "text": "-42"
+        },
+        {
+          "label": "D",
+          "text": "42"
+        }
+      ],
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 9,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 19,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    },
+    {
+      "id": "gate-2013-ae-ga-65",
+      "number": 65,
+      "year": 2013,
+      "paper": "AE",
+      "section": "GA",
+      "subject": "General Aptitude",
+      "type": "MCQ",
+      "marks": 2,
+      "negativeMarks": 0.6666666666666666,
+      "question": "Find the next term in the series: 2, 5, 10, 17, 26, ____",
+      "options": [
+        {
+          "label": "A",
+          "text": "35"
+        },
+        {
+          "label": "B",
+          "text": "36"
+        },
+        {
+          "label": "C",
+          "text": "37"
+        },
+        {
+          "label": "D",
+          "text": "38"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "markingRule": "gate-2013-official",
+      "hasFigure": false,
+      "figures": [],
+      "groupId": null,
+      "source": {
+        "paper": "AE",
+        "year": 2013,
+        "questionNumber": 10,
+        "section": "GA",
+        "file": "internal/ae/AE2013.pdf",
+        "sha256": "922b50ad1dbc71b8d1b54a084309711d88fe8e650c355713d80360ed7204f5c0",
+        "pages": [
+          {
+            "page": 19,
+            "coordinateSystem": "PDF points, top-left origin"
+          }
+        ],
+        "verificationStatus": "source-verified",
+        "verifiedOn": "2026-10-08"
+      },
+      "transcriptionStatus": "source-verified",
+      "solution": null,
+      "solutionAvailability": "not-provided-in-source",
+      "gradingStatus": "provided answer key",
+      "answerSource": null
+    }
+  ]
+}

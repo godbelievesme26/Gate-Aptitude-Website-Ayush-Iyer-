@@ -1,0 +1,163 @@
+{
+  "source": "internal/ae/AE2012.pdf",
+  "sha256": "e4dabbfe9f0dddc2fddcb095b33335f54774d610e9071dd5d5222c9063afc07c",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 3283,
+      "questionNumberCandidates": [],
+      "text": " \nGATE 2012 Online Examination  \nAE : AEROSPACE ENGINEERING \nDuration: Three Hours                          Maximum Marks: 100 \nRead the following instructions carefully. \n \n1. The computer allotted to you at the examination center runs a specialized software that permits only \none answer to be selected for multiple choice questions using a mouse. Your answers shall be updated \nand saved on a server periodically and at the end of the examination.  \n \n2. To login, enter your Registration Number and password provided in the envelope. Go through the \nsymbols used in the test and understand the meaning before you start the examination. You can view \nall questions by clicking on the View All Questions button in the screen after the start of the \nexamination. \n \n3. To answer a question, select the question using the selection panel on the screen and choose the \ncorrect answer by clicking on the radio button next to the answer. To change the answer, just click on \nanother option. If you wish to leave a previously answered question unanswered, click on the button \nnext to the selected option. \n \n \n4. The examination will automatically stop at the end of 3 hours. \n \n5. There are a total of 65 questions carrying 100 marks. Except questions Q.26 – Q.30, all the other \nquestions are of multiple choice type with only one correct answer. Questions Q.26 - Q.30 require a \nnumerical answer, and a number should be entered using the virtual keyboard on the monitor.   \n \n6. Questions Q.1 – Q.25 carry 1 mark each. Questions Q.26 – Q.55 carry 2 marks each. The 2 marks \nquestions include two pairs of common data questions and two pairs of linked answer questions. The \nanswer to the second question of the linked answer questions depends on the answer to the first \nquestion of the pair. If the first question in the linked pair is wrongly answered or is unattempted, then \nthe answer to the second question in the pair will not be evaluated. \n \n7. Questions Q.56 – Q.65 belong to General Aptitude (GA) section and carry a total of 15 marks. \nQuestions Q.56 – Q.60 carry 1 mark each, and questions Q.61 – Q.65 carry 2 marks each.   \n \n8. Unattempted questions will result in zero mark and wrong answers will result in NEGATIVE marks. \nThere is no negative marking for questions of numerical answer type, i.e., for Q.26 – Q.30.  For all 1 \nmark questions, ⅓ mark will be deducted f or each wrong answer. For all 2 marks questions, ⅔ mark \nwill be deducted for each wrong answer.  However, in the case of the linked answer question pair,  \nthere will be negative marks only for wrong answer to the first question and no negative marks for \nwrong answer to the second question.  \n \n9. Calculator is allowed. Charts, graph sheets or tables are NOT allowed in the examination hall. Do the \nrough work in the Scribble Pad provided. \n \n10. You must sign this sheet and leave it with the invigilators at the end of the examination. \n________________________________________________________________________________________ \n \nDECLARATION: I hereby declare that I have read and followed all the instructions given in this sheet. \nRegistration Number AE        \n \nName  \nSignature  \n \nVerified that the above entries are correct. \n                                    Invigilator’s signature: \n "
+    },
+    {
+      "page": 2,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2532,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "text": "2012                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE 2/12\n \nQ. 1 – Q. 25 carry one mark each. \nQ.1 The constraint A2 = A on any square matrix A is satisfied for \n(A) the identity matrix only. (B) the null matrix only. \n(C) both the identity matrix and the null matrix. (D) no square matrix A. \n \nQ.2 \nThe general solution of the differential equation \n2\n2 20dy d y ydt dt+ −= is \n(A) 2ttAe Be− +  (B) 2ttAe Be−− +  (C) 2ttAe Be− +  (D) 2ttAe Be+  \n \nQ.3 An aircraft in trimmed condition has zero pitching moment at \n(A) its aerodynamic centre. (B) its centre of gravity. \n(C) 25% of its mean aerodynamic chord. (D) 50% of its wing root chord. \n \nQ.4 In an aircraft, constant roll rate can be produced using ailerons by applying \n(A) a step input. (B) a ramp input. \n(C) a sinusoidal input. (D) an impulse input. \n \nQ.5 For a symmetric airfoil, the lift coefficient for zero degree angle of attack is \n(A) – 1.0 (B) 0.0 (C) 0.5  (D) 1.0  \n \nQ.6 The critical Mach number of an airfoil is attained when \n(A) the freestream Mach number is sonic. \n(B) the freestream Mach number is supersonic. \n(C) the Mach number somewhere on the airfoil is unity. \n(D) the Mach number everywhere on the airfoil is supersonic. \n \nQ.7 The shadowgraph flow visualization technique depends on \n(A) the variation of the value of density in the flow. \n(B) the first derivative of density with respect to spatial coordinate. \n(C) the second derivative of density with respect to spatial coordinate. \n(D) the third derivative of density with respect to spatial coordinate. \n \nQ.8 The Hohmann ellipse used as earth-Mars transfer orbit has \n(A) apogee at earth and perigee at Mars. (B) both apogee and perigee at earth. \n(C) apogee at Mars and perigee at earth. (D) both apogee and perigee at Mars. \n \nQ.9 The governing equation for the static transverse deflection of a beam under an uniformly distributed \nload, according to Euler-Bernoulli (engineering) beam theory, is a \n(A) 2\nnd order linear homogenous partial differential equation. \n(B) 4th order linear non-homogenous ordinary differential equation. \n(C) 2nd order linear non-homogenous ordinary differential equation. \n(D) 4th order nonlinear homogenous ordinary differential equation. \n \nQ.10 The Poisson’s ratio,ν of most aircraft grade metallic alloys has values in the range: \n(A) −1 ν≤≤ 0  (B) 0 ν≤≤ 0.2  (C)  0.2 ν≤ ≤ 0.4 (D)  0.4 ν≤≤ 0.5 \n "
+    },
+    {
+      "page": 3,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2320,
+      "questionNumberCandidates": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "text": "2012                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE 3/12\n \nQ.11 The value of k for which the system of equations 21 ; 28 3xy k z x k yz+ += ++=  has no \nsolution is \n(A) 0 (B) 2 (C)  4 (D)  8 \n \nQ.12 \nIf ()ut  is a unit step function, the solution of the differential equation \n2\n2 ()dxmk x u tdt +=  in \nLaplace domain is \n(A) 2\n1\n()sm s k+\n (B) 2\n1\nms k+\n (C)  2\ns\nms k+\n (D)  22\n1\n()sm s k +\n \n \nQ.13 \nThe general solution of the differential equation 20dy ydx − =  is \n(A) 0yx C−+ =  (B) 0yxC−+ =  (C) 0yx C− +=  (D)  0yx C−+ =  \n \nQ.14 During the ground roll manoeuvre of an aircraft, the force(s) acting on it parallel to the direction of \nmotion  \n(A) is thrust alone. (B) is drag alone. \n(C) are both thrust and drag. (D) are thrust, drag and a part of both weight and lift. \n \nQ.15 An aircraft in a steady climb suddenly experiences a 10% drop in thrust. After a new equilibrium is \nreached at the same speed, the new rate of climb is \n(A) lower by exactly 10%. (B) lower by more than 10%. \n(C) lower by less than 10%. (D) an unpredictable quantity. \n \nQ.16 In an aircraft, the dive manoeuvre can be initiated by \n(A) reducing the engine thrust alone. (B ) reducing the angle of attack alone. \n(C) generating a nose down pitch rate. (D) increasing the engine thrust alone. \n \nQ.17 In an aircraft, elevator control effectiveness determines \n(A) turn radius. \n(B) rate of climb. \n(C) forward-most location of the centre of gravity. \n(D) aft-most location of the centre of gravity. \n \nQ.18 The Mach angle for a flow at Mach 2.0 is \n(A) 30o (B) 45o (C) 60o  (D) 90o  \n \nQ.19 For a wing of aspect ratio AR, having an elliptical lift distribution, the induced drag coefficient is \n(where CL is the lift coefficient) \n(A) LC\nARπ\n (B) \n2\nLC\nARπ\n (C) \n2\nLC\nARπ\n (D) \n2\n2\nLC\nARπ\n \n \nQ.20 Bernoulli’s equation is valid under steady state \n(A) only along a streamline in inviscid flow, and between any two points in potential flow. \n(B) between any two points in both inviscid flow and potential flow. \n(C) between any two points in inviscid flow, and only along a streamline in potential flow. \n(D) only along a streamline in both inviscid flow and potential flow. "
+    },
+    {
+      "page": 4,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2754,
+      "questionNumberCandidates": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "text": "2012                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE 4/12\n \nQ.21 The ratio of flight speed to the exhaust velocity for maximum propulsion efficiency is \n(A) 0.0 (B) 0.5 (C) 1.0 (D) 2.0 \n \nQ.22 The ideal static pressure coefficient of a diffuser with an area ratio of 2.0 is \n(A) 0.25 (B) 0.50 (C) 0.75 (D) 1.0 \n \nQ.23 A rocket is to be launched from the bottom of a very deep crater on Mars for earth return.  The \nspecific impulse of the rocket, measured in seconds, is to be normalized by the acceleration due to \ngravity at \n(A) the bottom of the crater on Mars. (B) Mars standard “sea level”. \n(C) earth’s standard sea level. (D) the same depth of the crater on earth. \n \nQ.24 In a semi-monocoque construction of an aircraft wing, the skin and spar webs are the primary \ncarriers of \n(A) shear stresses due to an aerodynamic moment component alone. \n(B) normal (bending) stresses due to aerodynamic forces. \n(C) shear stresses due to aerodynamic forces alone. \n(D) shear stresses due to aerodynamic forces and a moment component. \n \nQ.25 The logarithmic decrement measured for a viscously damped single degree of freedom system is \n0.125. The value of the damping factor in % is closest to \n(A) 0.5 (B) 1.0 (C) 1.5 (D) 2.0 \n \nQ. 26 to Q. 55 carry two marks each. \nQuestions Q.26 to Q.30 are numerical answer type. The answer to each of these questions is \neither a positive whole number, or a positive real number with maximum of 2 decimal places. \n \nQ.26 The integration \n1\n3\n0\nx dx∫  computed using trapezoidal rule with 4n = intervals is ____. \n \nQ.27 An aircraft has a steady rate of climb of 300 m/s at sea level and 150 m/s at 2500 m altitude. The \ntime taken (in sec) for this aircraft to climb from 500 m altitude to 3000 m altitude is ____. \n \nQ.28 An airfoil generates a lift of 80 N when operating in a freestream flow of 60 m/s. If the ambient \npressure and temperature are 100 kPa and 290 K respectively (specific gas constant is 287 J/kg-K), \nthe circulation on the airfoil in m\n2/s is ____. \n \nQ.29 A rocket motor has combustion chamber temperature of 2600 K and the products have molecular \nweight of 25 g/mol and ratio of specific heats 1.2.  The universal gas constant is 8314 J/kg-mole-K.  \nThe value of theoretical c* (in m/s) is ____.  \n \nQ.30 The mode shapes of an un-damped two degrees of freedom system are {}10 . 5\nT\n and \n{}10 . 6 7 5\nT\n− . The corresponding natural frequencies are 0.45 Hz and 1.2471 Hz. The maximum \namplitude (in mm) of vibration of the first degree of freedom due to an initial displacement of \n{}21\nT\n(in mm) and zero initial velocities is ____. "
+    },
+    {
+      "page": 5,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2679,
+      "questionNumberCandidates": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "text": "2012                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE 5/12\n \n \nQuestions Q.31 to Q.55 are multiple choice type. \n \nQ.31 The nth derivative of the function 1\n3y x= +\n is \n(A) 1\n(1 ) !\n(3 )\nn\nn\nn\nx +\n−\n+\n (B) \n1\n1\n(1 ) !\n(3 )\nn\nn\nn\nx\n+\n+\n−\n+\n (C) (1 ) ( 1 ) !\n(3 )\nn\nn\nn\nx\n− +\n+\n (D) (1 ) !\n(3 )\nn\nn\nn\nx\n−\n+\n \n \nQ.32 The volume of a solid generated by rotating the region between semi-circle 211y x=− − and \nstraight line y = 1, about x axis, is \n(A) 2 4\n3π π−  (B) 2 14 3π π−  (C)  2 3\n4\nπ π−  (D)  23\n4\nπ π−  \n \nQ.33 One eigenvalue of the matrix \n271 0\n522 5\n16 5\nA\n⎡ ⎤\n⎢ ⎥= ⎢ ⎥\n⎢ ⎥⎣ ⎦\n is – 9.33. One of the other eigenvalues is   \n(A) 18.33 (B) −18.33 (C)  18.33 −9.33i (D)  18.33+9.33i \n \nQ.34 If an aircraft takes off with 10% less fuel in comparison to its standard configuration, its range is  \n(A) lower by exactly 10%. (B) lower by more than 10%. \n(C) lower by less than 10%. (D) an unpredictable quantity. \n \nQ.35 An aircraft has an approach speed of 144 kmph with a descent angle of 6.6 o. If the aircraft load \nfactor is 1.2 and constant deceleration at touch down is 0.25 g ( g = 9.81 m/s 2), its total landing \ndistance approximately over a 15 m high obstacle is \n(A) 1830 m. (B) 1380 m. (C)  830 m. (D)  380 m. \n \nQ.36 An aircraft is trimmed straight and level at true  air speed (TAS) of 100 m/s at standard sea level \n(SSL). Further, pull of 5 N holds the speed at 90 m/s without re-trimming at SSL (air density = 1.22 \nkg/m3). To fly at 3000 m altitude (air density = 0.91 kg/m 3) and 120 m/s TAS without re-trimming, \nthe aircraft needs \n(A) 1.95 N upward force. (B) 1.95 N downward force. \n(C) 1.85 N upward force. (D) 1.75 N downward force. \n \nQ.37 An oblique shock wave with a wave angle β is generated from a wedge angle of θ . The ratio of the \nMach number downstream of the shock to its normal component is \n(A) sin(β–θ) (B) cos( β–θ) (C)  sin( θ–β) (D)  cos(θ –β) \n \nQ.38 In a closed-circuit supersonic wind tunnel, the c onvergent-divergent (C-D) nozzle and test section \nare followed by a C-D diffuser to swallow the starting shock. Here, we should have the \n(A) diffuser throat larger than the nozzle throat and the shock located just at the diffuser throat. \n(B) diffuser throat larger than the nozzle throat and the shock located downstream of the diffuser \nthroat. \n(C) diffuser throat of the same size as the nozzle throat and the shock located just at the diffuser \nthroat. \n(D) diffuser throat of the same size as the nozzle throat and the shock located downstream of the \ndiffuser throat. "
+    },
+    {
+      "page": 6,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 3236,
+      "questionNumberCandidates": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "text": "2012                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE 6/12\nQ.39 A vortex flowmeter works on the principle that the Strouhal number of 0.2 is a constant over a wide \nrange of flow rates. If the bluff-body diameter in the flowmeter is 20 mm and the piezo-electric \ntransducer registers the vortex shedding frequency to  be 10 Hz, then the velocity of the flow would \nbe measured as \n(A) 0.1 m/s (B) 1 m/s (C)  10 m/s (D)  100 m/s \n \nQ.40 The stagnation temperatures at the inlet and exit of a combustion chamber are 600 K and 1200 K, \nrespectively. If the heating value of the fuel is 44 MJ/kg and specific heat at constant pressure for \nair and hot gases are 1.005 kJ/kg.K and 1.147 kJ/kg.K respectively, the fuel-to-air ratio is \n(A) 0.0018 (B) 0.018 (C)  0.18 (D)  1.18 \n \nQ.41 A solid propellant of density 1800 kg/m\n3 has a burning rate law r = 6.65 x 10 -3p0.45 mm/s, where p \nis pressure in Pascals.  It is used in a rocket motor with a tubular grain with an initial burning area \nof 0.314 m\n2.  The characteristic velocity is 1450 m/s.  What should be the nozzle throat diameter to \nachieve an equilibrium chamber pressure of 50 bar at the end of the ignition transient? \n(A) 35 mm (B) 38 mm (C)  41 mm (D)  45 mm \n   \nQ.42 A bipropellant liquid rocket motor operates at a ch amber pressure of 40 bar with a nozzle throat \ndiameter of 50 mm. The characteristic velocity is 1540 m/s. If the fuel-oxidizer ratio of the \npropellant is 1.8, and the fuel density is 900 kg/m\n3, what should be the minimum fuel tank volume \nfor a burn time of 8 minutes \n(A) 1.65 m3 (B) 1.75 m 3 (C)  1.85 m 3 (D)  1.95 m 3 \n \nQ.43 The propellant in a single stage sounding rocket occupies 60% of its initial mass. If all of it is \nexpended instantaneously at an equivalent exhaust velocity of 3000 m/s, what would be the altitude \nattained by the payload when launched vertically?   \n[Neglect drag and assume acceleration due to gravity to be constant at 9.81 m/s\n2.] \n(A) 315 km (B) 335 km (C)  365 km (D)  385 km \n \nQ.44 The Airy stress function, 22x xy yφ αβγ=++  for a thin square panel of size ll× automatically \nsatisfies compatibility. If the panel is subjected to uniform tensile stress, oσ  on all four edges, the \ntraction boundary conditions are satisfied by \n(A) /2 ; 0 ; /2 .ooα σβγ σ== =  (B) ;0 ; .ooα σβ γ σ= ==  \n(C) 0; / 4; 0.oα βσ γ== =  (D) 0; / 2; 0.oα βσ γ= ==  \n \nQ.45 The boundary condition of a rod under longitudinal vibration is changed from fixed-fixed to fixed-\nfree. The fundamental natural frequency of the rod is now k times the original frequency, where k is \n(A) 1\n2\n (B) 2 (C)  1\n2\n (D)  2  \n \nQ.46 A spring-mass system is viscously damped with a viscous damping constant c. The energy \ndissipated per cycle when the system is undergoing a harmonic vibration  X dCos tω  is given by \n(A) 2\ndcXπω  (B) 2\nd Xπω  (C)  dcXπω  (D)  2\ndcXπω  \n \nQ.47 Buckling of the fuselage skin can be delayed by \n(A) increasing internal pressure. \n(B) placing stiffeners farther apart. \n(C) reducing skin thickness. \n(D) placing stiffeners farther and decreasing internal pressure. "
+    },
+    {
+      "page": 7,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 2971,
+      "questionNumberCandidates": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "text": "2012                                                                                                                                                                            AEROSPACE ENGINEERING  –  AE  \nAE 7/12\nCommon Data Questions \nCommon Data for Questions 48 and 49: \nA wing and tail are geometrically similar, while tail area is one-third of the wing area and distance between \ntwo aerodynamic centres is equal to wing semi-span ( b/2). In addition, following data is applicable: \n0.3, 1.0, 0.08 / deg., 2.5 , 30 , 0, 1.\nacLL M tCC c m b m C\nαα η∈= = = = = = =  The symbols have their usual \naerodynamic interpretation. \nQ.48 The maximum distance that th e centre of gravity can be behind aerodynamic centre without \ndestabilizing the wing-tail combination is \n \n(A) 0.4 m (B) 1.4 m (C) 2.4 m (D) 3.4 m \n \nQ.49 The angle of incidence of tail to trim the wing-tail combination for a 5% static margin is \n(A) −1.4o (B) −0.4o (C) 0.4o (D) 1.4o \n \nCommon Data for Questions 50 and 51: \nA thin long circular pipe of 10 mm diameter has porous walls and spins at 60 rpm about its own axis.  Fluid \nis pumped out of the pipe such that it emerges radially relative to the pipe surface at a velocity of 1 m/s.  \n[Neglect the effect of gravity.] \nQ.50 What is the radial component of the fluid’s velocity at a radial location 0.5 m from the pipe axis? \n \n(A) 0.01 m/s (B) 0.1 m/s (C) 1 m/s (D) 10 m/s \n \nQ.51 What is the tangential component of the fluid’s velocity at the same radial location as above? \n(A) 0.01 m/s (B) 0.03 m/s (C) 0.10 m/s (D) 0.31 m/s \nLinked Answer Questions \nStatement for Linked Answer Questions 52 and 53: \nAir at a stagnation temperature of 15oC and stagnation pressure 100 kPa enters an axial compressor with an \nabsolute velocity of 120 m/s. Inlet guide vanes direct th is absolute velocity to the rotor inlet at an angle of \n18o to the axial direction. The rotor turning angle is 27 o and the mean blade speed is 200 m/s. The axial \nvelocity is assumed constant through the stage. \nQ.52 The blade angle at the inlet of the rotor is \n \n(A) 25.5\no (B) 38.5o (C) 48.5o (D) 59.5o \n \nQ.53 If the mass flow rate is 1 kg/s, the power required to drive the compressor is \n(A) 50.5 kW (B) 40.5 kW (C) 30.5 kW (D) 20.5 kW \n \nStatement for Linked Answer Questions 54 and 55: \nA thin-walled spherical vessel (1 m inner diameter a nd 10 mm wall thickness) is made of a material with \n500 MPaYσ =  in both tension and compression. \nQ.54 The internal pressure Yp  at yield, based on the von Mises yield criterion, if the vessel is floating in \nspace, is approximately \n \n(A) 500 MPa (B) 250 MPa (C) 100 MPa (D) 20 MPa \n \nQ.55 If the vessel is evacuated (internal pressure = 0)  and subjected to external pressure, yielding \naccording to the von Mises yield criterion (assuming elastic stability until yield) \n(A) occurs at about half the pressure Yp . (B) occurs at about double the pressure Yp . \n(C) occurs at about the same pressure Yp . (D) never occurs. "
+    },
+    {
+      "page": 8,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1866,
+      "questionNumberCandidates": [
+        56,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        61
+      ],
+      "text": "2012                                                                                                                                                                GENERAL APTITUDE  -  GA_AN_Online  \nGeneral Aptitude (GA) Questions \nQ. 56 – Q. 60 carry one mark each. \nChoose the most appropriate alternative from the options given below to complete the following \nsentence: \n \nI ___ to have bought a diamond ring. \n(A) have a liking   (B) should have liked \nQ.56 \n(C) would like (D) may like \n \nChoose the most appropriate alternative from the options given below to complete the following \nsentence: \n \nFood prices ___ again this month. \n(A) have raised (B) have been raising \nQ.57 \n(C) have been rising (D) have arose \n \nChoose the most appropriate alternative from the options given below to complete the following \nsentence: \n \nThe administrators went on to implement yet another unreasonable measure, arguing that \nthe measures were already ___ and one more would hardly make a difference. \nQ.58 \n(A) reflective (B) utopian (C)  luxuriant (D)  unpopular \n \nChoose the most appropriate alternative from the options given below to complete the following \nsentence: \n \nTo those of us who had always thought him timid, his ___ came as a surprise. \n \nQ.59 \n(A) intrepidity (B) inevitability (C)  inability (D)  inertness \n \nThe arithmetic mean of five different natural numbers is 12. The largest possible value among the \nnumbers is  \nQ.60 \n(A) 12 (B) 40  (C) 50   (D) 60   \n \n \nQ. 61 - Q. 65 carry two marks each. \nTwo policemen, A and B, fire once each at the same time at an escaping convict. The probability \nthat A hits the convict is three times the probability that B hits the convict. If the probability of the \nconvict not getting injured is 0.5, the probability that B hits the convict is \nQ.61 \n(A) 0.14 (B) 0.22  (C)  0.33 (D) 0.40  \n \nGA_AN_Online 1/2"
+    },
+    {
+      "page": 9,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 1538,
+      "questionNumberCandidates": [
+        765,
+        62,
+        63,
+        65
+      ],
+      "text": "2012                                                                                                                                                                GENERAL APTITUDE  -  GA_AN_Online  \nGA_AN_Online 2/2\nThe total runs scored by four cricketers P, Q, R, and S in years 2009 and 2010 are given in the \nfollowing table:  \nPlayer 2009 2010\nP 802 1008\nQ 765 912\nR 429 619\nS 501 701\n \nThe player with the lowest percentage increase in total runs is \nQ.62 \n(A)  P (B) Q  (C) R   (D) S   \n \nIf a prime number on division by 4 gives a remainder of 1, then that number can be expressed as \n(A) sum of squares of two natural numbers \n(B) sum of cubes of two natural numbers \n(C) sum of square roots of two natural numbers \nQ.63 \n(D) sum of cube roots of two natural numbers \n \nTwo points (4, p) and (0, q) lie on a straight line having a slope of 3/4. The value of (p – q) is Q.64 \n(A) -3 (B) 0 (C)  3 (D)  4 \n \nIn the early nineteenth century, theories of social evolution were inspired less by Biology than \nby the conviction of social scientists that there was a growing improvement in social \ninstitutions. Progress was taken for granted and social scientists attempted to discover its \nlaws and phases.  \n \nWhich one of the following inferences may be drawn with the greatest accuracy from the above \npassage?  \n \nSocial scientists  \n(A) did not question that progress was a fact. \n(B) did not approve of Biology. \n(C) framed the laws of progress. \nQ.65 \n(D) emphasized Biology over Social Sciences. \n \n \nEND OF THE QUESTION PAPER \n \n "
+    },
+    {
+      "page": 10,
+      "width": 612.0,
+      "height": 792.0,
+      "textCharacters": 2226,
+      "questionNumberCandidates": [],
+      "text": "Paper Question  no. Key        Paper Question  no. Key      \nAE  1C                          AE  36 B                        \nAE  2C                          AE  37 A                         \nAE  3B                          AE  38 B                        \nAE  4D                          AE  39 B                        \nAE  5B                          AE  40 B                        \nAE  6C                          AE  41 B                        \nAE  7C                          AE  42 B                        \nAE  8C                          AE  43 D                        \nAE  9B                          AE  44 A                         \nAE  10 C                         AE  45 A                         \nAE  11 C                         AE  46 A                         \nAE  12 A                         AE  47 A                        \nAE\n  13 D                         AE  48 B                        \nAE  14 D                         AE  49 A                         \nAE  15 B                         AE  50 A                         \nAE  16 C                         AE  51 Marks  to All             \nAE  17 C                         AE  52 Marks  to All             \nAE  18 A                         AE  53 Marks  to All             \nAE  19 B                         AE  54 D                        \nAE  20 A                         AE  55 C                        \nAE  21 C                         AE  56 C                        \nAE  22 Marks  to All              AE  57 C                        \nAE  23 C                         AE  58 D                         \nAE  24 D                         AE  59 A                         \nAE  25 D                         AE  60 C                        \nAE  26 0.26 to 0.27              AE  61 A                         \nAE  27 13 to 14                  AE  62 B                        \nAE  28 1.1 to 1.2                AE  63 A                         \nAE  29 1430  to 1440              AE  64 C                        \nAE  30 2 AE  65 A                         \nAE  31 A                        \nAE  32 A                        \nAE  33 A                        \nAE  34 B                        \nAE  35 Marks  to All             \nGATE 2012 ‐ Answer Key ‐ Paper : AE"
+    }
+  ]
+}

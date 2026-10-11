@@ -1,0 +1,232 @@
+{
+  "source": "internal/ae/AE2014.pdf",
+  "sha256": "76b8a8d4b1ff470689ece029dd3e0c40f4415bae9c9e2721c79f2ed9752a0acd",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1826,
+      "questionNumberCandidates": [],
+      "text": "GATE 2014: General Instructions during Examination \n1. Total duration of the GATE examination is 180 minutes. \n2. The clock will be set at the server. The countdown timer at the top right corner of \nscreen will display the remaining time available for you to complete the examination. \nWhen the timer reaches zero, the examination will end by itself. You need not \nterminate the examination or submit your paper.   \n3. Any useful data required for your paper can be viewed by clicking on the Useful \nCommon Data button that appears on the screen. \n4. Use the scribble pad provided to you for any rough work. Submit the scribble pad at \nthe end of the examination. \n5. You are allowed to use a non-programmable type calculator, however, sharing of \ncalculators is not allowed. \n6. The Question Palette displayed on the right side of screen will show the status of \neach question using one of the following symbols:  \n \n \n \nThe Marked for Review status for a question simply indicates that you would like to look at \nthat question again. If a question is answered, but marked for review, then the answer will \nbe considered for evaluation unless the status is modified by the candidate. \nNavigating to a Question : \n7. To answer a question, do the following:  \na. Click on the question number in the Question Palette to go to that question \ndirectly. \nb. Select an answer for a multiple choice type question  by clicking on the bubble \nplaced before the 4 choices, namely A, B, C and D . Use the virtual numeric \nkeypad to enter a number as answer for a numerical type question. \nc. Click on Save & Next to save your answer for the current question and then go \nto the next question. \nd. Click on Mark for Review & Next to save your answer for the current question \nand also mark it for review, and then go to the next question. "
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 2556,
+      "questionNumberCandidates": [],
+      "text": "Caution: Note that your answer for the current question will not be saved, if you navigate \nto another question directly by clicking on a question number without saving  the answer to \nthe previous question. \nYou can view all the questions by clicking on the Question Paper  button. This feature is \nprovided, so that if you want you can just see the entire question paper at a glance. \nAnswering a Question : \n8. Procedure for answering a multiple choice (MCQ) type question:  \na. Choose one answer from the 4 options  (A,B,C,D) given below the question , \nclick on the bubble placed before the chosen option.  \nb. To deselect your chosen answer, click on the bubble of the chosen option again \nor click on the Clear Response button. \nc. To change your chosen answer, click on the bubble of another option. \nd. To save your answer, you MUST click on the Save & Next button. \n9. Procedure for answering a numerical answer type question:  \na. To enter a number as your answer, use the virtual numerical keypad. \nb. A fraction (e.g. -0.3 or -.3) can be entered as an answer with or without '0' \nbefore the decimal point . As many as four decimal points, e.g. 12.5435 or \n0.003 or -932.6711 or 12.82 can be entered.  \nc. To clear your answer, click on the Clear Response button. \nd. To save your answer, you MUST click on the Save & Next button \n10.  To mark a question for review, click on the Mark for Review & Next  button. If an \nanswer is selected  (for MCQ) or entered (for numerical answer type) for a question \nthat is Marked for Review , that answer will be considered in the evaluation unless \nthe status is modified by the candidate. \n11.  To change your answer to a question that has already been answered, first select \nthat question for answering and then follow the procedure for answering that type of \nquestion. \n12.  Note that ONLY Questions for which answers are saved  or marked for review after \nanswering will be considered for evaluation. \n \nChoosing a Section :  \n13. Sections in this question paper are displayed on the top bar of the screen. Questions \nin a Section can be viewed by clicking on the name of that Section. The Section you \nare currently viewing will be highlighted. \n14.  A checkbox is displayed for every optional Section, if any,  in the Question Paper. To \nselect the optional Section for answering, click on the checkbox for that Section. \n15.  If the checkbox for an optiona l Section is not selected, the Save  & Next button and \nthe Mark for Review  & Next button will NOT be enabled for that Section.  You will "
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 1744,
+      "questionNumberCandidates": [],
+      "text": "only be able to see questions in this Section, but you will not be able to answer \nquestions in the Section. \n16.  After clicki ng the Save  & Next  button for the last question in a Section, you will \nautomatically be taken to the first question of the next Section in sequence. \n17.  You can move the mouse cursor over the name of a Section to view the answering \nstatus for that Section. \n \nChanging the Optional Section : \n 18.  After answering the chosen optional Section, partially or completely, you can change \nthe optional Section by selecting the checkbox for a new Section that you want to \nattempt. A warning message will appear along with a table showing the number of \nquestions answered in each of the previously chosen optional Sections and a \ncheckbox against each of these Sections. Click on a checkbox against a Section that \nyou want to reset and then click on the RESET button. Note that RESETTING a Section \nwill DELETE all the a nswers for questions in that Section. Hence, if you think that you \nmay want to select this Section again later, you will have to note down your answers \nfor questions in that Section. If you do not want to reset the  Section and want to \ncontinue answering the previously chosen optional Section, then click on the BACK  \nbutton. \n 19.  If you deselect the checkbox for an optional Section in the top bar, the following \nwarning message will appear: \"Deselecting the checkbox will DELETE all the answers \nfor questions in this Section. Do you want to deselect this Section?” If you want to \ndeselect, click on the RESET button. If you do not want to deselect, click on the BACK  \nbutton. \n 20.  You can shuffle between different Sections or change the optional Sections any \nnumber of times. \n "
+    },
+    {
+      "page": 4,
+      "width": 595.32,
+      "height": 841.92,
+      "textCharacters": 3548,
+      "questionNumberCandidates": [],
+      "text": "GATE 2014 Examination  \nAE: Aerospace Engineering \nDuration: 180 minutes         Maximum Marks: 100 \nRead the following instructions carefully. \n \n1. To login, enter your Registration Number and password provided to you. Kindly go through the various \nsymbols used in the test and understand their meaning before you start the examination.  \n2. Once you login and  after the start of the examination , you can view  all the questions in the question \npaper, by clicking on the View All Questions button in the screen. \n3. This question paper consists of 2 sections , General Aptitude (GA) for 15 marks  and the subject \nspecific GATE paper for 85 marks. Both these sections are compulsory. \nThe GA section consists of 10 questions. Question numbers 1 to 5 are of 1- mark each, while question \nnumbers 6 to 10 are of 2-mark each.  \nThe subject specific GATE paper section consists of 55 questions, out of which question numbers 1 to \n25 are of 1-mark each, while question numbers 26 to 55 are of 2-mark each. \n4. Depending upon the GATE paper, there may be useful common data that may be required for \nanswering the questions. If the paper has such useful data, the same can be viewed by clicking on th e \nUseful Common Data button that appears at the top, right hand side of the screen.  \n \n5. The computer allotted to you at the examination center runs specialized software that permits only one \nanswer to be selected for multiple -choice questions using a mouse  and to enter a suitable number for \nthe numerical answer type questions using the virtual keyboard and mouse. \n6. Your answers shall be updated and saved on a server periodically and also at the end of the \nexamination. The examination will stop automatically at the end of 180 minutes. \n7. In each paper a candidate can answer a total of 65 questions carrying 100 marks.  \n8. The question paper may consist of questions of multiple choice type (MCQ) and numerical answer \ntype.  \n9. Multiple choice type questions will have four choices against A, B, C, D, out of which only ONE is the \ncorrect answer. The candidate has to choose the correct answer by clicking on the bubble ( ⃝) placed \nbefore the choice. \n10. For numerical answer type questions, each question will have a numerical answer and there will not be \nany choices. For these questions, t he answer should be entered by using the virtual keyboard that \nappears on the monitor and the mouse. \n11. All questions that are not attempted will result in zero mark s. However, wrong answers for multiple \nchoice type questions (MCQ) will result in NEGATIVE marks. For all MCQ questions a wrong \nanswer will result in deduction of⅓ marks for a 1-mark question and ⅔ marks for a 2-mark question. \n12. There is NO NEGATIVE MARKING for questions of NUMERICAL ANSWER TYPE. \n \n13. Non-programmable type Calculator is allowed. Charts, graph sheets, and mathematical tables are NOT \nallowed in the Examination Hall.  You must use the Scribble pad provided to you at the examination \ncentre for all your rough work. The Scribble Pad has to be returned at the end of the examination. \n \nDeclaration by the candidate: \n \n“I have read and understood all the above instructions. I have also read and understood clearly the \ninstructions given on the admit card and shall follow the same. I also understand that in case I am found to \nviolate any of these instructions, my candidature is liable to be cancelled. I also confirm that at the start of \nthe examination all the computer hardware allotted to me are in proper working condition”. \n "
+    },
+    {
+      "page": 5,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2390,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        7
+      ],
+      "text": "GATE 2014              SET- 1                                                                              General Aptitude -GA  \nGA 1/2 \nQ. 1 – Q. 5 carry one mark each. \nQ.1  A student is required to demonstrate a high level of comprehension of the subject, especially in the \nsocial sciences. \n \nThe word closest in meaning to comprehension is \n(A) understanding (B) meaning (C)  concentration (D)  stability \n \nQ.2  Choose the most appropriate word from the options given below to complete the following \nsentence. \n \nOne of his biggest ______ was his ability to forgive. \n(A) vice (B) virtues (C)  choices (D)  strength \n \nQ.3  Rajan was not happy that Sajan decided to do the project on his ow n. On observing his \nunhappiness, Sajan explained to Rajan that he preferred to work independently. \n \nWhich one of the statements below is logically valid and can be inferred from the above sentences? \n(A) Rajan has decided to work only in a group. \n(B) Rajan and Sajan were formed into a group against their wishes. \n(C) Sajan had decided to give in to Rajan’s request to work with him. \n(D) Rajan had believed that Sajan and he would be working together. \n \nQ.4  If y = 5x2  + 3, then the tangent at x = 0, y = 3 \n(A) passes through x = 0, y = 0 (B) has a slope of +1 \n(C) is parallel to the x-axis (D) has a slope of −1 \n \nQ.5  A foundry has a fixed daily cost of Rs 50,000 whenever it operates and a variable cost of Rs 800Q, \nwhere Q is the daily production in tonnes. What is the cost of production in Rs per tonne for a daily \nproduction of 100 tonnes? \n \nQ. 6 – Q. 10 carry two marks each. \n \nQ.6  Find the odd one in the following group: ALRVX, EPVZB, ITZDF, OYEIK \n(A) ALRVX (B) EPVZB (C)  ITZDF (D)  OYEIK \n \nQ.7  Anuj, Bhola, Chandan, Dilip, Eswar and Faisal live  on different floors in a six -storeyed building \n(the ground floor is  numbered 1, the floor above it  2, and so on). Anuj lives on an even -numbered \nfloor. Bhola does not live on an odd numbered floor. Chandan does not live on any of the floors \nbelow Faisal’s floor. Dilip does not live on floor number 2. Eswar does not live on a floor \nimmediately above or immediately below Bhola. Faisal lives three floors above Dilip. Which of the \nfollowing floor-person combinations is correct? \n \n Anuj Bhola Chandan Dilip Eswar Faisal \n(A) 6 2 5 1 3 4 \n(B) 2 6 5 1 3 4 \n(C) 4 2 6 3 1 5 \n(D) 2 4 6 1 3 5 \n \n \nGATE 2014"
+    },
+    {
+      "page": 6,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1423,
+      "questionNumberCandidates": [
+        8,
+        9,
+        10
+      ],
+      "text": "GATE 2014              SET- 1                                                                              General Aptitude -GA  \nGA 2/2 \nQ.8  The smallest angle of a triangle is equal to two thirds of the smallest angle of a quadrilateral. The \nratio between the angles of the quadrilateral is 3:4:5:6. The largest angle of the triangle is twice its \nsmallest angle. What is the sum, in degrees,  of the second largest angle of the triangle and the \nlargest angle of the quadrilateral?   \n \nQ.9  One percent of the people of country X are taller than 6 ft. Two percent of the people of country Y \nare taller than 6 ft. There are thrice as many people in country X as in country Y. Taking both \ncountries together, what is the percentage of people taller than 6 ft? \n(A) 3.0 (B) 2.5 (C) 1.5  (D) 1.25  \n \nQ.10  The monthly rainfall chart based on 50 years of rainfall in Agra is shown in the following figure. \nWhich of the following are true? (k percentile is the value such that k percent of the data fall below \nthat value) \n \n \n(i) On average, it rains more in July than in December \n(ii) Every year, the amount of rainfall in August is more than that in January \n(iii) July rainfall can be estimated with better confidence than February rainfall \n(iv) In August, there is at least 500 mm of rainfall \n(A) (i) and (ii) (B) (i) and (iii) \n(C) (ii) and (iii) (D) (iii) and (iv) \n \n \n \nEND OF THE QUESTION PAPER \nGATE 2014"
+    },
+    {
+      "page": 7,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2144,
+      "questionNumberCandidates": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ. 1 – Q. 25 carry one mark each. \nQ.1  For a real symmetric matrix [A], which of the following statements is true: \n(A) The matrix is always diagonalizable and invertible. \n(B) The matrix is always invertible but not necessarily diagonalizable. \n(C) The matrix is always diagonalizable but not necessarily invertible. \n(D) The matrix is always neither diagonalizable nor invertible. \n \nQ.2  \nThe series ( )∑\n∞\n=\n−=\n1\n23\n2\nm\nm\nm xms converges for all x with R x≤ −2 given by  \n(A) 0=R  (B) 3=R  (C)  ∞ =R  (D)  3 / 1=R  \n \nQ.3  \nThe function given by {\n0),/ 1 sin(\n0, 0\n≠\n== x x\nxf(x) is \n(A) Unbounded everywhere (B) Bounded and continuous everywhere \n(C) Bounded but not continuous at 0=x  (D) Continuous and differentiable everywhere \n \nQ.4  \nGiven the boundary-value problem 1 0 , 0< < = +\n\n\n\n xkydx\ndyxdx\nd , with 0 ) 1 ( ) 0 (= =y y . Then the \nsolutions of the boundary-value problem for 1=k  (given by 1y ) and 5=k  (given by 5y ) satisfy: \n(A) ∫ =\n1\n0 5 1 0dx y y  (B) 051\n0\n1 =∫ dxdx\ndy\ndx\ndy  \n(C) ∫ ≠\n1\n0 5 1 0dx y y  (D) ∫ =+\n1\n0\n51\n5 1 0 )( dxdx\ndy\ndx\ndyy y  \n \nQ.5  The value of ∫=\n1\n0\n41000 dx x I, obtained by using Simpson’s rule with 2 equally spaced intervals is, \n(A) 200 (B) 400 (C) 180 (D) 208 \n \nQ.6  For a NACA 5-digit airfoil of chord c, the designed lift coefficient and location of maximum \ncamber along the chord from the leading edge are denoted by CL and Xm respectively. For \nNACA12018 airfoil, which combination of CL and Xm given below are correct? \n(A)CL =0.15 and Xm = 0.1c (B)CL =0.12 and Xm = 0.2c \n(C)CL=0.12 and Xm = 0.18c (D)CL =0.15 and Xm = 0.2c \n \nQ.7  For inviscid, supersonic flow over a diamond shaped airfoil, shown in the figure, which statement is \ncorrect among the following? \n \n \n(A) The airfoil will experience zero lift and positive drag force \n(B) The airfoil will experience positive lift and zero drag force \n(C) The airfoil will experience negative lift and zero drag force \n(D) The airfoil will experience positive lift and positive drag force \n \nAE 1/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 8,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1911,
+      "questionNumberCandidates": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \n \n \nQ.8  Consider supersonic flow near a corner (at an angle θfrom the horizontal) with an attached oblique \nshock (at an angle β  with horizontal) as shown in figure. If Mach number M decreases gradually \nfrom a high supersonic value, which of the following statements is correct? \n \n(A)β will decrease if the shock is a weak shock \n(B)β will decrease if the shock is a strong shock \n(C)β will increase for both weak and strong shocks \n(D)β remains unchanged for both weak and strong shocks \n \nQ.9  The streamlines of a potential line vortex is concentric circles with respect to the vortex center as \nshown in figure. Velocity along these streamlines, outside the core of the vortex can be written as, \n𝑣𝑣𝜃𝜃= Γ\n2𝜋𝜋𝜋𝜋, where strength of the vortex is \nΓ\n2𝜋𝜋 and r is radial direction. The value of circulation \nalong the curve shown in the figure is: \n \n(A) Γ (B) −2Γ (C)  2Γ (D) 0 \n \nQ.10  To observe unsteady separated flow in a diverging channel, bubbles are injected at each 10ms \ninterval at point A as shown in figure. These bubblesact as tracer particles and follow the flow \nfaithfully. The curved line AB shown at any instant represents: \n \n \n(A) Streamline, streakline and pathline (B) Streamline and pathline \n(C) Only a pathline (D) Only a streakline \n \nQ.11  It is desired to measure the Young’s modulus and the Poisson’s ratio of a given homogeneous, \nisotropic material. A bar of length 20cm and square cross-section (10mm× 10mm) of this material is \nsubjected to a tensile load of 40kN. Under this load, length increases to 20.1cm while the cross-\nsection reduces to 9.98mm× 9.98mm. Young’s modulus and Poisson’s ratio of the material are: \n(A) 80GPa& 0.4 respectively (B) 40GPa& -0.4 respectively \n(C) 80GPa& -0.2 respectively (D) 40GPa& 0.2 respectively \n \n \n \nAE 2/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 9,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2022,
+      "questionNumberCandidates": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \n \n \nQ.12  In general, for any given solid subjected to arbitrary loading, which of the following statements is \nalways true: \n(A) Volume does not vary with loading (B) Mass  does not vary with loading \n(C) Density does not vary with loading (D) Volume, mass and density vary with loading \n \nQ.13  Which one of the following objects with inclined face at 45𝑜𝑜, subjected to the given stresses, are in \nstatic equilibrium: \n(A)  (B)  \n(C)  \n \n \n \n \n \n \n(D) \n \nQ.14  A damped single degree of freedom system whose undamped natural frequency,𝝎𝝎𝒏𝒏=10Hz, is \nsubjected to sinusoidal external force. Power is half of the maximumfor the two frequencies of \n60.9469 rad/s and 64.7168 rad/s. The damping factor associated with the vibrating system (in %) is \n_______. \n \nQ.15  The boundary conditions for a rod with circular cross-section, under torsional vibration,are changed \nfrom fixed-free to fixed-fixed. The fundamental natural frequency of the fixed-fixed rod is k times \nthat of fixed-free rod. The value of k is  \n(A) 1.5 (B) π  (C) 2.0 (D)  0.5 \n \nQ.16  Match the appropriate engine (in right column) with the corresponding aircraft (in left column) for \nmost efficient performance of the engine. \na. Low speed transport aircraft i. Ramjet \nb. High subsonic civilian aircraft ii. Turboprop \nc. Supersonic fighter aircraft iii. Turbojet \nd. Hypersonic aircraft iv. Turbofan \n(A) a – iv, b – iii, c – i, d – ii (B) a – ii, b – i, c – iii, d – iv \n(C) a – i, b – ii, c – iv, d – iii (D) a – ii, b – iv, c – iii, d – i \n \nQ.17  For a given fuel flow rate and thermal efficiency, the take-off thrust for a gas turbine engine \nburning aviation turbine fuel (considering fuel-air ratiof<<1) is \n(A) Directly proportional to exhaust velocity \n(B) Inversely proportional to exhaust velocity \n(C) Independent of exhaust velocity \n(D) Directly proportional to the square of the exhaust velocity \n \na \nAE 3/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 10,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2360,
+      "questionNumberCandidates": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        26
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.18  For a fifty percent reaction axial compressor stage, following statements are given: \nI.  Velocity triangles at the entry and exit of the rotor are symmetrical \nII. The whirl or swirl component of absolute velocity at the entry of rotor and entry of stator are \nsame. \nWhich of the following options are correct? \n(A) Both I and II are correct statements (B) I is correct but II is incorrect \n(C) I is incorrect but II is correct (D) Both I and II are incorrect \n \nQ.19  A small rocket having a specific impulse of 200s produces a total thrust of 98kN, out of which 10kN \nis the pressure thrust. Considering the acceleration due to gravity to be 9.8m/s2, the propellant mass \nflow rate in kg/s is \n(A) 55.1 (B) 44.9 (C) 50 (D) 60.2 \n \nQ.20  The thrust produced by a turbojet engine \n(A) Increases with increasing compressor pressure ratio \n(B) Decreases with increasing compressor pressure ratio \n(C) Remains constant with increasing compressor pressure ratio \n(D) First increases and then decreases with increasing compressor pressure ratio \n \nQ.21  The moment coefficient measured about the centre of gravity and about aerodynamic centre of a \ngiven wing-body combination are 0.0065 and -0.0235 respectively. The aerodynamic centre lies \n0.06 chord lengths ahead of the centre of gravity. The lift coefficient for this wing-body is _____. \n     \nQ.22  The vertical ground load factor on a stationary aircraft parked in its hangar is: \n(A) 0 (B) -1 (C) Not defined (D) 1 \n \nQ.23  Under what conditionshould a glider be operated to ensure minimum sink rate? \n(A) Maximum CL/CD (B) Minimum CL/CD \n(C) Maximum CD/CL\n3/2 (D) Minimum CD/CL\n3/2 \n \nQ.24  In most airplanes, the Dutch roll mode can be excited by applying \n(A) a step input to the elevators (B) a step input to the rudder \n(C) a sinusoidal input to the aileron (D) an impulse input to the elevators \n \nQ.25  Considering R as the radius of the moon, the ratio of the velocities of two spacecraft orbiting moon \nin circular orbit at altitudes R and 2R above the surface of the moon is ________. \n    \nQ. 26 – Q. 55 carry two marks each. \n \nQ.26  \nIf [ ] \n\n\n\n−\n−= 4 3\n3 3A . Then ( )] [ 3 ] [ 7 ] [det 2 I A A− + −  is \n(A) 0 (B) -324 (C) 324  (D) 6   \n \n \n \n \nAE 4/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 11,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1472,
+      "questionNumberCandidates": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.27  \nFor the periodic function given by {\n0, 2\n0 , 2) (\n< < − −\n< <=\nx\nxx f\nπ\nπ with ) ( ) 2 (x fx f = +π , using \nFourier series, the sum + − + − =7\n1\n5\n1\n3\n11s converges to \n(A) 1 (B) \n3\nπ  (C) \n4\nπ  (D) \n5\nπ  \n \nQ.28  Let Γ be the boundary of the closed circular region A given by 12 2≤ +y x . Then \n( )∫\nΓ\n− = dsxyx I 23 9 3 (where ds means integration along the bounding curve) is \n(A) π  (B) π−  (C) 1 (D) 0 \n \nQ.29  Solution to the boundary-value problem  \n3 0 , 59 2\n2\n< < = + −x x udx\nu d with 0 , 0 ) 0 (\n3\n= =\n=xdx\nduu  is \n(A) ( ) x e ee\nex u x x 51\n15) ( 3 / 3 /\n2 + −+= −  (B) ( ) x e ee\nex u x x 51\n15) ( 3 / 3 /\n2 + ++= −  \n(C) xxx u 5) 1cos(\n) 3 /sin(15) ( +− =  (D) 3\n54\n5\n) 1cos(\n) 3 /sin(15) ( xxx u −− =  \n \nQ.30  \nThe Laplace transform L(u(t))=U(s), for the solution u(t) of the problem 0 , 1 22\n2\n> = + +t udt\ndu\ndt\nu d\nwith initial conditions \n.\n5) 0 (, 0 ) 0 ( = =dt\nduu is given by: \n(A) 2) 1 (\n6\n+s\n (B) 2) 1 (\n1 5\n+\n+\ns s\ns  (C) 2) 1 (\n5 1\n+\n−\ns s\ns  (D) 2\n2\n) 1 (\n1 5\n+\n+\ns s\ns  \n \nQ.31  For a steady, incompressible two-dimensional flow, represented in Cartesian co-ordinates (𝑥𝑥, 𝑦𝑦), a \nstudent correctly writes the equation of pathline of any arbitrary particle as,\n𝑑𝑑𝑥𝑥\n𝑑𝑑𝑑𝑑= 𝑎𝑎𝑥𝑥 and \n𝑑𝑑𝑦𝑦\n𝑑𝑑𝑑𝑑 = 𝑏𝑏𝑦𝑦, \nwherea and bare constants having unit of (second)-1. If value of a is 5, the value of b is _____. \nAE 5/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 12,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1675,
+      "questionNumberCandidates": [
+        32,
+        33,
+        34
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.32  Figures (a) - (d) below show four objects. Dimensions and surface conditions of the objects are \nshown in the respective figures. All four objects are placed independently in a steady, uniform flow \nof same velocity and the direction of flow is from left to right as shown in (a). The flow field can be \nconsidered as 2-D, viscous and incompressible. Following statements are made regarding the drag \nthat these objects experience.  \n \n \n(i) Drag of object (a) is more than the drag of object (d) \n(ii) Drag of object (a) is less than the drag of object (d) \n(iii) Drag of object (b) is more than the drag of object (c) \n(iv) Drag of object (c) is more than the drag of object (b) \n(v) Drag of object (a) is more than the drag of object (b) \nChoose the correct combination of statements from the options given above: \n(A) (i), (iii), (v)  (B) (ii), (iv), (v) (C) (i), (iv), (v) (D) (i), (iii) \n \nQ.33  A student needs to find velocity across a stationary normal shock. He measures density and \npressure across the shock as shown in the figure below. 1bar = 105Pa. (No shock table is needed \nfor the calculations). The value of u1 in m/s is ____. \n \n \n    \n \nQ.34  For inviscid, compressible flow past a thin airfoil, shown in the figure, free-stream Mach number \nand pressure are denoted by 𝑴𝑴∞ and 𝒑𝒑∞respectively. Ratio of pressure at point A and 𝒑𝒑∞is 0.8 \nand specific heat ratio is 1.4.  If the Mach number at point A is 1.0 and rest of the flow field is \nsubsonic, the value of 𝑴𝑴∞is \n \n \n \n(A) 2.95 (B) 0.79 (C) 1.18 (D) 0.64 \n \n \nAE 6/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 13,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2246,
+      "questionNumberCandidates": [
+        35,
+        36,
+        37
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.35  A student can measure free-stream velocity of a low-speed wind tunnel using a \ni. Pitot tube alone aligned with the flow direction. \nii. Pitot tube aligned with the flow direction with static pressure measurement at an \nappropriate position on the tunnel wall. \niii. Pitot tube aligned with the flow direction along with barometer pressure reading of the \noutside ambient. \niv. Pitot static tube alone aligned with the flow direction. \nConsidering the above statements, which of the following options is correct? \n(A) (i) only (B) (i) & (ii) (C) (ii) & (iv) (D) (i), (iii) & (iv) \n \nQ.36  Induced velocity w at a point 𝑧𝑧= 𝑧𝑧1 along the lifting line can be calculated using the formula \n𝑤𝑤(𝑧𝑧1) = − 1\n4𝜋𝜋∫ 𝑑𝑑Γ\n𝑑𝑑𝑧𝑧\n𝑠𝑠\n−𝑠𝑠\n1\n𝑧𝑧−𝑧𝑧1\n𝑑𝑑𝑧𝑧.             \nGiven\nΓ2\nΓ𝑜𝑜2 +\n𝑧𝑧2\n𝑠𝑠2 = 1, where𝑧𝑧, Γ𝑜𝑜 and sare given in figure below. \nFor theabove semi-elliptic distribution of circulation, Γ, the downwash velocity at any point 𝑧𝑧1,for \nsymmetric flight can be obtained as, 𝑤𝑤(𝑧𝑧1) = Γ𝑜𝑜\n4𝜋𝜋𝑠𝑠[𝜋𝜋+ 𝑧𝑧1𝐼𝐼], where 𝐼𝐼= 𝑧𝑧1 ∫ 𝑑𝑑𝑧𝑧\n� 𝑠𝑠2−𝑧𝑧2�𝑧𝑧−𝑧𝑧1�\n𝑠𝑠\n−𝑠𝑠 . \nWhich of the following options is correct if the induced drag is 𝐷𝐷𝑖𝑖 (given ∫ � 1 −\n𝑧𝑧2\n𝑠𝑠2\n𝑠𝑠\n−𝑠𝑠 𝑑𝑑𝑧𝑧=\n𝜋𝜋𝑠𝑠\n2 ) \n \n \n(A)I=0 and 𝐷𝐷𝑖𝑖= 8𝜌𝜌Γ𝑜𝑜\n2\n𝜋𝜋 (B)I= 1 and 𝐷𝐷𝑖𝑖= 8𝜌𝜌Γ𝑜𝑜\n2\n𝜋𝜋 \n(C)I=0 and 𝐷𝐷𝑖𝑖= 𝜋𝜋𝜌𝜌Γ𝑜𝑜\n2\n8  (D)I= 1 and 𝐷𝐷𝑖𝑖= 𝜋𝜋𝜌𝜌Γ𝑜𝑜\n2\n8  \n \nQ.37  Two overflowing water reservoirs are connected with a100m long pipe of circular cross-section (of \nradius, R = 0.02m), such that height difference h remains constant as shown in the figure below. \nThe centerline velocity in the pipe is 10m/s. The velocity profile inside the pipe over the entire \nlength is 𝑢𝑢= − 𝑅𝑅2\n4𝜇𝜇\n𝑑𝑑𝑑𝑑\n𝑑𝑑\n𝑥𝑥�1 − 𝜋𝜋2\n𝑅𝑅2�, where,  \n𝑑𝑑𝑑𝑑\n𝑑𝑑\n𝑥𝑥 is a constant pressure gradient along the pipe length, \nx is measured from theleft end of the pipe along its central axis and r is radial location inside the \npipe with respect to its axis.(Given data: Density and kinematic viscosity of water are 1000kg/m3 \nand 1x10-6m2/srespectively; acceleration due to gravity is 10m/s2). \nIf all other losses except the frictional losses at the pipe wall are neglected, the value of h in meter \nis ____. \n \n \nAE 7/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 14,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1932,
+      "questionNumberCandidates": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \n    \n \nQ.38  A 1.8m long steel beam of rectangular cross section (10mm× 6mm) is simply supported with a \nlength of 1.2m between the supports and an overhang of 0.3m on either side. Young’s modulus for \nthe material of the beam is 200GPa. For a 50N load applied at the center of the beam, magnitude of \nthe slopeof the beam at tip S is _______. \n \n \n \nQ.39  There are 2 designs proposed for a shaft of length l, with a torque carrying capacity of T.Design I is \na solid circular cross-section shaft of diameter30mm. Design II is a thin-walled circular shaft of \naverage diameter 40mm. Thickness of the wall in Design II has to be determined such that \nmaximum shear stress is the same in both the designs for the given torque T(so that same material \ncan be used for manufacturing both the shafts). Ratio of mass of shaft using Design Ito the mass of \nshaft using Design II is  \n \n \n \n(A) 2.68 (B) 5.36 (C) 1.79 (D) 3.58 \n \nQ.40  A structural member of rectangular cross-section 10mm× 6mm and length 1m is made of steel \n(Young’s modulus is 200GPa and coefficient of thermal expansion is 12 × 10−6 / 𝐶𝐶𝑜𝑜). It is rigidly \nfixed at both the ends and then subjected to a gradual increase in temperature. Ignoring the three \ndimensional effects, the structural member will buckle if the temperature is increased by ∆𝑇𝑇 𝐶𝐶𝑜𝑜 \nwhich is \n \n \n(A) 19.74 (B) 9.87 (C) 78.96 (D) 39.48 \n \nQ.41  A gas cylinder (closed thin-walled cylindrical pressure vessel) of diameter 30cm and wall thickness \n1mm is subjected to a design maximum internal pressure of 5bar (0.5MPa). The material used for \nmanufacturing this cylinder has a failure stress of 260MPa. Assuming von Mises failure criterion, \nthe factor of safety (with respect to maximum allowable stress) for this cylinder is  \n(A) 2.8 (B) 2.0 (C) 6.9 (D) 4.0 \n \nAE 8/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 15,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2162,
+      "questionNumberCandidates": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.42  A cantilevered beam is subjected to a parabolic distribution of shear traction at the right edge while \nthe top and bottom surfaces are traction free. To solve this problem, following Airy’s stress \nfunction is proposed:  𝜙𝜙= 𝐶𝐶1𝑥𝑥𝑦𝑦+ 𝐶𝐶2𝑥𝑥𝑦𝑦3 + 𝐶𝐶3𝑥𝑥2𝑦𝑦2 + 𝐶𝐶4𝑥𝑥3𝑦𝑦. This is an admissible Airy’s \nfunction that would satisfy the bi-harmonic equation as well as the boundary conditions if and only \nif  \n \n(A)𝐶𝐶1 = 0,𝐶𝐶2 = 𝜆𝜆, 𝐶𝐶3 = 0, 𝐶𝐶4 = 𝜆𝜆\n3𝑑𝑑2 (B)𝐶𝐶1 = 𝜆𝜆,𝐶𝐶2 = 𝜆𝜆\n3𝑑𝑑2, 𝐶𝐶3 = 0, 𝐶𝐶4 = 0 \n(C)𝐶𝐶1 = 0,𝐶𝐶2 = 0, 𝐶𝐶3 = 𝜆𝜆,𝐶𝐶4 = − 𝜆𝜆\n3𝑑𝑑2 (D)𝐶𝐶1 = 𝜆𝜆,𝐶𝐶2 = − 𝜆𝜆\n3𝑑𝑑2, 𝐶𝐶3 = 0,𝐶𝐶4 = 0 \n \nQ.43  1kg mass is hanging from a spring of stiffness 500N/m attached to a massless,symmetric beam of \nlength 0.6m, moment of inertia about the bending axis𝐼𝐼= 8.33 × 10−10 𝑚𝑚4 and Young’s modulus \nE=210GPa as shown in the figure. The fundamental natural frequency (in rad/s) of the system is  \n \n \n \n(A) 3.24 (B) 20.36 (C) 22.36  (D) 3.56  \n \nQ.44  A single degree of freedom system is vibrating with initial (first cycle) amplitude of 5cm. The \nviscous damping factor associated with the vibrating system is 2%. Vibration amplitude of the fifth \ncycle (in cm) is  \n(A) 1.65 (B) 4.41 (C) 2.67 (D) 3.02 \n \nQ.45  A cruise missile with an ideal ramjet engine is flying at Mach 4.0 at an altitude where the ambient \ntemperature is 100K. Considerratio of specific heatsγ = 1.4 and specific gas constant R = 287J/kgK. \nIf the stagnation temperature in the combustion chamber is equal to 2310K, the speed of the exhaust \ngases (in m/s) is _____________. \n \nQ.46  A gas turbine engine is operating under the following conditions: \n \nStagnation temperature at turbine inlet 1350 K \nStagnation pressure at the turbine inlet 10 bar \nStatic temperature at turbine exit 800 K \nVelocity at turbine exit 200 m/s \nTotal-to-total efficiency of turbine 0.96 \nγ (ratio of specific heats) 1.33 \nCP(specific heat at constant pressure) 1.147 kJ/kgK \n \nThe stagnation pressure (in bar) in the nozzle (considering isentropic nozzle) is equal to _______.  \n    \nAE 9/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 16,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 2744,
+      "questionNumberCandidates": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.47  Air at a stagnation temperature of 300K (ratio of specific heats, γ = 1.4 and specific gas constant R \n= 287 J/kgK) enters the impeller of a centrifugal compressor in axial direction. The stagnation \npressure ratio between the diffuser outlet and impeller inlet is 4.0. The impeller blade radius is 0.3 \nm and it is rotating at 15000 rev/min. If the slip factor σs (Ratio of tangential component of air \nvelocity at the blade tip to the blade tip speed) is 0.88, the overall efficiency (total-to-total) of the \ncompressor (in %) is ___________. \n \n    \nQ.48  A stationary two stage rocket with initial mass of 16000kg, carrying a payload of 1000kg, is fired in \na vertical trajectory from the surface of the earth. Both the stages of the rocket have same specific \nimpulse, Isp, of 300s and same structural coefficient of 0.14. The acceleration due to gravity is \n9.8m/s2. Neglecting drag and gravity effects and considering both the stages with same payload \nratio, the terminal velocity attained by the payload in m/s is __________________. \n    \nQ.49  An aircraft is flying at Mach 3.0 at an altitude where the ambient pressure and temperature are 50 \nkPa and 200 K respectively. If the converging-diverging diffuser of the engine (considered \nisentropic with ratio of specific heats, γ = 1.4 and specific gas constant R = 287 J/kgK) has a throat \narea of 0.05 m2, the mass flow rate through the engine in kg/s is \n(A) 197 (B) 232  (C) 790  (D) 157  \n \nQ.50  A cryogenic rocket has a specific impulse of 455s and characteristic velocity of 2386 m/s. The \nvalue of thrust coefficient for this rocket is \n(A) 1.78 (B) 1.73 (C) 1.87 (D) 1.95 \n \nQ.51  For a given airplane with a given wing loading executing a turn in the vertical plane, under what \nconditions will the turn radius be minimum and the turn rate be maximum? \n(A) Highest possible CLand lowest possible load factor \n(B) Lowest possible CLand lowest possible load factor \n(C) Lowest possible CLand highest possible load factor \n(D) Highest possible CLand highest possible load factor \n \nQ.52  Lift-off distance for a given aircraft of weight W is SLO. If the take-off weight is reduced by 10%, \nthen the magnitude of percentage change in the lift-off distance (assume all other parameters to \nremain constant) is _______. \nQ.53  Which of the following design parameters influence the maximum rate-of-climb for a jet-propelled \nairplane?  \n \nP. Wing loading \nQ. Maximum thrust-to-weight ratio \nR. Zero-lift drag coefficient \nS. Maximum lift-to-drag ratio \n (A) P and Q alone (B) P, Q, R and S (C)  P, Q and S alone (D)  Q, R, and S alone \n \n  \nAE 10/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 17,
+      "width": 595.44,
+      "height": 841.68,
+      "textCharacters": 1038,
+      "questionNumberCandidates": [
+        54,
+        55
+      ],
+      "text": "GATE 2014                                                                                   AEROSPACE–  AE \nQ.54  Consider the following four statements regarding aircraft longitudinal stability: \n \nP.  CM,cg at zero lift must be positive \nQ.  ∂CM,cg/∂αa must be negative (αa is absolute angle of attack) \nR.  CM,cg at zero lift must be negative \nS.  Slope of CL versus  αa  must be negative \n \nWhich of the following combination is the necessary criterion for stick fixed longitudinal balance \nand static stability? \n(A) Q and R only (B) Q, R, and S only (C)  P and Q only (D)  Q and S only \n \nQ.55  Data for a light, single-engine, propeller driven aircraft in steady level flight at sea-level is as \nfollows: velocity V∞ = 40m/s, weight W = 13000N, lift coefficient CL = 0.65, drag coefficient CD = \n0.025 + 0.04CL\n2 and power available Pav = 100,000J/s. The rate of climb possible for this aircraft \nunder the given conditions (in m/s) is  \n(A) 7.20 (B) 5.11 (C)  6.32 (D) 4.23 \n \n \nEND OF THE QUESTION PAPER \nAE 11/11 \nAE (GATE 2014)"
+    },
+    {
+      "page": 18,
+      "width": 595.22,
+      "height": 842.0,
+      "textCharacters": 913,
+      "questionNumberCandidates": [],
+      "text": "Section Q.  No. Key  / Range Marks Section Q.  No. Key  / Range Marks\nGA 1 A 1 AE 26 A 2\nGA 2 B 1 AE 27 C 2\nGA 3 D 1 AE 28 D 2\nGA 4 C 1 AE 29 A 2\nGA 5 1300  to 1300 1 AE 30 B 2\nGA 6 D 2 AE 31 ‐5.01 to ‐4.99 2\nGA 7 B 2 AE 32 C 2\nGA 8 180  to 180 2 AE 33 1705  to 1720 2\nGA 9 D 2 AE 34 B 2\nGA 10 B 2 AE 35 C 2\nAE 1 C 1 AE 36 C 2\nAE 2 B 1 AE 37 0.99  to 1.01 2\nAE 3 C 1 AE 38 0.12  to 0.13 2\nAE 4 A 1 AE 39 A 2\nAE 5 D 1 AE 40 B 2\nAE 6 A 1 AE 41 D 2\nAE 7 D 1 AE 42 D 2\nAE 8 B 1 AE 43 B 2\nAE 9 D 1 AE 44 D 2\nAE 10 D 1 AE 45 1880  to 1881 2\nAE 11 A 1 AE 46 1.10  to 1.25 2\nAE 12 B 1 AE 47 74  to 76 2\nAE 13 B 1 AE 48 6050  to 6250 2\nAE 14 2.95  to 3.05 1 AE 49 D 2\nAE 15 C 1 AE 50 C 2\nAE 16 D 1 AE 51 D 2\nAE 17 B 1 AE 52 18  to 20 2\nAE 18 B 1 AE 53 B 2\nAE 19 C 1 AE 54 C 2\nAE 20 D 1 AE 55 B 2\nAE 21 0.45  to 0.55 1\nAE 22 D 1\nAE 23 D 1\nAE 24 B 1\nAE 25 1.2  to 1.25 1\nGATE 2014\n Answer Keys for AE ‐ Aerospace Engineering"
+    }
+  ]
+}

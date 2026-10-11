@@ -1,0 +1,1184 @@
+[
+  {
+    "questionId": "gate-2023-ae-ga-01",
+    "year": 2023,
+    "number": 1,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.173Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-02",
+    "year": 2023,
+    "number": 2,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-03",
+    "year": 2023,
+    "number": 3,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-04",
+    "year": 2023,
+    "number": 4,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-05",
+    "year": 2023,
+    "number": 5,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-06",
+    "year": 2023,
+    "number": 6,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-07",
+    "year": 2023,
+    "number": 7,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-08",
+    "year": 2023,
+    "number": 8,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-09",
+    "year": 2023,
+    "number": 9,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ga-10",
+    "year": 2023,
+    "number": 10,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-11",
+    "year": 2023,
+    "number": 11,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-12",
+    "year": 2023,
+    "number": 12,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-13",
+    "year": 2023,
+    "number": 13,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-14",
+    "year": 2023,
+    "number": 14,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.176Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-15",
+    "year": 2023,
+    "number": 15,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-16",
+    "year": 2023,
+    "number": 16,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-17",
+    "year": 2023,
+    "number": 17,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-18",
+    "year": 2023,
+    "number": 18,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-19",
+    "year": 2023,
+    "number": 19,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-20",
+    "year": 2023,
+    "number": 20,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-21",
+    "year": 2023,
+    "number": 21,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-22",
+    "year": 2023,
+    "number": 22,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-23",
+    "year": 2023,
+    "number": 23,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-24",
+    "year": 2023,
+    "number": 24,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 1,
+    "expected": "D",
+    "actual": "D",
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-25",
+    "year": 2023,
+    "number": 25,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 1,
+    "expected": [
+      "A",
+      "B",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "B",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-26",
+    "year": 2023,
+    "number": 26,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 1,
+    "expected": [
+      "A",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-27",
+    "year": 2023,
+    "number": 27,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 1,
+    "expected": [
+      "B",
+      "C",
+      "D"
+    ],
+    "actual": [
+      "B",
+      "C",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-28",
+    "year": 2023,
+    "number": 28,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 1,
+    "expected": [
+      "A",
+      "B"
+    ],
+    "actual": [
+      "A",
+      "B"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.177Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-29",
+    "year": 2023,
+    "number": 29,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 1,
+    "expected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "C",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-30",
+    "year": 2023,
+    "number": 30,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      2,
+      2
+    ],
+    "actual": 2,
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-31",
+    "year": 2023,
+    "number": 31,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      3,
+      3
+    ],
+    "actual": 3,
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-32",
+    "year": 2023,
+    "number": 32,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      2.4,
+      2.6
+    ],
+    "actual": [
+      2.4,
+      2.6
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-33",
+    "year": 2023,
+    "number": 33,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      3.5,
+      4
+    ],
+    "actual": [
+      3.5,
+      4
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-34",
+    "year": 2023,
+    "number": 34,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      0.89,
+      0.91
+    ],
+    "actual": [
+      0.89,
+      0.91
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-35",
+    "year": 2023,
+    "number": 35,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 1,
+    "expected": [
+      4800,
+      4900
+    ],
+    "actual": [
+      4800,
+      4900
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-36",
+    "year": 2023,
+    "number": 36,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-37",
+    "year": 2023,
+    "number": 37,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.178Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-38",
+    "year": 2023,
+    "number": 38,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.179Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-39",
+    "year": 2023,
+    "number": 39,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "C",
+    "actual": "C",
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-40",
+    "year": 2023,
+    "number": 40,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "A",
+    "actual": "A",
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-41",
+    "year": 2023,
+    "number": 41,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MCQ",
+    "marks": 2,
+    "expected": "B",
+    "actual": "B",
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-42",
+    "year": 2023,
+    "number": 42,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 2,
+    "expected": [
+      "C",
+      "D"
+    ],
+    "actual": [
+      "C",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-43",
+    "year": 2023,
+    "number": 43,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 2,
+    "expected": [
+      "A",
+      "B"
+    ],
+    "actual": [
+      "A",
+      "B"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-44",
+    "year": 2023,
+    "number": 44,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 2,
+    "expected": [
+      "B",
+      "D"
+    ],
+    "actual": [
+      "B",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-45",
+    "year": 2023,
+    "number": 45,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 2,
+    "expected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "C",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-46",
+    "year": 2023,
+    "number": 46,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 2,
+    "expected": [
+      "A",
+      "B",
+      "C"
+    ],
+    "actual": [
+      "A",
+      "B",
+      "C"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-47",
+    "year": 2023,
+    "number": 47,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "MSQ",
+    "marks": 2,
+    "expected": [
+      "A",
+      "C",
+      "D"
+    ],
+    "actual": [
+      "A",
+      "C",
+      "D"
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-48",
+    "year": 2023,
+    "number": 48,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1.1,
+      1.3
+    ],
+    "actual": [
+      1.1,
+      1.3
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.181Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-49",
+    "year": 2023,
+    "number": 49,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      10,
+      10
+    ],
+    "actual": 10,
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-50",
+    "year": 2023,
+    "number": 50,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.5,
+      0.5
+    ],
+    "actual": 0.5,
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-51",
+    "year": 2023,
+    "number": 51,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      2.8,
+      2.86
+    ],
+    "actual": [
+      2.8,
+      2.86
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-52",
+    "year": 2023,
+    "number": 52,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      196,
+      198
+    ],
+    "actual": [
+      196,
+      198
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-53",
+    "year": 2023,
+    "number": 53,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      3.4,
+      3.5
+    ],
+    "actual": [
+      3.4,
+      3.5
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-54",
+    "year": 2023,
+    "number": 54,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.24,
+      0.26
+    ],
+    "actual": [
+      0.24,
+      0.26
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-55",
+    "year": 2023,
+    "number": 55,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      1.24,
+      1.26
+    ],
+    "actual": [
+      1.24,
+      1.26
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-56",
+    "year": 2023,
+    "number": 56,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.55,
+      0.57
+    ],
+    "actual": [
+      0.55,
+      0.57
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-57",
+    "year": 2023,
+    "number": 57,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      -0.69,
+      -0.67
+    ],
+    "actual": [
+      -0.69,
+      -0.67
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-58",
+    "year": 2023,
+    "number": 58,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      12.61,
+      12.81
+    ],
+    "actual": [
+      12.61,
+      12.81
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-59",
+    "year": 2023,
+    "number": 59,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      2615,
+      2625
+    ],
+    "actual": [
+      2615,
+      2625
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-60",
+    "year": 2023,
+    "number": 60,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      190,
+      195
+    ],
+    "actual": [
+      190,
+      195
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-61",
+    "year": 2023,
+    "number": 61,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      0.57,
+      0.6
+    ],
+    "actual": [
+      0.57,
+      0.6
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-62",
+    "year": 2023,
+    "number": 62,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      4.9,
+      5.1
+    ],
+    "actual": [
+      4.9,
+      5.1
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-63",
+    "year": 2023,
+    "number": 63,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      260,
+      300
+    ],
+    "actual": [
+      260,
+      300
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-64",
+    "year": 2023,
+    "number": 64,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      15948,
+      16048
+    ],
+    "actual": [
+      15948,
+      16048
+    ],
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  },
+  {
+    "questionId": "gate-2023-ae-ae-65",
+    "year": 2023,
+    "number": 65,
+    "status": "PASS",
+    "source": "internal/ae/AE2023-key.pdf",
+    "sha256": "fbc31ec52d5224cf3147ed7a6273a6cff90455ae4eeb96b3e788cc9977de7e2e",
+    "type": "NAT",
+    "marks": 2,
+    "expected": [
+      16,
+      16
+    ],
+    "actual": 16,
+    "reviewedAt": "2026-10-10T17:01:48.182Z",
+    "method": "Both local key PDF pages visually read; extracted rows reconciled against loaded canonical records. Separate from manual user verification.",
+    "remotePublication": "NOT RE-FETCHED"
+  }
+]

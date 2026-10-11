@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "day": 10,
+  "year": 2025,
+  "paper": "CE1",
+  "title": "GATE 2025 · CE1 · General Aptitude",
+  "source": "Aptitude Sets/2025/CE1.pdf",
+  "answerKeyStatus": "official GATE 2025 final key verified for GA questions 1–10",
+  "questions": [
+    {
+      "id": "gate-2025-ce1-ga-01",
+      "number": 1,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "Is there any good show _______ television tonight? Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "in"
+        },
+        {
+          "label": "B",
+          "text": "at"
+        },
+        {
+          "label": "C",
+          "text": "within"
+        },
+        {
+          "label": "D",
+          "text": "on"
+        }
+      ],
+      "sourceImage": "figures/day10-q01.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              143.09,
+              565.32,
+              359.09
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The standard expression is “on television”. “In”, “at” and “within” do not describe a show being broadcast in this sentence. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 1,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-02",
+      "number": 2,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "As the police officer was found guilty of embezzlement, he was _______ dismissed from the service in accordance with the Service Rules. Select the most appropriate option to complete the above sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "sumptuously"
+        },
+        {
+          "label": "B",
+          "text": "brazenly"
+        },
+        {
+          "label": "C",
+          "text": "unintentionally"
+        },
+        {
+          "label": "D",
+          "text": "summarily"
+        }
+      ],
+      "sourceImage": "figures/day10-q02.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 1,
+            "bbox": [
+              35,
+              421.54,
+              565.32,
+              651.34
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "“Summarily dismissed” means dismissed directly or without delay, a conventional expression for removal from service. “Sumptuously” concerns luxury, “brazenly” describes shameless conduct, and “unintentionally” contradicts deliberate disciplinary action. Answer: D.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "D",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 2,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-03",
+      "number": 3,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The sum of the following infinite series is:\n1/1! + 1/2! + 1/3! + 1/4! + 1/5! +⋯",
+      "options": [
+        {
+          "label": "A",
+          "text": "π"
+        },
+        {
+          "label": "B",
+          "text": "1+e"
+        },
+        {
+          "label": "C",
+          "text": "e−1"
+        },
+        {
+          "label": "D",
+          "text": "e"
+        }
+      ],
+      "sourceImage": "figures/day10-q03.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              95.21,
+              565.32,
+              338.09
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The exponential series is e=1+1/1!+1/2!+1/3!+⋯. Removing the initial 1 leaves the stated sum e−1. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 3,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-04",
+      "number": 4,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "A thin wire is used to construct all the edges of a cube of 1 m side by bending, cutting and soldering the wire. If the wire is 12 m long, what is the minimum number of cuts required to construct the wire frame to form the cube?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "sourceImage": "figures/day10-q04.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 2,
+            "bbox": [
+              35,
+              400.4,
+              565.32,
+              618.31
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "Each of the cube’s eight vertices has odd degree 3. A continuous wire trail can have only two odd-degree endpoints, so covering every edge exactly once needs at least 8/2=4 wire pieces. Such a four-trail decomposition exists. Cutting a single wire into four pieces requires 3 cuts. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 4,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-05",
+      "number": 5,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 1,
+      "question": "The figures I, II and III are parts of a sequence. Which one of the following options comes next in the sequence at IV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-05-option-A.png",
+            "alt": "Option A: shaded sector pattern, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 3,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                127,
+                290,
+                232,
+                394
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-05-option-B.png",
+            "alt": "Option B: shaded sector pattern, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 3,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                125,
+                403,
+                231,
+                509
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-05-option-C.png",
+            "alt": "Option C: shaded sector pattern, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 3,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                125,
+                516,
+                231,
+                623
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-05-option-D.png",
+            "alt": "Option D: shaded sector pattern, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 3,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                125,
+                633,
+                231,
+                740
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day10-q05.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 3,
+            "bbox": [
+              35,
+              95.21,
+              565.32,
+              747.94
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "The shaded sector grows from 90° to 135° to 180°: an increase of 45° each time. Its starting radius also advances a quarter-turn clockwise. The next sector is 225°, starting at the downward radius and continuing clockwise through the left and top of the circle. Option B has this sector and orientation.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 5,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ce1-ga-05-figure-1.png",
+          "alt": "Sequence of circular shaded sectors I, II, III, followed by the missing fourth sector.",
+          "source": {
+            "file": "Aptitude Sets/2025/CE1.pdf",
+            "page": 3,
+            "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+            "pdfCrop": [
+              118,
+              151,
+              500,
+              279
+            ],
+            "dpi": 216,
+            "omittedBackgroundObjects": [
+              "Image5",
+              "Image15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ce1-ga-06",
+      "number": 6,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "“Why do they pull down and do away with crooked streets, I wonder, which are my delight, and hurt no man living? Every day the wealthier nations are pulling down one or another in their capitals and their great towns: they do not know why they do it; neither do I. It ought to be enough, surely, to drive the great broad ways which commerce needs and which are the life-channels of a modern city, without destroying all history and all the humanity in between: the islands of the past.” (From Hilaire Belloc’s “The Crooked Streets”) Based only on the information provided in the above passage, which one of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The author of the passage takes delight in wondering."
+        },
+        {
+          "label": "B",
+          "text": "The wealthier nations are pulling down the crooked streets in their capitals."
+        },
+        {
+          "label": "C",
+          "text": "In the past, crooked streets were only built on islands."
+        },
+        {
+          "label": "D",
+          "text": "Great broad ways are needed to protect commerce and history."
+        }
+      ],
+      "sourceImage": "figures/day10-q06.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 4,
+            "bbox": [
+              35,
+              117.89,
+              565.32,
+              442.63
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The passage explicitly says that wealthier nations are pulling down crooked streets in their capitals and great towns. That is statement B. The “islands of the past” are a metaphor for surviving history, not a claim that the streets were built on islands.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 6,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-07",
+      "number": 7,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "Rohit goes to a restaurant for lunch at about 1 PM. When he enters the restaurant, he notices that the hour and minute hands on the wall clock are exactly coinciding. After about an hour, when he leaves the restaurant, he notices that the clock hands are again exactly coinciding. How much time (in minutes) did Rohit spend at the restaurant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "64 6/11"
+        },
+        {
+          "label": "B",
+          "text": "66 5/13"
+        },
+        {
+          "label": "C",
+          "text": "65 5/11"
+        },
+        {
+          "label": "D",
+          "text": "66 6/13"
+        }
+      ],
+      "sourceImage": "figures/day10-q07.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 5,
+            "bbox": [
+              35,
+              95.21,
+              565.32,
+              366.77
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "The minute hand gains on the hour hand at 6−0.5=5.5 degrees per minute. Between consecutive coincidences it must gain 360°. Time=360/5.5=720/11=65 5/11 minutes. Answer: C.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "C",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 7,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-08",
+      "number": 8,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A color model is shown in the figure with color codes: Yellow (Y), Magenta (M), Cyan (Cy), Red (R), Blue (Bl), Green (G), and Black (K). Which one of the following options displays the color codes that are consistent with the color model?",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-08-option-A.png",
+            "alt": "Option A: overlapping color-labelled regions, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 6,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "image": "Image71.jpg"
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-08-option-B.png",
+            "alt": "Option B: overlapping color-labelled regions, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 6,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "image": "Image68.jpg"
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-08-option-C.png",
+            "alt": "Option C: overlapping color-labelled regions, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 6,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "image": "Image69.jpg"
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-08-option-D.png",
+            "alt": "Option D: overlapping color-labelled regions, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 6,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "image": "Image70.jpg"
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day10-q08.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 6,
+            "bbox": [
+              35,
+              95.21,
+              565.32,
+              724.78
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Treat the three primary-color shapes as sets: Y∩M is R, M∩Cy is Bl, Y∩Cy is G, and the triple overlap is K. In option A every region follows these assignments, including the two separated triple-overlap regions. The other options mislabel at least one overlap. Answer: A.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "A",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 8,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": [
+        {
+          "src": "figures/gate-2025-ce1-ga-08-figure-1.png",
+          "alt": "Subtractive color overlaps: yellow, magenta and cyan; pairwise overlaps red, green and blue; central overlap black.",
+          "source": {
+            "file": "Aptitude Sets/2025/CE1.pdf",
+            "page": 6,
+            "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+            "image": "Image67.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gate-2025-ce1-ga-09",
+      "number": 9,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "A circle with center at (x,y) = (0.5, 0) and radius = 0.5 intersects with another circle with center at (x,y) = (1,1) and radius = 1 at two points. One of the points of intersection (x,y) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(0,0)"
+        },
+        {
+          "label": "B",
+          "text": "(0.2,0.4)"
+        },
+        {
+          "label": "C",
+          "text": "(0.5,0.5)"
+        },
+        {
+          "label": "D",
+          "text": "(1,2)"
+        }
+      ],
+      "sourceImage": "figures/day10-q09.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 7,
+            "bbox": [
+              35,
+              95.21,
+              565.32,
+              314.93
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": false,
+      "solution": "For (0.2,0.4), distance squared from (0.5,0) is (−0.3)²+0.4²=0.25=0.5². Distance squared from (1,1) is (−0.8)²+(−0.6)²=1. Both circle equations hold. The other listed points fail at least one equation. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 9,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    },
+    {
+      "id": "gate-2025-ce1-ga-10",
+      "number": 10,
+      "year": 2025,
+      "paper": "CE1",
+      "subject": "General Aptitude",
+      "marks": 2,
+      "question": "An object is said to have an n-fold rotational symmetry if the object, rotated by an angle of 2π/n, is identical to the original.\nWhich one of the following objects exhibits 4-fold rotational symmetry about an axis perpendicular to the plane of the screen?\nNote: The figures shown are representative.",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-10-option-A.png",
+            "alt": "Option A: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 8,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                118,
+                227,
+                211,
+                323
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "B",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-10-option-B.png",
+            "alt": "Option B: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 8,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                118,
+                329,
+                211,
+                423
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "C",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-10-option-C.png",
+            "alt": "Option C: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 8,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                118,
+                429,
+                211,
+                523
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        },
+        {
+          "label": "D",
+          "text": "",
+          "figure": {
+            "src": "figures/gate-2025-ce1-ga-10-option-D.png",
+            "alt": "Option D: cross-shaped arrangement with corner dots, reproduced from the source paper.",
+            "source": {
+              "file": "Aptitude Sets/2025/CE1.pdf",
+              "page": 8,
+              "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e",
+              "pdfCrop": [
+                118,
+                529,
+                211,
+                622
+              ],
+              "dpi": 216,
+              "omittedBackgroundObjects": [
+                "Image5",
+                "Image15"
+              ]
+            }
+          }
+        }
+      ],
+      "sourceImage": "figures/day10-q10.png",
+      "source": {
+        "file": "Aptitude Sets/2025/CE1.pdf",
+        "pages": [
+          {
+            "page": 8,
+            "bbox": [
+              35,
+              95.21,
+              565.32,
+              627.22
+            ]
+          }
+        ],
+        "sha256": "eb47c60f87ae0d625fba900cdfefc68f6008de33685fb59ec52854d1a6ed268e"
+      },
+      "transcriptionStatus": "source-verified",
+      "gradingStatus": "official key verified",
+      "hasFigure": true,
+      "solution": "Four-fold rotational symmetry requires the complete marked shape to match after each 90° turn. In B, the dot at the top arm’s upper-right corner rotates to the right arm’s lower-right, then the bottom arm’s lower-left, then the left arm’s upper-left. All four marked corners agree. Other options break this cycle. Answer: B.",
+      "solutionStatus": "independently checked editorial solution; not an official solution",
+      "type": "MCQ",
+      "answer": "B",
+      "answerSource": {
+        "url": "https://gate2025.iitr.ac.in/doc/2025/2025_Key/CE1_Keys.pdf",
+        "paper": "CE1",
+        "questionNumber": 10,
+        "section": "GA",
+        "session": 7,
+        "verifiedOn": "2026-10-05",
+        "sha256": "2aaf91e7c238fcf0ba9af180c26402473a81be116a409e510007ca1b9939053a",
+        "masterPaperUrl": "https://gate2025.iitr.ac.in/doc/2025/2025_QP/CE1.pdf",
+        "mappingStatus": "master-order-verified"
+      },
+      "figures": []
+    }
+  ]
+}

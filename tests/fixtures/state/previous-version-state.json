@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "stateKind": "gate-user-progress",
+  "revision": 4,
+  "profile": {"name": "Returning Learner"},
+  "settings": {"theme": "light", "sound": true, "checkpointSound": true, "volume": 0.04, "checkpoint": true, "shortcuts": true, "goal": 10, "focus": false, "preferredMode": "practice"},
+  "drafts": {
+    "draft-1": {"id": "draft-1", "mode": "practice", "createdAt": "2026-09-19T08:00:00.000Z", "questionIds": ["question-1"], "index": 0, "answers": {"question-1": "A"}, "times": {"question-1": 5000}, "visited": {"question-1": true}, "review": {}, "elapsed": 5000}
+  },
+  "sessions": [
+    {"id": "completed-1", "mode": "practice", "origin": "daily", "createdAt": "2026-09-20T07:55:00.000Z", "questionIds": ["question-1"], "configuration": {"day": 1, "year": 2026, "paper": "AE"}, "elapsed": 9000, "completedAt": "2026-09-20T08:00:00.000Z", "result": {"rows": [], "correct": 0, "incorrect": 0, "ungraded": 1, "blank": 0, "answered": 1, "maxMarks": 1, "score": null}}
+  ],
+  "attempts": [
+    {"attemptId": "completed-1:question-1", "questionId": "question-1", "sessionId": "completed-1", "answer": "A", "result": "ungraded", "questionTime": 9000, "timestamp": "2026-09-20T08:00:00.000Z", "localDate": "2026-09-20", "sessionOrigin": "daily", "attemptNumber": 1}
+  ],
+  "bookmarks": {"question-1": "Must Revise"},
+  "notes": {"question-1": "Preserve this note"},
+  "notebooks": [],
+  "flashcards": [],
+  "planner": {"exam": "GATE", "date": "2027-02-01", "minutes": 30},
+  "blueprints": [],
+  "reports": [],
+  "xpEvents": {},
+  "extensionData": {"preserve": true}
+}

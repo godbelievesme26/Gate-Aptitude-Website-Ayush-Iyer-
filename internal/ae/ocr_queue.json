@@ -1,0 +1,6407 @@
+[
+  {
+    "id": "gate-2021-ae-ga-01",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-02",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-03",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-04",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-05",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-06",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-07",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-08",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-09",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ga-10",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-11",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-12",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-13",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-14",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-15",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-16",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-17",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-18",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-19",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-20",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-21",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-22",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-23",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-24",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-25",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-26",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-27",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-28",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-29",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-30",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-31",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-32",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-33",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-34",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-35",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-36",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-37",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-38",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-39",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-40",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-41",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-42",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-43",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-44",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-45",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-46",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-47",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-48",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-49",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-50",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-51",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-52",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-53",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-54",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-55",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-56",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-57",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-58",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-59",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-60",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-61",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-62",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-63",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-64",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2021-ae-ae-65",
+    "year": 2021,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-01",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-02",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-03",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-04",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-05",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-06",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-07",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-08",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-09",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ga-10",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-11",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-12",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-13",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-14",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-15",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-16",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-17",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-18",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-19",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-20",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-21",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-22",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-23",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-24",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-25",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-26",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-27",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-28",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-29",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-30",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-31",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-32",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-33",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-34",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-35",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-36",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-37",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-38",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-39",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-40",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-41",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-42",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-43",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-44",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-45",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-46",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-47",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-48",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-49",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-50",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-51",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-52",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-53",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-54",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-55",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-56",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-57",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-58",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-59",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-60",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-61",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-62",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-63",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-64",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2019-ae-ae-65",
+    "year": 2019,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-01",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-02",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-03",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-04",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-05",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-06",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-07",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-08",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-09",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-10",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-11",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-12",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-13",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-14",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-15",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-16",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-17",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-18",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-19",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-20",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-21",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-22",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-23",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-24",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-25",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-26",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-27",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-28",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-29",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-30",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-31",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-32",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-33",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-34",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-35",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-36",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-37",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-38",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-39",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-40",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-41",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-42",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-43",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-44",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-45",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-46",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-47",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-48",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-49",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-50",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-51",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-52",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-53",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-54",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ae-55",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-56",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-57",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-58",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-59",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-60",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-61",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-62",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-63",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-64",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2010-ae-ga-65",
+    "year": 2010,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-01",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-02",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-03",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-04",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-05",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-06",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-07",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-08",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-09",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-10",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-11",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-12",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-13",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-14",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-15",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-16",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-17",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-18",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-19",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-20",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-21",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-22",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-23",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-24",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-25",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-26",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-27",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-28",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-29",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-30",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-31",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-32",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-33",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-34",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-35",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-36",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-37",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-38",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-39",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-40",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-41",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-42",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-43",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-44",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-45",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-46",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-47",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-48",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-49",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-50",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-51",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-52",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-53",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-54",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-55",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-56",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-57",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-58",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-59",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2009-ae-ae-60",
+    "year": 2009,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-01",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-02",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-03",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-04",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-05",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-06",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-07",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-08",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-09",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-10",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-11",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-12",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-13",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-14",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-15",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-16",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-17",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-18",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-19",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-20",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-21",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-22",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-23",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-24",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-25",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-26",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-27",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-28",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-29",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-30",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-31",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-32",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-33",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-34",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-35",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-36",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-37",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-38",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-39",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-40",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-41",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-42",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-43",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-44",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-45",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-46",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-47",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-48",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-49",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-50",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-51",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-52",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-53",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-54",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-55",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-56",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-57",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-58",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-59",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-60",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-61",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-62",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-63",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-64",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-65",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-66",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-67",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-68",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-69",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-70",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-71",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-72",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-73",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-74",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-75",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-76",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-77",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-78",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-79",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-80",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-81",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-82",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-83",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-84",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2008-ae-ae-85",
+    "year": 2008,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-01",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-02",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-03",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-04",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-05",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-06",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-07",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-08",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-09",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-10",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-11",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-12",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-13",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-14",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-15",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-16",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-17",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-18",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-19",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-20",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-21",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-22",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-23",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-24",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-25",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-26",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-27",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-28",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-29",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-30",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-31",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-32",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-33",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-34",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-35",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-36",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-37",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-38",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-39",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-40",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-41",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-42",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-43",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-44",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-45",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-46",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-47",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-48",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-49",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-50",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-51",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-52",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-53",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-54",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-55",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-56",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-57",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-58",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-59",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-60",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-61",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-62",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-63",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-64",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-65",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-66",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-67",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-68",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-69",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-70",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-71",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-72",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-73",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-74",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-75",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-76",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-77",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-78",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-79",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-80",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-81",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-82",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-83",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-84",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2007-ae-ae-85",
+    "year": 2007,
+    "status": "UNVERIFIABLE",
+    "required_verification_fields": [
+      "question_text",
+      "mathematics",
+      "numerical_values",
+      "options",
+      "type",
+      "marks"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ga-08",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ga-10",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-14",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-18",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-23",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-24",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-25",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-28",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-37",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-43",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-44",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-46",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-48",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-52",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-53",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-54",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2024-ae-ae-63",
+    "year": 2024,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ga-03",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-14",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-23",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-30",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-32",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-37",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-41",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-44",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-49",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-50",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2023-ae-ae-52",
+    "year": 2023,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ga-05",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ga-09",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ga-10",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-16",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-17",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-20",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-21",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-22",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-33",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-35",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-41",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-44",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-52",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-55",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-57",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-59",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-60",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-61",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-62",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2022-ae-ae-63",
+    "year": 2022,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ga-08",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ga-10",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-16",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-17",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-27",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-34",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-35",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-37",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-39",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-44",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-48",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-59",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-62",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2020-ae-ae-63",
+    "year": 2020,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ga-10",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-19",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-31",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-44",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-45",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-46",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-48",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-56",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-61",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-62",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-63",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-64",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2017-ae-ae-65",
+    "year": 2017,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2016-ae-ae-23",
+    "year": 2016,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2016-ae-ae-40",
+    "year": 2016,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2016-ae-ae-50",
+    "year": 2016,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2015-ae-ga-08",
+    "year": 2015,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2015-ae-ae-26",
+    "year": 2015,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2015-ae-ae-41",
+    "year": 2015,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2015-ae-ae-56",
+    "year": 2015,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2015-ae-ae-58",
+    "year": 2015,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-18",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-19",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-20",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-42",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-43",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-44",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-47",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-48",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-49",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-50",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2014-ae-ae-53",
+    "year": 2014,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-16",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-17",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-18",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-36",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-37",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-38",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-41",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2013-ae-ae-44",
+    "year": 2013,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-11",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-26",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-37",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-44",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-45",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-49",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ae-50",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  },
+  {
+    "id": "gate-2011-ae-ga-64",
+    "year": 2011,
+    "status": "REQUIRES_HUMAN_REVIEW",
+    "required_verification_fields": [
+      "figure_bbox"
+    ]
+  }
+]

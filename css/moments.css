@@ -1,0 +1,53 @@
+/* Moment semantics extend the existing palette; this sheet affects only the scene. */
+:root{--moment-stage:var(--home-hero);--moment-ink:var(--home-hero-text);--moment-muted:var(--home-hero-muted);--moment-accent:var(--home-highlight);--moment-gold:#e0ba70;--moment-energy:#f0a477;--moment-track:var(--home-hero-edge);--moment-ease:cubic-bezier(.18,.8,.23,1)}
+.product-moment{max-width:1000px;width:calc(100% - 64px);max-height:calc(100dvh - 64px);padding:0;overflow:auto;border:1px solid var(--color-border);background:var(--color-surface);color:var(--color-text);box-shadow:var(--shadow-overlay)}
+.product-moment::backdrop{background:rgb(12 16 31 / .7)}
+.moment-layout{display:grid;grid-template-columns:1.1fr 1fr;min-height:560px}
+.moment-stage{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;background:var(--moment-stage);color:var(--moment-ink);padding:var(--space-12) var(--space-8);isolation:isolate}
+.moment-stage>.eyebrow{color:var(--moment-muted);letter-spacing:.16em}
+.moment-stage h2{font-family:var(--font-display);font-size:clamp(1.75rem,3vw,2.5rem);font-weight:var(--weight-regular);line-height:var(--line-tight);margin:var(--space-5) 0 var(--space-3);color:var(--moment-ink);animation:moment-context var(--moment-duration) var(--moment-ease) both}
+.moment-stage p{color:var(--moment-muted);margin:0;max-width:30ch;font-size:var(--text-control);animation:moment-context var(--moment-duration) var(--moment-ease) both}
+.moment-counter{width:220px;height:220px;position:relative;display:grid;place-items:center;margin-top:var(--space-8);flex-shrink:0;color:var(--moment-accent)}
+.moment-streak .moment-counter{color:var(--moment-energy)}
+.moment-level-milestone .moment-counter,.moment-level-major .moment-counter,.moment-goal-symbol{color:var(--moment-gold)}
+.moment-orbit{position:absolute;inset:0;width:100%;height:100%;fill:none;stroke-width:1.25;transform:rotate(-90deg)}
+.moment-orbit-track{stroke:var(--moment-track)}
+.moment-orbit-fill{stroke:currentColor;stroke-width:2;stroke-dasharray:100;stroke-dashoffset:0;animation:moment-orbit var(--moment-duration) var(--moment-ease) both}
+.moment-number-window{position:relative;overflow:hidden;width:190px;height:112px;display:grid;place-items:center;margin-bottom:12px}
+.moment-number-old,.moment-number-new{font-size:clamp(4.5rem,7vw,6rem);font-weight:var(--weight-semibold);line-height:1;letter-spacing:-.06em;font-variant-numeric:tabular-nums}
+.moment-number-window span{position:absolute}
+.moment-number-old{opacity:0;animation:moment-number-out var(--moment-duration) var(--moment-ease) both}
+.moment-number-new{animation:moment-number-in var(--moment-duration) var(--moment-ease) both}
+.moment-unit{position:absolute;bottom:40px;font-size:var(--text-xs);letter-spacing:.13em;text-transform:uppercase;color:var(--moment-muted)}
+.moment-goal-symbol>span{font-size:5rem;animation:moment-number-in var(--moment-duration) var(--moment-ease) both}
+.moment-stage-rule{width:48px;height:2px;margin-top:var(--space-8);background:var(--moment-accent);transform-origin:center;animation:moment-line var(--moment-duration) var(--moment-ease) both}
+.moment-level-major .moment-stage-rule{width:120px;background:var(--moment-gold)}
+.moment-level-major .moment-orbit{stroke-width:2}
+.moment-details{padding:var(--space-10);display:flex;flex-direction:column;justify-content:center;gap:var(--space-6);min-width:0}
+.moment-details h3{font-size:var(--text-section);margin:var(--space-2) 0}
+.moment-details p{margin:0}
+.moment-saved{font-size:var(--text-control)}
+.moment-facts{display:grid;grid-template-columns:1fr 1fr;gap:var(--space-5);margin:0}
+.moment-facts div{display:flex;flex-direction:column-reverse;gap:var(--space-1)}
+.moment-facts dt{font-size:var(--text-sm);color:var(--color-text-muted)}
+.moment-facts dd{margin:0;font-size:var(--text-stat);font-weight:var(--weight-semibold);font-variant-numeric:tabular-nums;line-height:var(--line-tight)}
+.moment-goal-progress{display:grid;gap:var(--space-1);color:var(--home-brass);font-size:var(--text-control)}
+.moment-goal-progress>span{color:var(--color-text-muted)}
+.moment-goal-line{height:4px;background:var(--color-border);overflow:hidden;margin-top:var(--space-2)}
+.moment-goal-line i{display:block;width:100%;height:100%;background:var(--home-brass);transform-origin:left;animation:moment-line 1200ms var(--moment-ease) both}
+.moment-story{border-left:2px solid var(--color-accent);padding-left:var(--space-4)}
+.moment-story p{font-family:var(--font-display);font-size:var(--text-section);color:var(--color-text);line-height:var(--line-heading);margin-top:var(--space-2)}
+.moment-landmark{font-size:var(--text-control);color:var(--home-brass)}
+.moment-actions{display:flex;gap:var(--space-3);flex-wrap:wrap;margin-top:auto;padding-top:var(--space-2)}
+.moment-actions button{flex:1;min-height:48px;white-space:nowrap}
+.moment-dismiss-hint{color:var(--color-text-muted);font-size:var(--text-xs)}
+@keyframes moment-number-out{0%,14%{transform:translateY(0);opacity:1}45%,100%{transform:translateY(-105%);opacity:0}}
+@keyframes moment-number-in{0%,14%{transform:translateY(90%) scale(.88);opacity:0}60%{transform:translateY(-3%) scale(1.015);opacity:1}80%,100%{transform:none;opacity:1}}
+@keyframes moment-orbit{0%,12%{stroke-dashoffset:100;opacity:.4}85%,100%{stroke-dashoffset:0;opacity:1}}
+@keyframes moment-context{0%,45%{opacity:.3;transform:translateY(6px)}85%,100%{opacity:1;transform:none}}
+@keyframes moment-line{0%,15%{transform:scaleX(0)}85%,100%{transform:scaleX(1)}}
+@media(max-width:760px){.product-moment{width:calc(100% - 32px);max-height:calc(100dvh - 32px)}.moment-layout{grid-template-columns:1fr;min-height:0}.moment-stage{padding:var(--space-6)}.moment-counter{width:168px;height:168px;margin-top:var(--space-4)}.moment-number-window{height:90px;width:150px}.moment-number-old,.moment-number-new{font-size:4.25rem}.moment-unit{bottom:28px}.moment-stage h2{font-size:1.75rem;margin-top:var(--space-3)}.moment-stage-rule{margin-top:var(--space-4)}.moment-details{padding:var(--space-6);gap:var(--space-5)}.moment-facts{grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--space-3)}.moment-facts dd{font-size:1.25rem}.moment-facts dt{font-size:var(--text-xs)}.moment-actions{position:sticky;bottom:0;background:var(--color-surface);padding-block:var(--space-3);margin-bottom:calc(-1 * var(--space-3))}}
+@media(max-width:380px){.product-moment{width:calc(100% - 16px);max-height:calc(100dvh - 16px)}.moment-details{padding:var(--space-5)}.moment-facts{grid-template-columns:repeat(2,minmax(0,1fr))}.moment-actions{gap:var(--space-2)}.moment-actions button{padding-inline:var(--space-3);font-size:var(--text-sm)}}
+@media(prefers-reduced-motion:reduce){.product-moment *,.product-moment *::before,.product-moment *::after{animation:none!important;transition:none!important;transform:none!important}.moment-number-old{display:none}.moment-number-new,.moment-stage h2,.moment-stage p{opacity:1}.moment-orbit-fill{stroke-dashoffset:0}}
+
+html.moment-open{overflow:hidden}
