@@ -31,9 +31,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 | **7.1** | Content completeness audit (`CONTENT_QUALITY_AUDIT.md`) | Medium | COMPLETED | Audited all 1,475 questions across 20 AE papers and 16 GA sets; 0 missing stems, 0 missing keys, 425 figure assets verified with 0 broken links |
 | **7.2** | Source verification coverage audit | Low | COMPLETED | Verified status analyzed (10 verified, 1,465 unverified); forensic justification documented (strict anti-hallucination OCR policy) |
 | **7.3** | Future branch expansion architectural recommendations | Low | COMPLETED | Documented branch-agnostic directory layout, shared GA core bank, zero-CDN math, and isolated state compartments for CS/ME/EE expansion |
-| **8.1** | Test coverage expansion for discovered edge cases | High | NOT STARTED | Pending |
-| **8.2** | Continuous Integration minimal workflow configuration | Low | NOT STARTED | Pending |
-| **8.3** | Final regression check (full check, test, validate) | High | NOT STARTED | Pending |
+| **8.1** | Test coverage expansion for discovered edge cases | High | COMPLETED | Expanded test suite from 181 to 217 tests across 5 new suites (`offline`, `dynamic-years`, `notation`, `exam-session`, `accessibility`) |
+| **8.2** | Continuous Integration minimal workflow configuration | Low | COMPLETED | Added `.github/workflows/ci.yml` running `check`, `test`, and `validate` across Node.js matrix (18.x, 20.x, 22.x) |
+| **8.3** | Final regression check (full check, test, validate) | High | COMPLETED | Local verification passed: syntax 0 errors, 217/217 tests pass (100%), all 20 AE papers + 16 GA sets valid |
 | **9.0** | Final reports (`STAGE_B_STABILIZATION_REPORT.md`, registers) | High | NOT STARTED | Pending |
 | **10.0** | Independent verification package (`gate-pyq-stage-b-verification.zip`) | High | NOT STARTED | Pending |
 
@@ -83,3 +83,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 - **Task 7.2**: Documented source verification status (10 verified questions, 1,465 pending forensic review) and detailed the strict anti-hallucination verification requirements for scanned historical papers.
 - **Task 7.3**: Provided architectural expansion blueprints for scaling to future GATE branches (CS, ME, EE, EC, CE) leveraging the common General Aptitude bank, parameterized loaders, zero-CDN mathematical engine, and compartmentalized local progress stores.
 - **Phase 7 Verification**: Full corpus audit report compiled in `CONTENT_QUALITY_AUDIT.md`, 217/217 automated tests passing, syntax check pass, all datasets valid.
+
+### Phase 8: Quality Gates & CI Configuration
+- **Task 8.1**: Expanded automated test coverage from 181 baseline tests to 217 passing tests (+36 new tests) across offline service worker resilience, dynamic 20-year selection, zero-CDN mathematical syntax rendering, exam session lifecycle & persistence, and WCAG accessibility standards.
+- **Task 8.2**: Created `.github/workflows/ci.yml` matrix workflow testing Node 18.x, 20.x, and 22.x with automated execution of `npm run check`, `npm test`, and `npm run validate`.
+- **Task 8.3**: Full local regression verified: 0 syntax errors, 217/217 automated tests passing (100%), all 20 AE papers (2007–2026) and 16 GA sets passing validation.
+- **Phase 8 Verification**: CI configuration committed, 217/217 automated tests passing, syntax check pass, all datasets valid.
