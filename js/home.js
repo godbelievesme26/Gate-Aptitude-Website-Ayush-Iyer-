@@ -13,6 +13,8 @@ export function home(s,a){
  const seen=new Set(s.attempts.filter(x=>answered(x.selectedAnswer)).map(x=>x.questionId));
  const reviewDue=dueReviewQueue(a.questions,s).length;
  const due=s.flashcards.filter(f=>f.due<=Date.now()).length;
+ const years=[...new Set(a.questions.map(q=>q.year).filter(Boolean))].sort((x,y)=>x-y);
+ const yearSpan=years.length?(years[0]===years.at(-1)?`${years[0]}`:`${years[0]}–${years.at(-1)}`):'2007–2026';
  const week=Array.from({length:7},(_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);return `<div>${d.toLocaleDateString(undefined,{weekday:'narrow'})}<i class="${st.days.includes(localDay(d))?'done':''}">${st.days.includes(localDay(d))?'✓':d.getDate()}</i></div>`}).join('');
  const draft=plan.kind==='resume'?s.drafts[plan.sessionId]:null;
  const count=draft?.questionIds.length||plan.questionIds?.length||0;
@@ -39,6 +41,6 @@ export function home(s,a){
   <section class="home-section home-recent"><div class="section-head"><h2>Recent practice</h2>${link('View history →','#/history','text-link')}</div>${recent}</section>
   <section class="home-section home-record"><div class="section-head"><h2>Practice record</h2><span class="caption">${level(xp(s))}</span></div><p class="caption">${xp(s)} XP · ${st.longest} day longest streak</p><progress value="${xp(s)%500}" max="500" aria-label="Experience toward next level"></progress><p class="caption">${achievements(s).join(' · ')||'Your first achievement begins with your first submitted answer.'}</p></section>
  </div>
- <p class="home-source caption"><strong>From your source papers</strong><span>${a.questions.length} question records · 2025–2026<br>${a.questions.filter(q=>q.answer!==undefined).length} questions with verified official keys and checked editorial solutions.</span></p>
+ <p class="home-source caption"><strong>From your source papers</strong><span>${a.questions.length} question records · ${yearSpan}<br>${a.questions.filter(q=>q.answer!==undefined).length} questions with verified official keys and checked editorial solutions.</span></p>
  <div class="footer"><span>GATE / General Aptitude</span><span>Focus on the next question.</span></div></div>`;
 }

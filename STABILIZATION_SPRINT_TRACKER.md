@@ -15,9 +15,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 | **2.1** | Resolve Service Worker registration conflict (`index.html` vs `app.js`) | High | COMPLETED | Removed unregister script from `index.html`; `app.js` registers `sw.js` cleanly |
 | **2.2** | Audit caching behavior & versioning strategy | Medium | COMPLETED | Verified CacheStorage cache name isolation (`gate-workspace-v31`); student progress in `localStorage` never cleared; added `data/ae/verification.json` to precached resources |
 | **2.3** | Offline reliability verification & automated scenarios | Medium | COMPLETED | Created `tests/offline.test.js` (7 tests) verifying shell files, manifests, datasets, cache versioning, and offline fallback |
-| **3.1** | Dynamic practice year selector for all 20 AE years in `views.js` | High | NOT STARTED | Pending |
-| **3.2** | Dynamic analytics year selection across historical papers | Medium | NOT STARTED | Pending |
-| **3.3** | Regression tests for dynamic year selection | High | NOT STARTED | Pending |
+| **3.1** | Dynamic practice year selector for all 20 AE years in `views.js` | High | COMPLETED | Dynamically extracts all archive years (`a.questions`) in `bank()` and `practice()`; eliminates hardcoded `[2026, 2025]` |
+| **3.2** | Dynamic analytics year selection across historical papers | Medium | COMPLETED | Dynamically computes `Coverage by year` across all historical papers; updated home screen footer year span |
+| **3.3** | Regression tests for dynamic year selection | High | COMPLETED | Added `tests/dynamic-years.test.js` (4 tests) covering dynamic dropdowns, blueprint builder, historical coverage, and home span |
 | **4.1** | Mathematical syntax audit across datasets (`MATH_NOTATION_INVENTORY.md`) | High | NOT STARTED | Pending |
 | **4.2** | Mathematical rendering upgrade & hardening (zero CDN risk) | High | NOT STARTED | Pending |
 | **4.3** | Mathematical rendering tests across real exam expressions | High | NOT STARTED | Pending |
@@ -52,5 +52,12 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 - **Task 2.2**: Verified precache shell list against physical files on disk; added `data/ae/verification.json` to install precache; confirmed cache key eviction isolates strictly to `gate-workspace-*` without modifying or purging user `localStorage`.
 - **Task 2.3**: Added `tests/offline.test.js` containing 7 automated tests covering shell assets existence, stylesheet alignment, dataset precaching readiness, cache versioning isolation, and network failure fallback.
 - **Phase 2 Verification**: 188/188 automated tests passing (7 new offline tests), syntax check pass, all 20 AE and 16 GA datasets valid.
+
+### Phase 3: Dynamic Year Selection
+- **Task 3.1**: Replaced hardcoded `[2026, 2025]` in `js/views.js` (`bank()` and `practice()`) with dynamic extraction from `a.questions.map(q => q.year)` sorted descending. All 20 AE years (2007–2026) are selectable.
+- **Task 3.2**: Replaced static year loop in `analytics()` with dynamic historical coverage across all 20 years. Updated `js/home.js` footer to compute exact archive year span dynamically.
+- **Task 3.3**: Created `tests/dynamic-years.test.js` with 4 automated tests verifying dynamic population of bank filters, session builder options, analytics coverage rows, and home summary span.
+- **Phase 3 Verification**: 192/192 automated tests passing (4 new dynamic year tests), syntax check pass, all datasets valid.
+
 
 
