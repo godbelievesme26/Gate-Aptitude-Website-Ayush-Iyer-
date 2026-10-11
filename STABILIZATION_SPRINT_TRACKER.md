@@ -35,7 +35,7 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 | **8.2** | Continuous Integration minimal workflow configuration | Low | COMPLETED | Added `.github/workflows/ci.yml` running `check`, `test`, and `validate` across Node.js matrix (18.x, 20.x, 22.x) |
 | **8.3** | Final regression check (full check, test, validate) | High | COMPLETED | Local verification passed: syntax 0 errors, 217/217 tests pass (100%), all 20 AE papers + 16 GA sets valid |
 | **9.0** | Final reports (`STAGE_B_STABILIZATION_REPORT.md`, registers) | High | COMPLETED | Authored `STAGE_B_STABILIZATION_REPORT.md`, `REMAINING_ISSUES.md`, and `MANUAL_REVIEW_CHECKLIST.md` with complete verification details |
-| **10.0** | Independent verification package (`gate-pyq-stage-b-verification.zip`) | High | NOT STARTED | Pending |
+| **10.0** | Independent verification package (`gate-pyq-stage-b-verification.zip`) | High | COMPLETED | Packaged 1,599 files (338.78 MB ZIP) with SHA256 `f4391bc46659693f1b32b19efa3bb1fb2ded12152ab7d3d77dd60ba6b6ade887`; extracted and verified 217/217 passing tests; placed in repo root & Desktop |
 
 ---
 
@@ -95,3 +95,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 - **Task 9.2**: Authored `REMAINING_ISSUES.md` documenting non-defect operational tracks: forensic source review for scanned papers (2007–2014), multi-branch expansion roadmap (CS/ME/EE), and PWA enhancements.
 - **Task 9.3**: Authored `MANUAL_REVIEW_CHECKLIST.md` providing step-by-step browser testing procedures for independent reviewers covering CLI checks, Question Bank, CBT exam mode, offline Service Worker, and math formula rendering.
 - **Phase 9 Verification**: All 3 comprehensive documentation artifacts compiled and cross-verified.
+
+### Phase 10: Independent Verification Package
+- **Task 10.1**: Built clean, self-contained verification distribution `gate-pyq-stage-b-verification.zip` (1,599 staged files, 338.78 MB compressed, SHA256: `f4391bc46659693f1b32b19efa3bb1fb2ded12152ab7d3d77dd60ba6b6ade887`).
+- **Task 10.2**: Verified standalone extraction into clean temporary environment: executed `npm test` (217/217 passing tests, 0 failures) and `npm run validate` (all 20 AE papers + 16 GA sets valid).
+- **Task 10.3**: Positioned package at both repository root (`gate-pyq-stage-b-verification.zip`) and user's Windows Desktop (`C:\Users\godbe\Desktop\gate-pyq-stage-b-verification.zip`) for immediate audit handover.
+- **Phase 10 Verification**: Standalone archive verified with 100% test pass rate in isolated extraction.
