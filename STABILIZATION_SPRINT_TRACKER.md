@@ -21,10 +21,10 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 | **4.1** | Mathematical syntax audit across datasets (`MATH_NOTATION_INVENTORY.md`) | High | COMPLETED | Complete audit of all 1,475 questions across 20 AE papers and 16 GA sets compiled in `MATH_NOTATION_INVENTORY.md` |
 | **4.2** | Mathematical rendering upgrade & hardening (zero CDN risk) | High | COMPLETED | Upgraded `notation()` with complete Greek alphabet, radicals (`\sqrt`), vectors (`\vec`, `\hat`), accents, operators, functions, and CSS in `css/quiz.css`; zero CDN risk |
 | **4.3** | Mathematical rendering tests across real exam expressions | High | COMPLETED | Added `tests/notation.test.js` (9 tests) covering fractions, square roots, Greek letters, vectors, degree symbols, XSS safety, and genuine GATE AE/GA expressions |
-| **5.1** | Full exam session lifecycle audit (start to finish trace) | High | NOT STARTED | Pending |
-| **5.2** | Timer integrity & refresh persistence testing | High | NOT STARTED | Pending |
-| **5.3** | State persistence, corruption protection & quota defense | High | NOT STARTED | Pending |
-| **5.4** | Automated test session journey simulation | Medium | NOT STARTED | Pending |
+| **5.1** | Full exam session lifecycle audit (start to finish trace) | High | COMPLETED | Audited end-to-end session state machine (init -> MCQ/MSQ/NAT answer -> review toggle -> timer tick -> submit -> scoring -> moment/result) |
+| **5.2** | Timer integrity & refresh persistence testing | High | COMPLETED | Verified `CountdownTimer` wall-clock deadline anchoring, pause/flush on hidden tabs, and exact resumption across simulated browser refresh |
+| **5.3** | State persistence, corruption protection & quota defense | High | COMPLETED | Verified `Store` quota exceeded handling (read-only lock, recovery flags, raw record preservation) and cross-tab storage conflict protection |
+| **5.4** | Automated test session journey simulation | Medium | COMPLETED | Added `tests/exam-session.test.js` (8 tests) simulating complete exam journey, scoring rules (MCQ, MSQ, NAT ranges, MTA), CBT summary, and persistence |
 | **6.1** | Accessibility audit (keyboard, ARIA, focus, contrast) | Medium | NOT STARTED | Pending |
 | **6.2** | Responsive layout validation across 4 viewports | Medium | NOT STARTED | Pending |
 | **6.3** | User feedback states & network handling | Low | NOT STARTED | Pending |
@@ -65,6 +65,9 @@ Baseline: Stage A Complete (181/181 passing tests, all 20 AE papers + 16 GA sets
 - **Task 4.3**: Created `tests/notation.test.js` with 9 automated tests asserting fractions, square roots, Greek letters, vectors, degree symbols, XSS safety, and genuine GATE AE expressions.
 - **Phase 4 Verification**: 201/201 automated tests passing (9 new notation tests), syntax check pass, all datasets valid.
 
-
-
-
+### Phase 5: Exam Session Reliability
+- **Task 5.1**: Audited session lifecycle end-to-end (`generateSession` -> `CountdownTimer`/`PracticeTimer` -> answer/review/navigate -> `completeSession` -> `submit` -> `scoreSession` -> attempts & XP).
+- **Task 5.2**: Verified timer behavior under pause/leave/flush, visibility changes, deadline expiry, and wall-clock resumption across browser tab reloads.
+- **Task 5.3**: Verified storage failure protection: quota exceeded triggers read-only lock preserving raw stored data without wipe, and cross-tab storage event triggers concurrency conflict lock.
+- **Task 5.4**: Added `tests/exam-session.test.js` containing 8 automated scenarios covering the complete exam session journey, scoring rules (1-mark/2-mark MCQ penalties, MSQ full credit, NAT interval ranges, MTA rulings), CBT exam summary rendering, and quota defenses.
+- **Phase 5 Verification**: 209/209 automated tests passing (8 new exam session tests), syntax check pass, all 20 AE and 16 GA datasets valid.
