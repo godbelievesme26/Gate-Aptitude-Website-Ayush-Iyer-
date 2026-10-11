@@ -438,6 +438,12 @@ test('Phase 4: isPublicAllowedPath helper enforces strict allowlist', () => {
   assert.equal(isPublicAllowedPath('/js/scoring.js'), true);
   assert.equal(isPublicAllowedPath('/data/day16.json'), true);
   assert.equal(isPublicAllowedPath('/data/ae/2026.json'), true);
+  assert.equal(isPublicAllowedPath('/assets/logo.svg'), true);
+  assert.equal(isPublicAllowedPath('/figures/q1_fig.png'), true);
+
+  // Query strings and fragments handled safely
+  assert.equal(isPublicAllowedPath('/index.html?v=1.0'), true);
+  assert.equal(isPublicAllowedPath('/css/style.css#main'), true);
 
   // Blocked
   assert.equal(isPublicAllowedPath('/package.json'), false);
@@ -449,6 +455,11 @@ test('Phase 4: isPublicAllowedPath helper enforces strict allowlist', () => {
   assert.equal(isPublicAllowedPath('../package.json'), false);
   assert.equal(isPublicAllowedPath('/css/../package.json'), false);
   assert.equal(isPublicAllowedPath('/data/ae/evil.json'), false);
+  assert.equal(isPublicAllowedPath('//index.html'), false);
+  assert.equal(isPublicAllowedPath('/assets/.hidden.png'), false);
+  assert.equal(isPublicAllowedPath('/figures/.secret.jpg'), false);
+  assert.equal(isPublicAllowedPath('/index.html\0'), false);
+  assert.equal(isPublicAllowedPath('/index.html\x1b'), false);
 });
 
 // -------------------------------------------------------------

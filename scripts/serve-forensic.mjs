@@ -2,8 +2,6 @@ import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { handleVerifyRequest } from './serve.mjs';
-
 const root = process.cwd();
 const port = 4174;
 const mime = {
@@ -14,6 +12,105 @@ const mime = {
   '.png': 'image/png',
   '.pdf': 'application/pdf'
 };
+
+const VERIFICATION_FILE = path.resolve(root, 'data/ae/verification.json');
+
+export function readVerification() {
+  try {
+    if (fs.existsSync(VERIFICATION_FILE)) {
+      const data = JSON.parse(fs.readFileSync(VERIFICATION_FILE, 'utf8'));
+      if (typeof data === 'object' && data !== null && !Array.isArray(data)) {
+        return data;
+      }
+    }
+  } catch (err) {
+    console.error('Error reading verification.json:', err);
+  }
+  return {};
+}
+
+export function writeVerification(data) {
+  const dir = path.dirname(VERIFICATION_FILE);
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+  const content = JSON.stringify(data, null, 2) + '\n';
+  const tmpFile = VERIFICATION_FILE + '.tmp';
+  try {
+    fs.writeFileSync(tmpFile, content, 'utf8');
+    fs.renameSync(tmpFile, VERIFICATION_FILE);
+  } catch {
+    fs.writeFileSync(VERIFICATION_FILE, content, 'utf8');
+  }
+}
+
+export function handleVerifyRequest(req, res, pathname) {
+  if (pathname !== '/api/ae/verify') return false;
+
+  if (req.method === 'GET') {
+    const data = readVerification();
+    res.writeHead(200, {
+      'Content-Type': 'application/json',
+      'Cache-Control': 'no-cache'
+    });
+    res.end(JSON.stringify({ ok: true, verification: data }));
+    return true;
+  }
+
+  if (req.method === 'POST') {
+    let body = '';
+    req.on('data', chunk => {
+      body += chunk;
+      if (body.length > 65536) {
+        res.writeHead(413, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: false, error: 'Payload too large' }));
+        req.destroy();
+      }
+    });
+    req.on('end', () => {
+      try {
+        const payload = JSON.parse(body || '{}');
+        const { questionId, status } = payload;
+        if (typeof questionId !== 'string' || !/^[a-zA-Z0-9_-]{1,100}$/.test(questionId)) {
+          res.writeHead(400, { 'Content-Type': 'application/json' });
+          res.end(JSON.stringify({ ok: false, error: 'Invalid questionId' }));
+          return;
+        }
+        if (status !== 'verified' && status !== 'unverified') {
+          res.writeHead(400, { 'Content-Type': 'application/json' });
+          res.end(JSON.stringify({ ok: false, error: 'Invalid status' }));
+          return;
+        }
+        const current = readVerification();
+        if (status === 'verified') {
+          current[questionId] = {
+            status: 'verified',
+            verifiedAt: new Date().toISOString().slice(0, 10)
+          };
+        } else {
+          delete current[questionId];
+        }
+        writeVerification(current);
+        res.writeHead(200, {
+          'Content-Type': 'application/json',
+          'Cache-Control': 'no-cache'
+        });
+        res.end(JSON.stringify({
+          ok: true,
+          questionId,
+          status: current[questionId]?.status || 'unverified',
+          verification: current
+        }));
+      } catch {
+        res.writeHead(400, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: false, error: 'Malformed request JSON' }));
+      }
+    });
+    return true;
+  }
+
+  res.writeHead(405, { 'Content-Type': 'application/json' });
+  res.end(JSON.stringify({ ok: false, error: 'Method not allowed' }));
+  return true;
+}
 
 const STATE_FILE = path.resolve(root, 'internal/ae/forensic_review_state.json');
 const AUDIT_FILE = path.resolve(root, 'internal/ae/forensic_audit_trail.jsonl');
@@ -158,6 +255,9 @@ export const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(port, '127.0.0.1', () => {
-  console.log('Forensic Workstation: http://127.0.0.1:' + port + '/');
-});
+if (process.argv[1] && process.argv[1].endsWith('serve-forensic.mjs')) {
+  server.listen(port, '127.0.0.1', () => {
+    console.log('Forensic Workstation: http://127.0.0.1:' + port + '/');
+  });
+}
+

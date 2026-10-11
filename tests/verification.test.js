@@ -21,7 +21,7 @@ fs.mkdirSync(path.dirname(VERIFICATION_FILE), { recursive: true });
 let handleVerifyRequest;
 try {
   process.chdir(sandbox);
-  ({ handleVerifyRequest } = await import('../scripts/serve.mjs'));
+  ({ handleVerifyRequest } = await import('../scripts/serve-forensic.mjs'));
 } finally {
   process.chdir(repositoryRoot);
 }

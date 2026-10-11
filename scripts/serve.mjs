@@ -23,26 +23,22 @@ function readVerification() {
     if (fs.existsSync(VERIFICATION_FILE)) {
       const data = JSON.parse(fs.readFileSync(VERIFICATION_FILE, 'utf8'));
       if (typeof data === 'object' && data !== null && !Array.isArray(data)) {
-        return data;
+        const sanitized = {};
+        for (const [key, val] of Object.entries(data)) {
+          if (val && typeof val === 'object') {
+            sanitized[key] = {
+              status: val.status === 'verified' ? 'verified' : 'unverified',
+              verifiedAt: typeof val.verifiedAt === 'string' ? val.verifiedAt : undefined
+            };
+          }
+        }
+        return sanitized;
       }
     }
   } catch (err) {
     console.error('Error reading verification.json:', err);
   }
   return {};
-}
-
-function writeVerification(data) {
-  const dir = path.dirname(VERIFICATION_FILE);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  const content = JSON.stringify(data, null, 2) + '\n';
-  const tmpFile = VERIFICATION_FILE + '.tmp';
-  try {
-    fs.writeFileSync(tmpFile, content, 'utf8');
-    fs.renameSync(tmpFile, VERIFICATION_FILE);
-  } catch {
-    fs.writeFileSync(VERIFICATION_FILE, content, 'utf8');
-  }
 }
 
 export function handleVerifyRequest(req, res, pathname) {
@@ -59,54 +55,11 @@ export function handleVerifyRequest(req, res, pathname) {
   }
 
   if (req.method === 'POST') {
-    let body = '';
-    req.on('data', chunk => {
-      body += chunk;
-      if (body.length > 65536) {
-        res.writeHead(413, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ ok: false, error: 'Payload too large' }));
-        req.destroy();
-      }
-    });
-    req.on('end', () => {
-      try {
-        const payload = JSON.parse(body || '{}');
-        const { questionId, status } = payload;
-        if (typeof questionId !== 'string' || !/^[a-zA-Z0-9_-]{1,100}$/.test(questionId)) {
-          res.writeHead(400, { 'Content-Type': 'application/json' });
-          res.end(JSON.stringify({ ok: false, error: 'Invalid questionId' }));
-          return;
-        }
-        if (status !== 'verified' && status !== 'unverified') {
-          res.writeHead(400, { 'Content-Type': 'application/json' });
-          res.end(JSON.stringify({ ok: false, error: 'Invalid status' }));
-          return;
-        }
-        const current = readVerification();
-        if (status === 'verified') {
-          current[questionId] = {
-            status: 'verified',
-            verifiedAt: new Date().toISOString().slice(0, 10)
-          };
-        } else {
-          delete current[questionId];
-        }
-        writeVerification(current);
-        res.writeHead(200, {
-          'Content-Type': 'application/json',
-          'Cache-Control': 'no-cache'
-        });
-        res.end(JSON.stringify({
-          ok: true,
-          questionId,
-          status: current[questionId]?.status || 'unverified',
-          verification: current
-        }));
-      } catch {
-        res.writeHead(400, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ ok: false, error: 'Malformed request JSON' }));
-      }
-    });
+    res.writeHead(403, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify({
+      ok: false,
+      error: 'Forbidden: Verification mutation is disabled on the student server. Use the forensic review workstation.'
+    }));
     return true;
   }
 
@@ -115,35 +68,43 @@ export function handleVerifyRequest(req, res, pathname) {
   return true;
 }
 
+
 export function isPublicAllowedPath(pathname) {
   if (typeof pathname !== 'string') return false;
-  // Strictly prevent directory traversal or control characters
-  if (pathname.includes('..') || pathname.includes('\\') || pathname.includes('\0')) return false;
+  // Clean path of optional query string or fragment if evaluated directly
+  const cleanPath = pathname.split(/[?#]/)[0];
+  // Strictly prevent directory traversal, backslashes, control characters, or double slashes
+  if (
+    cleanPath.includes('..') ||
+    cleanPath.includes('\\') ||
+    cleanPath.includes('//') ||
+    /[\x00-\x1f\x7f]/.test(cleanPath)
+  ) return false;
 
   // Root and index document
-  if (pathname === '/' || pathname === '/index.html') return true;
+  if (cleanPath === '/' || cleanPath === '/index.html') return true;
 
   // Web app manifest, service worker, favicon
-  if (pathname === '/sw.js' || pathname === '/manifest.webmanifest' || pathname === '/favicon.ico') return true;
+  if (cleanPath === '/sw.js' || cleanPath === '/manifest.webmanifest' || cleanPath === '/favicon.ico') return true;
 
   // Public application stylesheets (css/*.css)
-  if (/^\/css\/[a-zA-Z0-9_-]+\.css$/.test(pathname)) return true;
+  if (/^\/css\/[a-zA-Z0-9_-]+\.css$/.test(cleanPath)) return true;
 
   // Public application modules (js/*.js)
-  if (/^\/js\/[a-zA-Z0-9_-]+\.js$/.test(pathname)) return true;
+  if (/^\/js\/[a-zA-Z0-9_-]+\.js$/.test(cleanPath)) return true;
 
   // Public assets (assets/*)
-  if (/^\/assets\/[a-zA-Z0-9_.-]+\.(png|svg|ico|webp)$/i.test(pathname)) return true;
+  if (/^\/assets\/[a-zA-Z0-9_-][a-zA-Z0-9_.-]*\.(png|svg|ico|webp)$/i.test(cleanPath)) return true;
 
   // Public figures (figures/*)
-  if (/^\/figures\/[a-zA-Z0-9_.-]+\.(png|svg|webp|jpg|jpeg)$/i.test(pathname)) return true;
+  if (/^\/figures\/[a-zA-Z0-9_-][a-zA-Z0-9_.-]*\.(png|svg|webp|jpg|jpeg)$/i.test(cleanPath)) return true;
 
   // Public datasets
-  if (pathname === '/data/registry.json') return true;
-  if (/^\/data\/day\d{2}\.json$/.test(pathname)) return true;
-  if (pathname === '/data/ae/manifest.json') return true;
-  if (pathname === '/data/ae/verification.json') return true;
-  if (/^\/data\/ae\/\d{4}\.json$/.test(pathname)) return true;
+  if (cleanPath === '/data/registry.json') return true;
+  if (/^\/data\/day\d{2}\.json$/.test(cleanPath)) return true;
+  if (cleanPath === '/data/ae/manifest.json') return true;
+  if (cleanPath === '/data/ae/verification.json') return true;
+  if (/^\/data\/ae\/\d{4}\.json$/.test(cleanPath)) return true;
 
   return false;
 }
@@ -156,25 +117,7 @@ export const server = http.createServer((req, res) => {
     // Verification endpoint handling on the student server:
     // Unauthorized verification modification is blocked.
     if (pathname === '/api/ae/verify') {
-      if (req.method === 'POST') {
-        res.writeHead(403, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({
-          ok: false,
-          error: 'Forbidden: Verification mutation is disabled on the student server. Use the forensic review workstation.'
-        }));
-        return;
-      }
-      if (req.method === 'GET') {
-        const data = readVerification();
-        res.writeHead(200, {
-          'Content-Type': 'application/json',
-          'Cache-Control': 'no-cache'
-        });
-        res.end(JSON.stringify({ ok: true, verification: data }));
-        return;
-      }
-      res.writeHead(405, { 'Content-Type': 'application/json' });
-      res.end(JSON.stringify({ ok: false, error: 'Method not allowed' }));
+      handleVerifyRequest(req, res, pathname);
       return;
     }
 
