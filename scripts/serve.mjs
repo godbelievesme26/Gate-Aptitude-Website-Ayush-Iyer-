@@ -162,8 +162,10 @@ export const server = http.createServer((req, res) => {
   }
 });
 
+const host = process.env.HOST || '0.0.0.0';
+
 if (process.argv[1] && process.argv[1].endsWith('serve.mjs')) {
-  server.listen(port, '127.0.0.1', () => {
-    console.log(`GATE workspace: http://127.0.0.1:${port}`);
+  server.listen(port, host, () => {
+    console.log(`GATE workspace: http://${host === '0.0.0.0' ? '127.0.0.1' : host}:${port}`);
   });
 }
